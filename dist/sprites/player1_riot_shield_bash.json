@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_riot_shield_bash-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 333,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 26,
+        "w": 333,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-007.png": {
+      "frame": {
+        "x": 2371,
+        "y": 2,
+        "w": 333,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 26,
+        "w": 333,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-008.png": {
+      "frame": {
+        "x": 2706,
+        "y": 2,
+        "w": 328,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 25,
+        "w": 328,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-009.png": {
+      "frame": {
+        "x": 3036,
+        "y": 2,
+        "w": 352,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 25,
+        "w": 352,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-010.png": {
+      "frame": {
+        "x": 3390,
+        "y": 2,
+        "w": 352,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 25,
+        "w": 352,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 744,
+        "w": 372,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 25,
+        "w": 372,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-012.png": {
+      "frame": {
+        "x": 376,
+        "y": 744,
+        "w": 410,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 28,
+        "w": 410,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-013.png": {
+      "frame": {
+        "x": 788,
+        "y": 744,
+        "w": 410,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 28,
+        "w": 410,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-014.png": {
+      "frame": {
+        "x": 1200,
+        "y": 744,
+        "w": 423,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 33,
+        "w": 423,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-015.png": {
+      "frame": {
+        "x": 1625,
+        "y": 744,
+        "w": 441,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 47,
+        "w": 441,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-016.png": {
+      "frame": {
+        "x": 2068,
+        "y": 744,
+        "w": 441,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 47,
+        "w": 441,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-017.png": {
+      "frame": {
+        "x": 2511,
+        "y": 744,
+        "w": 439,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 57,
+        "w": 439,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-018.png": {
+      "frame": {
+        "x": 2952,
+        "y": 744,
+        "w": 418,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 77,
+        "w": 418,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-019.png": {
+      "frame": {
+        "x": 3372,
+        "y": 744,
+        "w": 418,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 77,
+        "w": 418,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-020.png": {
+      "frame": {
+        "x": 2,
+        "y": 1486,
+        "w": 403,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 94,
+        "w": 403,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-021.png": {
+      "frame": {
+        "x": 407,
+        "y": 1486,
+        "w": 395,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 101,
+        "w": 395,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-022.png": {
+      "frame": {
+        "x": 804,
+        "y": 1486,
+        "w": 395,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 101,
+        "w": 395,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-023.png": {
+      "frame": {
+        "x": 1201,
+        "y": 1486,
+        "w": 396,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 102,
+        "w": 396,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-024.png": {
+      "frame": {
+        "x": 1599,
+        "y": 1486,
+        "w": 438,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 321,
+        "y": 101,
+        "w": 438,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-025.png": {
+      "frame": {
+        "x": 2039,
+        "y": 1486,
+        "w": 438,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 321,
+        "y": 101,
+        "w": 438,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-026.png": {
+      "frame": {
+        "x": 2479,
+        "y": 1486,
+        "w": 457,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 101,
+        "w": 457,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-027.png": {
+      "frame": {
+        "x": 2938,
+        "y": 1486,
+        "w": 484,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 82,
+        "w": 484,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-028.png": {
+      "frame": {
+        "x": 3424,
+        "y": 1486,
+        "w": 484,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 82,
+        "w": 484,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-029.png": {
+      "frame": {
+        "x": 2,
+        "y": 2168,
+        "w": 497,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 79,
+        "w": 497,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-030.png": {
+      "frame": {
+        "x": 501,
+        "y": 2168,
+        "w": 516,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 78,
+        "w": 516,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-031.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2168,
+        "w": 516,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 78,
+        "w": 516,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-032.png": {
+      "frame": {
+        "x": 1537,
+        "y": 2168,
+        "w": 523,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 78,
+        "w": 523,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-033.png": {
+      "frame": {
+        "x": 2062,
+        "y": 2168,
+        "w": 533,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 76,
+        "w": 533,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-034.png": {
+      "frame": {
+        "x": 2597,
+        "y": 2168,
+        "w": 533,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 76,
+        "w": 533,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-035.png": {
+      "frame": {
+        "x": 3132,
+        "y": 2168,
+        "w": 537,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 69,
+        "w": 537,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-036.png": {
+      "frame": {
+        "x": 2,
+        "y": 2863,
+        "w": 558,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 65,
+        "w": 558,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-037.png": {
+      "frame": {
+        "x": 562,
+        "y": 2863,
+        "w": 558,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 65,
+        "w": 558,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-038.png": {
+      "frame": {
+        "x": 1122,
+        "y": 2863,
+        "w": 583,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 73,
+        "w": 583,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-039.png": {
+      "frame": {
+        "x": 1707,
+        "y": 2863,
+        "w": 535,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 53,
+        "w": 535,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-040.png": {
+      "frame": {
+        "x": 2244,
+        "y": 2863,
+        "w": 535,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 53,
+        "w": 535,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-041.png": {
+      "frame": {
+        "x": 2781,
+        "y": 2863,
+        "w": 542,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 46,
+        "w": 542,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-042.png": {
+      "frame": {
+        "x": 3325,
+        "y": 2863,
+        "w": 549,
+        "h": 692
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 70,
+        "w": 549,
+        "h": 692
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-043.png": {
+      "frame": {
+        "x": 2,
+        "y": 3581,
+        "w": 549,
+        "h": 692
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 70,
+        "w": 549,
+        "h": 692
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-044.png": {
+      "frame": {
+        "x": 553,
+        "y": 3581,
+        "w": 554,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 64,
+        "w": 554,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-045.png": {
+      "frame": {
+        "x": 1109,
+        "y": 3581,
+        "w": 561,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 73,
+        "w": 561,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-046.png": {
+      "frame": {
+        "x": 1672,
+        "y": 3581,
+        "w": 561,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 73,
+        "w": 561,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-047.png": {
+      "frame": {
+        "x": 2235,
+        "y": 3581,
+        "w": 458,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 73,
+        "w": 458,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-048.png": {
+      "frame": {
+        "x": 2695,
+        "y": 3581,
+        "w": 458,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 73,
+        "w": 458,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-049.png": {
+      "frame": {
+        "x": 3155,
+        "y": 3581,
+        "w": 458,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 73,
+        "w": 458,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-050.png": {
+      "frame": {
+        "x": 3615,
+        "y": 3581,
+        "w": 458,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 74,
+        "w": 458,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-051.png": {
+      "frame": {
+        "x": 2,
+        "y": 4281,
+        "w": 458,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 74,
+        "w": 458,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-052.png": {
+      "frame": {
+        "x": 462,
+        "y": 4281,
+        "w": 458,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 74,
+        "w": 458,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-053.png": {
+      "frame": {
+        "x": 922,
+        "y": 4281,
+        "w": 459,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 74,
+        "w": 459,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-054.png": {
+      "frame": {
+        "x": 1383,
+        "y": 4281,
+        "w": 459,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 74,
+        "w": 459,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-055.png": {
+      "frame": {
+        "x": 1844,
+        "y": 4281,
+        "w": 459,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 74,
+        "w": 459,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-056.png": {
+      "frame": {
+        "x": 2305,
+        "y": 4281,
+        "w": 460,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 74,
+        "w": 460,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-057.png": {
+      "frame": {
+        "x": 2767,
+        "y": 4281,
+        "w": 465,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 74,
+        "w": 465,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-058.png": {
+      "frame": {
+        "x": 3234,
+        "y": 4281,
+        "w": 465,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 74,
+        "w": 465,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-059.png": {
+      "frame": {
+        "x": 2,
+        "y": 4972,
+        "w": 467,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 74,
+        "w": 467,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-060.png": {
+      "frame": {
+        "x": 471,
+        "y": 4972,
+        "w": 469,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 75,
+        "w": 469,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-061.png": {
+      "frame": {
+        "x": 942,
+        "y": 4972,
+        "w": 469,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 75,
+        "w": 469,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-062.png": {
+      "frame": {
+        "x": 1413,
+        "y": 4972,
+        "w": 454,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 74,
+        "w": 454,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-063.png": {
+      "frame": {
+        "x": 1869,
+        "y": 4972,
+        "w": 534,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 65,
+        "w": 534,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-064.png": {
+      "frame": {
+        "x": 2405,
+        "y": 4972,
+        "w": 534,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 65,
+        "w": 534,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-065.png": {
+      "frame": {
+        "x": 2941,
+        "y": 4972,
+        "w": 686,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 49,
+        "w": 686,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-066.png": {
+      "frame": {
+        "x": 2,
+        "y": 5693,
+        "w": 683,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 0,
+        "w": 683,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-067.png": {
+      "frame": {
+        "x": 687,
+        "y": 5693,
+        "w": 683,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 0,
+        "w": 683,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-068.png": {
+      "frame": {
+        "x": 1372,
+        "y": 5693,
+        "w": 695,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 0,
+        "w": 695,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-069.png": {
+      "frame": {
+        "x": 2069,
+        "y": 5693,
+        "w": 568,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 105,
+        "w": 568,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-070.png": {
+      "frame": {
+        "x": 2639,
+        "y": 5693,
+        "w": 568,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 105,
+        "w": 568,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-071.png": {
+      "frame": {
+        "x": 3209,
+        "y": 5693,
+        "w": 570,
+        "h": 669
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 99,
+        "w": 570,
+        "h": 669
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-072.png": {
+      "frame": {
+        "x": 2,
+        "y": 6463,
+        "w": 572,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 95,
+        "w": 572,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-073.png": {
+      "frame": {
+        "x": 576,
+        "y": 6463,
+        "w": 572,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 95,
+        "w": 572,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-074.png": {
+      "frame": {
+        "x": 1150,
+        "y": 6463,
+        "w": 574,
+        "h": 667
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 101,
+        "w": 574,
+        "h": 667
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-075.png": {
+      "frame": {
+        "x": 1726,
+        "y": 6463,
+        "w": 560,
+        "h": 667
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 101,
+        "w": 560,
+        "h": 667
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-076.png": {
+      "frame": {
+        "x": 2288,
+        "y": 6463,
+        "w": 560,
+        "h": 667
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 101,
+        "w": 560,
+        "h": 667
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-077.png": {
+      "frame": {
+        "x": 2850,
+        "y": 6463,
+        "w": 536,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 98,
+        "w": 536,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-078.png": {
+      "frame": {
+        "x": 3388,
+        "y": 6463,
+        "w": 435,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 87,
+        "w": 435,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_riot_shield_bash-079.png": {
+      "frame": {
+        "x": 2,
+        "y": 7146,
+        "w": 435,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 87,
+        "w": 435,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_riot_shield_bash": [
+      "player1_riot_shield_bash-000.png",
+      "player1_riot_shield_bash-001.png",
+      "player1_riot_shield_bash-002.png",
+      "player1_riot_shield_bash-003.png",
+      "player1_riot_shield_bash-004.png",
+      "player1_riot_shield_bash-005.png",
+      "player1_riot_shield_bash-006.png",
+      "player1_riot_shield_bash-007.png",
+      "player1_riot_shield_bash-008.png",
+      "player1_riot_shield_bash-009.png",
+      "player1_riot_shield_bash-010.png",
+      "player1_riot_shield_bash-011.png",
+      "player1_riot_shield_bash-012.png",
+      "player1_riot_shield_bash-013.png",
+      "player1_riot_shield_bash-014.png",
+      "player1_riot_shield_bash-015.png",
+      "player1_riot_shield_bash-016.png",
+      "player1_riot_shield_bash-017.png",
+      "player1_riot_shield_bash-018.png",
+      "player1_riot_shield_bash-019.png",
+      "player1_riot_shield_bash-020.png",
+      "player1_riot_shield_bash-021.png",
+      "player1_riot_shield_bash-022.png",
+      "player1_riot_shield_bash-023.png",
+      "player1_riot_shield_bash-024.png",
+      "player1_riot_shield_bash-025.png",
+      "player1_riot_shield_bash-026.png",
+      "player1_riot_shield_bash-027.png",
+      "player1_riot_shield_bash-028.png",
+      "player1_riot_shield_bash-029.png",
+      "player1_riot_shield_bash-030.png",
+      "player1_riot_shield_bash-031.png",
+      "player1_riot_shield_bash-032.png",
+      "player1_riot_shield_bash-033.png",
+      "player1_riot_shield_bash-034.png",
+      "player1_riot_shield_bash-035.png",
+      "player1_riot_shield_bash-036.png",
+      "player1_riot_shield_bash-037.png",
+      "player1_riot_shield_bash-038.png",
+      "player1_riot_shield_bash-039.png",
+      "player1_riot_shield_bash-040.png",
+      "player1_riot_shield_bash-041.png",
+      "player1_riot_shield_bash-042.png",
+      "player1_riot_shield_bash-043.png",
+      "player1_riot_shield_bash-044.png",
+      "player1_riot_shield_bash-045.png",
+      "player1_riot_shield_bash-046.png",
+      "player1_riot_shield_bash-047.png",
+      "player1_riot_shield_bash-048.png",
+      "player1_riot_shield_bash-049.png",
+      "player1_riot_shield_bash-050.png",
+      "player1_riot_shield_bash-051.png",
+      "player1_riot_shield_bash-052.png",
+      "player1_riot_shield_bash-053.png",
+      "player1_riot_shield_bash-054.png",
+      "player1_riot_shield_bash-055.png",
+      "player1_riot_shield_bash-056.png",
+      "player1_riot_shield_bash-057.png",
+      "player1_riot_shield_bash-058.png",
+      "player1_riot_shield_bash-059.png",
+      "player1_riot_shield_bash-060.png",
+      "player1_riot_shield_bash-061.png",
+      "player1_riot_shield_bash-062.png",
+      "player1_riot_shield_bash-063.png",
+      "player1_riot_shield_bash-064.png",
+      "player1_riot_shield_bash-065.png",
+      "player1_riot_shield_bash-066.png",
+      "player1_riot_shield_bash-067.png",
+      "player1_riot_shield_bash-068.png",
+      "player1_riot_shield_bash-069.png",
+      "player1_riot_shield_bash-070.png",
+      "player1_riot_shield_bash-071.png",
+      "player1_riot_shield_bash-072.png",
+      "player1_riot_shield_bash-073.png",
+      "player1_riot_shield_bash-074.png",
+      "player1_riot_shield_bash-075.png",
+      "player1_riot_shield_bash-076.png",
+      "player1_riot_shield_bash-077.png",
+      "player1_riot_shield_bash-078.png",
+      "player1_riot_shield_bash-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_riot_shield_bash.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4075,
+      "h": 7829
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

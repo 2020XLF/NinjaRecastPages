@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_predator_lunge-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-008.png": {
+      "frame": {
+        "x": 2714,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-009.png": {
+      "frame": {
+        "x": 3053,
+        "y": 2,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-010.png": {
+      "frame": {
+        "x": 3392,
+        "y": 2,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-011.png": {
+      "frame": {
+        "x": 3731,
+        "y": 2,
+        "w": 335,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 335,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 327,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 28,
+        "w": 327,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-013.png": {
+      "frame": {
+        "x": 331,
+        "y": 743,
+        "w": 327,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 28,
+        "w": 327,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-014.png": {
+      "frame": {
+        "x": 660,
+        "y": 743,
+        "w": 319,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 28,
+        "w": 319,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-015.png": {
+      "frame": {
+        "x": 981,
+        "y": 743,
+        "w": 315,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 28,
+        "w": 315,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-016.png": {
+      "frame": {
+        "x": 1298,
+        "y": 743,
+        "w": 315,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 28,
+        "w": 315,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-017.png": {
+      "frame": {
+        "x": 1615,
+        "y": 743,
+        "w": 337,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 30,
+        "w": 337,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-018.png": {
+      "frame": {
+        "x": 1954,
+        "y": 743,
+        "w": 402,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 36,
+        "w": 402,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-019.png": {
+      "frame": {
+        "x": 2358,
+        "y": 743,
+        "w": 402,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 36,
+        "w": 402,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-020.png": {
+      "frame": {
+        "x": 2762,
+        "y": 743,
+        "w": 421,
+        "h": 705
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 41,
+        "w": 421,
+        "h": 705
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-021.png": {
+      "frame": {
+        "x": 3185,
+        "y": 743,
+        "w": 426,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 59,
+        "w": 426,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-022.png": {
+      "frame": {
+        "x": 3613,
+        "y": 743,
+        "w": 426,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 59,
+        "w": 426,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-023.png": {
+      "frame": {
+        "x": 2,
+        "y": 1483,
+        "w": 428,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 71,
+        "w": 428,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-024.png": {
+      "frame": {
+        "x": 432,
+        "y": 1483,
+        "w": 428,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 100,
+        "w": 428,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-025.png": {
+      "frame": {
+        "x": 862,
+        "y": 1483,
+        "w": 428,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 100,
+        "w": 428,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-026.png": {
+      "frame": {
+        "x": 1292,
+        "y": 1483,
+        "w": 428,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 111,
+        "w": 428,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-027.png": {
+      "frame": {
+        "x": 1722,
+        "y": 1483,
+        "w": 438,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 240,
+        "y": 125,
+        "w": 438,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-028.png": {
+      "frame": {
+        "x": 2162,
+        "y": 1483,
+        "w": 438,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 240,
+        "y": 125,
+        "w": 438,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-029.png": {
+      "frame": {
+        "x": 2602,
+        "y": 1483,
+        "w": 443,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 235,
+        "y": 128,
+        "w": 443,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-030.png": {
+      "frame": {
+        "x": 3047,
+        "y": 1483,
+        "w": 450,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 228,
+        "y": 132,
+        "w": 450,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-031.png": {
+      "frame": {
+        "x": 3499,
+        "y": 1483,
+        "w": 450,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 228,
+        "y": 132,
+        "w": 450,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 2157,
+        "w": 453,
+        "h": 610
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 225,
+        "y": 133,
+        "w": 453,
+        "h": 610
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-033.png": {
+      "frame": {
+        "x": 457,
+        "y": 2157,
+        "w": 456,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 222,
+        "y": 134,
+        "w": 456,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-034.png": {
+      "frame": {
+        "x": 915,
+        "y": 2157,
+        "w": 456,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 222,
+        "y": 134,
+        "w": 456,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-035.png": {
+      "frame": {
+        "x": 1373,
+        "y": 2157,
+        "w": 456,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 222,
+        "y": 134,
+        "w": 456,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-036.png": {
+      "frame": {
+        "x": 1831,
+        "y": 2157,
+        "w": 453,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 225,
+        "y": 134,
+        "w": 453,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-037.png": {
+      "frame": {
+        "x": 2286,
+        "y": 2157,
+        "w": 453,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 225,
+        "y": 134,
+        "w": 453,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-038.png": {
+      "frame": {
+        "x": 2741,
+        "y": 2157,
+        "w": 449,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 229,
+        "y": 134,
+        "w": 449,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-039.png": {
+      "frame": {
+        "x": 3192,
+        "y": 2157,
+        "w": 434,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 134,
+        "w": 434,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-040.png": {
+      "frame": {
+        "x": 3628,
+        "y": 2157,
+        "w": 434,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 134,
+        "w": 434,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-041.png": {
+      "frame": {
+        "x": 2,
+        "y": 2769,
+        "w": 459,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 134,
+        "w": 459,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-042.png": {
+      "frame": {
+        "x": 463,
+        "y": 2769,
+        "w": 576,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 146,
+        "w": 576,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-043.png": {
+      "frame": {
+        "x": 1041,
+        "y": 2769,
+        "w": 576,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 146,
+        "w": 576,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-044.png": {
+      "frame": {
+        "x": 1619,
+        "y": 2769,
+        "w": 773,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 153,
+        "w": 773,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-045.png": {
+      "frame": {
+        "x": 2394,
+        "y": 2769,
+        "w": 773,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 52,
+        "w": 773,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-046.png": {
+      "frame": {
+        "x": 3169,
+        "y": 2769,
+        "w": 773,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 52,
+        "w": 773,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 3487,
+        "w": 773,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 9,
+        "w": 773,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-048.png": {
+      "frame": {
+        "x": 777,
+        "y": 3487,
+        "w": 694,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 153,
+        "w": 694,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-049.png": {
+      "frame": {
+        "x": 1473,
+        "y": 3487,
+        "w": 694,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 153,
+        "w": 694,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-050.png": {
+      "frame": {
+        "x": 2169,
+        "y": 3487,
+        "w": 694,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 694,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-051.png": {
+      "frame": {
+        "x": 2865,
+        "y": 3487,
+        "w": 694,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 694,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 4248,
+        "w": 694,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 694,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-053.png": {
+      "frame": {
+        "x": 698,
+        "y": 4248,
+        "w": 703,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 153,
+        "w": 703,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-054.png": {
+      "frame": {
+        "x": 1403,
+        "y": 4248,
+        "w": 772,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 94,
+        "w": 772,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-055.png": {
+      "frame": {
+        "x": 2177,
+        "y": 4248,
+        "w": 772,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 94,
+        "w": 772,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-056.png": {
+      "frame": {
+        "x": 2951,
+        "y": 4248,
+        "w": 773,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 56,
+        "w": 773,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 4962,
+        "w": 700,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 0,
+        "w": 700,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-058.png": {
+      "frame": {
+        "x": 704,
+        "y": 4962,
+        "w": 700,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 0,
+        "w": 700,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-059.png": {
+      "frame": {
+        "x": 1406,
+        "y": 4962,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-060.png": {
+      "frame": {
+        "x": 2100,
+        "y": 4962,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-061.png": {
+      "frame": {
+        "x": 2794,
+        "y": 4962,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-062.png": {
+      "frame": {
+        "x": 2,
+        "y": 5732,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-063.png": {
+      "frame": {
+        "x": 696,
+        "y": 5732,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-064.png": {
+      "frame": {
+        "x": 1390,
+        "y": 5732,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-065.png": {
+      "frame": {
+        "x": 2084,
+        "y": 5732,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-066.png": {
+      "frame": {
+        "x": 2778,
+        "y": 5732,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-067.png": {
+      "frame": {
+        "x": 2,
+        "y": 6348,
+        "w": 692,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 154,
+        "w": 692,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-068.png": {
+      "frame": {
+        "x": 696,
+        "y": 6348,
+        "w": 692,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 155,
+        "w": 692,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-069.png": {
+      "frame": {
+        "x": 1390,
+        "y": 6348,
+        "w": 686,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 157,
+        "w": 686,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-070.png": {
+      "frame": {
+        "x": 2078,
+        "y": 6348,
+        "w": 686,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 157,
+        "w": 686,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-071.png": {
+      "frame": {
+        "x": 2766,
+        "y": 6348,
+        "w": 669,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 258,
+        "y": 157,
+        "w": 669,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-072.png": {
+      "frame": {
+        "x": 3437,
+        "y": 6348,
+        "w": 560,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 302,
+        "y": 154,
+        "w": 560,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-073.png": {
+      "frame": {
+        "x": 2,
+        "y": 6964,
+        "w": 560,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 302,
+        "y": 154,
+        "w": 560,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-074.png": {
+      "frame": {
+        "x": 564,
+        "y": 6964,
+        "w": 492,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 150,
+        "w": 492,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-075.png": {
+      "frame": {
+        "x": 1058,
+        "y": 6964,
+        "w": 454,
+        "h": 635
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 133,
+        "w": 454,
+        "h": 635
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-076.png": {
+      "frame": {
+        "x": 1514,
+        "y": 6964,
+        "w": 454,
+        "h": 635
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 133,
+        "w": 454,
+        "h": 635
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-077.png": {
+      "frame": {
+        "x": 1970,
+        "y": 6964,
+        "w": 453,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 374,
+        "y": 119,
+        "w": 453,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-078.png": {
+      "frame": {
+        "x": 2425,
+        "y": 6964,
+        "w": 447,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 79,
+        "w": 447,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_lunge-079.png": {
+      "frame": {
+        "x": 2874,
+        "y": 6964,
+        "w": 447,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 79,
+        "w": 447,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_predator_lunge": [
+      "player1_predator_lunge-000.png",
+      "player1_predator_lunge-001.png",
+      "player1_predator_lunge-002.png",
+      "player1_predator_lunge-003.png",
+      "player1_predator_lunge-004.png",
+      "player1_predator_lunge-005.png",
+      "player1_predator_lunge-006.png",
+      "player1_predator_lunge-007.png",
+      "player1_predator_lunge-008.png",
+      "player1_predator_lunge-009.png",
+      "player1_predator_lunge-010.png",
+      "player1_predator_lunge-011.png",
+      "player1_predator_lunge-012.png",
+      "player1_predator_lunge-013.png",
+      "player1_predator_lunge-014.png",
+      "player1_predator_lunge-015.png",
+      "player1_predator_lunge-016.png",
+      "player1_predator_lunge-017.png",
+      "player1_predator_lunge-018.png",
+      "player1_predator_lunge-019.png",
+      "player1_predator_lunge-020.png",
+      "player1_predator_lunge-021.png",
+      "player1_predator_lunge-022.png",
+      "player1_predator_lunge-023.png",
+      "player1_predator_lunge-024.png",
+      "player1_predator_lunge-025.png",
+      "player1_predator_lunge-026.png",
+      "player1_predator_lunge-027.png",
+      "player1_predator_lunge-028.png",
+      "player1_predator_lunge-029.png",
+      "player1_predator_lunge-030.png",
+      "player1_predator_lunge-031.png",
+      "player1_predator_lunge-032.png",
+      "player1_predator_lunge-033.png",
+      "player1_predator_lunge-034.png",
+      "player1_predator_lunge-035.png",
+      "player1_predator_lunge-036.png",
+      "player1_predator_lunge-037.png",
+      "player1_predator_lunge-038.png",
+      "player1_predator_lunge-039.png",
+      "player1_predator_lunge-040.png",
+      "player1_predator_lunge-041.png",
+      "player1_predator_lunge-042.png",
+      "player1_predator_lunge-043.png",
+      "player1_predator_lunge-044.png",
+      "player1_predator_lunge-045.png",
+      "player1_predator_lunge-046.png",
+      "player1_predator_lunge-047.png",
+      "player1_predator_lunge-048.png",
+      "player1_predator_lunge-049.png",
+      "player1_predator_lunge-050.png",
+      "player1_predator_lunge-051.png",
+      "player1_predator_lunge-052.png",
+      "player1_predator_lunge-053.png",
+      "player1_predator_lunge-054.png",
+      "player1_predator_lunge-055.png",
+      "player1_predator_lunge-056.png",
+      "player1_predator_lunge-057.png",
+      "player1_predator_lunge-058.png",
+      "player1_predator_lunge-059.png",
+      "player1_predator_lunge-060.png",
+      "player1_predator_lunge-061.png",
+      "player1_predator_lunge-062.png",
+      "player1_predator_lunge-063.png",
+      "player1_predator_lunge-064.png",
+      "player1_predator_lunge-065.png",
+      "player1_predator_lunge-066.png",
+      "player1_predator_lunge-067.png",
+      "player1_predator_lunge-068.png",
+      "player1_predator_lunge-069.png",
+      "player1_predator_lunge-070.png",
+      "player1_predator_lunge-071.png",
+      "player1_predator_lunge-072.png",
+      "player1_predator_lunge-073.png",
+      "player1_predator_lunge-074.png",
+      "player1_predator_lunge-075.png",
+      "player1_predator_lunge-076.png",
+      "player1_predator_lunge-077.png",
+      "player1_predator_lunge-078.png",
+      "player1_predator_lunge-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_predator_lunge.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4068,
+      "h": 7652
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

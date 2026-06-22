@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_heavy_cannon-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 334,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 26,
+        "w": 334,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-007.png": {
+      "frame": {
+        "x": 2372,
+        "y": 2,
+        "w": 334,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 26,
+        "w": 334,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-008.png": {
+      "frame": {
+        "x": 2708,
+        "y": 2,
+        "w": 333,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 26,
+        "w": 333,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-009.png": {
+      "frame": {
+        "x": 3043,
+        "y": 2,
+        "w": 342,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 26,
+        "w": 342,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-010.png": {
+      "frame": {
+        "x": 3387,
+        "y": 2,
+        "w": 342,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 26,
+        "w": 342,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-011.png": {
+      "frame": {
+        "x": 3731,
+        "y": 2,
+        "w": 362,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 362,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 370,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 26,
+        "w": 370,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-013.png": {
+      "frame": {
+        "x": 374,
+        "y": 743,
+        "w": 370,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 26,
+        "w": 370,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-014.png": {
+      "frame": {
+        "x": 746,
+        "y": 743,
+        "w": 368,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 26,
+        "w": 368,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-015.png": {
+      "frame": {
+        "x": 1116,
+        "y": 743,
+        "w": 518,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 26,
+        "w": 518,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-016.png": {
+      "frame": {
+        "x": 1636,
+        "y": 743,
+        "w": 518,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 26,
+        "w": 518,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-017.png": {
+      "frame": {
+        "x": 2156,
+        "y": 743,
+        "w": 569,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 27,
+        "w": 569,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-018.png": {
+      "frame": {
+        "x": 2727,
+        "y": 743,
+        "w": 568,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 27,
+        "w": 568,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-019.png": {
+      "frame": {
+        "x": 3297,
+        "y": 743,
+        "w": 568,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 27,
+        "w": 568,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-020.png": {
+      "frame": {
+        "x": 2,
+        "y": 1484,
+        "w": 565,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 565,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-021.png": {
+      "frame": {
+        "x": 569,
+        "y": 1484,
+        "w": 566,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 566,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-022.png": {
+      "frame": {
+        "x": 1137,
+        "y": 1484,
+        "w": 566,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 566,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-023.png": {
+      "frame": {
+        "x": 1705,
+        "y": 1484,
+        "w": 567,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 567,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-024.png": {
+      "frame": {
+        "x": 2274,
+        "y": 1484,
+        "w": 567,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 567,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-025.png": {
+      "frame": {
+        "x": 2843,
+        "y": 1484,
+        "w": 567,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 567,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-026.png": {
+      "frame": {
+        "x": 3412,
+        "y": 1484,
+        "w": 568,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 568,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-027.png": {
+      "frame": {
+        "x": 2,
+        "y": 2225,
+        "w": 568,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 568,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-028.png": {
+      "frame": {
+        "x": 572,
+        "y": 2225,
+        "w": 568,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 568,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-029.png": {
+      "frame": {
+        "x": 1142,
+        "y": 2225,
+        "w": 568,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 568,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-030.png": {
+      "frame": {
+        "x": 1712,
+        "y": 2225,
+        "w": 568,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 568,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-031.png": {
+      "frame": {
+        "x": 2282,
+        "y": 2225,
+        "w": 568,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 568,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-032.png": {
+      "frame": {
+        "x": 2852,
+        "y": 2225,
+        "w": 570,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 570,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-033.png": {
+      "frame": {
+        "x": 3424,
+        "y": 2225,
+        "w": 594,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 594,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-034.png": {
+      "frame": {
+        "x": 2,
+        "y": 2966,
+        "w": 594,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 594,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-035.png": {
+      "frame": {
+        "x": 598,
+        "y": 2966,
+        "w": 606,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 606,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-036.png": {
+      "frame": {
+        "x": 1206,
+        "y": 2966,
+        "w": 626,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 626,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-037.png": {
+      "frame": {
+        "x": 1834,
+        "y": 2966,
+        "w": 626,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 626,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-038.png": {
+      "frame": {
+        "x": 2462,
+        "y": 2966,
+        "w": 632,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 632,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-039.png": {
+      "frame": {
+        "x": 3096,
+        "y": 2966,
+        "w": 644,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 644,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 3707,
+        "w": 644,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 644,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-041.png": {
+      "frame": {
+        "x": 648,
+        "y": 3707,
+        "w": 650,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 650,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-042.png": {
+      "frame": {
+        "x": 1300,
+        "y": 3707,
+        "w": 655,
+        "h": 744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 21,
+        "w": 655,
+        "h": 744
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-043.png": {
+      "frame": {
+        "x": 1957,
+        "y": 3707,
+        "w": 655,
+        "h": 744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 21,
+        "w": 655,
+        "h": 744
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-044.png": {
+      "frame": {
+        "x": 2614,
+        "y": 3707,
+        "w": 665,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 25,
+        "w": 665,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-045.png": {
+      "frame": {
+        "x": 3281,
+        "y": 3707,
+        "w": 652,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 25,
+        "w": 652,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 4453,
+        "w": 652,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 25,
+        "w": 652,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-047.png": {
+      "frame": {
+        "x": 656,
+        "y": 4453,
+        "w": 657,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 35,
+        "w": 657,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-048.png": {
+      "frame": {
+        "x": 1315,
+        "y": 4453,
+        "w": 751,
+        "h": 742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 273,
+        "y": 0,
+        "w": 751,
+        "h": 742
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-049.png": {
+      "frame": {
+        "x": 2068,
+        "y": 4453,
+        "w": 751,
+        "h": 742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 273,
+        "y": 0,
+        "w": 751,
+        "h": 742
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-050.png": {
+      "frame": {
+        "x": 2821,
+        "y": 4453,
+        "w": 757,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 0,
+        "w": 757,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-051.png": {
+      "frame": {
+        "x": 2,
+        "y": 5197,
+        "w": 757,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 0,
+        "w": 757,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-052.png": {
+      "frame": {
+        "x": 761,
+        "y": 5197,
+        "w": 757,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 0,
+        "w": 757,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-053.png": {
+      "frame": {
+        "x": 1520,
+        "y": 5197,
+        "w": 760,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-054.png": {
+      "frame": {
+        "x": 2282,
+        "y": 5197,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-055.png": {
+      "frame": {
+        "x": 3044,
+        "y": 5197,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-056.png": {
+      "frame": {
+        "x": 2,
+        "y": 5940,
+        "w": 758,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 266,
+        "y": 0,
+        "w": 758,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-057.png": {
+      "frame": {
+        "x": 762,
+        "y": 5940,
+        "w": 759,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 0,
+        "w": 759,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-058.png": {
+      "frame": {
+        "x": 1523,
+        "y": 5940,
+        "w": 759,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 0,
+        "w": 759,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-059.png": {
+      "frame": {
+        "x": 2284,
+        "y": 5940,
+        "w": 760,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-060.png": {
+      "frame": {
+        "x": 3046,
+        "y": 5940,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-061.png": {
+      "frame": {
+        "x": 2,
+        "y": 6682,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-062.png": {
+      "frame": {
+        "x": 764,
+        "y": 6682,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-063.png": {
+      "frame": {
+        "x": 1526,
+        "y": 6682,
+        "w": 759,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 0,
+        "w": 759,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-064.png": {
+      "frame": {
+        "x": 2287,
+        "y": 6682,
+        "w": 759,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 0,
+        "w": 759,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-065.png": {
+      "frame": {
+        "x": 3048,
+        "y": 6682,
+        "w": 762,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 262,
+        "y": 0,
+        "w": 762,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-066.png": {
+      "frame": {
+        "x": 2,
+        "y": 7424,
+        "w": 761,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 0,
+        "w": 761,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-067.png": {
+      "frame": {
+        "x": 765,
+        "y": 7424,
+        "w": 761,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 0,
+        "w": 761,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-068.png": {
+      "frame": {
+        "x": 1528,
+        "y": 7424,
+        "w": 761,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 0,
+        "w": 761,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-069.png": {
+      "frame": {
+        "x": 2291,
+        "y": 7424,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-070.png": {
+      "frame": {
+        "x": 3053,
+        "y": 7424,
+        "w": 760,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 760,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-071.png": {
+      "frame": {
+        "x": 2,
+        "y": 8167,
+        "w": 761,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 0,
+        "w": 761,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-072.png": {
+      "frame": {
+        "x": 765,
+        "y": 8167,
+        "w": 588,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 58,
+        "w": 588,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-073.png": {
+      "frame": {
+        "x": 1355,
+        "y": 8167,
+        "w": 588,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 58,
+        "w": 588,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-074.png": {
+      "frame": {
+        "x": 1945,
+        "y": 8167,
+        "w": 536,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 58,
+        "w": 536,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-075.png": {
+      "frame": {
+        "x": 2483,
+        "y": 8167,
+        "w": 545,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 279,
+        "y": 54,
+        "w": 545,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-076.png": {
+      "frame": {
+        "x": 3030,
+        "y": 8167,
+        "w": 545,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 279,
+        "y": 54,
+        "w": 545,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-077.png": {
+      "frame": {
+        "x": 2,
+        "y": 8909,
+        "w": 554,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 51,
+        "w": 554,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-078.png": {
+      "frame": {
+        "x": 558,
+        "y": 8909,
+        "w": 569,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 41,
+        "w": 569,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_heavy_cannon-079.png": {
+      "frame": {
+        "x": 1129,
+        "y": 8909,
+        "w": 569,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 41,
+        "w": 569,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_heavy_cannon": [
+      "player1_heavy_cannon-000.png",
+      "player1_heavy_cannon-001.png",
+      "player1_heavy_cannon-002.png",
+      "player1_heavy_cannon-003.png",
+      "player1_heavy_cannon-004.png",
+      "player1_heavy_cannon-005.png",
+      "player1_heavy_cannon-006.png",
+      "player1_heavy_cannon-007.png",
+      "player1_heavy_cannon-008.png",
+      "player1_heavy_cannon-009.png",
+      "player1_heavy_cannon-010.png",
+      "player1_heavy_cannon-011.png",
+      "player1_heavy_cannon-012.png",
+      "player1_heavy_cannon-013.png",
+      "player1_heavy_cannon-014.png",
+      "player1_heavy_cannon-015.png",
+      "player1_heavy_cannon-016.png",
+      "player1_heavy_cannon-017.png",
+      "player1_heavy_cannon-018.png",
+      "player1_heavy_cannon-019.png",
+      "player1_heavy_cannon-020.png",
+      "player1_heavy_cannon-021.png",
+      "player1_heavy_cannon-022.png",
+      "player1_heavy_cannon-023.png",
+      "player1_heavy_cannon-024.png",
+      "player1_heavy_cannon-025.png",
+      "player1_heavy_cannon-026.png",
+      "player1_heavy_cannon-027.png",
+      "player1_heavy_cannon-028.png",
+      "player1_heavy_cannon-029.png",
+      "player1_heavy_cannon-030.png",
+      "player1_heavy_cannon-031.png",
+      "player1_heavy_cannon-032.png",
+      "player1_heavy_cannon-033.png",
+      "player1_heavy_cannon-034.png",
+      "player1_heavy_cannon-035.png",
+      "player1_heavy_cannon-036.png",
+      "player1_heavy_cannon-037.png",
+      "player1_heavy_cannon-038.png",
+      "player1_heavy_cannon-039.png",
+      "player1_heavy_cannon-040.png",
+      "player1_heavy_cannon-041.png",
+      "player1_heavy_cannon-042.png",
+      "player1_heavy_cannon-043.png",
+      "player1_heavy_cannon-044.png",
+      "player1_heavy_cannon-045.png",
+      "player1_heavy_cannon-046.png",
+      "player1_heavy_cannon-047.png",
+      "player1_heavy_cannon-048.png",
+      "player1_heavy_cannon-049.png",
+      "player1_heavy_cannon-050.png",
+      "player1_heavy_cannon-051.png",
+      "player1_heavy_cannon-052.png",
+      "player1_heavy_cannon-053.png",
+      "player1_heavy_cannon-054.png",
+      "player1_heavy_cannon-055.png",
+      "player1_heavy_cannon-056.png",
+      "player1_heavy_cannon-057.png",
+      "player1_heavy_cannon-058.png",
+      "player1_heavy_cannon-059.png",
+      "player1_heavy_cannon-060.png",
+      "player1_heavy_cannon-061.png",
+      "player1_heavy_cannon-062.png",
+      "player1_heavy_cannon-063.png",
+      "player1_heavy_cannon-064.png",
+      "player1_heavy_cannon-065.png",
+      "player1_heavy_cannon-066.png",
+      "player1_heavy_cannon-067.png",
+      "player1_heavy_cannon-068.png",
+      "player1_heavy_cannon-069.png",
+      "player1_heavy_cannon-070.png",
+      "player1_heavy_cannon-071.png",
+      "player1_heavy_cannon-072.png",
+      "player1_heavy_cannon-073.png",
+      "player1_heavy_cannon-074.png",
+      "player1_heavy_cannon-075.png",
+      "player1_heavy_cannon-076.png",
+      "player1_heavy_cannon-077.png",
+      "player1_heavy_cannon-078.png",
+      "player1_heavy_cannon-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_heavy_cannon.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4095,
+      "h": 9614
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_rotary_machinegun-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 338,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 26,
+        "w": 338,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-007.png": {
+      "frame": {
+        "x": 2376,
+        "y": 2,
+        "w": 338,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 26,
+        "w": 338,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-008.png": {
+      "frame": {
+        "x": 2716,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-009.png": {
+      "frame": {
+        "x": 3055,
+        "y": 2,
+        "w": 350,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 26,
+        "w": 350,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-010.png": {
+      "frame": {
+        "x": 3407,
+        "y": 2,
+        "w": 350,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 26,
+        "w": 350,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 366,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 26,
+        "w": 366,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-012.png": {
+      "frame": {
+        "x": 370,
+        "y": 743,
+        "w": 430,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 25,
+        "w": 430,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-013.png": {
+      "frame": {
+        "x": 802,
+        "y": 743,
+        "w": 430,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 25,
+        "w": 430,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-014.png": {
+      "frame": {
+        "x": 1234,
+        "y": 743,
+        "w": 458,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 273,
+        "y": 25,
+        "w": 458,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-015.png": {
+      "frame": {
+        "x": 1694,
+        "y": 743,
+        "w": 529,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 25,
+        "w": 529,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-016.png": {
+      "frame": {
+        "x": 2225,
+        "y": 743,
+        "w": 529,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 25,
+        "w": 529,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-017.png": {
+      "frame": {
+        "x": 2756,
+        "y": 743,
+        "w": 565,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 209,
+        "y": 25,
+        "w": 565,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-018.png": {
+      "frame": {
+        "x": 3323,
+        "y": 743,
+        "w": 606,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 25,
+        "w": 606,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-019.png": {
+      "frame": {
+        "x": 2,
+        "y": 1485,
+        "w": 606,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 25,
+        "w": 606,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-020.png": {
+      "frame": {
+        "x": 610,
+        "y": 1485,
+        "w": 626,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 171,
+        "y": 25,
+        "w": 626,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-021.png": {
+      "frame": {
+        "x": 1238,
+        "y": 1485,
+        "w": 656,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 27,
+        "w": 656,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-022.png": {
+      "frame": {
+        "x": 1896,
+        "y": 1485,
+        "w": 656,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 27,
+        "w": 656,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-023.png": {
+      "frame": {
+        "x": 2554,
+        "y": 1485,
+        "w": 625,
+        "h": 725
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 240,
+        "y": 34,
+        "w": 625,
+        "h": 725
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-024.png": {
+      "frame": {
+        "x": 3181,
+        "y": 1485,
+        "w": 607,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 256,
+        "y": 39,
+        "w": 607,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-025.png": {
+      "frame": {
+        "x": 2,
+        "y": 2227,
+        "w": 607,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 256,
+        "y": 39,
+        "w": 607,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-026.png": {
+      "frame": {
+        "x": 611,
+        "y": 2227,
+        "w": 602,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 248,
+        "y": 41,
+        "w": 602,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-027.png": {
+      "frame": {
+        "x": 1215,
+        "y": 2227,
+        "w": 588,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 239,
+        "y": 42,
+        "w": 588,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-028.png": {
+      "frame": {
+        "x": 1805,
+        "y": 2227,
+        "w": 588,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 239,
+        "y": 42,
+        "w": 588,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-029.png": {
+      "frame": {
+        "x": 2395,
+        "y": 2227,
+        "w": 585,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 41,
+        "w": 585,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-030.png": {
+      "frame": {
+        "x": 2982,
+        "y": 2227,
+        "w": 587,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 587,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-031.png": {
+      "frame": {
+        "x": 2,
+        "y": 2944,
+        "w": 587,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 587,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-032.png": {
+      "frame": {
+        "x": 591,
+        "y": 2944,
+        "w": 588,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 588,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-033.png": {
+      "frame": {
+        "x": 1181,
+        "y": 2944,
+        "w": 588,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 588,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-034.png": {
+      "frame": {
+        "x": 1771,
+        "y": 2944,
+        "w": 588,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 588,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-035.png": {
+      "frame": {
+        "x": 2361,
+        "y": 2944,
+        "w": 588,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 588,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-036.png": {
+      "frame": {
+        "x": 2951,
+        "y": 2944,
+        "w": 588,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 588,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-037.png": {
+      "frame": {
+        "x": 2,
+        "y": 3656,
+        "w": 588,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 39,
+        "w": 588,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-038.png": {
+      "frame": {
+        "x": 592,
+        "y": 3656,
+        "w": 636,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 225,
+        "y": 46,
+        "w": 636,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-039.png": {
+      "frame": {
+        "x": 1230,
+        "y": 3656,
+        "w": 808,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 216,
+        "y": 41,
+        "w": 808,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-040.png": {
+      "frame": {
+        "x": 2040,
+        "y": 3656,
+        "w": 808,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 216,
+        "y": 41,
+        "w": 808,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-041.png": {
+      "frame": {
+        "x": 2850,
+        "y": 3656,
+        "w": 815,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 209,
+        "y": 33,
+        "w": 815,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 4372,
+        "w": 828,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 9,
+        "w": 828,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-043.png": {
+      "frame": {
+        "x": 832,
+        "y": 4372,
+        "w": 828,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 9,
+        "w": 828,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-044.png": {
+      "frame": {
+        "x": 1662,
+        "y": 4372,
+        "w": 828,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 8,
+        "w": 828,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-045.png": {
+      "frame": {
+        "x": 2492,
+        "y": 4372,
+        "w": 827,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 23,
+        "w": 827,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 5112,
+        "w": 827,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 23,
+        "w": 827,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-047.png": {
+      "frame": {
+        "x": 831,
+        "y": 5112,
+        "w": 827,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 48,
+        "w": 827,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-048.png": {
+      "frame": {
+        "x": 1660,
+        "y": 5112,
+        "w": 833,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 30,
+        "w": 833,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-049.png": {
+      "frame": {
+        "x": 2495,
+        "y": 5112,
+        "w": 833,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 30,
+        "w": 833,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-050.png": {
+      "frame": {
+        "x": 2,
+        "y": 5837,
+        "w": 835,
+        "h": 692
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 54,
+        "w": 835,
+        "h": 692
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-051.png": {
+      "frame": {
+        "x": 839,
+        "y": 5837,
+        "w": 834,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 7,
+        "w": 834,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-052.png": {
+      "frame": {
+        "x": 1675,
+        "y": 5837,
+        "w": 834,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 7,
+        "w": 834,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-053.png": {
+      "frame": {
+        "x": 2511,
+        "y": 5837,
+        "w": 831,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 68,
+        "w": 831,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-054.png": {
+      "frame": {
+        "x": 2,
+        "y": 6578,
+        "w": 830,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 36,
+        "w": 830,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-055.png": {
+      "frame": {
+        "x": 834,
+        "y": 6578,
+        "w": 830,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 36,
+        "w": 830,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-056.png": {
+      "frame": {
+        "x": 1666,
+        "y": 6578,
+        "w": 830,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 36,
+        "w": 830,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-057.png": {
+      "frame": {
+        "x": 2498,
+        "y": 6578,
+        "w": 830,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 32,
+        "w": 830,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-058.png": {
+      "frame": {
+        "x": 2,
+        "y": 7294,
+        "w": 830,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 32,
+        "w": 830,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-059.png": {
+      "frame": {
+        "x": 834,
+        "y": 7294,
+        "w": 830,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 8,
+        "w": 830,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-060.png": {
+      "frame": {
+        "x": 1666,
+        "y": 7294,
+        "w": 833,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 10,
+        "w": 833,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-061.png": {
+      "frame": {
+        "x": 2501,
+        "y": 7294,
+        "w": 833,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 10,
+        "w": 833,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-062.png": {
+      "frame": {
+        "x": 2,
+        "y": 8034,
+        "w": 835,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 63,
+        "w": 835,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-063.png": {
+      "frame": {
+        "x": 839,
+        "y": 8034,
+        "w": 838,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 48,
+        "w": 838,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-064.png": {
+      "frame": {
+        "x": 1679,
+        "y": 8034,
+        "w": 838,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 48,
+        "w": 838,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-065.png": {
+      "frame": {
+        "x": 2519,
+        "y": 8034,
+        "w": 838,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 35,
+        "w": 838,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-066.png": {
+      "frame": {
+        "x": 2,
+        "y": 8747,
+        "w": 837,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 66,
+        "w": 837,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-067.png": {
+      "frame": {
+        "x": 841,
+        "y": 8747,
+        "w": 837,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 187,
+        "y": 66,
+        "w": 837,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-068.png": {
+      "frame": {
+        "x": 1680,
+        "y": 8747,
+        "w": 581,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 62,
+        "w": 581,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-069.png": {
+      "frame": {
+        "x": 2263,
+        "y": 8747,
+        "w": 586,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 56,
+        "w": 586,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-070.png": {
+      "frame": {
+        "x": 2851,
+        "y": 8747,
+        "w": 586,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 56,
+        "w": 586,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-071.png": {
+      "frame": {
+        "x": 3439,
+        "y": 8747,
+        "w": 592,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 225,
+        "y": 53,
+        "w": 592,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-072.png": {
+      "frame": {
+        "x": 2,
+        "y": 9442,
+        "w": 593,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 46,
+        "w": 593,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-073.png": {
+      "frame": {
+        "x": 597,
+        "y": 9442,
+        "w": 593,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 46,
+        "w": 593,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-074.png": {
+      "frame": {
+        "x": 1192,
+        "y": 9442,
+        "w": 628,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 239,
+        "y": 42,
+        "w": 628,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-075.png": {
+      "frame": {
+        "x": 1822,
+        "y": 9442,
+        "w": 681,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 32,
+        "w": 681,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-076.png": {
+      "frame": {
+        "x": 2505,
+        "y": 9442,
+        "w": 681,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 32,
+        "w": 681,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-077.png": {
+      "frame": {
+        "x": 3188,
+        "y": 9442,
+        "w": 679,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 166,
+        "y": 29,
+        "w": 679,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-078.png": {
+      "frame": {
+        "x": 2,
+        "y": 10174,
+        "w": 615,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 25,
+        "w": 615,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_rotary_machinegun-079.png": {
+      "frame": {
+        "x": 619,
+        "y": 10174,
+        "w": 615,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 25,
+        "w": 615,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_rotary_machinegun": [
+      "player1_rotary_machinegun-000.png",
+      "player1_rotary_machinegun-001.png",
+      "player1_rotary_machinegun-002.png",
+      "player1_rotary_machinegun-003.png",
+      "player1_rotary_machinegun-004.png",
+      "player1_rotary_machinegun-005.png",
+      "player1_rotary_machinegun-006.png",
+      "player1_rotary_machinegun-007.png",
+      "player1_rotary_machinegun-008.png",
+      "player1_rotary_machinegun-009.png",
+      "player1_rotary_machinegun-010.png",
+      "player1_rotary_machinegun-011.png",
+      "player1_rotary_machinegun-012.png",
+      "player1_rotary_machinegun-013.png",
+      "player1_rotary_machinegun-014.png",
+      "player1_rotary_machinegun-015.png",
+      "player1_rotary_machinegun-016.png",
+      "player1_rotary_machinegun-017.png",
+      "player1_rotary_machinegun-018.png",
+      "player1_rotary_machinegun-019.png",
+      "player1_rotary_machinegun-020.png",
+      "player1_rotary_machinegun-021.png",
+      "player1_rotary_machinegun-022.png",
+      "player1_rotary_machinegun-023.png",
+      "player1_rotary_machinegun-024.png",
+      "player1_rotary_machinegun-025.png",
+      "player1_rotary_machinegun-026.png",
+      "player1_rotary_machinegun-027.png",
+      "player1_rotary_machinegun-028.png",
+      "player1_rotary_machinegun-029.png",
+      "player1_rotary_machinegun-030.png",
+      "player1_rotary_machinegun-031.png",
+      "player1_rotary_machinegun-032.png",
+      "player1_rotary_machinegun-033.png",
+      "player1_rotary_machinegun-034.png",
+      "player1_rotary_machinegun-035.png",
+      "player1_rotary_machinegun-036.png",
+      "player1_rotary_machinegun-037.png",
+      "player1_rotary_machinegun-038.png",
+      "player1_rotary_machinegun-039.png",
+      "player1_rotary_machinegun-040.png",
+      "player1_rotary_machinegun-041.png",
+      "player1_rotary_machinegun-042.png",
+      "player1_rotary_machinegun-043.png",
+      "player1_rotary_machinegun-044.png",
+      "player1_rotary_machinegun-045.png",
+      "player1_rotary_machinegun-046.png",
+      "player1_rotary_machinegun-047.png",
+      "player1_rotary_machinegun-048.png",
+      "player1_rotary_machinegun-049.png",
+      "player1_rotary_machinegun-050.png",
+      "player1_rotary_machinegun-051.png",
+      "player1_rotary_machinegun-052.png",
+      "player1_rotary_machinegun-053.png",
+      "player1_rotary_machinegun-054.png",
+      "player1_rotary_machinegun-055.png",
+      "player1_rotary_machinegun-056.png",
+      "player1_rotary_machinegun-057.png",
+      "player1_rotary_machinegun-058.png",
+      "player1_rotary_machinegun-059.png",
+      "player1_rotary_machinegun-060.png",
+      "player1_rotary_machinegun-061.png",
+      "player1_rotary_machinegun-062.png",
+      "player1_rotary_machinegun-063.png",
+      "player1_rotary_machinegun-064.png",
+      "player1_rotary_machinegun-065.png",
+      "player1_rotary_machinegun-066.png",
+      "player1_rotary_machinegun-067.png",
+      "player1_rotary_machinegun-068.png",
+      "player1_rotary_machinegun-069.png",
+      "player1_rotary_machinegun-070.png",
+      "player1_rotary_machinegun-071.png",
+      "player1_rotary_machinegun-072.png",
+      "player1_rotary_machinegun-073.png",
+      "player1_rotary_machinegun-074.png",
+      "player1_rotary_machinegun-075.png",
+      "player1_rotary_machinegun-076.png",
+      "player1_rotary_machinegun-077.png",
+      "player1_rotary_machinegun-078.png",
+      "player1_rotary_machinegun-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_rotary_machinegun.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4033,
+      "h": 10916
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

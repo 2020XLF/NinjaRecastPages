@@ -1,0 +1,2470 @@
+{
+  "frames": {
+    "player-death-000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-001.png": {
+      "frame": {
+        "x": 141,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-002.png": {
+      "frame": {
+        "x": 282,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-003.png": {
+      "frame": {
+        "x": 423,
+        "y": 0,
+        "w": 140,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 1,
+        "w": 140,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-004.png": {
+      "frame": {
+        "x": 563,
+        "y": 0,
+        "w": 140,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 1,
+        "w": 140,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-005.png": {
+      "frame": {
+        "x": 703,
+        "y": 0,
+        "w": 140,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 2,
+        "w": 140,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-006.png": {
+      "frame": {
+        "x": 843,
+        "y": 0,
+        "w": 139,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 5,
+        "w": 139,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-007.png": {
+      "frame": {
+        "x": 982,
+        "y": 0,
+        "w": 139,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 5,
+        "w": 139,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-008.png": {
+      "frame": {
+        "x": 1121,
+        "y": 0,
+        "w": 140,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 6,
+        "w": 140,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-009.png": {
+      "frame": {
+        "x": 1261,
+        "y": 0,
+        "w": 140,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 9,
+        "w": 140,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-010.png": {
+      "frame": {
+        "x": 1401,
+        "y": 0,
+        "w": 140,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 9,
+        "w": 140,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-011.png": {
+      "frame": {
+        "x": 1541,
+        "y": 0,
+        "w": 140,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 12,
+        "w": 140,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-012.png": {
+      "frame": {
+        "x": 1681,
+        "y": 0,
+        "w": 141,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 17,
+        "w": 141,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-013.png": {
+      "frame": {
+        "x": 1822,
+        "y": 0,
+        "w": 141,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 17,
+        "w": 141,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-014.png": {
+      "frame": {
+        "x": 1963,
+        "y": 0,
+        "w": 141,
+        "h": 280
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 20,
+        "w": 141,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-015.png": {
+      "frame": {
+        "x": 2104,
+        "y": 0,
+        "w": 144,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 29,
+        "w": 144,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-016.png": {
+      "frame": {
+        "x": 2248,
+        "y": 0,
+        "w": 144,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 29,
+        "w": 144,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-017.png": {
+      "frame": {
+        "x": 2392,
+        "y": 0,
+        "w": 147,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 35,
+        "w": 147,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-018.png": {
+      "frame": {
+        "x": 2539,
+        "y": 0,
+        "w": 153,
+        "h": 251
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 49,
+        "w": 153,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-019.png": {
+      "frame": {
+        "x": 2692,
+        "y": 0,
+        "w": 153,
+        "h": 251
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 49,
+        "w": 153,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-020.png": {
+      "frame": {
+        "x": 2845,
+        "y": 0,
+        "w": 157,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 56,
+        "w": 157,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-021.png": {
+      "frame": {
+        "x": 3002,
+        "y": 0,
+        "w": 170,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 67,
+        "w": 170,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-022.png": {
+      "frame": {
+        "x": 3172,
+        "y": 0,
+        "w": 170,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 67,
+        "w": 170,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-023.png": {
+      "frame": {
+        "x": 3342,
+        "y": 0,
+        "w": 184,
+        "h": 235
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 65,
+        "w": 184,
+        "h": 235
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-024.png": {
+      "frame": {
+        "x": 3526,
+        "y": 0,
+        "w": 206,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 77,
+        "w": 206,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-025.png": {
+      "frame": {
+        "x": 3732,
+        "y": 0,
+        "w": 206,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 77,
+        "w": 206,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-026.png": {
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 213,
+        "h": 215
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 85,
+        "w": 213,
+        "h": 215
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-027.png": {
+      "frame": {
+        "x": 213,
+        "y": 300,
+        "w": 224,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 104,
+        "w": 224,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-028.png": {
+      "frame": {
+        "x": 437,
+        "y": 300,
+        "w": 224,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 104,
+        "w": 224,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-029.png": {
+      "frame": {
+        "x": 661,
+        "y": 300,
+        "w": 236,
+        "h": 176
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 124,
+        "w": 236,
+        "h": 176
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-030.png": {
+      "frame": {
+        "x": 897,
+        "y": 300,
+        "w": 265,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 159,
+        "w": 265,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-031.png": {
+      "frame": {
+        "x": 1162,
+        "y": 300,
+        "w": 265,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 159,
+        "w": 265,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-032.png": {
+      "frame": {
+        "x": 1427,
+        "y": 300,
+        "w": 282,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 166,
+        "w": 282,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-033.png": {
+      "frame": {
+        "x": 1709,
+        "y": 300,
+        "w": 303,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 169,
+        "w": 303,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-034.png": {
+      "frame": {
+        "x": 2012,
+        "y": 300,
+        "w": 303,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 169,
+        "w": 303,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-035.png": {
+      "frame": {
+        "x": 2315,
+        "y": 300,
+        "w": 305,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 173,
+        "w": 305,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-036.png": {
+      "frame": {
+        "x": 2620,
+        "y": 300,
+        "w": 291,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 169,
+        "w": 291,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-037.png": {
+      "frame": {
+        "x": 2911,
+        "y": 300,
+        "w": 291,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 169,
+        "w": 291,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-038.png": {
+      "frame": {
+        "x": 3202,
+        "y": 300,
+        "w": 286,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 164,
+        "w": 286,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-039.png": {
+      "frame": {
+        "x": 3488,
+        "y": 300,
+        "w": 274,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 151,
+        "w": 274,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-040.png": {
+      "frame": {
+        "x": 3762,
+        "y": 300,
+        "w": 274,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 151,
+        "w": 274,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-041.png": {
+      "frame": {
+        "x": 0,
+        "y": 515,
+        "w": 271,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 143,
+        "w": 271,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-042.png": {
+      "frame": {
+        "x": 271,
+        "y": 515,
+        "w": 268,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 136,
+        "w": 268,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-043.png": {
+      "frame": {
+        "x": 539,
+        "y": 515,
+        "w": 268,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 136,
+        "w": 268,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-044.png": {
+      "frame": {
+        "x": 807,
+        "y": 515,
+        "w": 267,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 136,
+        "w": 267,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-045.png": {
+      "frame": {
+        "x": 1074,
+        "y": 515,
+        "w": 270,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 135,
+        "w": 270,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-046.png": {
+      "frame": {
+        "x": 1344,
+        "y": 515,
+        "w": 270,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 135,
+        "w": 270,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-047.png": {
+      "frame": {
+        "x": 1614,
+        "y": 515,
+        "w": 274,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 137,
+        "w": 274,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-048.png": {
+      "frame": {
+        "x": 1888,
+        "y": 515,
+        "w": 283,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 142,
+        "w": 283,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-049.png": {
+      "frame": {
+        "x": 2171,
+        "y": 515,
+        "w": 283,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 142,
+        "w": 283,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-050.png": {
+      "frame": {
+        "x": 2454,
+        "y": 515,
+        "w": 288,
+        "h": 155
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 145,
+        "w": 288,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-051.png": {
+      "frame": {
+        "x": 2742,
+        "y": 515,
+        "w": 298,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 149,
+        "w": 298,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-052.png": {
+      "frame": {
+        "x": 3040,
+        "y": 515,
+        "w": 298,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 149,
+        "w": 298,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-053.png": {
+      "frame": {
+        "x": 3338,
+        "y": 515,
+        "w": 301,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 151,
+        "w": 301,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-054.png": {
+      "frame": {
+        "x": 3639,
+        "y": 515,
+        "w": 303,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 154,
+        "w": 303,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-055.png": {
+      "frame": {
+        "x": 0,
+        "y": 680,
+        "w": 303,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 154,
+        "w": 303,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-056.png": {
+      "frame": {
+        "x": 303,
+        "y": 680,
+        "w": 303,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 156,
+        "w": 303,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-057.png": {
+      "frame": {
+        "x": 606,
+        "y": 680,
+        "w": 302,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 164,
+        "w": 302,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-058.png": {
+      "frame": {
+        "x": 908,
+        "y": 680,
+        "w": 302,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 164,
+        "w": 302,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-059.png": {
+      "frame": {
+        "x": 1210,
+        "y": 680,
+        "w": 301,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 172,
+        "w": 301,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-060.png": {
+      "frame": {
+        "x": 1511,
+        "y": 680,
+        "w": 303,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 184,
+        "w": 303,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-061.png": {
+      "frame": {
+        "x": 1814,
+        "y": 680,
+        "w": 303,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 184,
+        "w": 303,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-062.png": {
+      "frame": {
+        "x": 2117,
+        "y": 680,
+        "w": 304,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 189,
+        "w": 304,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-063.png": {
+      "frame": {
+        "x": 2421,
+        "y": 680,
+        "w": 305,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 204,
+        "w": 305,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-064.png": {
+      "frame": {
+        "x": 2726,
+        "y": 680,
+        "w": 305,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 204,
+        "w": 305,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-065.png": {
+      "frame": {
+        "x": 3031,
+        "y": 680,
+        "w": 304,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 204,
+        "w": 304,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-066.png": {
+      "frame": {
+        "x": 3335,
+        "y": 680,
+        "w": 305,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 305,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-067.png": {
+      "frame": {
+        "x": 3640,
+        "y": 680,
+        "w": 305,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 305,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-068.png": {
+      "frame": {
+        "x": 0,
+        "y": 826,
+        "w": 305,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 305,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-069.png": {
+      "frame": {
+        "x": 305,
+        "y": 826,
+        "w": 305,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 305,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-070.png": {
+      "frame": {
+        "x": 610,
+        "y": 826,
+        "w": 305,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 305,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-071.png": {
+      "frame": {
+        "x": 915,
+        "y": 826,
+        "w": 305,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 305,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-072.png": {
+      "frame": {
+        "x": 1220,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-073.png": {
+      "frame": {
+        "x": 1526,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-074.png": {
+      "frame": {
+        "x": 1832,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-075.png": {
+      "frame": {
+        "x": 2138,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-076.png": {
+      "frame": {
+        "x": 2444,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-077.png": {
+      "frame": {
+        "x": 2750,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-078.png": {
+      "frame": {
+        "x": 3056,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-079.png": {
+      "frame": {
+        "x": 3362,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-080.png": {
+      "frame": {
+        "x": 3668,
+        "y": 826,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-081.png": {
+      "frame": {
+        "x": 0,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-082.png": {
+      "frame": {
+        "x": 306,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-083.png": {
+      "frame": {
+        "x": 612,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-084.png": {
+      "frame": {
+        "x": 918,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-085.png": {
+      "frame": {
+        "x": 1224,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-086.png": {
+      "frame": {
+        "x": 1530,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-087.png": {
+      "frame": {
+        "x": 1836,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-088.png": {
+      "frame": {
+        "x": 2142,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-089.png": {
+      "frame": {
+        "x": 2448,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-090.png": {
+      "frame": {
+        "x": 2754,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-091.png": {
+      "frame": {
+        "x": 3060,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-092.png": {
+      "frame": {
+        "x": 3366,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-093.png": {
+      "frame": {
+        "x": 3672,
+        "y": 921,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-094.png": {
+      "frame": {
+        "x": 0,
+        "y": 1016,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-095.png": {
+      "frame": {
+        "x": 306,
+        "y": 1016,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-096.png": {
+      "frame": {
+        "x": 612,
+        "y": 1016,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-death-097.png": {
+      "frame": {
+        "x": 918,
+        "y": 1016,
+        "w": 306,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 205,
+        "w": 306,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "animations": {
+    "player-death": [
+      "player-death-000.png",
+      "player-death-001.png",
+      "player-death-002.png",
+      "player-death-003.png",
+      "player-death-004.png",
+      "player-death-005.png",
+      "player-death-006.png",
+      "player-death-007.png",
+      "player-death-008.png",
+      "player-death-009.png",
+      "player-death-010.png",
+      "player-death-011.png",
+      "player-death-012.png",
+      "player-death-013.png",
+      "player-death-014.png",
+      "player-death-015.png",
+      "player-death-016.png",
+      "player-death-017.png",
+      "player-death-018.png",
+      "player-death-019.png",
+      "player-death-020.png",
+      "player-death-021.png",
+      "player-death-022.png",
+      "player-death-023.png",
+      "player-death-024.png",
+      "player-death-025.png",
+      "player-death-026.png",
+      "player-death-027.png",
+      "player-death-028.png",
+      "player-death-029.png",
+      "player-death-030.png",
+      "player-death-031.png",
+      "player-death-032.png",
+      "player-death-033.png",
+      "player-death-034.png",
+      "player-death-035.png",
+      "player-death-036.png",
+      "player-death-037.png",
+      "player-death-038.png",
+      "player-death-039.png",
+      "player-death-040.png",
+      "player-death-041.png",
+      "player-death-042.png",
+      "player-death-043.png",
+      "player-death-044.png",
+      "player-death-045.png",
+      "player-death-046.png",
+      "player-death-047.png",
+      "player-death-048.png",
+      "player-death-049.png",
+      "player-death-050.png",
+      "player-death-051.png",
+      "player-death-052.png",
+      "player-death-053.png",
+      "player-death-054.png",
+      "player-death-055.png",
+      "player-death-056.png",
+      "player-death-057.png",
+      "player-death-058.png",
+      "player-death-059.png",
+      "player-death-060.png",
+      "player-death-061.png",
+      "player-death-062.png",
+      "player-death-063.png",
+      "player-death-064.png",
+      "player-death-065.png",
+      "player-death-066.png",
+      "player-death-067.png",
+      "player-death-068.png",
+      "player-death-069.png",
+      "player-death-070.png",
+      "player-death-071.png",
+      "player-death-072.png",
+      "player-death-073.png",
+      "player-death-074.png",
+      "player-death-075.png",
+      "player-death-076.png",
+      "player-death-077.png",
+      "player-death-078.png",
+      "player-death-079.png",
+      "player-death-080.png",
+      "player-death-081.png",
+      "player-death-082.png",
+      "player-death-083.png",
+      "player-death-084.png",
+      "player-death-085.png",
+      "player-death-086.png",
+      "player-death-087.png",
+      "player-death-088.png",
+      "player-death-089.png",
+      "player-death-090.png",
+      "player-death-091.png",
+      "player-death-092.png",
+      "player-death-093.png",
+      "player-death-094.png",
+      "player-death-095.png",
+      "player-death-096.png",
+      "player-death-097.png"
+    ]
+  },
+  "meta": {
+    "app": "codex-ai-sprite-converter",
+    "version": "1.1",
+    "image": "player-death.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4036,
+      "h": 1111
+    },
+    "scale": "1",
+    "smartupdate": "converted-from-ai-sprite-sheet-downscaled-foot-aligned"
+  }
+}

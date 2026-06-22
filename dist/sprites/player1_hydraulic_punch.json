@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_hydraulic_punch-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-008.png": {
+      "frame": {
+        "x": 2714,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-009.png": {
+      "frame": {
+        "x": 3053,
+        "y": 2,
+        "w": 341,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 27,
+        "w": 341,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-010.png": {
+      "frame": {
+        "x": 3396,
+        "y": 2,
+        "w": 341,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 27,
+        "w": 341,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-011.png": {
+      "frame": {
+        "x": 3739,
+        "y": 2,
+        "w": 344,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 30,
+        "w": 344,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 388,
+        "h": 726
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 39,
+        "w": 388,
+        "h": 726
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-013.png": {
+      "frame": {
+        "x": 392,
+        "y": 743,
+        "w": 388,
+        "h": 726
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 39,
+        "w": 388,
+        "h": 726
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-014.png": {
+      "frame": {
+        "x": 782,
+        "y": 743,
+        "w": 419,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 48,
+        "w": 419,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-015.png": {
+      "frame": {
+        "x": 1203,
+        "y": 743,
+        "w": 463,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 71,
+        "w": 463,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-016.png": {
+      "frame": {
+        "x": 1668,
+        "y": 743,
+        "w": 463,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 71,
+        "w": 463,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-017.png": {
+      "frame": {
+        "x": 2133,
+        "y": 743,
+        "w": 474,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 86,
+        "w": 474,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-018.png": {
+      "frame": {
+        "x": 2609,
+        "y": 743,
+        "w": 479,
+        "h": 654
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 111,
+        "w": 479,
+        "h": 654
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-019.png": {
+      "frame": {
+        "x": 3090,
+        "y": 743,
+        "w": 479,
+        "h": 654
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 111,
+        "w": 479,
+        "h": 654
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-020.png": {
+      "frame": {
+        "x": 3571,
+        "y": 743,
+        "w": 475,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 122,
+        "w": 475,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-021.png": {
+      "frame": {
+        "x": 2,
+        "y": 1471,
+        "w": 470,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 134,
+        "w": 470,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-022.png": {
+      "frame": {
+        "x": 474,
+        "y": 1471,
+        "w": 470,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 134,
+        "w": 470,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-023.png": {
+      "frame": {
+        "x": 946,
+        "y": 1471,
+        "w": 469,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 136,
+        "w": 469,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-024.png": {
+      "frame": {
+        "x": 1417,
+        "y": 1471,
+        "w": 468,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 137,
+        "w": 468,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-025.png": {
+      "frame": {
+        "x": 1887,
+        "y": 1471,
+        "w": 468,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 137,
+        "w": 468,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-026.png": {
+      "frame": {
+        "x": 2357,
+        "y": 1471,
+        "w": 468,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 137,
+        "w": 468,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-027.png": {
+      "frame": {
+        "x": 2827,
+        "y": 1471,
+        "w": 468,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 137,
+        "w": 468,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-028.png": {
+      "frame": {
+        "x": 3297,
+        "y": 1471,
+        "w": 468,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 137,
+        "w": 468,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-029.png": {
+      "frame": {
+        "x": 2,
+        "y": 2104,
+        "w": 467,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 138,
+        "w": 467,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-030.png": {
+      "frame": {
+        "x": 471,
+        "y": 2104,
+        "w": 456,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 123,
+        "w": 456,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-031.png": {
+      "frame": {
+        "x": 929,
+        "y": 2104,
+        "w": 456,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 123,
+        "w": 456,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-032.png": {
+      "frame": {
+        "x": 1387,
+        "y": 2104,
+        "w": 430,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 116,
+        "w": 430,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-033.png": {
+      "frame": {
+        "x": 1819,
+        "y": 2104,
+        "w": 679,
+        "h": 664
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 100,
+        "w": 679,
+        "h": 664
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-034.png": {
+      "frame": {
+        "x": 2500,
+        "y": 2104,
+        "w": 679,
+        "h": 664
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 100,
+        "w": 679,
+        "h": 664
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-035.png": {
+      "frame": {
+        "x": 3181,
+        "y": 2104,
+        "w": 679,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 81,
+        "w": 679,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-036.png": {
+      "frame": {
+        "x": 2,
+        "y": 2789,
+        "w": 681,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 40,
+        "w": 681,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-037.png": {
+      "frame": {
+        "x": 685,
+        "y": 2789,
+        "w": 681,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 40,
+        "w": 681,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-038.png": {
+      "frame": {
+        "x": 1368,
+        "y": 2789,
+        "w": 681,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 74,
+        "w": 681,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-039.png": {
+      "frame": {
+        "x": 2051,
+        "y": 2789,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-040.png": {
+      "frame": {
+        "x": 2612,
+        "y": 2789,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-041.png": {
+      "frame": {
+        "x": 3173,
+        "y": 2789,
+        "w": 559,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 115,
+        "w": 559,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 3515,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-043.png": {
+      "frame": {
+        "x": 563,
+        "y": 3515,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-044.png": {
+      "frame": {
+        "x": 1124,
+        "y": 3515,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-045.png": {
+      "frame": {
+        "x": 1685,
+        "y": 3515,
+        "w": 532,
+        "h": 652
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 112,
+        "w": 532,
+        "h": 652
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-046.png": {
+      "frame": {
+        "x": 2219,
+        "y": 3515,
+        "w": 532,
+        "h": 652
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 112,
+        "w": 532,
+        "h": 652
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-047.png": {
+      "frame": {
+        "x": 2753,
+        "y": 3515,
+        "w": 472,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 109,
+        "w": 472,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-048.png": {
+      "frame": {
+        "x": 3227,
+        "y": 3515,
+        "w": 674,
+        "h": 662
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 102,
+        "w": 674,
+        "h": 662
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 4179,
+        "w": 674,
+        "h": 662
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 102,
+        "w": 674,
+        "h": 662
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-050.png": {
+      "frame": {
+        "x": 678,
+        "y": 4179,
+        "w": 677,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 80,
+        "w": 677,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-051.png": {
+      "frame": {
+        "x": 1357,
+        "y": 4179,
+        "w": 681,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 41,
+        "w": 681,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-052.png": {
+      "frame": {
+        "x": 2040,
+        "y": 4179,
+        "w": 681,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 41,
+        "w": 681,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-053.png": {
+      "frame": {
+        "x": 2723,
+        "y": 4179,
+        "w": 681,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 681,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-054.png": {
+      "frame": {
+        "x": 3406,
+        "y": 4179,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-055.png": {
+      "frame": {
+        "x": 2,
+        "y": 4904,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-056.png": {
+      "frame": {
+        "x": 563,
+        "y": 4904,
+        "w": 559,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 115,
+        "w": 559,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-057.png": {
+      "frame": {
+        "x": 1124,
+        "y": 4904,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-058.png": {
+      "frame": {
+        "x": 1685,
+        "y": 4904,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-059.png": {
+      "frame": {
+        "x": 2246,
+        "y": 4904,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-060.png": {
+      "frame": {
+        "x": 2807,
+        "y": 4904,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-061.png": {
+      "frame": {
+        "x": 3368,
+        "y": 4904,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-062.png": {
+      "frame": {
+        "x": 2,
+        "y": 5555,
+        "w": 559,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 116,
+        "w": 559,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-063.png": {
+      "frame": {
+        "x": 563,
+        "y": 5555,
+        "w": 556,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 115,
+        "w": 556,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-064.png": {
+      "frame": {
+        "x": 1121,
+        "y": 5555,
+        "w": 556,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 115,
+        "w": 556,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-065.png": {
+      "frame": {
+        "x": 1679,
+        "y": 5555,
+        "w": 537,
+        "h": 650
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 114,
+        "w": 537,
+        "h": 650
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-066.png": {
+      "frame": {
+        "x": 2218,
+        "y": 5555,
+        "w": 505,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 111,
+        "w": 505,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-067.png": {
+      "frame": {
+        "x": 2725,
+        "y": 5555,
+        "w": 505,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 111,
+        "w": 505,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-068.png": {
+      "frame": {
+        "x": 3232,
+        "y": 5555,
+        "w": 478,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 109,
+        "w": 478,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-069.png": {
+      "frame": {
+        "x": 2,
+        "y": 6212,
+        "w": 422,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 104,
+        "w": 422,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-070.png": {
+      "frame": {
+        "x": 426,
+        "y": 6212,
+        "w": 422,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 104,
+        "w": 422,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-071.png": {
+      "frame": {
+        "x": 850,
+        "y": 6212,
+        "w": 418,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 102,
+        "w": 418,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-072.png": {
+      "frame": {
+        "x": 1270,
+        "y": 6212,
+        "w": 416,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 95,
+        "w": 416,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-073.png": {
+      "frame": {
+        "x": 1688,
+        "y": 6212,
+        "w": 416,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 95,
+        "w": 416,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-074.png": {
+      "frame": {
+        "x": 2106,
+        "y": 6212,
+        "w": 416,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 91,
+        "w": 416,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-075.png": {
+      "frame": {
+        "x": 2524,
+        "y": 6212,
+        "w": 407,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 79,
+        "w": 407,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-076.png": {
+      "frame": {
+        "x": 2933,
+        "y": 6212,
+        "w": 407,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 79,
+        "w": 407,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-077.png": {
+      "frame": {
+        "x": 3342,
+        "y": 6212,
+        "w": 398,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 72,
+        "w": 398,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-078.png": {
+      "frame": {
+        "x": 2,
+        "y": 6907,
+        "w": 365,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 56,
+        "w": 365,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_hydraulic_punch-079.png": {
+      "frame": {
+        "x": 369,
+        "y": 6907,
+        "w": 365,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 56,
+        "w": 365,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_hydraulic_punch": [
+      "player1_hydraulic_punch-000.png",
+      "player1_hydraulic_punch-001.png",
+      "player1_hydraulic_punch-002.png",
+      "player1_hydraulic_punch-003.png",
+      "player1_hydraulic_punch-004.png",
+      "player1_hydraulic_punch-005.png",
+      "player1_hydraulic_punch-006.png",
+      "player1_hydraulic_punch-007.png",
+      "player1_hydraulic_punch-008.png",
+      "player1_hydraulic_punch-009.png",
+      "player1_hydraulic_punch-010.png",
+      "player1_hydraulic_punch-011.png",
+      "player1_hydraulic_punch-012.png",
+      "player1_hydraulic_punch-013.png",
+      "player1_hydraulic_punch-014.png",
+      "player1_hydraulic_punch-015.png",
+      "player1_hydraulic_punch-016.png",
+      "player1_hydraulic_punch-017.png",
+      "player1_hydraulic_punch-018.png",
+      "player1_hydraulic_punch-019.png",
+      "player1_hydraulic_punch-020.png",
+      "player1_hydraulic_punch-021.png",
+      "player1_hydraulic_punch-022.png",
+      "player1_hydraulic_punch-023.png",
+      "player1_hydraulic_punch-024.png",
+      "player1_hydraulic_punch-025.png",
+      "player1_hydraulic_punch-026.png",
+      "player1_hydraulic_punch-027.png",
+      "player1_hydraulic_punch-028.png",
+      "player1_hydraulic_punch-029.png",
+      "player1_hydraulic_punch-030.png",
+      "player1_hydraulic_punch-031.png",
+      "player1_hydraulic_punch-032.png",
+      "player1_hydraulic_punch-033.png",
+      "player1_hydraulic_punch-034.png",
+      "player1_hydraulic_punch-035.png",
+      "player1_hydraulic_punch-036.png",
+      "player1_hydraulic_punch-037.png",
+      "player1_hydraulic_punch-038.png",
+      "player1_hydraulic_punch-039.png",
+      "player1_hydraulic_punch-040.png",
+      "player1_hydraulic_punch-041.png",
+      "player1_hydraulic_punch-042.png",
+      "player1_hydraulic_punch-043.png",
+      "player1_hydraulic_punch-044.png",
+      "player1_hydraulic_punch-045.png",
+      "player1_hydraulic_punch-046.png",
+      "player1_hydraulic_punch-047.png",
+      "player1_hydraulic_punch-048.png",
+      "player1_hydraulic_punch-049.png",
+      "player1_hydraulic_punch-050.png",
+      "player1_hydraulic_punch-051.png",
+      "player1_hydraulic_punch-052.png",
+      "player1_hydraulic_punch-053.png",
+      "player1_hydraulic_punch-054.png",
+      "player1_hydraulic_punch-055.png",
+      "player1_hydraulic_punch-056.png",
+      "player1_hydraulic_punch-057.png",
+      "player1_hydraulic_punch-058.png",
+      "player1_hydraulic_punch-059.png",
+      "player1_hydraulic_punch-060.png",
+      "player1_hydraulic_punch-061.png",
+      "player1_hydraulic_punch-062.png",
+      "player1_hydraulic_punch-063.png",
+      "player1_hydraulic_punch-064.png",
+      "player1_hydraulic_punch-065.png",
+      "player1_hydraulic_punch-066.png",
+      "player1_hydraulic_punch-067.png",
+      "player1_hydraulic_punch-068.png",
+      "player1_hydraulic_punch-069.png",
+      "player1_hydraulic_punch-070.png",
+      "player1_hydraulic_punch-071.png",
+      "player1_hydraulic_punch-072.png",
+      "player1_hydraulic_punch-073.png",
+      "player1_hydraulic_punch-074.png",
+      "player1_hydraulic_punch-075.png",
+      "player1_hydraulic_punch-076.png",
+      "player1_hydraulic_punch-077.png",
+      "player1_hydraulic_punch-078.png",
+      "player1_hydraulic_punch-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_hydraulic_punch.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4085,
+      "h": 7618
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

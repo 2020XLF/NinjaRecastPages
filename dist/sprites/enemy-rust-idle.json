@@ -1,0 +1,720 @@
+{
+  "frames": {
+    "enemy-rust-idle-stable-000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-001.png": {
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-002.png": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-003.png": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-004.png": {
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-005.png": {
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-006.png": {
+      "frame": {
+        "x": 768,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-007.png": {
+      "frame": {
+        "x": 896,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-008.png": {
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-009.png": {
+      "frame": {
+        "x": 1152,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-010.png": {
+      "frame": {
+        "x": 1280,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-011.png": {
+      "frame": {
+        "x": 1408,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-012.png": {
+      "frame": {
+        "x": 1536,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-013.png": {
+      "frame": {
+        "x": 1664,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-014.png": {
+      "frame": {
+        "x": 1792,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-015.png": {
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-016.png": {
+      "frame": {
+        "x": 2048,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-017.png": {
+      "frame": {
+        "x": 2176,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-018.png": {
+      "frame": {
+        "x": 2304,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-019.png": {
+      "frame": {
+        "x": 2432,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-020.png": {
+      "frame": {
+        "x": 2560,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-021.png": {
+      "frame": {
+        "x": 2688,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-022.png": {
+      "frame": {
+        "x": 2816,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-023.png": {
+      "frame": {
+        "x": 2944,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-024.png": {
+      "frame": {
+        "x": 3072,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-025.png": {
+      "frame": {
+        "x": 3200,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-026.png": {
+      "frame": {
+        "x": 3328,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "enemy-rust-idle-stable-027.png": {
+      "frame": {
+        "x": 3456,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 112
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "animations": {
+    "猎犬": [
+      "enemy-rust-idle-stable-000.png",
+      "enemy-rust-idle-stable-001.png",
+      "enemy-rust-idle-stable-002.png",
+      "enemy-rust-idle-stable-003.png",
+      "enemy-rust-idle-stable-004.png",
+      "enemy-rust-idle-stable-005.png",
+      "enemy-rust-idle-stable-006.png",
+      "enemy-rust-idle-stable-007.png",
+      "enemy-rust-idle-stable-008.png",
+      "enemy-rust-idle-stable-009.png",
+      "enemy-rust-idle-stable-010.png",
+      "enemy-rust-idle-stable-011.png",
+      "enemy-rust-idle-stable-012.png",
+      "enemy-rust-idle-stable-013.png",
+      "enemy-rust-idle-stable-014.png",
+      "enemy-rust-idle-stable-015.png",
+      "enemy-rust-idle-stable-016.png",
+      "enemy-rust-idle-stable-017.png",
+      "enemy-rust-idle-stable-018.png",
+      "enemy-rust-idle-stable-019.png",
+      "enemy-rust-idle-stable-020.png",
+      "enemy-rust-idle-stable-021.png",
+      "enemy-rust-idle-stable-022.png",
+      "enemy-rust-idle-stable-023.png",
+      "enemy-rust-idle-stable-024.png",
+      "enemy-rust-idle-stable-025.png",
+      "enemy-rust-idle-stable-026.png",
+      "enemy-rust-idle-stable-027.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.1",
+    "image": "enemy-rust-idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3584,
+      "h": 112
+    },
+    "scale": "1",
+    "smartupdate": "stable-idle-normalized-height-footline-center-with-28-inbetweens"
+  }
+}

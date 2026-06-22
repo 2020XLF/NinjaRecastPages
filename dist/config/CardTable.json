@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "1001",
+    "name": "直拳",
+    "nameEn": "直拳",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 2-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1002",
+    "name": "液压重拳",
+    "nameEn": "液压重拳",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 7
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-7 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1003",
+    "name": "连打",
+    "nameEn": "连打",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      },
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-2 + 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1004",
+    "name": "刺拳",
+    "nameEn": "刺拳",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 5
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 3-5 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1005",
+    "name": "大猩猩手臂",
+    "nameEn": "大猩猩手臂",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 4,
+        "max": 8
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 4-8 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1006",
+    "name": "单分子线",
+    "nameEn": "单分子线",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 2,
+    "description": "范围 2，造成 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1007",
+    "name": "肘击",
+    "nameEn": "肘击",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 8
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-8 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1008",
+    "name": "啃噬",
+    "nameEn": "啃噬",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "attackRange": 1,
+    "description": "每次使用时攻击次数+1",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1009",
+    "name": "掠夺重击",
+    "nameEn": "掠夺重击",
+    "color": "red",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "attackRange": 3,
+    "description": "范围 3，造成 2-5 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1010",
+    "name": "起手式",
+    "nameEn": "起手式",
+    "color": "wildcard",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1011",
+    "name": "防爆盾击",
+    "nameEn": "防爆盾击",
+    "color": "yellow",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "额外造成相当于护甲值的伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1012",
+    "name": "转管机枪",
+    "nameEn": "转管机枪",
+    "color": "yellow",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 2-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1013",
+    "name": "重炮轰击",
+    "nameEn": "重炮轰击",
+    "color": "yellow",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 7
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 3-7 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1014",
+    "name": "战术格挡",
+    "nameEn": "战术格挡",
+    "color": "yellow",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "获得5点护甲",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1015",
+    "name": "防御架势",
+    "nameEn": "防御架势",
+    "color": "yellow",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "获得5点护甲",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1016",
+    "name": "重压",
+    "nameEn": "重压",
+    "color": "yellow",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "attackRange": 1,
+    "description": "在空中时释放，伤害数字+2",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1017",
+    "name": "思考",
+    "nameEn": "思考",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 1,
+    "description": "抽2张牌，该卡牌无法从行动槽卸下",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1018",
+    "name": "烟雾弹",
+    "nameEn": "烟雾弹",
+    "color": "grey",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 0,
+        "max": 1
+      }
+    ],
+    "attackRange": 1,
+    "description": "在原地留下烟雾，烟雾内不会受到远程伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1019",
+    "name": "动能连射",
+    "nameEn": "动能连射",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 10,
+    "description": "范围 10，造成 1-2 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1020",
+    "name": "智能手枪",
+    "nameEn": "智能手枪",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "attackRange": 10,
+    "description": "范围 10，造成 2-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1021",
+    "name": "戳刺",
+    "nameEn": "戳刺",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 2-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1022",
+    "name": "冲锋枪扫射",
+    "nameEn": "冲锋枪扫射",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 4
+      },
+      {
+        "min": 3,
+        "max": 4
+      },
+      {
+        "min": 3,
+        "max": 4
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 3-4 + 3-4 + 3-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1023",
+    "name": "狙击步枪",
+    "nameEn": "狙击步枪",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 12
+      }
+    ],
+    "attackRange": 10,
+    "description": "范围 10，造成 1-12 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1024",
+    "name": "长枪",
+    "nameEn": "长枪",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 7
+      }
+    ],
+    "attackRange": 2,
+    "description": "范围 2，造成 3-7 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1025",
+    "name": "电击拳",
+    "nameEn": "电击拳",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1026",
+    "name": "酸液喷射",
+    "nameEn": "酸液喷射",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "attackRange": 3,
+    "description": "范围 3，造成 1-1 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1027",
+    "name": "数据刺",
+    "nameEn": "数据刺",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "attackRange": 2,
+    "description": "范围 2，造成 1-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1028",
+    "name": "毒刺手里剑",
+    "nameEn": "毒刺手里剑",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 10,
+    "description": "范围 10，造成 1-2 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1029",
+    "name": "弱电触手",
+    "nameEn": "弱电触手",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "attackRange": 2,
+    "description": "范围 2，造成 1-1 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1030",
+    "name": "废料手枪",
+    "nameEn": "废料手枪",
+    "color": "blue",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 0,
+        "max": 4
+      }
+    ],
+    "attackRange": 10,
+    "description": "范围 10，造成 0-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1031",
+    "name": "斩击",
+    "nameEn": "斩击",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 5
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-5 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1032",
+    "name": "热能斧劈",
+    "nameEn": "热能斧劈",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 3
+      },
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 2-3 + 1-2 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1033",
+    "name": "双刀斩",
+    "nameEn": "双刀斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1034",
+    "name": "居合斩",
+    "nameEn": "居合斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 9
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-9 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1035",
+    "name": "螳螂刀",
+    "nameEn": "螳螂刀",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      },
+      {
+        "min": 1,
+        "max": 2
+      },
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-2 + 1-2 + 1-2 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1036",
+    "name": "纳米线切割",
+    "nameEn": "纳米线切割",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 2-5 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1037",
+    "name": "撕咬",
+    "nameEn": "撕咬",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-2 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1038",
+    "name": "酸液触须",
+    "nameEn": "酸液触须",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-4 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1039",
+    "name": "腿刃连斩",
+    "nameEn": "腿刃连斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1040",
+    "name": "酸液利爪",
+    "nameEn": "酸液利爪",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 1-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1041",
+    "name": "灵魂撕裂",
+    "nameEn": "灵魂撕裂",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 7
+      }
+    ],
+    "attackRange": 1,
+    "description": "范围 1，造成 3-7 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1042",
+    "name": "声波尖叫",
+    "nameEn": "声波尖叫",
+    "color": "wildcard",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "attackRange": 2,
+    "description": "3格范围内敌人的行动卡无法使用",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1043",
+    "name": "袈裟斩",
+    "nameEn": "袈裟斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "attackRange": 1,
+    "description": "使用后向后退一格",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1044",
+    "name": "剑光",
+    "nameEn": "剑光",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      },
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "attackRange": 2,
+    "description": "范围 2，造成 1-2 + 2-3 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1045",
+    "name": "剑气",
+    "nameEn": "剑气",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 5
+      }
+    ],
+    "attackRange": 5,
+    "description": "范围 5，造成 3-5 点伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1046",
+    "name": "重剑蓄力斩",
+    "nameEn": "重剑蓄力斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 6
+      }
+    ],
+    "attackRange": 3,
+    "description": "必须携带重剑字段连招才能使用",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1047",
+    "name": "重剑蓄力",
+    "nameEn": "重剑蓄力",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "attackRange": 1,
+    "description": "必须携带重剑字段连招才能使用\n本回合下一个重剑蓄力斩造成伤害+2",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1048",
+    "name": "重剑横扫",
+    "nameEn": "重剑横扫",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 4
+      }
+    ],
+    "attackRange": 3,
+    "description": "必须携带重剑字段连招才能使用\n对后方也造成同样伤害",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1049",
+    "name": "重剑斩",
+    "nameEn": "重剑斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "attackRange": 1,
+    "description": "必须携带重剑字段连招才能使用",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1050",
+    "name": "指虎连打",
+    "nameEn": "指虎连打",
+    "color": "wildcard",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 2,
+        "max": 4
+      },
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "必须携带指虎字段连招才能使用",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1051",
+    "name": "居合斩",
+    "nameEn": "居合斩",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 5,
+        "max": 5
+      }
+    ],
+    "attackRange": 5,
+    "description": "移动到同一行的敌人后方一格",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1052",
+    "name": "见切",
+    "nameEn": "见切",
+    "color": "green",
+    "cardType": "attack",
+    "damages": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "attackRange": 1,
+    "description": "触发拼刀时，下个行动立刻释放【居合斩】",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "1053",
+    "name": "识破",
+    "nameEn": "识破",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 1,
+    "description": "与范围＞1的攻击拼刀时，攻击力变动为9",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2001",
+    "name": "前进",
+    "nameEn": "前进",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "朝敌人前进一格",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2002",
+    "name": "后退",
+    "nameEn": "后退",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "朝敌人后退一格",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2003",
+    "name": "跳跃",
+    "nameEn": "跳跃",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "朝上跳跃，回合结束后落下",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2004",
+    "name": "折跃跳",
+    "nameEn": "折跃跳",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "先先上跳，之后向前砸下",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2005",
+    "name": "后撤步",
+    "nameEn": "后撤步",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "后退两格",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2006",
+    "name": "影杀",
+    "nameEn": "影杀",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "瞬移到敌人的背后",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2007",
+    "name": "影子移动",
+    "nameEn": "影子移动",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "以中心为轴，移动到对称的位置",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2008",
+    "name": "冲撞",
+    "nameEn": "冲撞",
+    "color": "red",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "前进一格，将敌人向对应方向推动",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2009",
+    "name": "垫步",
+    "nameEn": "垫步",
+    "color": "green",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "前进一格，下张牌斩击卡的数字+1",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2010",
+    "name": "匍匐前进",
+    "nameEn": "匍匐前进",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "朝敌人前进1格，免疫本回合远程攻击",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2011",
+    "name": "闪避",
+    "nameEn": "闪避",
+    "color": "grey",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "免疫敌人的1次攻击",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  },
+  {
+    "id": "2012",
+    "name": "换弹",
+    "nameEn": "换弹",
+    "color": "blue",
+    "cardType": "action",
+    "damages": [],
+    "attackRange": 0,
+    "description": "将2张智能手枪置入手牌，无法从行动槽上卸下",
+    "moveType": "none",
+    "moveDist": 0,
+    "cost": 50
+  }
+]

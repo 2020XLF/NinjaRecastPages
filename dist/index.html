@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KARMA</title>
+    <script type="module" crossorigin src="./assets/index-CG2XsqSc.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BAgcaizI.css">
+  </head>
+  <body>
+    <script>
+      window.__karmaShowFatal = function (title, detail) {
+        var root = document.getElementById('root')
+        if (!root) return
+        root.innerHTML =
+          '<main style="min-height:100vh;display:flex;align-items:center;justify-content:center;background:#fff;padding:24px;font-family:Arial,sans-serif;color:#20242b;">' +
+          '<section style="max-width:680px;border:1px solid #f3a6a6;background:#fff1f1;padding:24px;border-radius:6px;">' +
+          '<h1 style="margin:0 0 12px;font-size:24px;color:#b42318;">' + title + '</h1>' +
+          '<pre style="white-space:pre-wrap;font-size:13px;line-height:1.5;color:#7a271a;">' + String(detail || 'Unknown error') + '</pre>' +
+          '<button onclick="location.reload()" style="margin-top:16px;padding:8px 14px;border:1px solid #d92d20;background:#fff;color:#b42318;border-radius:4px;">重新加载</button>' +
+          '</section></main>'
+      }
+      window.addEventListener('error', function (event) {
+        window.__karmaShowFatal('脚本加载失败', event.message || event.error)
+      })
+      window.addEventListener('unhandledrejection', function (event) {
+        window.__karmaShowFatal('启动 Promise 失败', event.reason && (event.reason.stack || event.reason.message || event.reason))
+      })
+    </script>
+    <div id="root">
+      <main style="min-height:100vh;display:flex;align-items:center;justify-content:center;background:#fff;color:#20242b;font-family:Arial,sans-serif;">
+        游戏加载中...
+      </main>
+    </div>
+  </body>
+</html>

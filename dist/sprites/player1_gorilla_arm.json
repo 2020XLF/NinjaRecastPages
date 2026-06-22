@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_gorilla_arm-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-008.png": {
+      "frame": {
+        "x": 2714,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-009.png": {
+      "frame": {
+        "x": 3053,
+        "y": 2,
+        "w": 338,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 26,
+        "w": 338,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-010.png": {
+      "frame": {
+        "x": 3393,
+        "y": 2,
+        "w": 338,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 26,
+        "w": 338,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-011.png": {
+      "frame": {
+        "x": 3733,
+        "y": 2,
+        "w": 338,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 26,
+        "w": 338,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 339,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 26,
+        "w": 339,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-013.png": {
+      "frame": {
+        "x": 343,
+        "y": 743,
+        "w": 339,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 26,
+        "w": 339,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-014.png": {
+      "frame": {
+        "x": 684,
+        "y": 743,
+        "w": 338,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 338,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-015.png": {
+      "frame": {
+        "x": 1024,
+        "y": 743,
+        "w": 324,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 29,
+        "w": 324,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-016.png": {
+      "frame": {
+        "x": 1350,
+        "y": 743,
+        "w": 324,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 29,
+        "w": 324,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-017.png": {
+      "frame": {
+        "x": 1676,
+        "y": 743,
+        "w": 323,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 30,
+        "w": 323,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-018.png": {
+      "frame": {
+        "x": 2001,
+        "y": 743,
+        "w": 331,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 36,
+        "w": 331,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-019.png": {
+      "frame": {
+        "x": 2334,
+        "y": 743,
+        "w": 331,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 36,
+        "w": 331,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-020.png": {
+      "frame": {
+        "x": 2667,
+        "y": 743,
+        "w": 340,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 39,
+        "w": 340,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-021.png": {
+      "frame": {
+        "x": 3009,
+        "y": 743,
+        "w": 375,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 47,
+        "w": 375,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-022.png": {
+      "frame": {
+        "x": 3386,
+        "y": 743,
+        "w": 375,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 47,
+        "w": 375,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-023.png": {
+      "frame": {
+        "x": 2,
+        "y": 1484,
+        "w": 397,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 53,
+        "w": 397,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-024.png": {
+      "frame": {
+        "x": 401,
+        "y": 1484,
+        "w": 413,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 64,
+        "w": 413,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-025.png": {
+      "frame": {
+        "x": 816,
+        "y": 1484,
+        "w": 413,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 64,
+        "w": 413,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-026.png": {
+      "frame": {
+        "x": 1231,
+        "y": 1484,
+        "w": 410,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 68,
+        "w": 410,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-027.png": {
+      "frame": {
+        "x": 1643,
+        "y": 1484,
+        "w": 427,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 76,
+        "w": 427,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-028.png": {
+      "frame": {
+        "x": 2072,
+        "y": 1484,
+        "w": 427,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 76,
+        "w": 427,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-029.png": {
+      "frame": {
+        "x": 2501,
+        "y": 1484,
+        "w": 437,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 271,
+        "y": 80,
+        "w": 437,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-030.png": {
+      "frame": {
+        "x": 2940,
+        "y": 1484,
+        "w": 459,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 273,
+        "y": 91,
+        "w": 459,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-031.png": {
+      "frame": {
+        "x": 3401,
+        "y": 1484,
+        "w": 459,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 273,
+        "y": 91,
+        "w": 459,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 2188,
+        "w": 467,
+        "h": 660
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 98,
+        "w": 467,
+        "h": 660
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-033.png": {
+      "frame": {
+        "x": 471,
+        "y": 2188,
+        "w": 481,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 111,
+        "w": 481,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-034.png": {
+      "frame": {
+        "x": 954,
+        "y": 2188,
+        "w": 481,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 111,
+        "w": 481,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-035.png": {
+      "frame": {
+        "x": 1437,
+        "y": 2188,
+        "w": 479,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 113,
+        "w": 479,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-036.png": {
+      "frame": {
+        "x": 1918,
+        "y": 2188,
+        "w": 479,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 113,
+        "w": 479,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-037.png": {
+      "frame": {
+        "x": 2399,
+        "y": 2188,
+        "w": 479,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 113,
+        "w": 479,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-038.png": {
+      "frame": {
+        "x": 2880,
+        "y": 2188,
+        "w": 479,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 114,
+        "w": 479,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-039.png": {
+      "frame": {
+        "x": 3361,
+        "y": 2188,
+        "w": 479,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 114,
+        "w": 479,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 2850,
+        "w": 479,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 114,
+        "w": 479,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-041.png": {
+      "frame": {
+        "x": 483,
+        "y": 2850,
+        "w": 479,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 114,
+        "w": 479,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-042.png": {
+      "frame": {
+        "x": 964,
+        "y": 2850,
+        "w": 478,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 114,
+        "w": 478,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-043.png": {
+      "frame": {
+        "x": 1444,
+        "y": 2850,
+        "w": 478,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 114,
+        "w": 478,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-044.png": {
+      "frame": {
+        "x": 1924,
+        "y": 2850,
+        "w": 475,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 290,
+        "y": 114,
+        "w": 475,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-045.png": {
+      "frame": {
+        "x": 2401,
+        "y": 2850,
+        "w": 449,
+        "h": 650
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 109,
+        "w": 449,
+        "h": 650
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-046.png": {
+      "frame": {
+        "x": 2852,
+        "y": 2850,
+        "w": 706,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 0,
+        "w": 706,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 3608,
+        "w": 706,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 0,
+        "w": 706,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-048.png": {
+      "frame": {
+        "x": 710,
+        "y": 3608,
+        "w": 714,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 0,
+        "w": 714,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-049.png": {
+      "frame": {
+        "x": 1426,
+        "y": 3608,
+        "w": 714,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 0,
+        "w": 714,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-050.png": {
+      "frame": {
+        "x": 2142,
+        "y": 3608,
+        "w": 716,
+        "h": 747
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 0,
+        "w": 716,
+        "h": 747
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-051.png": {
+      "frame": {
+        "x": 2860,
+        "y": 3608,
+        "w": 716,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 0,
+        "w": 716,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 4370,
+        "w": 716,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 0,
+        "w": 716,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-053.png": {
+      "frame": {
+        "x": 720,
+        "y": 4370,
+        "w": 693,
+        "h": 669
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 84,
+        "w": 693,
+        "h": 669
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-054.png": {
+      "frame": {
+        "x": 1415,
+        "y": 4370,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 120,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-055.png": {
+      "frame": {
+        "x": 2038,
+        "y": 4370,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 120,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-056.png": {
+      "frame": {
+        "x": 2661,
+        "y": 4370,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-057.png": {
+      "frame": {
+        "x": 3284,
+        "y": 4370,
+        "w": 621,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-058.png": {
+      "frame": {
+        "x": 2,
+        "y": 5128,
+        "w": 621,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-059.png": {
+      "frame": {
+        "x": 625,
+        "y": 5128,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-060.png": {
+      "frame": {
+        "x": 1248,
+        "y": 5128,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-061.png": {
+      "frame": {
+        "x": 1871,
+        "y": 5128,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-062.png": {
+      "frame": {
+        "x": 2494,
+        "y": 5128,
+        "w": 621,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-063.png": {
+      "frame": {
+        "x": 3117,
+        "y": 5128,
+        "w": 621,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-064.png": {
+      "frame": {
+        "x": 2,
+        "y": 5770,
+        "w": 621,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 115,
+        "w": 621,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-065.png": {
+      "frame": {
+        "x": 625,
+        "y": 5770,
+        "w": 615,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 113,
+        "w": 615,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-066.png": {
+      "frame": {
+        "x": 1242,
+        "y": 5770,
+        "w": 586,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 107,
+        "w": 586,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-067.png": {
+      "frame": {
+        "x": 1830,
+        "y": 5770,
+        "w": 586,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 107,
+        "w": 586,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-068.png": {
+      "frame": {
+        "x": 2418,
+        "y": 5770,
+        "w": 549,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 103,
+        "w": 549,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-069.png": {
+      "frame": {
+        "x": 2969,
+        "y": 5770,
+        "w": 414,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 95,
+        "w": 414,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-070.png": {
+      "frame": {
+        "x": 3385,
+        "y": 5770,
+        "w": 414,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 95,
+        "w": 414,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-071.png": {
+      "frame": {
+        "x": 2,
+        "y": 6442,
+        "w": 410,
+        "h": 676
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 89,
+        "w": 410,
+        "h": 676
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-072.png": {
+      "frame": {
+        "x": 414,
+        "y": 6442,
+        "w": 418,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 76,
+        "w": 418,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-073.png": {
+      "frame": {
+        "x": 834,
+        "y": 6442,
+        "w": 418,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 76,
+        "w": 418,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-074.png": {
+      "frame": {
+        "x": 1254,
+        "y": 6442,
+        "w": 452,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 67,
+        "w": 452,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-075.png": {
+      "frame": {
+        "x": 1708,
+        "y": 6442,
+        "w": 434,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 290,
+        "y": 49,
+        "w": 434,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-076.png": {
+      "frame": {
+        "x": 2144,
+        "y": 6442,
+        "w": 434,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 290,
+        "y": 49,
+        "w": 434,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-077.png": {
+      "frame": {
+        "x": 2580,
+        "y": 6442,
+        "w": 426,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 283,
+        "y": 42,
+        "w": 426,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-078.png": {
+      "frame": {
+        "x": 3008,
+        "y": 6442,
+        "w": 417,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 269,
+        "y": 32,
+        "w": 417,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_gorilla_arm-079.png": {
+      "frame": {
+        "x": 3427,
+        "y": 6442,
+        "w": 417,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 269,
+        "y": 32,
+        "w": 417,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_gorilla_arm": [
+      "player1_gorilla_arm-000.png",
+      "player1_gorilla_arm-001.png",
+      "player1_gorilla_arm-002.png",
+      "player1_gorilla_arm-003.png",
+      "player1_gorilla_arm-004.png",
+      "player1_gorilla_arm-005.png",
+      "player1_gorilla_arm-006.png",
+      "player1_gorilla_arm-007.png",
+      "player1_gorilla_arm-008.png",
+      "player1_gorilla_arm-009.png",
+      "player1_gorilla_arm-010.png",
+      "player1_gorilla_arm-011.png",
+      "player1_gorilla_arm-012.png",
+      "player1_gorilla_arm-013.png",
+      "player1_gorilla_arm-014.png",
+      "player1_gorilla_arm-015.png",
+      "player1_gorilla_arm-016.png",
+      "player1_gorilla_arm-017.png",
+      "player1_gorilla_arm-018.png",
+      "player1_gorilla_arm-019.png",
+      "player1_gorilla_arm-020.png",
+      "player1_gorilla_arm-021.png",
+      "player1_gorilla_arm-022.png",
+      "player1_gorilla_arm-023.png",
+      "player1_gorilla_arm-024.png",
+      "player1_gorilla_arm-025.png",
+      "player1_gorilla_arm-026.png",
+      "player1_gorilla_arm-027.png",
+      "player1_gorilla_arm-028.png",
+      "player1_gorilla_arm-029.png",
+      "player1_gorilla_arm-030.png",
+      "player1_gorilla_arm-031.png",
+      "player1_gorilla_arm-032.png",
+      "player1_gorilla_arm-033.png",
+      "player1_gorilla_arm-034.png",
+      "player1_gorilla_arm-035.png",
+      "player1_gorilla_arm-036.png",
+      "player1_gorilla_arm-037.png",
+      "player1_gorilla_arm-038.png",
+      "player1_gorilla_arm-039.png",
+      "player1_gorilla_arm-040.png",
+      "player1_gorilla_arm-041.png",
+      "player1_gorilla_arm-042.png",
+      "player1_gorilla_arm-043.png",
+      "player1_gorilla_arm-044.png",
+      "player1_gorilla_arm-045.png",
+      "player1_gorilla_arm-046.png",
+      "player1_gorilla_arm-047.png",
+      "player1_gorilla_arm-048.png",
+      "player1_gorilla_arm-049.png",
+      "player1_gorilla_arm-050.png",
+      "player1_gorilla_arm-051.png",
+      "player1_gorilla_arm-052.png",
+      "player1_gorilla_arm-053.png",
+      "player1_gorilla_arm-054.png",
+      "player1_gorilla_arm-055.png",
+      "player1_gorilla_arm-056.png",
+      "player1_gorilla_arm-057.png",
+      "player1_gorilla_arm-058.png",
+      "player1_gorilla_arm-059.png",
+      "player1_gorilla_arm-060.png",
+      "player1_gorilla_arm-061.png",
+      "player1_gorilla_arm-062.png",
+      "player1_gorilla_arm-063.png",
+      "player1_gorilla_arm-064.png",
+      "player1_gorilla_arm-065.png",
+      "player1_gorilla_arm-066.png",
+      "player1_gorilla_arm-067.png",
+      "player1_gorilla_arm-068.png",
+      "player1_gorilla_arm-069.png",
+      "player1_gorilla_arm-070.png",
+      "player1_gorilla_arm-071.png",
+      "player1_gorilla_arm-072.png",
+      "player1_gorilla_arm-073.png",
+      "player1_gorilla_arm-074.png",
+      "player1_gorilla_arm-075.png",
+      "player1_gorilla_arm-076.png",
+      "player1_gorilla_arm-077.png",
+      "player1_gorilla_arm-078.png",
+      "player1_gorilla_arm-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_gorilla_arm.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4073,
+      "h": 7177
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

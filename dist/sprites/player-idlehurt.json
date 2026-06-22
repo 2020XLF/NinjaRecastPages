@@ -1,0 +1,2470 @@
+{
+  "frames": {
+    "player-idlehurt-000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-001.png": {
+      "frame": {
+        "x": 142,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-002.png": {
+      "frame": {
+        "x": 284,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-003.png": {
+      "frame": {
+        "x": 426,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-004.png": {
+      "frame": {
+        "x": 568,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-005.png": {
+      "frame": {
+        "x": 710,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-006.png": {
+      "frame": {
+        "x": 852,
+        "y": 0,
+        "w": 141,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 3,
+        "w": 141,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-007.png": {
+      "frame": {
+        "x": 993,
+        "y": 0,
+        "w": 141,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 3,
+        "w": 141,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-008.png": {
+      "frame": {
+        "x": 1134,
+        "y": 0,
+        "w": 141,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 4,
+        "w": 141,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-009.png": {
+      "frame": {
+        "x": 1275,
+        "y": 0,
+        "w": 140,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 140,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-010.png": {
+      "frame": {
+        "x": 1415,
+        "y": 0,
+        "w": 140,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 140,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-011.png": {
+      "frame": {
+        "x": 1555,
+        "y": 0,
+        "w": 139,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 9,
+        "w": 139,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-012.png": {
+      "frame": {
+        "x": 1694,
+        "y": 0,
+        "w": 139,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 9,
+        "w": 139,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-013.png": {
+      "frame": {
+        "x": 1833,
+        "y": 0,
+        "w": 139,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 9,
+        "w": 139,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-014.png": {
+      "frame": {
+        "x": 1972,
+        "y": 0,
+        "w": 139,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 139,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-015.png": {
+      "frame": {
+        "x": 2111,
+        "y": 0,
+        "w": 139,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 6,
+        "w": 139,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-016.png": {
+      "frame": {
+        "x": 2250,
+        "y": 0,
+        "w": 139,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 6,
+        "w": 139,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-017.png": {
+      "frame": {
+        "x": 2389,
+        "y": 0,
+        "w": 140,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 140,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-018.png": {
+      "frame": {
+        "x": 2529,
+        "y": 0,
+        "w": 140,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 140,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-019.png": {
+      "frame": {
+        "x": 2669,
+        "y": 0,
+        "w": 140,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 140,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-020.png": {
+      "frame": {
+        "x": 2809,
+        "y": 0,
+        "w": 140,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 140,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-021.png": {
+      "frame": {
+        "x": 2949,
+        "y": 0,
+        "w": 140,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 140,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-022.png": {
+      "frame": {
+        "x": 3089,
+        "y": 0,
+        "w": 140,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 140,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-023.png": {
+      "frame": {
+        "x": 3229,
+        "y": 0,
+        "w": 140,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 140,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-024.png": {
+      "frame": {
+        "x": 3369,
+        "y": 0,
+        "w": 140,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 140,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-025.png": {
+      "frame": {
+        "x": 3509,
+        "y": 0,
+        "w": 140,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 140,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-026.png": {
+      "frame": {
+        "x": 3649,
+        "y": 0,
+        "w": 139,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 3,
+        "w": 139,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-027.png": {
+      "frame": {
+        "x": 3788,
+        "y": 0,
+        "w": 139,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 6,
+        "w": 139,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-028.png": {
+      "frame": {
+        "x": 3927,
+        "y": 0,
+        "w": 139,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 6,
+        "w": 139,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-029.png": {
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 139,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 139,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-030.png": {
+      "frame": {
+        "x": 139,
+        "y": 300,
+        "w": 139,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 9,
+        "w": 139,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-031.png": {
+      "frame": {
+        "x": 278,
+        "y": 300,
+        "w": 139,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 9,
+        "w": 139,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-032.png": {
+      "frame": {
+        "x": 417,
+        "y": 300,
+        "w": 139,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 9,
+        "w": 139,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-033.png": {
+      "frame": {
+        "x": 556,
+        "y": 300,
+        "w": 139,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 139,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-034.png": {
+      "frame": {
+        "x": 695,
+        "y": 300,
+        "w": 139,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 139,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-035.png": {
+      "frame": {
+        "x": 834,
+        "y": 300,
+        "w": 139,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 7,
+        "w": 139,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-036.png": {
+      "frame": {
+        "x": 973,
+        "y": 300,
+        "w": 140,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 140,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-037.png": {
+      "frame": {
+        "x": 1113,
+        "y": 300,
+        "w": 140,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 140,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-038.png": {
+      "frame": {
+        "x": 1253,
+        "y": 300,
+        "w": 140,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 4,
+        "w": 140,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-039.png": {
+      "frame": {
+        "x": 1393,
+        "y": 300,
+        "w": 140,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 140,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-040.png": {
+      "frame": {
+        "x": 1533,
+        "y": 300,
+        "w": 140,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 140,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-041.png": {
+      "frame": {
+        "x": 1673,
+        "y": 300,
+        "w": 141,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 2,
+        "w": 141,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-042.png": {
+      "frame": {
+        "x": 1814,
+        "y": 300,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-043.png": {
+      "frame": {
+        "x": 1955,
+        "y": 300,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-044.png": {
+      "frame": {
+        "x": 2096,
+        "y": 300,
+        "w": 141,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 141,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-045.png": {
+      "frame": {
+        "x": 2237,
+        "y": 300,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-046.png": {
+      "frame": {
+        "x": 2378,
+        "y": 300,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-047.png": {
+      "frame": {
+        "x": 2519,
+        "y": 300,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-048.png": {
+      "frame": {
+        "x": 2660,
+        "y": 300,
+        "w": 141,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 4,
+        "w": 141,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-049.png": {
+      "frame": {
+        "x": 2801,
+        "y": 300,
+        "w": 141,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 4,
+        "w": 141,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-050.png": {
+      "frame": {
+        "x": 2942,
+        "y": 300,
+        "w": 141,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 6,
+        "w": 141,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-051.png": {
+      "frame": {
+        "x": 3083,
+        "y": 300,
+        "w": 141,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 9,
+        "w": 141,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-052.png": {
+      "frame": {
+        "x": 3224,
+        "y": 300,
+        "w": 141,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 9,
+        "w": 141,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-053.png": {
+      "frame": {
+        "x": 3365,
+        "y": 300,
+        "w": 141,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 141,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-054.png": {
+      "frame": {
+        "x": 3506,
+        "y": 300,
+        "w": 141,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 11,
+        "w": 141,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-055.png": {
+      "frame": {
+        "x": 3647,
+        "y": 300,
+        "w": 141,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 11,
+        "w": 141,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-056.png": {
+      "frame": {
+        "x": 3788,
+        "y": 300,
+        "w": 141,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 11,
+        "w": 141,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-057.png": {
+      "frame": {
+        "x": 3929,
+        "y": 300,
+        "w": 141,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 141,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-058.png": {
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 141,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 141,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-059.png": {
+      "frame": {
+        "x": 141,
+        "y": 600,
+        "w": 142,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 142,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-060.png": {
+      "frame": {
+        "x": 283,
+        "y": 600,
+        "w": 142,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 142,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-061.png": {
+      "frame": {
+        "x": 425,
+        "y": 600,
+        "w": 142,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 142,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-062.png": {
+      "frame": {
+        "x": 567,
+        "y": 600,
+        "w": 142,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 142,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-063.png": {
+      "frame": {
+        "x": 709,
+        "y": 600,
+        "w": 142,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 4,
+        "w": 142,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-064.png": {
+      "frame": {
+        "x": 851,
+        "y": 600,
+        "w": 142,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 4,
+        "w": 142,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-065.png": {
+      "frame": {
+        "x": 993,
+        "y": 600,
+        "w": 142,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 142,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-066.png": {
+      "frame": {
+        "x": 1135,
+        "y": 600,
+        "w": 143,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 143,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-067.png": {
+      "frame": {
+        "x": 1278,
+        "y": 600,
+        "w": 143,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 143,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-068.png": {
+      "frame": {
+        "x": 1421,
+        "y": 600,
+        "w": 142,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 142,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-069.png": {
+      "frame": {
+        "x": 1563,
+        "y": 600,
+        "w": 143,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 143,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-070.png": {
+      "frame": {
+        "x": 1706,
+        "y": 600,
+        "w": 143,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 143,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-071.png": {
+      "frame": {
+        "x": 1849,
+        "y": 600,
+        "w": 142,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 142,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-072.png": {
+      "frame": {
+        "x": 1991,
+        "y": 600,
+        "w": 143,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 143,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-073.png": {
+      "frame": {
+        "x": 2134,
+        "y": 600,
+        "w": 143,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 143,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-074.png": {
+      "frame": {
+        "x": 2277,
+        "y": 600,
+        "w": 142,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 142,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-075.png": {
+      "frame": {
+        "x": 2419,
+        "y": 600,
+        "w": 142,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 142,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-076.png": {
+      "frame": {
+        "x": 2561,
+        "y": 600,
+        "w": 142,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 142,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-077.png": {
+      "frame": {
+        "x": 2703,
+        "y": 600,
+        "w": 142,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 4,
+        "w": 142,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-078.png": {
+      "frame": {
+        "x": 2845,
+        "y": 600,
+        "w": 141,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 9,
+        "w": 141,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-079.png": {
+      "frame": {
+        "x": 2986,
+        "y": 600,
+        "w": 141,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 9,
+        "w": 141,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-080.png": {
+      "frame": {
+        "x": 3127,
+        "y": 600,
+        "w": 141,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 9,
+        "w": 141,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-081.png": {
+      "frame": {
+        "x": 3268,
+        "y": 600,
+        "w": 140,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 10,
+        "w": 140,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-082.png": {
+      "frame": {
+        "x": 3408,
+        "y": 600,
+        "w": 140,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 10,
+        "w": 140,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-083.png": {
+      "frame": {
+        "x": 3548,
+        "y": 600,
+        "w": 141,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 141,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-084.png": {
+      "frame": {
+        "x": 3689,
+        "y": 600,
+        "w": 141,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 141,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-085.png": {
+      "frame": {
+        "x": 3830,
+        "y": 600,
+        "w": 141,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 141,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-086.png": {
+      "frame": {
+        "x": 0,
+        "y": 899,
+        "w": 141,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 9,
+        "w": 141,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-087.png": {
+      "frame": {
+        "x": 141,
+        "y": 899,
+        "w": 141,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 6,
+        "w": 141,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-088.png": {
+      "frame": {
+        "x": 282,
+        "y": 899,
+        "w": 141,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 6,
+        "w": 141,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-089.png": {
+      "frame": {
+        "x": 423,
+        "y": 899,
+        "w": 141,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 141,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-090.png": {
+      "frame": {
+        "x": 564,
+        "y": 899,
+        "w": 141,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 2,
+        "w": 141,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-091.png": {
+      "frame": {
+        "x": 705,
+        "y": 899,
+        "w": 141,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 2,
+        "w": 141,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-092.png": {
+      "frame": {
+        "x": 846,
+        "y": 899,
+        "w": 141,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 2,
+        "w": 141,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-093.png": {
+      "frame": {
+        "x": 987,
+        "y": 899,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-094.png": {
+      "frame": {
+        "x": 1128,
+        "y": 899,
+        "w": 141,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 141,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-095.png": {
+      "frame": {
+        "x": 1269,
+        "y": 899,
+        "w": 140,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 140,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-096.png": {
+      "frame": {
+        "x": 1409,
+        "y": 899,
+        "w": 140,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 4,
+        "w": 140,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "player-idlehurt-097.png": {
+      "frame": {
+        "x": 1549,
+        "y": 899,
+        "w": 140,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 4,
+        "w": 140,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 300
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "animations": {
+    "player-idlehurt": [
+      "player-idlehurt-000.png",
+      "player-idlehurt-001.png",
+      "player-idlehurt-002.png",
+      "player-idlehurt-003.png",
+      "player-idlehurt-004.png",
+      "player-idlehurt-005.png",
+      "player-idlehurt-006.png",
+      "player-idlehurt-007.png",
+      "player-idlehurt-008.png",
+      "player-idlehurt-009.png",
+      "player-idlehurt-010.png",
+      "player-idlehurt-011.png",
+      "player-idlehurt-012.png",
+      "player-idlehurt-013.png",
+      "player-idlehurt-014.png",
+      "player-idlehurt-015.png",
+      "player-idlehurt-016.png",
+      "player-idlehurt-017.png",
+      "player-idlehurt-018.png",
+      "player-idlehurt-019.png",
+      "player-idlehurt-020.png",
+      "player-idlehurt-021.png",
+      "player-idlehurt-022.png",
+      "player-idlehurt-023.png",
+      "player-idlehurt-024.png",
+      "player-idlehurt-025.png",
+      "player-idlehurt-026.png",
+      "player-idlehurt-027.png",
+      "player-idlehurt-028.png",
+      "player-idlehurt-029.png",
+      "player-idlehurt-030.png",
+      "player-idlehurt-031.png",
+      "player-idlehurt-032.png",
+      "player-idlehurt-033.png",
+      "player-idlehurt-034.png",
+      "player-idlehurt-035.png",
+      "player-idlehurt-036.png",
+      "player-idlehurt-037.png",
+      "player-idlehurt-038.png",
+      "player-idlehurt-039.png",
+      "player-idlehurt-040.png",
+      "player-idlehurt-041.png",
+      "player-idlehurt-042.png",
+      "player-idlehurt-043.png",
+      "player-idlehurt-044.png",
+      "player-idlehurt-045.png",
+      "player-idlehurt-046.png",
+      "player-idlehurt-047.png",
+      "player-idlehurt-048.png",
+      "player-idlehurt-049.png",
+      "player-idlehurt-050.png",
+      "player-idlehurt-051.png",
+      "player-idlehurt-052.png",
+      "player-idlehurt-053.png",
+      "player-idlehurt-054.png",
+      "player-idlehurt-055.png",
+      "player-idlehurt-056.png",
+      "player-idlehurt-057.png",
+      "player-idlehurt-058.png",
+      "player-idlehurt-059.png",
+      "player-idlehurt-060.png",
+      "player-idlehurt-061.png",
+      "player-idlehurt-062.png",
+      "player-idlehurt-063.png",
+      "player-idlehurt-064.png",
+      "player-idlehurt-065.png",
+      "player-idlehurt-066.png",
+      "player-idlehurt-067.png",
+      "player-idlehurt-068.png",
+      "player-idlehurt-069.png",
+      "player-idlehurt-070.png",
+      "player-idlehurt-071.png",
+      "player-idlehurt-072.png",
+      "player-idlehurt-073.png",
+      "player-idlehurt-074.png",
+      "player-idlehurt-075.png",
+      "player-idlehurt-076.png",
+      "player-idlehurt-077.png",
+      "player-idlehurt-078.png",
+      "player-idlehurt-079.png",
+      "player-idlehurt-080.png",
+      "player-idlehurt-081.png",
+      "player-idlehurt-082.png",
+      "player-idlehurt-083.png",
+      "player-idlehurt-084.png",
+      "player-idlehurt-085.png",
+      "player-idlehurt-086.png",
+      "player-idlehurt-087.png",
+      "player-idlehurt-088.png",
+      "player-idlehurt-089.png",
+      "player-idlehurt-090.png",
+      "player-idlehurt-091.png",
+      "player-idlehurt-092.png",
+      "player-idlehurt-093.png",
+      "player-idlehurt-094.png",
+      "player-idlehurt-095.png",
+      "player-idlehurt-096.png",
+      "player-idlehurt-097.png"
+    ]
+  },
+  "meta": {
+    "app": "codex-ai-sprite-converter",
+    "version": "1.1",
+    "image": "player-idlehurt.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4070,
+      "h": 1198
+    },
+    "scale": "1",
+    "smartupdate": "converted-from-ai-sprite-sheet-downscaled-foot-aligned"
+  }
+}

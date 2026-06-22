@@ -1,0 +1,870 @@
+{
+  "frames": {
+    "猎犬-137.png": {
+      "frame": {
+        "x": 207,
+        "y": 559,
+        "w": 109,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 2,
+        "w": 109,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-139.png": {
+      "frame": {
+        "x": 411,
+        "y": 458,
+        "w": 100,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 3,
+        "w": 100,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-141.png": {
+      "frame": {
+        "x": 1,
+        "y": 539,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 4,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-143.png": {
+      "frame": {
+        "x": 104,
+        "y": 551,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 4,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-145.png": {
+      "frame": {
+        "x": 204,
+        "y": 450,
+        "w": 102,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 6,
+        "w": 102,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-147.png": {
+      "frame": {
+        "x": 308,
+        "y": 458,
+        "w": 101,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 6,
+        "w": 101,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-149.png": {
+      "frame": {
+        "x": 358,
+        "y": 264,
+        "w": 102,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 12,
+        "w": 102,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-150.png": {
+      "frame": {
+        "x": 308,
+        "y": 359,
+        "w": 100,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 8,
+        "w": 100,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-152.png": {
+      "frame": {
+        "x": 1,
+        "y": 333,
+        "w": 99,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 11,
+        "w": 99,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-154.png": {
+      "frame": {
+        "x": 410,
+        "y": 359,
+        "w": 97,
+        "h": 98
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 7,
+        "w": 97,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-156.png": {
+      "frame": {
+        "x": 1,
+        "y": 429,
+        "w": 97,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 5,
+        "w": 97,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-158.png": {
+      "frame": {
+        "x": 102,
+        "y": 344,
+        "w": 94,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 4,
+        "w": 94,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-159.png": {
+      "frame": {
+        "x": 100,
+        "y": 440,
+        "w": 97,
+        "h": 102
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 3,
+        "w": 97,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-161.png": {
+      "frame": {
+        "x": 205,
+        "y": 353,
+        "w": 95,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 4,
+        "w": 95,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-163.png": {
+      "frame": {
+        "x": 256,
+        "y": 260,
+        "w": 91,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 5,
+        "w": 91,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-164.png": {
+      "frame": {
+        "x": 318,
+        "y": 562,
+        "w": 117,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 0,
+        "w": 117,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-165.png": {
+      "frame": {
+        "x": 126,
+        "y": 260,
+        "w": 128,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 128,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-166.png": {
+      "frame": {
+        "x": 1,
+        "y": 257,
+        "w": 123,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 31,
+        "w": 123,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-167.png": {
+      "frame": {
+        "x": 228,
+        "y": 190,
+        "w": 128,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 37,
+        "w": 128,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-168.png": {
+      "frame": {
+        "x": 113,
+        "y": 187,
+        "w": 113,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 37,
+        "w": 113,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-169.png": {
+      "frame": {
+        "x": 358,
+        "y": 191,
+        "w": 120,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 34,
+        "w": 120,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-170.png": {
+      "frame": {
+        "x": 364,
+        "y": 59,
+        "w": 122,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 43,
+        "w": 122,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-171.png": {
+      "frame": {
+        "x": 242,
+        "y": 59,
+        "w": 120,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 44,
+        "w": 120,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-172.png": {
+      "frame": {
+        "x": 241,
+        "y": 122,
+        "w": 119,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 39,
+        "w": 119,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-175.png": {
+      "frame": {
+        "x": 120,
+        "y": 120,
+        "w": 119,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 40,
+        "w": 119,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-177.png": {
+      "frame": {
+        "x": 362,
+        "y": 123,
+        "w": 117,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 39,
+        "w": 117,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-178.png": {
+      "frame": {
+        "x": 1,
+        "y": 117,
+        "w": 117,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 42,
+        "w": 117,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-180.png": {
+      "frame": {
+        "x": 1,
+        "y": 182,
+        "w": 110,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 39,
+        "w": 110,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-184.png": {
+      "frame": {
+        "x": 120,
+        "y": 58,
+        "w": 120,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 45,
+        "w": 120,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-185.png": {
+      "frame": {
+        "x": 1,
+        "y": 56,
+        "w": 117,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 46,
+        "w": 117,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-186.png": {
+      "frame": {
+        "x": 224,
+        "y": 1,
+        "w": 117,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 50,
+        "w": 117,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-187.png": {
+      "frame": {
+        "x": 343,
+        "y": 1,
+        "w": 117,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 49,
+        "w": 117,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-189.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 110,
+        "h": 49
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 56,
+        "w": 110,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "猎犬-191.png": {
+      "frame": {
+        "x": 113,
+        "y": 1,
+        "w": 109,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 52,
+        "w": 109,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 105
+      },
+      "anchor": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "animations": {
+    "猎犬": [
+      "猎犬-137.png",
+      "猎犬-139.png",
+      "猎犬-141.png",
+      "猎犬-143.png",
+      "猎犬-145.png",
+      "猎犬-147.png",
+      "猎犬-149.png",
+      "猎犬-150.png",
+      "猎犬-152.png",
+      "猎犬-154.png",
+      "猎犬-156.png",
+      "猎犬-158.png",
+      "猎犬-159.png",
+      "猎犬-161.png",
+      "猎犬-163.png",
+      "猎犬-164.png",
+      "猎犬-165.png",
+      "猎犬-166.png",
+      "猎犬-167.png",
+      "猎犬-168.png",
+      "猎犬-169.png",
+      "猎犬-170.png",
+      "猎犬-171.png",
+      "猎犬-172.png",
+      "猎犬-175.png",
+      "猎犬-177.png",
+      "猎犬-178.png",
+      "猎犬-180.png",
+      "猎犬-184.png",
+      "猎犬-185.png",
+      "猎犬-186.png",
+      "猎犬-187.png",
+      "猎犬-189.png",
+      "猎犬-191.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.1",
+    "image": "death.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 668
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:eabeb9c16ac817669eab77585dfe2cc4:440f33908aa2c9fd6c08089c6e8f1cc3:572aa1586ae03ed41df9ba84da44551f$"
+  }
+}

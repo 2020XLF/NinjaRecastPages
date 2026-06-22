@@ -1,0 +1,40 @@
+[
+  {
+    "id": "player",
+    "name": "浪客",
+    "baseHp": 20,
+    "baseGold": 0,
+    "deckCardIds": [
+      "1001",
+      "1001",
+      "1001",
+      "1001",
+      "1001",
+      "1003",
+      "1003",
+      "1003",
+      "1003",
+      "1003",
+      "2001",
+      "2001",
+      "2001",
+      "2001",
+      "2001",
+      "2002",
+      "2002",
+      "2002",
+      "2002",
+      "2002"
+    ],
+    "comboIds": [
+      "combo_street_boxing"
+    ],
+    "spriteIdle": "./sprites/player-idle.json",
+    "spriteIdleHurt": "./sprites/player-idlehurt.json",
+    "spriteRun": "./sprites/player-run.json",
+    "spriteBack": "./sprites/player-back.json",
+    "spriteAttack": "./sprites/player-punch.json",
+    "spriteHurt": "./sprites/player-hurt.json",
+    "spriteDeath": "./sprites/player-death.json"
+  }
+]

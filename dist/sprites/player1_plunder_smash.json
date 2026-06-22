@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_plunder_smash-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-008.png": {
+      "frame": {
+        "x": 2714,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-009.png": {
+      "frame": {
+        "x": 3053,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-010.png": {
+      "frame": {
+        "x": 3392,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-011.png": {
+      "frame": {
+        "x": 3731,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-013.png": {
+      "frame": {
+        "x": 341,
+        "y": 743,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-014.png": {
+      "frame": {
+        "x": 680,
+        "y": 743,
+        "w": 336,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 26,
+        "w": 336,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-015.png": {
+      "frame": {
+        "x": 1018,
+        "y": 743,
+        "w": 336,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 26,
+        "w": 336,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-016.png": {
+      "frame": {
+        "x": 1356,
+        "y": 743,
+        "w": 336,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 26,
+        "w": 336,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-017.png": {
+      "frame": {
+        "x": 1694,
+        "y": 743,
+        "w": 336,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 26,
+        "w": 336,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-018.png": {
+      "frame": {
+        "x": 2032,
+        "y": 743,
+        "w": 335,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 26,
+        "w": 335,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-019.png": {
+      "frame": {
+        "x": 2369,
+        "y": 743,
+        "w": 335,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 26,
+        "w": 335,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-020.png": {
+      "frame": {
+        "x": 2706,
+        "y": 743,
+        "w": 335,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 26,
+        "w": 335,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-021.png": {
+      "frame": {
+        "x": 3043,
+        "y": 743,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-022.png": {
+      "frame": {
+        "x": 3382,
+        "y": 743,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-023.png": {
+      "frame": {
+        "x": 3721,
+        "y": 743,
+        "w": 338,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 338,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-024.png": {
+      "frame": {
+        "x": 2,
+        "y": 1484,
+        "w": 342,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 31,
+        "w": 342,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-025.png": {
+      "frame": {
+        "x": 346,
+        "y": 1484,
+        "w": 342,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 31,
+        "w": 342,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-026.png": {
+      "frame": {
+        "x": 690,
+        "y": 1484,
+        "w": 356,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 35,
+        "w": 356,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-027.png": {
+      "frame": {
+        "x": 1048,
+        "y": 1484,
+        "w": 378,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 49,
+        "w": 378,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-028.png": {
+      "frame": {
+        "x": 1428,
+        "y": 1484,
+        "w": 378,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 49,
+        "w": 378,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-029.png": {
+      "frame": {
+        "x": 1808,
+        "y": 1484,
+        "w": 384,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 58,
+        "w": 384,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-030.png": {
+      "frame": {
+        "x": 2194,
+        "y": 1484,
+        "w": 383,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 78,
+        "w": 383,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-031.png": {
+      "frame": {
+        "x": 2579,
+        "y": 1484,
+        "w": 383,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 78,
+        "w": 383,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-032.png": {
+      "frame": {
+        "x": 2964,
+        "y": 1484,
+        "w": 380,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 88,
+        "w": 380,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-033.png": {
+      "frame": {
+        "x": 3346,
+        "y": 1484,
+        "w": 373,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 104,
+        "w": 373,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-034.png": {
+      "frame": {
+        "x": 3721,
+        "y": 1484,
+        "w": 373,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 104,
+        "w": 373,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 2220,
+        "w": 371,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 110,
+        "w": 371,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-036.png": {
+      "frame": {
+        "x": 375,
+        "y": 2220,
+        "w": 371,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 118,
+        "w": 371,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-037.png": {
+      "frame": {
+        "x": 748,
+        "y": 2220,
+        "w": 371,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 118,
+        "w": 371,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-038.png": {
+      "frame": {
+        "x": 1121,
+        "y": 2220,
+        "w": 372,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 121,
+        "w": 372,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-039.png": {
+      "frame": {
+        "x": 1495,
+        "y": 2220,
+        "w": 371,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 123,
+        "w": 371,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-040.png": {
+      "frame": {
+        "x": 1868,
+        "y": 2220,
+        "w": 371,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 123,
+        "w": 371,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-041.png": {
+      "frame": {
+        "x": 2241,
+        "y": 2220,
+        "w": 372,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 123,
+        "w": 372,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-042.png": {
+      "frame": {
+        "x": 2615,
+        "y": 2220,
+        "w": 434,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 35,
+        "w": 434,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-043.png": {
+      "frame": {
+        "x": 3051,
+        "y": 2220,
+        "w": 434,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 35,
+        "w": 434,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-044.png": {
+      "frame": {
+        "x": 3487,
+        "y": 2220,
+        "w": 469,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 7,
+        "w": 469,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-045.png": {
+      "frame": {
+        "x": 2,
+        "y": 2940,
+        "w": 816,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 205,
+        "y": 115,
+        "w": 816,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-046.png": {
+      "frame": {
+        "x": 820,
+        "y": 2940,
+        "w": 816,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 205,
+        "y": 115,
+        "w": 816,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-047.png": {
+      "frame": {
+        "x": 1638,
+        "y": 2940,
+        "w": 877,
+        "h": 608
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 137,
+        "w": 877,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-048.png": {
+      "frame": {
+        "x": 2517,
+        "y": 2940,
+        "w": 1018,
+        "h": 602
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 143,
+        "w": 1018,
+        "h": 602
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 3571,
+        "w": 1018,
+        "h": 602
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 143,
+        "w": 1018,
+        "h": 602
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-050.png": {
+      "frame": {
+        "x": 1022,
+        "y": 3571,
+        "w": 985,
+        "h": 602
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 143,
+        "w": 985,
+        "h": 602
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-051.png": {
+      "frame": {
+        "x": 2009,
+        "y": 3571,
+        "w": 1024,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1024,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-052.png": {
+      "frame": {
+        "x": 3035,
+        "y": 3571,
+        "w": 1024,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1024,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-053.png": {
+      "frame": {
+        "x": 2,
+        "y": 4176,
+        "w": 1005,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1005,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-054.png": {
+      "frame": {
+        "x": 1009,
+        "y": 4176,
+        "w": 1006,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1006,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-055.png": {
+      "frame": {
+        "x": 2017,
+        "y": 4176,
+        "w": 1006,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1006,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-056.png": {
+      "frame": {
+        "x": 3025,
+        "y": 4176,
+        "w": 1013,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1013,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 4781,
+        "w": 999,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 999,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-058.png": {
+      "frame": {
+        "x": 1003,
+        "y": 4781,
+        "w": 999,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 999,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-059.png": {
+      "frame": {
+        "x": 2004,
+        "y": 4781,
+        "w": 1019,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1019,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-060.png": {
+      "frame": {
+        "x": 3025,
+        "y": 4781,
+        "w": 1006,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1006,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-061.png": {
+      "frame": {
+        "x": 2,
+        "y": 5386,
+        "w": 1006,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 1006,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-062.png": {
+      "frame": {
+        "x": 1010,
+        "y": 5386,
+        "w": 985,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 142,
+        "w": 985,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-063.png": {
+      "frame": {
+        "x": 1997,
+        "y": 5386,
+        "w": 923,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 137,
+        "w": 923,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-064.png": {
+      "frame": {
+        "x": 2922,
+        "y": 5386,
+        "w": 923,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 137,
+        "w": 923,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-065.png": {
+      "frame": {
+        "x": 2,
+        "y": 5995,
+        "w": 646,
+        "h": 608
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 230,
+        "y": 135,
+        "w": 646,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-066.png": {
+      "frame": {
+        "x": 650,
+        "y": 5995,
+        "w": 518,
+        "h": 612
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 134,
+        "w": 518,
+        "h": 612
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-067.png": {
+      "frame": {
+        "x": 1170,
+        "y": 5995,
+        "w": 518,
+        "h": 612
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 134,
+        "w": 518,
+        "h": 612
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-068.png": {
+      "frame": {
+        "x": 1690,
+        "y": 5995,
+        "w": 436,
+        "h": 625
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 135,
+        "w": 436,
+        "h": 625
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-069.png": {
+      "frame": {
+        "x": 2128,
+        "y": 5995,
+        "w": 354,
+        "h": 634
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 130,
+        "w": 354,
+        "h": 634
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-070.png": {
+      "frame": {
+        "x": 2484,
+        "y": 5995,
+        "w": 354,
+        "h": 634
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 130,
+        "w": 354,
+        "h": 634
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-071.png": {
+      "frame": {
+        "x": 2840,
+        "y": 5995,
+        "w": 344,
+        "h": 645
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 120,
+        "w": 344,
+        "h": 645
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-072.png": {
+      "frame": {
+        "x": 3186,
+        "y": 5995,
+        "w": 317,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 85,
+        "w": 317,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-073.png": {
+      "frame": {
+        "x": 3505,
+        "y": 5995,
+        "w": 317,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 85,
+        "w": 317,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-074.png": {
+      "frame": {
+        "x": 2,
+        "y": 6677,
+        "w": 308,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 65,
+        "w": 308,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-075.png": {
+      "frame": {
+        "x": 312,
+        "y": 6677,
+        "w": 323,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 38,
+        "w": 323,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-076.png": {
+      "frame": {
+        "x": 637,
+        "y": 6677,
+        "w": 323,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 38,
+        "w": 323,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-077.png": {
+      "frame": {
+        "x": 962,
+        "y": 6677,
+        "w": 326,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 32,
+        "w": 326,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-078.png": {
+      "frame": {
+        "x": 1290,
+        "y": 6677,
+        "w": 332,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 27,
+        "w": 332,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_plunder_smash-079.png": {
+      "frame": {
+        "x": 1624,
+        "y": 6677,
+        "w": 332,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 27,
+        "w": 332,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_plunder_smash": [
+      "player1_plunder_smash-000.png",
+      "player1_plunder_smash-001.png",
+      "player1_plunder_smash-002.png",
+      "player1_plunder_smash-003.png",
+      "player1_plunder_smash-004.png",
+      "player1_plunder_smash-005.png",
+      "player1_plunder_smash-006.png",
+      "player1_plunder_smash-007.png",
+      "player1_plunder_smash-008.png",
+      "player1_plunder_smash-009.png",
+      "player1_plunder_smash-010.png",
+      "player1_plunder_smash-011.png",
+      "player1_plunder_smash-012.png",
+      "player1_plunder_smash-013.png",
+      "player1_plunder_smash-014.png",
+      "player1_plunder_smash-015.png",
+      "player1_plunder_smash-016.png",
+      "player1_plunder_smash-017.png",
+      "player1_plunder_smash-018.png",
+      "player1_plunder_smash-019.png",
+      "player1_plunder_smash-020.png",
+      "player1_plunder_smash-021.png",
+      "player1_plunder_smash-022.png",
+      "player1_plunder_smash-023.png",
+      "player1_plunder_smash-024.png",
+      "player1_plunder_smash-025.png",
+      "player1_plunder_smash-026.png",
+      "player1_plunder_smash-027.png",
+      "player1_plunder_smash-028.png",
+      "player1_plunder_smash-029.png",
+      "player1_plunder_smash-030.png",
+      "player1_plunder_smash-031.png",
+      "player1_plunder_smash-032.png",
+      "player1_plunder_smash-033.png",
+      "player1_plunder_smash-034.png",
+      "player1_plunder_smash-035.png",
+      "player1_plunder_smash-036.png",
+      "player1_plunder_smash-037.png",
+      "player1_plunder_smash-038.png",
+      "player1_plunder_smash-039.png",
+      "player1_plunder_smash-040.png",
+      "player1_plunder_smash-041.png",
+      "player1_plunder_smash-042.png",
+      "player1_plunder_smash-043.png",
+      "player1_plunder_smash-044.png",
+      "player1_plunder_smash-045.png",
+      "player1_plunder_smash-046.png",
+      "player1_plunder_smash-047.png",
+      "player1_plunder_smash-048.png",
+      "player1_plunder_smash-049.png",
+      "player1_plunder_smash-050.png",
+      "player1_plunder_smash-051.png",
+      "player1_plunder_smash-052.png",
+      "player1_plunder_smash-053.png",
+      "player1_plunder_smash-054.png",
+      "player1_plunder_smash-055.png",
+      "player1_plunder_smash-056.png",
+      "player1_plunder_smash-057.png",
+      "player1_plunder_smash-058.png",
+      "player1_plunder_smash-059.png",
+      "player1_plunder_smash-060.png",
+      "player1_plunder_smash-061.png",
+      "player1_plunder_smash-062.png",
+      "player1_plunder_smash-063.png",
+      "player1_plunder_smash-064.png",
+      "player1_plunder_smash-065.png",
+      "player1_plunder_smash-066.png",
+      "player1_plunder_smash-067.png",
+      "player1_plunder_smash-068.png",
+      "player1_plunder_smash-069.png",
+      "player1_plunder_smash-070.png",
+      "player1_plunder_smash-071.png",
+      "player1_plunder_smash-072.png",
+      "player1_plunder_smash-073.png",
+      "player1_plunder_smash-074.png",
+      "player1_plunder_smash-075.png",
+      "player1_plunder_smash-076.png",
+      "player1_plunder_smash-077.png",
+      "player1_plunder_smash-078.png",
+      "player1_plunder_smash-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_plunder_smash.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 7417
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

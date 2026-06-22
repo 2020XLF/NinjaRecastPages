@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_elbow_strike-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-008.png": {
+      "frame": {
+        "x": 2714,
+        "y": 2,
+        "w": 337,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 26,
+        "w": 337,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-009.png": {
+      "frame": {
+        "x": 3053,
+        "y": 2,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-010.png": {
+      "frame": {
+        "x": 3392,
+        "y": 2,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-011.png": {
+      "frame": {
+        "x": 3731,
+        "y": 2,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 743,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-013.png": {
+      "frame": {
+        "x": 341,
+        "y": 743,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-014.png": {
+      "frame": {
+        "x": 680,
+        "y": 743,
+        "w": 337,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-015.png": {
+      "frame": {
+        "x": 1019,
+        "y": 743,
+        "w": 329,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 26,
+        "w": 329,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-016.png": {
+      "frame": {
+        "x": 1350,
+        "y": 743,
+        "w": 329,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 26,
+        "w": 329,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-017.png": {
+      "frame": {
+        "x": 1681,
+        "y": 743,
+        "w": 341,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 28,
+        "w": 341,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-018.png": {
+      "frame": {
+        "x": 2024,
+        "y": 743,
+        "w": 410,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 40,
+        "w": 410,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-019.png": {
+      "frame": {
+        "x": 2436,
+        "y": 743,
+        "w": 410,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 40,
+        "w": 410,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-020.png": {
+      "frame": {
+        "x": 2848,
+        "y": 743,
+        "w": 421,
+        "h": 699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 295,
+        "y": 53,
+        "w": 421,
+        "h": 699
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-021.png": {
+      "frame": {
+        "x": 3271,
+        "y": 743,
+        "w": 433,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 282,
+        "y": 82,
+        "w": 433,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-022.png": {
+      "frame": {
+        "x": 2,
+        "y": 1483,
+        "w": 433,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 282,
+        "y": 82,
+        "w": 433,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-023.png": {
+      "frame": {
+        "x": 437,
+        "y": 1483,
+        "w": 479,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 97,
+        "w": 479,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-024.png": {
+      "frame": {
+        "x": 918,
+        "y": 1483,
+        "w": 489,
+        "h": 637
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 117,
+        "w": 489,
+        "h": 637
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-025.png": {
+      "frame": {
+        "x": 1409,
+        "y": 1483,
+        "w": 489,
+        "h": 637
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 117,
+        "w": 489,
+        "h": 637
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-026.png": {
+      "frame": {
+        "x": 1900,
+        "y": 1483,
+        "w": 487,
+        "h": 634
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 120,
+        "w": 487,
+        "h": 634
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-027.png": {
+      "frame": {
+        "x": 2389,
+        "y": 1483,
+        "w": 483,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 271,
+        "y": 124,
+        "w": 483,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-028.png": {
+      "frame": {
+        "x": 2874,
+        "y": 1483,
+        "w": 483,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 271,
+        "y": 124,
+        "w": 483,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-029.png": {
+      "frame": {
+        "x": 3359,
+        "y": 1483,
+        "w": 483,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 271,
+        "y": 125,
+        "w": 483,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-030.png": {
+      "frame": {
+        "x": 2,
+        "y": 2157,
+        "w": 467,
+        "h": 623
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 132,
+        "w": 467,
+        "h": 623
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-031.png": {
+      "frame": {
+        "x": 471,
+        "y": 2157,
+        "w": 467,
+        "h": 623
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 132,
+        "w": 467,
+        "h": 623
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-032.png": {
+      "frame": {
+        "x": 940,
+        "y": 2157,
+        "w": 463,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 134,
+        "w": 463,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-033.png": {
+      "frame": {
+        "x": 1405,
+        "y": 2157,
+        "w": 571,
+        "h": 623
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 133,
+        "w": 571,
+        "h": 623
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-034.png": {
+      "frame": {
+        "x": 1978,
+        "y": 2157,
+        "w": 571,
+        "h": 623
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 133,
+        "w": 571,
+        "h": 623
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-035.png": {
+      "frame": {
+        "x": 2551,
+        "y": 2157,
+        "w": 667,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 36,
+        "w": 667,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-036.png": {
+      "frame": {
+        "x": 3220,
+        "y": 2157,
+        "w": 717,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 717,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-037.png": {
+      "frame": {
+        "x": 2,
+        "y": 2914,
+        "w": 717,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 717,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-038.png": {
+      "frame": {
+        "x": 721,
+        "y": 2914,
+        "w": 717,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 717,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-039.png": {
+      "frame": {
+        "x": 1440,
+        "y": 2914,
+        "w": 733,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 0,
+        "w": 733,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-040.png": {
+      "frame": {
+        "x": 2175,
+        "y": 2914,
+        "w": 733,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 0,
+        "w": 733,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-041.png": {
+      "frame": {
+        "x": 2910,
+        "y": 2914,
+        "w": 739,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 0,
+        "w": 739,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 3671,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-043.png": {
+      "frame": {
+        "x": 744,
+        "y": 3671,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-044.png": {
+      "frame": {
+        "x": 1486,
+        "y": 3671,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-045.png": {
+      "frame": {
+        "x": 2228,
+        "y": 3671,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-046.png": {
+      "frame": {
+        "x": 2970,
+        "y": 3671,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 4428,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-048.png": {
+      "frame": {
+        "x": 744,
+        "y": 4428,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-049.png": {
+      "frame": {
+        "x": 1486,
+        "y": 4428,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-050.png": {
+      "frame": {
+        "x": 2228,
+        "y": 4428,
+        "w": 739,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 0,
+        "w": 739,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-051.png": {
+      "frame": {
+        "x": 2969,
+        "y": 4428,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 5185,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-053.png": {
+      "frame": {
+        "x": 744,
+        "y": 5185,
+        "w": 739,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 0,
+        "w": 739,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-054.png": {
+      "frame": {
+        "x": 1485,
+        "y": 5185,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-055.png": {
+      "frame": {
+        "x": 2227,
+        "y": 5185,
+        "w": 740,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 740,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-056.png": {
+      "frame": {
+        "x": 2969,
+        "y": 5185,
+        "w": 719,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 719,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 5942,
+        "w": 577,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 134,
+        "w": 577,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-058.png": {
+      "frame": {
+        "x": 581,
+        "y": 5942,
+        "w": 577,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 134,
+        "w": 577,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-059.png": {
+      "frame": {
+        "x": 1160,
+        "y": 5942,
+        "w": 577,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 134,
+        "w": 577,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-060.png": {
+      "frame": {
+        "x": 1739,
+        "y": 5942,
+        "w": 577,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 135,
+        "w": 577,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-061.png": {
+      "frame": {
+        "x": 2318,
+        "y": 5942,
+        "w": 577,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 135,
+        "w": 577,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-062.png": {
+      "frame": {
+        "x": 2897,
+        "y": 5942,
+        "w": 577,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 134,
+        "w": 577,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-063.png": {
+      "frame": {
+        "x": 3476,
+        "y": 5942,
+        "w": 573,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 128,
+        "w": 573,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-064.png": {
+      "frame": {
+        "x": 2,
+        "y": 6572,
+        "w": 573,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 128,
+        "w": 573,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-065.png": {
+      "frame": {
+        "x": 577,
+        "y": 6572,
+        "w": 563,
+        "h": 635
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 120,
+        "w": 563,
+        "h": 635
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-066.png": {
+      "frame": {
+        "x": 1142,
+        "y": 6572,
+        "w": 516,
+        "h": 650
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 99,
+        "w": 516,
+        "h": 650
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-067.png": {
+      "frame": {
+        "x": 1660,
+        "y": 6572,
+        "w": 516,
+        "h": 650
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 99,
+        "w": 516,
+        "h": 650
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-068.png": {
+      "frame": {
+        "x": 2178,
+        "y": 6572,
+        "w": 480,
+        "h": 662
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 88,
+        "w": 480,
+        "h": 662
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-069.png": {
+      "frame": {
+        "x": 2660,
+        "y": 6572,
+        "w": 400,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 67,
+        "w": 400,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-070.png": {
+      "frame": {
+        "x": 3062,
+        "y": 6572,
+        "w": 400,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 67,
+        "w": 400,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-071.png": {
+      "frame": {
+        "x": 3464,
+        "y": 6572,
+        "w": 383,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 59,
+        "w": 383,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-072.png": {
+      "frame": {
+        "x": 2,
+        "y": 7280,
+        "w": 379,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 41,
+        "w": 379,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-073.png": {
+      "frame": {
+        "x": 383,
+        "y": 7280,
+        "w": 379,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 41,
+        "w": 379,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-074.png": {
+      "frame": {
+        "x": 764,
+        "y": 7280,
+        "w": 380,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 32,
+        "w": 380,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-075.png": {
+      "frame": {
+        "x": 1146,
+        "y": 7280,
+        "w": 360,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 24,
+        "w": 360,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-076.png": {
+      "frame": {
+        "x": 1508,
+        "y": 7280,
+        "w": 360,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 24,
+        "w": 360,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-077.png": {
+      "frame": {
+        "x": 1870,
+        "y": 7280,
+        "w": 353,
+        "h": 742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 23,
+        "w": 353,
+        "h": 742
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-078.png": {
+      "frame": {
+        "x": 2225,
+        "y": 7280,
+        "w": 351,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 24,
+        "w": 351,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_elbow_strike-079.png": {
+      "frame": {
+        "x": 2578,
+        "y": 7280,
+        "w": 351,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 24,
+        "w": 351,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_elbow_strike": [
+      "player1_elbow_strike-000.png",
+      "player1_elbow_strike-001.png",
+      "player1_elbow_strike-002.png",
+      "player1_elbow_strike-003.png",
+      "player1_elbow_strike-004.png",
+      "player1_elbow_strike-005.png",
+      "player1_elbow_strike-006.png",
+      "player1_elbow_strike-007.png",
+      "player1_elbow_strike-008.png",
+      "player1_elbow_strike-009.png",
+      "player1_elbow_strike-010.png",
+      "player1_elbow_strike-011.png",
+      "player1_elbow_strike-012.png",
+      "player1_elbow_strike-013.png",
+      "player1_elbow_strike-014.png",
+      "player1_elbow_strike-015.png",
+      "player1_elbow_strike-016.png",
+      "player1_elbow_strike-017.png",
+      "player1_elbow_strike-018.png",
+      "player1_elbow_strike-019.png",
+      "player1_elbow_strike-020.png",
+      "player1_elbow_strike-021.png",
+      "player1_elbow_strike-022.png",
+      "player1_elbow_strike-023.png",
+      "player1_elbow_strike-024.png",
+      "player1_elbow_strike-025.png",
+      "player1_elbow_strike-026.png",
+      "player1_elbow_strike-027.png",
+      "player1_elbow_strike-028.png",
+      "player1_elbow_strike-029.png",
+      "player1_elbow_strike-030.png",
+      "player1_elbow_strike-031.png",
+      "player1_elbow_strike-032.png",
+      "player1_elbow_strike-033.png",
+      "player1_elbow_strike-034.png",
+      "player1_elbow_strike-035.png",
+      "player1_elbow_strike-036.png",
+      "player1_elbow_strike-037.png",
+      "player1_elbow_strike-038.png",
+      "player1_elbow_strike-039.png",
+      "player1_elbow_strike-040.png",
+      "player1_elbow_strike-041.png",
+      "player1_elbow_strike-042.png",
+      "player1_elbow_strike-043.png",
+      "player1_elbow_strike-044.png",
+      "player1_elbow_strike-045.png",
+      "player1_elbow_strike-046.png",
+      "player1_elbow_strike-047.png",
+      "player1_elbow_strike-048.png",
+      "player1_elbow_strike-049.png",
+      "player1_elbow_strike-050.png",
+      "player1_elbow_strike-051.png",
+      "player1_elbow_strike-052.png",
+      "player1_elbow_strike-053.png",
+      "player1_elbow_strike-054.png",
+      "player1_elbow_strike-055.png",
+      "player1_elbow_strike-056.png",
+      "player1_elbow_strike-057.png",
+      "player1_elbow_strike-058.png",
+      "player1_elbow_strike-059.png",
+      "player1_elbow_strike-060.png",
+      "player1_elbow_strike-061.png",
+      "player1_elbow_strike-062.png",
+      "player1_elbow_strike-063.png",
+      "player1_elbow_strike-064.png",
+      "player1_elbow_strike-065.png",
+      "player1_elbow_strike-066.png",
+      "player1_elbow_strike-067.png",
+      "player1_elbow_strike-068.png",
+      "player1_elbow_strike-069.png",
+      "player1_elbow_strike-070.png",
+      "player1_elbow_strike-071.png",
+      "player1_elbow_strike-072.png",
+      "player1_elbow_strike-073.png",
+      "player1_elbow_strike-074.png",
+      "player1_elbow_strike-075.png",
+      "player1_elbow_strike-076.png",
+      "player1_elbow_strike-077.png",
+      "player1_elbow_strike-078.png",
+      "player1_elbow_strike-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_elbow_strike.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4070,
+      "h": 8024
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}
