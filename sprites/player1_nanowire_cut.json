@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_nanowire_cut-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-006.png": {
+      "frame": {
+        "x": 2030,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-007.png": {
+      "frame": {
+        "x": 2368,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-008.png": {
+      "frame": {
+        "x": 2706,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-009.png": {
+      "frame": {
+        "x": 3044,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-010.png": {
+      "frame": {
+        "x": 3382,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-011.png": {
+      "frame": {
+        "x": 3720,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-013.png": {
+      "frame": {
+        "x": 340,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-014.png": {
+      "frame": {
+        "x": 678,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-015.png": {
+      "frame": {
+        "x": 1016,
+        "y": 740,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-016.png": {
+      "frame": {
+        "x": 1355,
+        "y": 740,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-017.png": {
+      "frame": {
+        "x": 1694,
+        "y": 740,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-018.png": {
+      "frame": {
+        "x": 2033,
+        "y": 740,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-019.png": {
+      "frame": {
+        "x": 2372,
+        "y": 740,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-020.png": {
+      "frame": {
+        "x": 2711,
+        "y": 740,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-021.png": {
+      "frame": {
+        "x": 3050,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-022.png": {
+      "frame": {
+        "x": 3388,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-023.png": {
+      "frame": {
+        "x": 3726,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-024.png": {
+      "frame": {
+        "x": 2,
+        "y": 1478,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-025.png": {
+      "frame": {
+        "x": 339,
+        "y": 1478,
+        "w": 338,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 27,
+        "w": 338,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-026.png": {
+      "frame": {
+        "x": 679,
+        "y": 1478,
+        "w": 342,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 28,
+        "w": 342,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-027.png": {
+      "frame": {
+        "x": 1023,
+        "y": 1478,
+        "w": 540,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 29,
+        "w": 540,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-028.png": {
+      "frame": {
+        "x": 1565,
+        "y": 1478,
+        "w": 700,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 29,
+        "w": 700,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-029.png": {
+      "frame": {
+        "x": 2267,
+        "y": 1478,
+        "w": 705,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 29,
+        "w": 705,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-030.png": {
+      "frame": {
+        "x": 2974,
+        "y": 1478,
+        "w": 707,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 29,
+        "w": 707,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-031.png": {
+      "frame": {
+        "x": 2,
+        "y": 2217,
+        "w": 707,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 707,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-032.png": {
+      "frame": {
+        "x": 711,
+        "y": 2217,
+        "w": 707,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 707,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-033.png": {
+      "frame": {
+        "x": 1420,
+        "y": 2217,
+        "w": 706,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 28,
+        "w": 706,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-034.png": {
+      "frame": {
+        "x": 2128,
+        "y": 2217,
+        "w": 706,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 29,
+        "w": 706,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-035.png": {
+      "frame": {
+        "x": 2836,
+        "y": 2217,
+        "w": 706,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 29,
+        "w": 706,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-036.png": {
+      "frame": {
+        "x": 2,
+        "y": 2955,
+        "w": 706,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 29,
+        "w": 706,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-037.png": {
+      "frame": {
+        "x": 710,
+        "y": 2955,
+        "w": 705,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 29,
+        "w": 705,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-038.png": {
+      "frame": {
+        "x": 1417,
+        "y": 2955,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-039.png": {
+      "frame": {
+        "x": 2124,
+        "y": 2955,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-040.png": {
+      "frame": {
+        "x": 2831,
+        "y": 2955,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-041.png": {
+      "frame": {
+        "x": 2,
+        "y": 3693,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-042.png": {
+      "frame": {
+        "x": 709,
+        "y": 3693,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-043.png": {
+      "frame": {
+        "x": 1416,
+        "y": 3693,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-044.png": {
+      "frame": {
+        "x": 2123,
+        "y": 3693,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-045.png": {
+      "frame": {
+        "x": 2830,
+        "y": 3693,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 4431,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-047.png": {
+      "frame": {
+        "x": 709,
+        "y": 4431,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-048.png": {
+      "frame": {
+        "x": 1416,
+        "y": 4431,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-049.png": {
+      "frame": {
+        "x": 2123,
+        "y": 4431,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-050.png": {
+      "frame": {
+        "x": 2830,
+        "y": 4431,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-051.png": {
+      "frame": {
+        "x": 2,
+        "y": 5169,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-052.png": {
+      "frame": {
+        "x": 709,
+        "y": 5169,
+        "w": 705,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 705,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-053.png": {
+      "frame": {
+        "x": 1416,
+        "y": 5169,
+        "w": 702,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 702,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-054.png": {
+      "frame": {
+        "x": 2120,
+        "y": 5169,
+        "w": 553,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 28,
+        "w": 553,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-055.png": {
+      "frame": {
+        "x": 2675,
+        "y": 5169,
+        "w": 359,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 28,
+        "w": 359,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-056.png": {
+      "frame": {
+        "x": 3036,
+        "y": 5169,
+        "w": 359,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 28,
+        "w": 359,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-057.png": {
+      "frame": {
+        "x": 3397,
+        "y": 5169,
+        "w": 359,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 28,
+        "w": 359,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-058.png": {
+      "frame": {
+        "x": 2,
+        "y": 5907,
+        "w": 359,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 28,
+        "w": 359,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-059.png": {
+      "frame": {
+        "x": 363,
+        "y": 5907,
+        "w": 357,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 28,
+        "w": 357,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-060.png": {
+      "frame": {
+        "x": 722,
+        "y": 5907,
+        "w": 351,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 29,
+        "w": 351,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-061.png": {
+      "frame": {
+        "x": 1075,
+        "y": 5907,
+        "w": 343,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 28,
+        "w": 343,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-062.png": {
+      "frame": {
+        "x": 1420,
+        "y": 5907,
+        "w": 328,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 27,
+        "w": 328,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-063.png": {
+      "frame": {
+        "x": 1750,
+        "y": 5907,
+        "w": 324,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 26,
+        "w": 324,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-064.png": {
+      "frame": {
+        "x": 2076,
+        "y": 5907,
+        "w": 324,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 25,
+        "w": 324,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-065.png": {
+      "frame": {
+        "x": 2402,
+        "y": 5907,
+        "w": 325,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 25,
+        "w": 325,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-066.png": {
+      "frame": {
+        "x": 2729,
+        "y": 5907,
+        "w": 332,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 26,
+        "w": 332,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-067.png": {
+      "frame": {
+        "x": 3063,
+        "y": 5907,
+        "w": 334,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 334,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-068.png": {
+      "frame": {
+        "x": 3399,
+        "y": 5907,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-069.png": {
+      "frame": {
+        "x": 3737,
+        "y": 5907,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-070.png": {
+      "frame": {
+        "x": 2,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-071.png": {
+      "frame": {
+        "x": 340,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-072.png": {
+      "frame": {
+        "x": 678,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-073.png": {
+      "frame": {
+        "x": 1016,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-074.png": {
+      "frame": {
+        "x": 1354,
+        "y": 6648,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-075.png": {
+      "frame": {
+        "x": 1692,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-076.png": {
+      "frame": {
+        "x": 2030,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-077.png": {
+      "frame": {
+        "x": 2368,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-078.png": {
+      "frame": {
+        "x": 2706,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_nanowire_cut-079.png": {
+      "frame": {
+        "x": 3044,
+        "y": 6648,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_nanowire_cut": [
+      "player1_nanowire_cut-000.png",
+      "player1_nanowire_cut-001.png",
+      "player1_nanowire_cut-002.png",
+      "player1_nanowire_cut-003.png",
+      "player1_nanowire_cut-004.png",
+      "player1_nanowire_cut-005.png",
+      "player1_nanowire_cut-006.png",
+      "player1_nanowire_cut-007.png",
+      "player1_nanowire_cut-008.png",
+      "player1_nanowire_cut-009.png",
+      "player1_nanowire_cut-010.png",
+      "player1_nanowire_cut-011.png",
+      "player1_nanowire_cut-012.png",
+      "player1_nanowire_cut-013.png",
+      "player1_nanowire_cut-014.png",
+      "player1_nanowire_cut-015.png",
+      "player1_nanowire_cut-016.png",
+      "player1_nanowire_cut-017.png",
+      "player1_nanowire_cut-018.png",
+      "player1_nanowire_cut-019.png",
+      "player1_nanowire_cut-020.png",
+      "player1_nanowire_cut-021.png",
+      "player1_nanowire_cut-022.png",
+      "player1_nanowire_cut-023.png",
+      "player1_nanowire_cut-024.png",
+      "player1_nanowire_cut-025.png",
+      "player1_nanowire_cut-026.png",
+      "player1_nanowire_cut-027.png",
+      "player1_nanowire_cut-028.png",
+      "player1_nanowire_cut-029.png",
+      "player1_nanowire_cut-030.png",
+      "player1_nanowire_cut-031.png",
+      "player1_nanowire_cut-032.png",
+      "player1_nanowire_cut-033.png",
+      "player1_nanowire_cut-034.png",
+      "player1_nanowire_cut-035.png",
+      "player1_nanowire_cut-036.png",
+      "player1_nanowire_cut-037.png",
+      "player1_nanowire_cut-038.png",
+      "player1_nanowire_cut-039.png",
+      "player1_nanowire_cut-040.png",
+      "player1_nanowire_cut-041.png",
+      "player1_nanowire_cut-042.png",
+      "player1_nanowire_cut-043.png",
+      "player1_nanowire_cut-044.png",
+      "player1_nanowire_cut-045.png",
+      "player1_nanowire_cut-046.png",
+      "player1_nanowire_cut-047.png",
+      "player1_nanowire_cut-048.png",
+      "player1_nanowire_cut-049.png",
+      "player1_nanowire_cut-050.png",
+      "player1_nanowire_cut-051.png",
+      "player1_nanowire_cut-052.png",
+      "player1_nanowire_cut-053.png",
+      "player1_nanowire_cut-054.png",
+      "player1_nanowire_cut-055.png",
+      "player1_nanowire_cut-056.png",
+      "player1_nanowire_cut-057.png",
+      "player1_nanowire_cut-058.png",
+      "player1_nanowire_cut-059.png",
+      "player1_nanowire_cut-060.png",
+      "player1_nanowire_cut-061.png",
+      "player1_nanowire_cut-062.png",
+      "player1_nanowire_cut-063.png",
+      "player1_nanowire_cut-064.png",
+      "player1_nanowire_cut-065.png",
+      "player1_nanowire_cut-066.png",
+      "player1_nanowire_cut-067.png",
+      "player1_nanowire_cut-068.png",
+      "player1_nanowire_cut-069.png",
+      "player1_nanowire_cut-070.png",
+      "player1_nanowire_cut-071.png",
+      "player1_nanowire_cut-072.png",
+      "player1_nanowire_cut-073.png",
+      "player1_nanowire_cut-074.png",
+      "player1_nanowire_cut-075.png",
+      "player1_nanowire_cut-076.png",
+      "player1_nanowire_cut-077.png",
+      "player1_nanowire_cut-078.png",
+      "player1_nanowire_cut-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_nanowire_cut.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4075,
+      "h": 7387
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

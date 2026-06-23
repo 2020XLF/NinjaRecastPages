@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 8000101,
+    "name": "废品堆",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "资源",
+      "风险"
+    ],
+    "weight": 20,
+    "unique": false,
+    "desc": "一堆还在冒火的废铁中似乎埋着能用的东西。",
+    "options": [
+      {
+        "text": "徒手搜刮",
+        "effect": "hp:-3;gold:+30"
+      },
+      {
+        "text": "仔细翻找",
+        "effect": "card:add_random:attack_act1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000102,
+    "name": "断电售货机",
+    "chapter": 6001,
+    "floorRange": "46063",
+    "tags": [
+      "交易",
+      "回复"
+    ],
+    "weight": 18,
+    "unique": false,
+    "desc": "一台旧售货机卡在半开的状态，屏幕还在闪烁。",
+    "options": [
+      {
+        "text": "投币购买",
+        "effect": "gold:-30;heal:+10"
+      },
+      {
+        "text": "砸开它",
+        "effect": "battle:7000104;reward:9000101"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000103,
+    "name": "锈蚀修理台",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "强化",
+      "删牌"
+    ],
+    "weight": 18,
+    "unique": false,
+    "desc": "一座废弃维修台还残留着一些工具。",
+    "options": [
+      {
+        "text": "强化一张牌",
+        "effect": "gold:-40;card:upgrade_choose:1"
+      },
+      {
+        "text": "拆掉一张牌",
+        "effect": "hp:-5;card:remove_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000104,
+    "name": "铁狗巢穴",
+    "chapter": 6001,
+    "floorRange": "46093",
+    "tags": [
+      "战斗",
+      "金币"
+    ],
+    "weight": 15,
+    "unique": false,
+    "desc": "你发现几只锈蚀铁狗正在守着一堆零件。",
+    "options": [
+      {
+        "text": "抢走零件",
+        "effect": "hp:-6;gold:+45"
+      },
+      {
+        "text": "正面清理",
+        "effect": "battle:7000104;reward:9000101"
+      },
+      {
+        "text": "绕开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000105,
+    "name": "地下拳赛",
+    "chapter": 6001,
+    "floorRange": "46155",
+    "tags": [
+      "战斗",
+      "连招"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "废铁巷深处有人在举办非法格斗赛。",
+    "options": [
+      {
+        "text": "参加比赛",
+        "effect": "battle:7000151;reward:9000151"
+      },
+      {
+        "text": "偷学招式",
+        "effect": "hp:-8;combo:add_random:pool_combo_act1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000106,
+    "name": "旧广告屏",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "卡牌颜色",
+      "特殊"
+    ],
+    "weight": 15,
+    "unique": false,
+    "desc": "一块巨大的广告屏反复播放着过期的义体广告。",
+    "options": [
+      {
+        "text": "接受色彩校准",
+        "effect": "card:modify_color_choose:any"
+      },
+      {
+        "text": "下载旧广告脚本",
+        "effect": "card:add:1017"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000107,
+    "name": "过载充电桩",
+    "chapter": 6001,
+    "floorRange": "46125",
+    "tags": [
+      "强化",
+      "风险"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "充电桩的电流极不稳定，但能量非常充足。",
+    "options": [
+      {
+        "text": "强行充能",
+        "effect": "hp:-6;card:modify_damage_choose:+1"
+      },
+      {
+        "text": "调整蓝色卡",
+        "effect": "card:upgrade_choose_color:蓝"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000108,
+    "name": "废弃诊所",
+    "chapter": 6001,
+    "floorRange": "46125",
+    "tags": [
+      "回复",
+      "芯片"
+    ],
+    "weight": 14,
+    "unique": false,
+    "desc": "诊所里还留有一台半自动义体手术机。",
+    "options": [
+      {
+        "text": "接受治疗",
+        "effect": "gold:-50;heal_percent:50"
+      },
+      {
+        "text": "安装未知芯片",
+        "effect": "maxhp:-5;chip:add_random:pool_chip_act1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000109,
+    "name": "黑市药剂",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "强化",
+      "负面"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一个蒙面商人递来几支颜色诡异的药剂。",
+    "options": [
+      {
+        "text": "喝下红色药剂",
+        "effect": "hp:-8;card:modify_damage_choose:+1"
+      },
+      {
+        "text": "喝下灰色药剂",
+        "effect": "card:transform_choose:1"
+      },
+      {
+        "text": "拒绝",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000110,
+    "name": "维修无人机",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "交易",
+      "删牌"
+    ],
+    "weight": 14,
+    "unique": false,
+    "desc": "一台维修无人机误把你识别成了维护对象。",
+    "options": [
+      {
+        "text": "支付维护费",
+        "effect": "gold:-35;card:remove_choose:1"
+      },
+      {
+        "text": "让它修理护甲",
+        "effect": "gold:-40;heal:+12"
+      },
+      {
+        "text": "抢走零件",
+        "effect": "battle:7000103;gold:+30"
+      }
+    ]
+  },
+  {
+    "id": 8000111,
+    "name": "坍塌通道",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "地图",
+      "风险"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "前方通道正在坍塌，但里面有一条近路。",
+    "options": [
+      {
+        "text": "冲过去",
+        "effect": "hp:-4;map:reveal_next:2"
+      },
+      {
+        "text": "清理碎石",
+        "effect": "gold:-25;map:convert_next:treasure"
+      },
+      {
+        "text": "返回",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000112,
+    "name": "生锈老虎机",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "随机",
+      "金币"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "一台老虎机在黑暗中亮着红灯。",
+    "options": [
+      {
+        "text": "投币一次",
+        "effect": "gold:-15;random:gold_0_60"
+      },
+      {
+        "text": "连续投币",
+        "effect": "gold:-30;random:card_or_chip_act1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000201,
+    "name": "数据神龛",
+    "chapter": 6002,
+    "floorRange": "46066",
+    "tags": [
+      "转化",
+      "颜色"
+    ],
+    "weight": 18,
+    "unique": false,
+    "desc": "一座由废弃服务器组成的神龛正在低声运行。",
+    "options": [
+      {
+        "text": "转化一张牌",
+        "effect": "card:transform_choose:1"
+      },
+      {
+        "text": "重写颜色",
+        "effect": "card:modify_color_choose:any"
+      },
+      {
+        "text": "关闭神龛",
+        "effect": "gold:+20"
+      }
+    ]
+  },
+  {
+    "id": 8000202,
+    "name": "公司安检门",
+    "chapter": 6002,
+    "floorRange": "46065",
+    "tags": [
+      "删牌",
+      "战斗"
+    ],
+    "weight": 16,
+    "unique": false,
+    "desc": "一道公司旧安检门拦住去路，要求你上交违禁物。",
+    "options": [
+      {
+        "text": "交出一张牌",
+        "effect": "card:remove_choose:1"
+      },
+      {
+        "text": "强行突破",
+        "effect": "battle:7000204;reward:9000201"
+      },
+      {
+        "text": "缴纳罚款",
+        "effect": "gold:-45"
+      }
+    ]
+  },
+  {
+    "id": 8000203,
+    "name": "克隆摊贩",
+    "chapter": 6002,
+    "floorRange": "46094",
+    "tags": [
+      "复制",
+      "风险"
+    ],
+    "weight": 14,
+    "unique": false,
+    "desc": "摊贩声称可以复制任何一张卡，但复制品“不保证稳定”。",
+    "options": [
+      {
+        "text": "复制一张牌",
+        "effect": "card:duplicate_choose:1;maxhp:-3"
+      },
+      {
+        "text": "复制并打折",
+        "effect": "gold:-30;card:duplicate_choose:1;card:add_status:故障牌"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000204,
+    "name": "义体诊所",
+    "chapter": 6002,
+    "floorRange": "46125",
+    "tags": [
+      "芯片",
+      "行动槽"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "这家诊所的墙上贴满了失败案例。",
+    "options": [
+      {
+        "text": "购买芯片",
+        "effect": "gold:-75;chip:add_random:pool_chip_act2"
+      },
+      {
+        "text": "扩展行动槽",
+        "effect": "maxhp:-6;slot:+1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000205,
+    "name": "信息贩子",
+    "chapter": 6002,
+    "floorRange": "46066",
+    "tags": [
+      "地图",
+      "情报"
+    ],
+    "weight": 16,
+    "unique": false,
+    "desc": "信息贩子递来一张被加密的路线图。",
+    "options": [
+      {
+        "text": "购买地图",
+        "effect": "gold:-25;map:reveal_next:3"
+      },
+      {
+        "text": "购买精英情报",
+        "effect": "gold:-35;map:mark_elite_reward"
+      },
+      {
+        "text": "抢夺情报",
+        "effect": "battle:7000201;map:reveal_next:2"
+      }
+    ]
+  },
+  {
+    "id": 8000206,
+    "name": "霓虹电梯故障",
+    "chapter": 6002,
+    "floorRange": "46065",
+    "tags": [
+      "地图",
+      "风险"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "电梯失控上升，控制面板正在冒烟。",
+    "options": [
+      {
+        "text": "强行稳定",
+        "effect": "hp:-6;map:convert_next:rest"
+      },
+      {
+        "text": "顺势跳层",
+        "effect": "hp:-10;reward:9000203"
+      },
+      {
+        "text": "砸开出口",
+        "effect": "battle:7000203;reward:9000201"
+      }
+    ]
+  },
+  {
+    "id": 8000207,
+    "name": "格斗录像带",
+    "chapter": 6002,
+    "floorRange": "46094",
+    "tags": [
+      "连招",
+      "强化"
+    ],
+    "weight": 14,
+    "unique": false,
+    "desc": "一台录像机正在播放旧时代的格斗训练资料。",
+    "options": [
+      {
+        "text": "学习连招",
+        "effect": "combo:add_random:pool_combo_act2"
+      },
+      {
+        "text": "反复观看",
+        "effect": "gold:-30;card:upgrade_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000208,
+    "name": "高压铁轨",
+    "chapter": 6002,
+    "floorRange": "46094",
+    "tags": [
+      "移动",
+      "范围"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "一段带电轨道横穿道路。",
+    "options": [
+      {
+        "text": "沿轨道冲刺",
+        "effect": "hp:-5;card:add_random:move_card"
+      },
+      {
+        "text": "调整远程武器",
+        "effect": "card:modify_range_choose:+1"
+      },
+      {
+        "text": "绕路",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000209,
+    "name": "失控直播间",
+    "chapter": 6002,
+    "floorRange": "46125",
+    "tags": [
+      "金币",
+      "战斗"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "直播间观众正在下注你能否活着离开。",
+    "options": [
+      {
+        "text": "接受挑战",
+        "effect": "battle:7000251;gold:+80"
+      },
+      {
+        "text": "表演技巧",
+        "effect": "card:modify_damage_choose:+1;gold:+20"
+      },
+      {
+        "text": "关闭直播",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000210,
+    "name": "黑墙裂缝",
+    "chapter": 6002,
+    "floorRange": "46155",
+    "tags": [
+      "转化",
+      "高风险"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一道黑色数据裂缝悬在空中，像是在等待输入。",
+    "options": [
+      {
+        "text": "上传一张牌",
+        "effect": "card:transform_choose:1;chip:add_random:pool_chip_act2"
+      },
+      {
+        "text": "触碰裂缝",
+        "effect": "hp:-12;card:transform_random:2"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000211,
+    "name": "广告植入",
+    "chapter": 6002,
+    "floorRange": "46066",
+    "tags": [
+      "金币",
+      "负面"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一段强制广告尝试写入你的视觉系统。",
+    "options": [
+      {
+        "text": "接受赞助",
+        "effect": "gold:+100;card:add_status:广告牌"
+      },
+      {
+        "text": "屏蔽广告",
+        "effect": "gold:-40;card:remove_status_random:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000212,
+    "name": "冷却塔",
+    "chapter": 6002,
+    "floorRange": "46066",
+    "tags": [
+      "回复",
+      "蓝色卡"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "冷却液从塔壁渗出，空气中满是金属味。",
+    "options": [
+      {
+        "text": "短暂休息",
+        "effect": "heal_percent:25"
+      },
+      {
+        "text": "强化蓝色卡",
+        "effect": "card:upgrade_choose_color:蓝"
+      },
+      {
+        "text": "收集冷却液",
+        "effect": "gold:+25"
+      }
+    ]
+  },
+  {
+    "id": 8000301,
+    "name": "中枢门禁",
+    "chapter": 6003,
+    "floorRange": "46066",
+    "tags": [
+      "门禁",
+      "战斗"
+    ],
+    "weight": 16,
+    "unique": false,
+    "desc": "中枢门禁要求验证权限，否则将启动守卫。",
+    "options": [
+      {
+        "text": "破解门禁",
+        "effect": "gold:-60;map:reveal_next:3"
+      },
+      {
+        "text": "强行突破",
+        "effect": "battle:7000306;reward:9000301"
+      },
+      {
+        "text": "牺牲生命绕过",
+        "effect": "hp:-12;map:convert_next:treasure"
+      }
+    ]
+  },
+  {
+    "id": 8000302,
+    "name": "镜面斗场",
+    "chapter": 6003,
+    "floorRange": "46094",
+    "tags": [
+      "镜像",
+      "精英"
+    ],
+    "weight": 14,
+    "unique": false,
+    "desc": "镜面中出现了和你动作相同的影子。",
+    "options": [
+      {
+        "text": "进入斗场",
+        "effect": "battle:7000303;reward:9000303"
+      },
+      {
+        "text": "打碎镜面",
+        "effect": "hp:-8;card:duplicate_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000303,
+    "name": "白噪音礼拜堂",
+    "chapter": 6003,
+    "floorRange": "46066",
+    "tags": [
+      "删牌",
+      "回复"
+    ],
+    "weight": 14,
+    "unique": false,
+    "desc": "礼拜堂里只有白噪音和闪烁的屏幕。",
+    "options": [
+      {
+        "text": "沉默一张牌",
+        "effect": "card:remove_choose:1"
+      },
+      {
+        "text": "接受洗礼",
+        "effect": "heal_percent:40;card:add_status:白噪音"
+      },
+      {
+        "text": "祈祷连招",
+        "effect": "combo:add_random:pool_combo_act3"
+      }
+    ]
+  },
+  {
+    "id": 8000304,
+    "name": "过热反应堆",
+    "chapter": 6003,
+    "floorRange": "46125",
+    "tags": [
+      "强化",
+      "金币"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "反应堆即将过热，但能量还能被利用。",
+    "options": [
+      {
+        "text": "强化两张牌",
+        "effect": "hp:-10;card:upgrade_choose:2"
+      },
+      {
+        "text": "抽取能量",
+        "effect": "hp:-8;gold:+90"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000305,
+    "name": "Boss预演",
+    "chapter": 6003,
+    "floorRange": "46155",
+    "tags": [
+      "情报",
+      "精英"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "屏幕中播放着最终敌人的行动预测。",
+    "options": [
+      {
+        "text": "观看预演",
+        "effect": "map:reveal_boss;buff:boss_damage_taken:+1"
+      },
+      {
+        "text": "挑战模拟体",
+        "effect": "battle:7000351;reward:9000351"
+      },
+      {
+        "text": "关闭屏幕",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000306,
+    "name": "黑匣子",
+    "chapter": 6003,
+    "floorRange": "46125",
+    "tags": [
+      "芯片",
+      "高风险"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一个黑匣子记录着无数次失败跑团。",
+    "options": [
+      {
+        "text": "读取记录",
+        "effect": "maxhp:-5;chip:add_random:pool_chip_act3"
+      },
+      {
+        "text": "重写记忆",
+        "effect": "card:transform_random:3"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000307,
+    "name": "旧友幻象",
+    "chapter": 6003,
+    "floorRange": "46066",
+    "tags": [
+      "回复",
+      "失去"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一个熟悉的人影站在走廊尽头。",
+    "options": [
+      {
+        "text": "靠近幻象",
+        "effect": "heal_percent:60;gold:-50"
+      },
+      {
+        "text": "拒绝幻象",
+        "effect": "card:upgrade_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000308,
+    "name": "终局商人",
+    "chapter": 6003,
+    "floorRange": "46094",
+    "tags": [
+      "商店",
+      "稀有"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "商人说这是最后一次交易。",
+    "options": [
+      {
+        "text": "购买稀有芯片",
+        "effect": "gold:-100;chip:add_random:pool_chip_rare"
+      },
+      {
+        "text": "删除一张牌",
+        "effect": "gold:-60;card:remove_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000309,
+    "name": "电视雪花雨",
+    "chapter": 6003,
+    "floorRange": "46094",
+    "tags": [
+      "控制",
+      "特殊"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "雪花噪点像雨一样落下，干扰着所有电子设备。",
+    "options": [
+      {
+        "text": "调谐信号",
+        "effect": "card:modify_color_choose:any;gold:+20"
+      },
+      {
+        "text": "承受噪音",
+        "effect": "hp:-7;combo:add_random:pool_combo_act3"
+      },
+      {
+        "text": "攻击信号源",
+        "effect": "battle:7000305;reward:9000301"
+      }
+    ]
+  },
+  {
+    "id": 8000310,
+    "name": "安全屋最后一夜",
+    "chapter": 6003,
+    "floorRange": "46186",
+    "tags": [
+      "休整",
+      "强化"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "这可能是最后一个安全的房间。",
+    "options": [
+      {
+        "text": "休息",
+        "effect": "heal_percent:50"
+      },
+      {
+        "text": "准备武器",
+        "effect": "card:upgrade_choose:2"
+      },
+      {
+        "text": "整理卡组",
+        "effect": "card:remove_choose:1"
+      }
+    ]
+  },
+  {
+    "id": 8000311,
+    "name": "伪造结局",
+    "chapter": 6003,
+    "floorRange": "46155",
+    "tags": [
+      "陷阱",
+      "奖励"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "屏幕显示“你已经胜利”，但一切都不对劲。",
+    "options": [
+      {
+        "text": "相信它",
+        "effect": "gold:+120;card:add_status:伪结局"
+      },
+      {
+        "text": "撕碎画面",
+        "effect": "hp:-10;chip:add_random:pool_chip_act3"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000312,
+    "name": "天台风暴",
+    "chapter": 6003,
+    "floorRange": "46216",
+    "tags": [
+      "范围",
+      "风险"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "风暴吹过天台，远处的广播塔正在放电。",
+    "options": [
+      {
+        "text": "利用风暴",
+        "effect": "card:modify_range_choose:+1;hp:-6"
+      },
+      {
+        "text": "收集放电",
+        "effect": "gold:+70;hp:-8"
+      },
+      {
+        "text": "趴下等待",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000901,
+    "name": "空投补给",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "通用",
+      "奖励"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "一只无人空投箱砸在路中央。",
+    "options": [
+      {
+        "text": "拿金币",
+        "effect": "gold:+35"
+      },
+      {
+        "text": "拿卡牌",
+        "effect": "card:add_random:any"
+      },
+      {
+        "text": "拿补给",
+        "effect": "heal:+8"
+      }
+    ]
+  },
+  {
+    "id": 8000902,
+    "name": "卡牌质变机",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "通用",
+      "改造"
+    ],
+    "weight": 12,
+    "unique": false,
+    "desc": "机器可以重写卡牌结构，但结果不可逆。",
+    "options": [
+      {
+        "text": "改变颜色",
+        "effect": "card:modify_color_choose:any"
+      },
+      {
+        "text": "改变范围",
+        "effect": "card:modify_range_choose:+1"
+      },
+      {
+        "text": "降低槽位",
+        "effect": "card:modify_slot_choose:-1"
+      }
+    ]
+  },
+  {
+    "id": 8000903,
+    "name": "芯片回收商",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "通用",
+      "芯片"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "回收商愿意处理你身上多余的芯片。",
+    "options": [
+      {
+        "text": "购买芯片",
+        "effect": "gold:-70;chip:add_random:pool_chip_current"
+      },
+      {
+        "text": "出售芯片",
+        "effect": "chip:remove_choose:1;gold:+60"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000904,
+    "name": "连招教官",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "通用",
+      "连招"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一名老教官看出了你的出牌习惯。",
+    "options": [
+      {
+        "text": "学习连招",
+        "effect": "gold:-55;combo:add_random:pool_combo_current"
+      },
+      {
+        "text": "强化连招",
+        "effect": "combo:upgrade_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000905,
+    "name": "悬赏告示",
+    "chapter": 6001,
+    "floorRange": "46125",
+    "tags": [
+      "通用",
+      "精英"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "墙上贴着一张带血的悬赏令。",
+    "options": [
+      {
+        "text": "接受悬赏",
+        "effect": "map:next_elite_reward:+50"
+      },
+      {
+        "text": "立刻追踪",
+        "effect": "battle:current_act_elite;reward:current_act_elite"
+      },
+      {
+        "text": "无视",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000906,
+    "name": "流浪商人",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "通用",
+      "商店"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "一个背着巨大包裹的商人挡在路上。",
+    "options": [
+      {
+        "text": "买随机卡",
+        "effect": "gold:-45;card:add_random:any"
+      },
+      {
+        "text": "买情报",
+        "effect": "gold:-25;map:reveal_next:2"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000907,
+    "name": "安静的篝火",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "通用",
+      "休整"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "这里异常安静，适合短暂休息。",
+    "options": [
+      {
+        "text": "休息",
+        "effect": "heal_percent:30"
+      },
+      {
+        "text": "强化",
+        "effect": "card:upgrade_choose:1"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000908,
+    "name": "地图改写器",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "通用",
+      "地图"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "一台设备正在显示未来几层的路线。",
+    "options": [
+      {
+        "text": "揭示路线",
+        "effect": "map:reveal_next:3"
+      },
+      {
+        "text": "改写节点",
+        "effect": "gold:-40;map:convert_next:event"
+      },
+      {
+        "text": "关闭设备",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "id": 8000909,
+    "name": "陷阱走廊",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "通用",
+      "陷阱"
+    ],
+    "weight": 10,
+    "unique": false,
+    "desc": "地面压力板密密麻麻。",
+    "options": [
+      {
+        "text": "小心通过",
+        "effect": "hp:-3"
+      },
+      {
+        "text": "快速冲过",
+        "effect": "hp:-7;gold:+40"
+      },
+      {
+        "text": "拆除陷阱",
+        "effect": "card:upgrade_choose_color:灰"
+      }
+    ]
+  },
+  {
+    "id": 8000910,
+    "name": "失控抽牌机",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "通用",
+      "卡牌"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "抽牌机疯狂吐出卡牌碎片。",
+    "options": [
+      {
+        "text": "抽一张",
+        "effect": "card:add_random:any"
+      },
+      {
+        "text": "抽三张",
+        "effect": "gold:-50;card:add_random:any;card:add_random:any;card:add_random:any"
+      },
+      {
+        "text": "砸毁它",
+        "effect": "gold:+20"
+      }
+    ]
+  },
+  {
+    "id": 8000911,
+    "name": "二手弹药箱",
+    "chapter": 6001,
+    "floorRange": "46066",
+    "tags": [
+      "通用",
+      "蓝色卡"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "弹药箱里堆着还能用的旧弹药。",
+    "options": [
+      {
+        "text": "拿远程卡",
+        "effect": "card:add_random:color_blue"
+      },
+      {
+        "text": "强化远程卡",
+        "effect": "card:upgrade_choose_color:蓝"
+      },
+      {
+        "text": "卖掉弹药",
+        "effect": "gold:+25"
+      }
+    ]
+  },
+  {
+    "id": 8000912,
+    "name": "血迹手册",
+    "chapter": 6001,
+    "floorRange": "46094",
+    "tags": [
+      "通用",
+      "拼刀"
+    ],
+    "weight": 8,
+    "unique": false,
+    "desc": "一本手册上记录着大量拼刀经验。",
+    "options": [
+      {
+        "text": "学习拼刀",
+        "effect": "combo:add_random:clash_combo_pool"
+      },
+      {
+        "text": "强化攻击",
+        "effect": "card:modify_damage_choose:+1;hp:-5"
+      },
+      {
+        "text": "离开",
+        "effect": ""
+      }
+    ]
+  }
+]

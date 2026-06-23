@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_greatsword_chop-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 330,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 29,
+        "w": 330,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-006.png": {
+      "frame": {
+        "x": 2024,
+        "y": 2,
+        "w": 322,
+        "h": 731
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 33,
+        "w": 322,
+        "h": 731
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-007.png": {
+      "frame": {
+        "x": 2348,
+        "y": 2,
+        "w": 310,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 50,
+        "w": 310,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-008.png": {
+      "frame": {
+        "x": 2660,
+        "y": 2,
+        "w": 307,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 61,
+        "w": 307,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-009.png": {
+      "frame": {
+        "x": 2969,
+        "y": 2,
+        "w": 302,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 74,
+        "w": 302,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-010.png": {
+      "frame": {
+        "x": 3273,
+        "y": 2,
+        "w": 302,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 86,
+        "w": 302,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-011.png": {
+      "frame": {
+        "x": 3577,
+        "y": 2,
+        "w": 467,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 103,
+        "w": 467,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 542,
+        "h": 656
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 108,
+        "w": 542,
+        "h": 656
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-013.png": {
+      "frame": {
+        "x": 546,
+        "y": 740,
+        "w": 613,
+        "h": 652
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 112,
+        "w": 613,
+        "h": 652
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-014.png": {
+      "frame": {
+        "x": 1161,
+        "y": 740,
+        "w": 643,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 116,
+        "w": 643,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-015.png": {
+      "frame": {
+        "x": 1806,
+        "y": 740,
+        "w": 652,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 118,
+        "w": 652,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-016.png": {
+      "frame": {
+        "x": 2460,
+        "y": 740,
+        "w": 658,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 120,
+        "w": 658,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-017.png": {
+      "frame": {
+        "x": 3120,
+        "y": 740,
+        "w": 659,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 121,
+        "w": 659,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-018.png": {
+      "frame": {
+        "x": 2,
+        "y": 1398,
+        "w": 658,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 121,
+        "w": 658,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-019.png": {
+      "frame": {
+        "x": 662,
+        "y": 1398,
+        "w": 658,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 121,
+        "w": 658,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-020.png": {
+      "frame": {
+        "x": 1322,
+        "y": 1398,
+        "w": 656,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 121,
+        "w": 656,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-021.png": {
+      "frame": {
+        "x": 1980,
+        "y": 1398,
+        "w": 656,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 122,
+        "w": 656,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-022.png": {
+      "frame": {
+        "x": 2638,
+        "y": 1398,
+        "w": 655,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 122,
+        "w": 655,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-023.png": {
+      "frame": {
+        "x": 3295,
+        "y": 1398,
+        "w": 653,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 122,
+        "w": 653,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-024.png": {
+      "frame": {
+        "x": 2,
+        "y": 2043,
+        "w": 653,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 122,
+        "w": 653,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-025.png": {
+      "frame": {
+        "x": 657,
+        "y": 2043,
+        "w": 653,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 122,
+        "w": 653,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-026.png": {
+      "frame": {
+        "x": 1312,
+        "y": 2043,
+        "w": 652,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 122,
+        "w": 652,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-027.png": {
+      "frame": {
+        "x": 1966,
+        "y": 2043,
+        "w": 652,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 122,
+        "w": 652,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-028.png": {
+      "frame": {
+        "x": 2620,
+        "y": 2043,
+        "w": 651,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 122,
+        "w": 651,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-029.png": {
+      "frame": {
+        "x": 3273,
+        "y": 2043,
+        "w": 652,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 122,
+        "w": 652,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-030.png": {
+      "frame": {
+        "x": 2,
+        "y": 2687,
+        "w": 654,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 121,
+        "w": 654,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-031.png": {
+      "frame": {
+        "x": 658,
+        "y": 2687,
+        "w": 650,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 117,
+        "w": 650,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-032.png": {
+      "frame": {
+        "x": 1310,
+        "y": 2687,
+        "w": 688,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 0,
+        "w": 688,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-033.png": {
+      "frame": {
+        "x": 2000,
+        "y": 2687,
+        "w": 904,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 904,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-034.png": {
+      "frame": {
+        "x": 2906,
+        "y": 2687,
+        "w": 970,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 0,
+        "w": 970,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 3453,
+        "w": 974,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 0,
+        "w": 974,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-036.png": {
+      "frame": {
+        "x": 978,
+        "y": 3453,
+        "w": 738,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 0,
+        "w": 738,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-037.png": {
+      "frame": {
+        "x": 1718,
+        "y": 3453,
+        "w": 738,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 0,
+        "w": 738,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-038.png": {
+      "frame": {
+        "x": 2458,
+        "y": 3453,
+        "w": 737,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 51,
+        "w": 737,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-039.png": {
+      "frame": {
+        "x": 3197,
+        "y": 3453,
+        "w": 738,
+        "h": 637
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 127,
+        "w": 738,
+        "h": 637
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 4219,
+        "w": 726,
+        "h": 637
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 127,
+        "w": 726,
+        "h": 637
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-041.png": {
+      "frame": {
+        "x": 730,
+        "y": 4219,
+        "w": 703,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 128,
+        "w": 703,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-042.png": {
+      "frame": {
+        "x": 1435,
+        "y": 4219,
+        "w": 703,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 128,
+        "w": 703,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-043.png": {
+      "frame": {
+        "x": 2140,
+        "y": 4219,
+        "w": 703,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 128,
+        "w": 703,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-044.png": {
+      "frame": {
+        "x": 2845,
+        "y": 4219,
+        "w": 701,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 128,
+        "w": 701,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-045.png": {
+      "frame": {
+        "x": 2,
+        "y": 4858,
+        "w": 698,
+        "h": 635
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 129,
+        "w": 698,
+        "h": 635
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-046.png": {
+      "frame": {
+        "x": 702,
+        "y": 4858,
+        "w": 702,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 283,
+        "y": 132,
+        "w": 702,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-047.png": {
+      "frame": {
+        "x": 1406,
+        "y": 4858,
+        "w": 720,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 274,
+        "y": 136,
+        "w": 720,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-048.png": {
+      "frame": {
+        "x": 2128,
+        "y": 4858,
+        "w": 751,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 249,
+        "y": 137,
+        "w": 751,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-049.png": {
+      "frame": {
+        "x": 2881,
+        "y": 4858,
+        "w": 703,
+        "h": 633
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 247,
+        "y": 131,
+        "w": 703,
+        "h": 633
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-050.png": {
+      "frame": {
+        "x": 2,
+        "y": 5495,
+        "w": 584,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 261,
+        "y": 121,
+        "w": 584,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-051.png": {
+      "frame": {
+        "x": 588,
+        "y": 5495,
+        "w": 446,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 107,
+        "w": 446,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-052.png": {
+      "frame": {
+        "x": 1036,
+        "y": 5495,
+        "w": 376,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 90,
+        "w": 376,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-053.png": {
+      "frame": {
+        "x": 1414,
+        "y": 5495,
+        "w": 311,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 57,
+        "w": 311,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-054.png": {
+      "frame": {
+        "x": 1727,
+        "y": 5495,
+        "w": 304,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 35,
+        "w": 304,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-055.png": {
+      "frame": {
+        "x": 2033,
+        "y": 5495,
+        "w": 304,
+        "h": 743
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 21,
+        "w": 304,
+        "h": 743
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-056.png": {
+      "frame": {
+        "x": 2339,
+        "y": 5495,
+        "w": 304,
+        "h": 742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 22,
+        "w": 304,
+        "h": 742
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-057.png": {
+      "frame": {
+        "x": 2645,
+        "y": 5495,
+        "w": 331,
+        "h": 744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 20,
+        "w": 331,
+        "h": 744
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-058.png": {
+      "frame": {
+        "x": 2978,
+        "y": 5495,
+        "w": 355,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 24,
+        "w": 355,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-059.png": {
+      "frame": {
+        "x": 3335,
+        "y": 5495,
+        "w": 370,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 28,
+        "w": 370,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-060.png": {
+      "frame": {
+        "x": 3707,
+        "y": 5495,
+        "w": 377,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 28,
+        "w": 377,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-061.png": {
+      "frame": {
+        "x": 2,
+        "y": 6241,
+        "w": 394,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 27,
+        "w": 394,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-062.png": {
+      "frame": {
+        "x": 398,
+        "y": 6241,
+        "w": 419,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 297,
+        "y": 27,
+        "w": 419,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-063.png": {
+      "frame": {
+        "x": 819,
+        "y": 6241,
+        "w": 393,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 302,
+        "y": 27,
+        "w": 393,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-064.png": {
+      "frame": {
+        "x": 1214,
+        "y": 6241,
+        "w": 366,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 27,
+        "w": 366,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-065.png": {
+      "frame": {
+        "x": 1582,
+        "y": 6241,
+        "w": 354,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 27,
+        "w": 354,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-066.png": {
+      "frame": {
+        "x": 1938,
+        "y": 6241,
+        "w": 341,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 27,
+        "w": 341,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-067.png": {
+      "frame": {
+        "x": 2281,
+        "y": 6241,
+        "w": 338,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 338,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-068.png": {
+      "frame": {
+        "x": 2621,
+        "y": 6241,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-069.png": {
+      "frame": {
+        "x": 2960,
+        "y": 6241,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-070.png": {
+      "frame": {
+        "x": 3298,
+        "y": 6241,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-071.png": {
+      "frame": {
+        "x": 3636,
+        "y": 6241,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-072.png": {
+      "frame": {
+        "x": 2,
+        "y": 6980,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-073.png": {
+      "frame": {
+        "x": 340,
+        "y": 6980,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-074.png": {
+      "frame": {
+        "x": 678,
+        "y": 6980,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-075.png": {
+      "frame": {
+        "x": 1016,
+        "y": 6980,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-076.png": {
+      "frame": {
+        "x": 1354,
+        "y": 6980,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-077.png": {
+      "frame": {
+        "x": 1692,
+        "y": 6980,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-078.png": {
+      "frame": {
+        "x": 2030,
+        "y": 6980,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_greatsword_chop-079.png": {
+      "frame": {
+        "x": 2368,
+        "y": 6980,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_greatsword_chop": [
+      "player1_greatsword_chop-000.png",
+      "player1_greatsword_chop-001.png",
+      "player1_greatsword_chop-002.png",
+      "player1_greatsword_chop-003.png",
+      "player1_greatsword_chop-004.png",
+      "player1_greatsword_chop-005.png",
+      "player1_greatsword_chop-006.png",
+      "player1_greatsword_chop-007.png",
+      "player1_greatsword_chop-008.png",
+      "player1_greatsword_chop-009.png",
+      "player1_greatsword_chop-010.png",
+      "player1_greatsword_chop-011.png",
+      "player1_greatsword_chop-012.png",
+      "player1_greatsword_chop-013.png",
+      "player1_greatsword_chop-014.png",
+      "player1_greatsword_chop-015.png",
+      "player1_greatsword_chop-016.png",
+      "player1_greatsword_chop-017.png",
+      "player1_greatsword_chop-018.png",
+      "player1_greatsword_chop-019.png",
+      "player1_greatsword_chop-020.png",
+      "player1_greatsword_chop-021.png",
+      "player1_greatsword_chop-022.png",
+      "player1_greatsword_chop-023.png",
+      "player1_greatsword_chop-024.png",
+      "player1_greatsword_chop-025.png",
+      "player1_greatsword_chop-026.png",
+      "player1_greatsword_chop-027.png",
+      "player1_greatsword_chop-028.png",
+      "player1_greatsword_chop-029.png",
+      "player1_greatsword_chop-030.png",
+      "player1_greatsword_chop-031.png",
+      "player1_greatsword_chop-032.png",
+      "player1_greatsword_chop-033.png",
+      "player1_greatsword_chop-034.png",
+      "player1_greatsword_chop-035.png",
+      "player1_greatsword_chop-036.png",
+      "player1_greatsword_chop-037.png",
+      "player1_greatsword_chop-038.png",
+      "player1_greatsword_chop-039.png",
+      "player1_greatsword_chop-040.png",
+      "player1_greatsword_chop-041.png",
+      "player1_greatsword_chop-042.png",
+      "player1_greatsword_chop-043.png",
+      "player1_greatsword_chop-044.png",
+      "player1_greatsword_chop-045.png",
+      "player1_greatsword_chop-046.png",
+      "player1_greatsword_chop-047.png",
+      "player1_greatsword_chop-048.png",
+      "player1_greatsword_chop-049.png",
+      "player1_greatsword_chop-050.png",
+      "player1_greatsword_chop-051.png",
+      "player1_greatsword_chop-052.png",
+      "player1_greatsword_chop-053.png",
+      "player1_greatsword_chop-054.png",
+      "player1_greatsword_chop-055.png",
+      "player1_greatsword_chop-056.png",
+      "player1_greatsword_chop-057.png",
+      "player1_greatsword_chop-058.png",
+      "player1_greatsword_chop-059.png",
+      "player1_greatsword_chop-060.png",
+      "player1_greatsword_chop-061.png",
+      "player1_greatsword_chop-062.png",
+      "player1_greatsword_chop-063.png",
+      "player1_greatsword_chop-064.png",
+      "player1_greatsword_chop-065.png",
+      "player1_greatsword_chop-066.png",
+      "player1_greatsword_chop-067.png",
+      "player1_greatsword_chop-068.png",
+      "player1_greatsword_chop-069.png",
+      "player1_greatsword_chop-070.png",
+      "player1_greatsword_chop-071.png",
+      "player1_greatsword_chop-072.png",
+      "player1_greatsword_chop-073.png",
+      "player1_greatsword_chop-074.png",
+      "player1_greatsword_chop-075.png",
+      "player1_greatsword_chop-076.png",
+      "player1_greatsword_chop-077.png",
+      "player1_greatsword_chop-078.png",
+      "player1_greatsword_chop-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_greatsword_chop.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4086,
+      "h": 7719
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

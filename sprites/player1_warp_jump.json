@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_warp_jump-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-001.png": {
+      "frame": {
+        "x": 551,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-002.png": {
+      "frame": {
+        "x": 1100,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-003.png": {
+      "frame": {
+        "x": 1649,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-004.png": {
+      "frame": {
+        "x": 2198,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-005.png": {
+      "frame": {
+        "x": 2747,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-006.png": {
+      "frame": {
+        "x": 3296,
+        "y": 2,
+        "w": 545,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 555,
+        "y": 43,
+        "w": 545,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-007.png": {
+      "frame": {
+        "x": 3843,
+        "y": 2,
+        "w": 545,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 555,
+        "y": 43,
+        "w": 545,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-008.png": {
+      "frame": {
+        "x": 4390,
+        "y": 2,
+        "w": 543,
+        "h": 1200
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 557,
+        "y": 42,
+        "w": 543,
+        "h": 1200
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-009.png": {
+      "frame": {
+        "x": 4935,
+        "y": 2,
+        "w": 536,
+        "h": 1198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 570,
+        "y": 44,
+        "w": 536,
+        "h": 1198
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-010.png": {
+      "frame": {
+        "x": 5473,
+        "y": 2,
+        "w": 536,
+        "h": 1198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 570,
+        "y": 44,
+        "w": 536,
+        "h": 1198
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-011.png": {
+      "frame": {
+        "x": 6011,
+        "y": 2,
+        "w": 573,
+        "h": 1195
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 578,
+        "y": 47,
+        "w": 573,
+        "h": 1195
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-012.png": {
+      "frame": {
+        "x": 6586,
+        "y": 2,
+        "w": 669,
+        "h": 1179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 605,
+        "y": 60,
+        "w": 669,
+        "h": 1179
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-013.png": {
+      "frame": {
+        "x": 7257,
+        "y": 2,
+        "w": 669,
+        "h": 1179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 605,
+        "y": 60,
+        "w": 669,
+        "h": 1179
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-014.png": {
+      "frame": {
+        "x": 2,
+        "y": 1204,
+        "w": 753,
+        "h": 1139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 582,
+        "y": 84,
+        "w": 753,
+        "h": 1139
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-015.png": {
+      "frame": {
+        "x": 757,
+        "y": 1204,
+        "w": 889,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 493,
+        "y": 152,
+        "w": 889,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-016.png": {
+      "frame": {
+        "x": 1648,
+        "y": 1204,
+        "w": 889,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 493,
+        "y": 152,
+        "w": 889,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-017.png": {
+      "frame": {
+        "x": 2539,
+        "y": 1204,
+        "w": 897,
+        "h": 1043
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 469,
+        "y": 184,
+        "w": 897,
+        "h": 1043
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-018.png": {
+      "frame": {
+        "x": 3438,
+        "y": 1204,
+        "w": 849,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 463,
+        "y": 234,
+        "w": 849,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-019.png": {
+      "frame": {
+        "x": 4289,
+        "y": 1204,
+        "w": 849,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 463,
+        "y": 234,
+        "w": 849,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-020.png": {
+      "frame": {
+        "x": 5140,
+        "y": 1204,
+        "w": 822,
+        "h": 981
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 463,
+        "y": 247,
+        "w": 822,
+        "h": 981
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-021.png": {
+      "frame": {
+        "x": 5964,
+        "y": 1204,
+        "w": 806,
+        "h": 977
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 463,
+        "y": 251,
+        "w": 806,
+        "h": 977
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-022.png": {
+      "frame": {
+        "x": 6772,
+        "y": 1204,
+        "w": 806,
+        "h": 977
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 463,
+        "y": 251,
+        "w": 806,
+        "h": 977
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-023.png": {
+      "frame": {
+        "x": 2,
+        "y": 2345,
+        "w": 805,
+        "h": 978
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 462,
+        "y": 250,
+        "w": 805,
+        "h": 978
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-024.png": {
+      "frame": {
+        "x": 809,
+        "y": 2345,
+        "w": 806,
+        "h": 979
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 460,
+        "y": 249,
+        "w": 806,
+        "h": 979
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-025.png": {
+      "frame": {
+        "x": 1617,
+        "y": 2345,
+        "w": 806,
+        "h": 979
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 460,
+        "y": 249,
+        "w": 806,
+        "h": 979
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-026.png": {
+      "frame": {
+        "x": 2425,
+        "y": 2345,
+        "w": 808,
+        "h": 980
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 459,
+        "y": 248,
+        "w": 808,
+        "h": 980
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-027.png": {
+      "frame": {
+        "x": 3235,
+        "y": 2345,
+        "w": 810,
+        "h": 982
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 458,
+        "y": 246,
+        "w": 810,
+        "h": 982
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-028.png": {
+      "frame": {
+        "x": 4047,
+        "y": 2345,
+        "w": 810,
+        "h": 982
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 458,
+        "y": 246,
+        "w": 810,
+        "h": 982
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-029.png": {
+      "frame": {
+        "x": 4859,
+        "y": 2345,
+        "w": 812,
+        "h": 982
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 246,
+        "w": 812,
+        "h": 982
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-030.png": {
+      "frame": {
+        "x": 5673,
+        "y": 2345,
+        "w": 813,
+        "h": 983
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 245,
+        "w": 813,
+        "h": 983
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-031.png": {
+      "frame": {
+        "x": 6488,
+        "y": 2345,
+        "w": 813,
+        "h": 983
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 245,
+        "w": 813,
+        "h": 983
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-032.png": {
+      "frame": {
+        "x": 7303,
+        "y": 2345,
+        "w": 814,
+        "h": 983
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 245,
+        "w": 814,
+        "h": 983
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-033.png": {
+      "frame": {
+        "x": 2,
+        "y": 3330,
+        "w": 815,
+        "h": 984
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 244,
+        "w": 815,
+        "h": 984
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-034.png": {
+      "frame": {
+        "x": 819,
+        "y": 3330,
+        "w": 815,
+        "h": 984
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 244,
+        "w": 815,
+        "h": 984
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-035.png": {
+      "frame": {
+        "x": 1636,
+        "y": 3330,
+        "w": 816,
+        "h": 983
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 457,
+        "y": 245,
+        "w": 816,
+        "h": 983
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-036.png": {
+      "frame": {
+        "x": 2454,
+        "y": 3330,
+        "w": 815,
+        "h": 983
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 455,
+        "y": 245,
+        "w": 815,
+        "h": 983
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-037.png": {
+      "frame": {
+        "x": 3271,
+        "y": 3330,
+        "w": 815,
+        "h": 983
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 455,
+        "y": 245,
+        "w": 815,
+        "h": 983
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-038.png": {
+      "frame": {
+        "x": 4088,
+        "y": 3330,
+        "w": 813,
+        "h": 982
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 446,
+        "y": 246,
+        "w": 813,
+        "h": 982
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-039.png": {
+      "frame": {
+        "x": 4903,
+        "y": 3330,
+        "w": 806,
+        "h": 980
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 430,
+        "y": 248,
+        "w": 806,
+        "h": 980
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-040.png": {
+      "frame": {
+        "x": 5711,
+        "y": 3330,
+        "w": 806,
+        "h": 980
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 430,
+        "y": 248,
+        "w": 806,
+        "h": 980
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-041.png": {
+      "frame": {
+        "x": 6519,
+        "y": 3330,
+        "w": 806,
+        "h": 979
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 431,
+        "y": 249,
+        "w": 806,
+        "h": 979
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 4316,
+        "w": 992,
+        "h": 950
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 485,
+        "y": 277,
+        "w": 992,
+        "h": 950
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-043.png": {
+      "frame": {
+        "x": 996,
+        "y": 4316,
+        "w": 992,
+        "h": 950
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 485,
+        "y": 277,
+        "w": 992,
+        "h": 950
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-044.png": {
+      "frame": {
+        "x": 1990,
+        "y": 4316,
+        "w": 941,
+        "h": 951
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 536,
+        "y": 276,
+        "w": 941,
+        "h": 951
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-045.png": {
+      "frame": {
+        "x": 2933,
+        "y": 4316,
+        "w": 1646,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 254,
+        "w": 1646,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-046.png": {
+      "frame": {
+        "x": 4581,
+        "y": 4316,
+        "w": 1646,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 254,
+        "w": 1646,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-047.png": {
+      "frame": {
+        "x": 6229,
+        "y": 4316,
+        "w": 1646,
+        "h": 993
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 255,
+        "w": 1646,
+        "h": 993
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-048.png": {
+      "frame": {
+        "x": 2,
+        "y": 5312,
+        "w": 1647,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 254,
+        "w": 1647,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-049.png": {
+      "frame": {
+        "x": 1651,
+        "y": 5312,
+        "w": 1647,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 254,
+        "w": 1647,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-050.png": {
+      "frame": {
+        "x": 3300,
+        "y": 5312,
+        "w": 1647,
+        "h": 995
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 253,
+        "w": 1647,
+        "h": 995
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-051.png": {
+      "frame": {
+        "x": 4949,
+        "y": 5312,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 6310,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-053.png": {
+      "frame": {
+        "x": 1651,
+        "y": 6310,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-054.png": {
+      "frame": {
+        "x": 3300,
+        "y": 6310,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-055.png": {
+      "frame": {
+        "x": 4949,
+        "y": 6310,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-056.png": {
+      "frame": {
+        "x": 2,
+        "y": 7308,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-057.png": {
+      "frame": {
+        "x": 1651,
+        "y": 7308,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-058.png": {
+      "frame": {
+        "x": 3300,
+        "y": 7308,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-059.png": {
+      "frame": {
+        "x": 4949,
+        "y": 7308,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-060.png": {
+      "frame": {
+        "x": 2,
+        "y": 8307,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-061.png": {
+      "frame": {
+        "x": 1651,
+        "y": 8307,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-062.png": {
+      "frame": {
+        "x": 3300,
+        "y": 8307,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-063.png": {
+      "frame": {
+        "x": 4949,
+        "y": 8307,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-064.png": {
+      "frame": {
+        "x": 2,
+        "y": 9306,
+        "w": 1647,
+        "h": 997
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1647,
+        "h": 997
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-065.png": {
+      "frame": {
+        "x": 1651,
+        "y": 9306,
+        "w": 1647,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 252,
+        "w": 1647,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-066.png": {
+      "frame": {
+        "x": 3300,
+        "y": 9306,
+        "w": 1451,
+        "h": 984
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 256,
+        "w": 1451,
+        "h": 984
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-067.png": {
+      "frame": {
+        "x": 4753,
+        "y": 9306,
+        "w": 1451,
+        "h": 984
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 256,
+        "w": 1451,
+        "h": 984
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-068.png": {
+      "frame": {
+        "x": 6206,
+        "y": 9306,
+        "w": 1327,
+        "h": 978
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 266,
+        "w": 1327,
+        "h": 978
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-069.png": {
+      "frame": {
+        "x": 2,
+        "y": 10305,
+        "w": 1419,
+        "h": 993
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 251,
+        "w": 1419,
+        "h": 993
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-070.png": {
+      "frame": {
+        "x": 1423,
+        "y": 10305,
+        "w": 1419,
+        "h": 993
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 251,
+        "w": 1419,
+        "h": 993
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-071.png": {
+      "frame": {
+        "x": 2844,
+        "y": 10305,
+        "w": 1421,
+        "h": 995
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 249,
+        "w": 1421,
+        "h": 995
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-072.png": {
+      "frame": {
+        "x": 4267,
+        "y": 10305,
+        "w": 1423,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 248,
+        "w": 1423,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-073.png": {
+      "frame": {
+        "x": 5692,
+        "y": 10305,
+        "w": 1423,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 248,
+        "w": 1423,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-074.png": {
+      "frame": {
+        "x": 2,
+        "y": 11303,
+        "w": 1424,
+        "h": 996
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 248,
+        "w": 1424,
+        "h": 996
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-075.png": {
+      "frame": {
+        "x": 1428,
+        "y": 11303,
+        "w": 1410,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1410,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-076.png": {
+      "frame": {
+        "x": 2840,
+        "y": 11303,
+        "w": 1410,
+        "h": 994
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 251,
+        "w": 1410,
+        "h": 994
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-077.png": {
+      "frame": {
+        "x": 4252,
+        "y": 11303,
+        "w": 1384,
+        "h": 991
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 254,
+        "w": 1384,
+        "h": 991
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-078.png": {
+      "frame": {
+        "x": 5638,
+        "y": 11303,
+        "w": 826,
+        "h": 1000
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 507,
+        "y": 242,
+        "w": 826,
+        "h": 1000
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_warp_jump-079.png": {
+      "frame": {
+        "x": 6466,
+        "y": 11303,
+        "w": 826,
+        "h": 1000
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 507,
+        "y": 242,
+        "w": 826,
+        "h": 1000
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_warp_jump": [
+      "player1_warp_jump-000.png",
+      "player1_warp_jump-001.png",
+      "player1_warp_jump-002.png",
+      "player1_warp_jump-003.png",
+      "player1_warp_jump-004.png",
+      "player1_warp_jump-005.png",
+      "player1_warp_jump-006.png",
+      "player1_warp_jump-007.png",
+      "player1_warp_jump-008.png",
+      "player1_warp_jump-009.png",
+      "player1_warp_jump-010.png",
+      "player1_warp_jump-011.png",
+      "player1_warp_jump-012.png",
+      "player1_warp_jump-013.png",
+      "player1_warp_jump-014.png",
+      "player1_warp_jump-015.png",
+      "player1_warp_jump-016.png",
+      "player1_warp_jump-017.png",
+      "player1_warp_jump-018.png",
+      "player1_warp_jump-019.png",
+      "player1_warp_jump-020.png",
+      "player1_warp_jump-021.png",
+      "player1_warp_jump-022.png",
+      "player1_warp_jump-023.png",
+      "player1_warp_jump-024.png",
+      "player1_warp_jump-025.png",
+      "player1_warp_jump-026.png",
+      "player1_warp_jump-027.png",
+      "player1_warp_jump-028.png",
+      "player1_warp_jump-029.png",
+      "player1_warp_jump-030.png",
+      "player1_warp_jump-031.png",
+      "player1_warp_jump-032.png",
+      "player1_warp_jump-033.png",
+      "player1_warp_jump-034.png",
+      "player1_warp_jump-035.png",
+      "player1_warp_jump-036.png",
+      "player1_warp_jump-037.png",
+      "player1_warp_jump-038.png",
+      "player1_warp_jump-039.png",
+      "player1_warp_jump-040.png",
+      "player1_warp_jump-041.png",
+      "player1_warp_jump-042.png",
+      "player1_warp_jump-043.png",
+      "player1_warp_jump-044.png",
+      "player1_warp_jump-045.png",
+      "player1_warp_jump-046.png",
+      "player1_warp_jump-047.png",
+      "player1_warp_jump-048.png",
+      "player1_warp_jump-049.png",
+      "player1_warp_jump-050.png",
+      "player1_warp_jump-051.png",
+      "player1_warp_jump-052.png",
+      "player1_warp_jump-053.png",
+      "player1_warp_jump-054.png",
+      "player1_warp_jump-055.png",
+      "player1_warp_jump-056.png",
+      "player1_warp_jump-057.png",
+      "player1_warp_jump-058.png",
+      "player1_warp_jump-059.png",
+      "player1_warp_jump-060.png",
+      "player1_warp_jump-061.png",
+      "player1_warp_jump-062.png",
+      "player1_warp_jump-063.png",
+      "player1_warp_jump-064.png",
+      "player1_warp_jump-065.png",
+      "player1_warp_jump-066.png",
+      "player1_warp_jump-067.png",
+      "player1_warp_jump-068.png",
+      "player1_warp_jump-069.png",
+      "player1_warp_jump-070.png",
+      "player1_warp_jump-071.png",
+      "player1_warp_jump-072.png",
+      "player1_warp_jump-073.png",
+      "player1_warp_jump-074.png",
+      "player1_warp_jump-075.png",
+      "player1_warp_jump-076.png",
+      "player1_warp_jump-077.png",
+      "player1_warp_jump-078.png",
+      "player1_warp_jump-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_warp_jump.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8119,
+      "h": 12305
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1664,
+      "h": 1248
+    }
+  }
+}

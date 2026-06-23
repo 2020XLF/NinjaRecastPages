@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs><filter id="ds" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#000" flood-opacity=".8"/></filter></defs>
+<rect width="128" height="128" fill="#090a0d"/>
+<path d="M20 18h72l18 18v74H36L18 92V20z" fill="#14171c" stroke="#f2f0e8" stroke-width="3" opacity=".92"/>
+<path d="M27 27h35M96 43v34M39 101h43" fill="none" stroke="#c88cff" stroke-width="3" stroke-linecap="square" opacity=".78"/>
+<g filter="url(#ds)" fill="#f7f4ea" stroke="#050608" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"><path d="M34 54c0-8 6-14 14-14h44c13 0 22 9 22 21v15H61l-8 22H31l7-22H24V64c0-6 4-10 10-10z"/><rect x="39" y="27" width="16" height="28" rx="3"/><rect x="56" y="24" width="17" height="31" rx="3"/><rect x="74" y="26" width="17" height="29" rx="3"/><rect x="92" y="34" width="14" height="23" rx="3"/><path d="M53 57v-27M72 57v-29M90 58v-21M49 76h40M62 88h22" fill="none" stroke="#050608" stroke-width="4"/></g>
+<path d="M90 21h18v5H95v13h-5zM20 107h20v-5H25V88h-5z" fill="#c88cff" opacity=".8"/>
+</svg>

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_charge-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-006.png": {
+      "frame": {
+        "x": 2030,
+        "y": 2,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-007.png": {
+      "frame": {
+        "x": 2368,
+        "y": 2,
+        "w": 343,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 27,
+        "w": 343,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-008.png": {
+      "frame": {
+        "x": 2713,
+        "y": 2,
+        "w": 347,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 30,
+        "w": 347,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-009.png": {
+      "frame": {
+        "x": 3062,
+        "y": 2,
+        "w": 353,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 41,
+        "w": 353,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-010.png": {
+      "frame": {
+        "x": 3417,
+        "y": 2,
+        "w": 362,
+        "h": 704
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 60,
+        "w": 362,
+        "h": 704
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 386,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 107,
+        "w": 386,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-012.png": {
+      "frame": {
+        "x": 390,
+        "y": 741,
+        "w": 390,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 125,
+        "w": 390,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-013.png": {
+      "frame": {
+        "x": 782,
+        "y": 741,
+        "w": 388,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 135,
+        "w": 388,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-014.png": {
+      "frame": {
+        "x": 1172,
+        "y": 741,
+        "w": 386,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 143,
+        "w": 386,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-015.png": {
+      "frame": {
+        "x": 1560,
+        "y": 741,
+        "w": 383,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 149,
+        "w": 383,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-016.png": {
+      "frame": {
+        "x": 1945,
+        "y": 741,
+        "w": 383,
+        "h": 608
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 156,
+        "w": 383,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-017.png": {
+      "frame": {
+        "x": 2330,
+        "y": 741,
+        "w": 383,
+        "h": 606
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 158,
+        "w": 383,
+        "h": 606
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-018.png": {
+      "frame": {
+        "x": 2715,
+        "y": 741,
+        "w": 382,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 159,
+        "w": 382,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-019.png": {
+      "frame": {
+        "x": 3099,
+        "y": 741,
+        "w": 382,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 159,
+        "w": 382,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-020.png": {
+      "frame": {
+        "x": 3483,
+        "y": 741,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-021.png": {
+      "frame": {
+        "x": 2,
+        "y": 1400,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-022.png": {
+      "frame": {
+        "x": 386,
+        "y": 1400,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-023.png": {
+      "frame": {
+        "x": 770,
+        "y": 1400,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-024.png": {
+      "frame": {
+        "x": 1154,
+        "y": 1400,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-025.png": {
+      "frame": {
+        "x": 1538,
+        "y": 1400,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-026.png": {
+      "frame": {
+        "x": 1922,
+        "y": 1400,
+        "w": 382,
+        "h": 604
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 160,
+        "w": 382,
+        "h": 604
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-027.png": {
+      "frame": {
+        "x": 2306,
+        "y": 1400,
+        "w": 382,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 159,
+        "w": 382,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-028.png": {
+      "frame": {
+        "x": 2690,
+        "y": 1400,
+        "w": 382,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 159,
+        "w": 382,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-029.png": {
+      "frame": {
+        "x": 3074,
+        "y": 1400,
+        "w": 382,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 159,
+        "w": 382,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-030.png": {
+      "frame": {
+        "x": 3458,
+        "y": 1400,
+        "w": 382,
+        "h": 606
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 158,
+        "w": 382,
+        "h": 606
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-031.png": {
+      "frame": {
+        "x": 2,
+        "y": 2008,
+        "w": 382,
+        "h": 606
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 158,
+        "w": 382,
+        "h": 606
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-032.png": {
+      "frame": {
+        "x": 386,
+        "y": 2008,
+        "w": 382,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 157,
+        "w": 382,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-033.png": {
+      "frame": {
+        "x": 770,
+        "y": 2008,
+        "w": 382,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 157,
+        "w": 382,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-034.png": {
+      "frame": {
+        "x": 1154,
+        "y": 2008,
+        "w": 695,
+        "h": 691
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 76,
+        "w": 695,
+        "h": 691
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-035.png": {
+      "frame": {
+        "x": 1851,
+        "y": 2008,
+        "w": 822,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 822,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-036.png": {
+      "frame": {
+        "x": 2675,
+        "y": 2008,
+        "w": 875,
+        "h": 763
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 0,
+        "w": 875,
+        "h": 763
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-037.png": {
+      "frame": {
+        "x": 2,
+        "y": 2778,
+        "w": 881,
+        "h": 751
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 0,
+        "w": 881,
+        "h": 751
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-038.png": {
+      "frame": {
+        "x": 885,
+        "y": 2778,
+        "w": 749,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 275,
+        "y": 0,
+        "w": 749,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-039.png": {
+      "frame": {
+        "x": 1636,
+        "y": 2778,
+        "w": 583,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 25,
+        "w": 583,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-040.png": {
+      "frame": {
+        "x": 2221,
+        "y": 2778,
+        "w": 585,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 266,
+        "y": 22,
+        "w": 585,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-041.png": {
+      "frame": {
+        "x": 2808,
+        "y": 2778,
+        "w": 581,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 29,
+        "w": 581,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-042.png": {
+      "frame": {
+        "x": 3391,
+        "y": 2778,
+        "w": 605,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 238,
+        "y": 22,
+        "w": 605,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-043.png": {
+      "frame": {
+        "x": 2,
+        "y": 3531,
+        "w": 595,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 249,
+        "y": 24,
+        "w": 595,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-044.png": {
+      "frame": {
+        "x": 599,
+        "y": 3531,
+        "w": 591,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 26,
+        "w": 591,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-045.png": {
+      "frame": {
+        "x": 1192,
+        "y": 3531,
+        "w": 560,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 22,
+        "w": 560,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-046.png": {
+      "frame": {
+        "x": 1754,
+        "y": 3531,
+        "w": 581,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 27,
+        "w": 581,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-047.png": {
+      "frame": {
+        "x": 2337,
+        "y": 3531,
+        "w": 609,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 235,
+        "y": 22,
+        "w": 609,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-048.png": {
+      "frame": {
+        "x": 2948,
+        "y": 3531,
+        "w": 584,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 261,
+        "y": 23,
+        "w": 584,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 4248,
+        "w": 600,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 244,
+        "y": 25,
+        "w": 600,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-050.png": {
+      "frame": {
+        "x": 604,
+        "y": 4248,
+        "w": 600,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 244,
+        "y": 23,
+        "w": 600,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-051.png": {
+      "frame": {
+        "x": 1206,
+        "y": 4248,
+        "w": 592,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 25,
+        "w": 592,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-052.png": {
+      "frame": {
+        "x": 1800,
+        "y": 4248,
+        "w": 587,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 253,
+        "y": 22,
+        "w": 587,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-053.png": {
+      "frame": {
+        "x": 2389,
+        "y": 4248,
+        "w": 601,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 244,
+        "y": 24,
+        "w": 601,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-054.png": {
+      "frame": {
+        "x": 2992,
+        "y": 4248,
+        "w": 602,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 238,
+        "y": 23,
+        "w": 602,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-055.png": {
+      "frame": {
+        "x": 2,
+        "y": 4965,
+        "w": 577,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 25,
+        "w": 577,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-056.png": {
+      "frame": {
+        "x": 581,
+        "y": 4965,
+        "w": 591,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 24,
+        "w": 591,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-057.png": {
+      "frame": {
+        "x": 1174,
+        "y": 4965,
+        "w": 576,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 21,
+        "w": 576,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-058.png": {
+      "frame": {
+        "x": 1752,
+        "y": 4965,
+        "w": 543,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 268,
+        "y": 51,
+        "w": 543,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-059.png": {
+      "frame": {
+        "x": 2297,
+        "y": 4965,
+        "w": 515,
+        "h": 658
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 283,
+        "y": 110,
+        "w": 515,
+        "h": 658
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-060.png": {
+      "frame": {
+        "x": 2814,
+        "y": 4965,
+        "w": 438,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 122,
+        "w": 438,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-061.png": {
+      "frame": {
+        "x": 3254,
+        "y": 4965,
+        "w": 412,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 119,
+        "w": 412,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-062.png": {
+      "frame": {
+        "x": 3668,
+        "y": 4965,
+        "w": 390,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 83,
+        "w": 390,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-063.png": {
+      "frame": {
+        "x": 2,
+        "y": 5683,
+        "w": 376,
+        "h": 699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 65,
+        "w": 376,
+        "h": 699
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-064.png": {
+      "frame": {
+        "x": 380,
+        "y": 5683,
+        "w": 357,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 50,
+        "w": 357,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-065.png": {
+      "frame": {
+        "x": 739,
+        "y": 5683,
+        "w": 334,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 40,
+        "w": 334,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-066.png": {
+      "frame": {
+        "x": 1075,
+        "y": 5683,
+        "w": 331,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 31,
+        "w": 331,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-067.png": {
+      "frame": {
+        "x": 1408,
+        "y": 5683,
+        "w": 331,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 29,
+        "w": 331,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-068.png": {
+      "frame": {
+        "x": 1741,
+        "y": 5683,
+        "w": 331,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 28,
+        "w": 331,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-069.png": {
+      "frame": {
+        "x": 2074,
+        "y": 5683,
+        "w": 332,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 28,
+        "w": 332,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-070.png": {
+      "frame": {
+        "x": 2408,
+        "y": 5683,
+        "w": 333,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 28,
+        "w": 333,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-071.png": {
+      "frame": {
+        "x": 2743,
+        "y": 5683,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-072.png": {
+      "frame": {
+        "x": 3080,
+        "y": 5683,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-073.png": {
+      "frame": {
+        "x": 3418,
+        "y": 5683,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-074.png": {
+      "frame": {
+        "x": 3756,
+        "y": 5683,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-075.png": {
+      "frame": {
+        "x": 2,
+        "y": 6421,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-076.png": {
+      "frame": {
+        "x": 340,
+        "y": 6421,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-077.png": {
+      "frame": {
+        "x": 678,
+        "y": 6421,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-078.png": {
+      "frame": {
+        "x": 1016,
+        "y": 6421,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charge-079.png": {
+      "frame": {
+        "x": 1354,
+        "y": 6421,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_charge": [
+      "player1_charge-000.png",
+      "player1_charge-001.png",
+      "player1_charge-002.png",
+      "player1_charge-003.png",
+      "player1_charge-004.png",
+      "player1_charge-005.png",
+      "player1_charge-006.png",
+      "player1_charge-007.png",
+      "player1_charge-008.png",
+      "player1_charge-009.png",
+      "player1_charge-010.png",
+      "player1_charge-011.png",
+      "player1_charge-012.png",
+      "player1_charge-013.png",
+      "player1_charge-014.png",
+      "player1_charge-015.png",
+      "player1_charge-016.png",
+      "player1_charge-017.png",
+      "player1_charge-018.png",
+      "player1_charge-019.png",
+      "player1_charge-020.png",
+      "player1_charge-021.png",
+      "player1_charge-022.png",
+      "player1_charge-023.png",
+      "player1_charge-024.png",
+      "player1_charge-025.png",
+      "player1_charge-026.png",
+      "player1_charge-027.png",
+      "player1_charge-028.png",
+      "player1_charge-029.png",
+      "player1_charge-030.png",
+      "player1_charge-031.png",
+      "player1_charge-032.png",
+      "player1_charge-033.png",
+      "player1_charge-034.png",
+      "player1_charge-035.png",
+      "player1_charge-036.png",
+      "player1_charge-037.png",
+      "player1_charge-038.png",
+      "player1_charge-039.png",
+      "player1_charge-040.png",
+      "player1_charge-041.png",
+      "player1_charge-042.png",
+      "player1_charge-043.png",
+      "player1_charge-044.png",
+      "player1_charge-045.png",
+      "player1_charge-046.png",
+      "player1_charge-047.png",
+      "player1_charge-048.png",
+      "player1_charge-049.png",
+      "player1_charge-050.png",
+      "player1_charge-051.png",
+      "player1_charge-052.png",
+      "player1_charge-053.png",
+      "player1_charge-054.png",
+      "player1_charge-055.png",
+      "player1_charge-056.png",
+      "player1_charge-057.png",
+      "player1_charge-058.png",
+      "player1_charge-059.png",
+      "player1_charge-060.png",
+      "player1_charge-061.png",
+      "player1_charge-062.png",
+      "player1_charge-063.png",
+      "player1_charge-064.png",
+      "player1_charge-065.png",
+      "player1_charge-066.png",
+      "player1_charge-067.png",
+      "player1_charge-068.png",
+      "player1_charge-069.png",
+      "player1_charge-070.png",
+      "player1_charge-071.png",
+      "player1_charge-072.png",
+      "player1_charge-073.png",
+      "player1_charge-074.png",
+      "player1_charge-075.png",
+      "player1_charge-076.png",
+      "player1_charge-077.png",
+      "player1_charge-078.png",
+      "player1_charge-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_charge.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4094,
+      "h": 7160
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

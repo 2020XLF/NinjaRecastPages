@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_scrap_pistol-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 353,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 27,
+        "w": 353,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-008.png": {
+      "frame": {
+        "x": 2730,
+        "y": 2,
+        "w": 362,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 27,
+        "w": 362,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-009.png": {
+      "frame": {
+        "x": 3094,
+        "y": 2,
+        "w": 371,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 307,
+        "y": 27,
+        "w": 371,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-010.png": {
+      "frame": {
+        "x": 3467,
+        "y": 2,
+        "w": 369,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 27,
+        "w": 369,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 362,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 28,
+        "w": 362,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-012.png": {
+      "frame": {
+        "x": 366,
+        "y": 741,
+        "w": 361,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 361,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-013.png": {
+      "frame": {
+        "x": 729,
+        "y": 741,
+        "w": 361,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 361,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-014.png": {
+      "frame": {
+        "x": 1092,
+        "y": 741,
+        "w": 361,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 361,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-015.png": {
+      "frame": {
+        "x": 1455,
+        "y": 741,
+        "w": 361,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 361,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-016.png": {
+      "frame": {
+        "x": 1818,
+        "y": 741,
+        "w": 361,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 361,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-017.png": {
+      "frame": {
+        "x": 2181,
+        "y": 741,
+        "w": 361,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 317,
+        "y": 28,
+        "w": 361,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-018.png": {
+      "frame": {
+        "x": 2544,
+        "y": 741,
+        "w": 364,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 28,
+        "w": 364,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-019.png": {
+      "frame": {
+        "x": 2910,
+        "y": 741,
+        "w": 368,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 28,
+        "w": 368,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-020.png": {
+      "frame": {
+        "x": 3280,
+        "y": 741,
+        "w": 358,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 28,
+        "w": 358,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-021.png": {
+      "frame": {
+        "x": 3640,
+        "y": 741,
+        "w": 349,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 28,
+        "w": 349,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-022.png": {
+      "frame": {
+        "x": 2,
+        "y": 1479,
+        "w": 349,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 28,
+        "w": 349,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-023.png": {
+      "frame": {
+        "x": 353,
+        "y": 1479,
+        "w": 349,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 28,
+        "w": 349,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-024.png": {
+      "frame": {
+        "x": 704,
+        "y": 1479,
+        "w": 349,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 28,
+        "w": 349,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-025.png": {
+      "frame": {
+        "x": 1055,
+        "y": 1479,
+        "w": 349,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 28,
+        "w": 349,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-026.png": {
+      "frame": {
+        "x": 1406,
+        "y": 1479,
+        "w": 344,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 28,
+        "w": 344,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-027.png": {
+      "frame": {
+        "x": 1752,
+        "y": 1479,
+        "w": 331,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 27,
+        "w": 331,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-028.png": {
+      "frame": {
+        "x": 2085,
+        "y": 1479,
+        "w": 330,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 27,
+        "w": 330,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-029.png": {
+      "frame": {
+        "x": 2417,
+        "y": 1479,
+        "w": 398,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 26,
+        "w": 398,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-030.png": {
+      "frame": {
+        "x": 2817,
+        "y": 1479,
+        "w": 464,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 27,
+        "w": 464,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-031.png": {
+      "frame": {
+        "x": 3283,
+        "y": 1479,
+        "w": 478,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 28,
+        "w": 478,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 2219,
+        "w": 477,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 28,
+        "w": 477,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-033.png": {
+      "frame": {
+        "x": 481,
+        "y": 2219,
+        "w": 475,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 475,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-034.png": {
+      "frame": {
+        "x": 958,
+        "y": 2219,
+        "w": 477,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 477,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-035.png": {
+      "frame": {
+        "x": 1437,
+        "y": 2219,
+        "w": 479,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 479,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-036.png": {
+      "frame": {
+        "x": 1918,
+        "y": 2219,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-037.png": {
+      "frame": {
+        "x": 2400,
+        "y": 2219,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-038.png": {
+      "frame": {
+        "x": 2882,
+        "y": 2219,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-039.png": {
+      "frame": {
+        "x": 3364,
+        "y": 2219,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-041.png": {
+      "frame": {
+        "x": 484,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-042.png": {
+      "frame": {
+        "x": 966,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-043.png": {
+      "frame": {
+        "x": 1448,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-044.png": {
+      "frame": {
+        "x": 1930,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-045.png": {
+      "frame": {
+        "x": 2412,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-046.png": {
+      "frame": {
+        "x": 2894,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-047.png": {
+      "frame": {
+        "x": 3376,
+        "y": 2957,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-048.png": {
+      "frame": {
+        "x": 2,
+        "y": 3694,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-049.png": {
+      "frame": {
+        "x": 484,
+        "y": 3694,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-050.png": {
+      "frame": {
+        "x": 966,
+        "y": 3694,
+        "w": 480,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 29,
+        "w": 480,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-051.png": {
+      "frame": {
+        "x": 1448,
+        "y": 3694,
+        "w": 611,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 32,
+        "w": 611,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-052.png": {
+      "frame": {
+        "x": 2061,
+        "y": 3694,
+        "w": 690,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 36,
+        "w": 690,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-053.png": {
+      "frame": {
+        "x": 2753,
+        "y": 3694,
+        "w": 702,
+        "h": 743
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 21,
+        "w": 702,
+        "h": 743
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-054.png": {
+      "frame": {
+        "x": 2,
+        "y": 4439,
+        "w": 690,
+        "h": 745
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 19,
+        "w": 690,
+        "h": 745
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-055.png": {
+      "frame": {
+        "x": 694,
+        "y": 4439,
+        "w": 451,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 37,
+        "w": 451,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-056.png": {
+      "frame": {
+        "x": 1147,
+        "y": 4439,
+        "w": 457,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 36,
+        "w": 457,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-057.png": {
+      "frame": {
+        "x": 1606,
+        "y": 4439,
+        "w": 467,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 34,
+        "w": 467,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-058.png": {
+      "frame": {
+        "x": 2075,
+        "y": 4439,
+        "w": 477,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 32,
+        "w": 477,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-059.png": {
+      "frame": {
+        "x": 2554,
+        "y": 4439,
+        "w": 481,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 32,
+        "w": 481,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-060.png": {
+      "frame": {
+        "x": 3037,
+        "y": 4439,
+        "w": 480,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 31,
+        "w": 480,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-061.png": {
+      "frame": {
+        "x": 3519,
+        "y": 4439,
+        "w": 477,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 31,
+        "w": 477,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-062.png": {
+      "frame": {
+        "x": 2,
+        "y": 5186,
+        "w": 467,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 31,
+        "w": 467,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-063.png": {
+      "frame": {
+        "x": 471,
+        "y": 5186,
+        "w": 440,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 31,
+        "w": 440,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-064.png": {
+      "frame": {
+        "x": 913,
+        "y": 5186,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-065.png": {
+      "frame": {
+        "x": 1251,
+        "y": 5186,
+        "w": 335,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 30,
+        "w": 335,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-066.png": {
+      "frame": {
+        "x": 1588,
+        "y": 5186,
+        "w": 333,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 29,
+        "w": 333,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-067.png": {
+      "frame": {
+        "x": 1923,
+        "y": 5186,
+        "w": 346,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 331,
+        "y": 29,
+        "w": 346,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-068.png": {
+      "frame": {
+        "x": 2271,
+        "y": 5186,
+        "w": 350,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 28,
+        "w": 350,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-069.png": {
+      "frame": {
+        "x": 2623,
+        "y": 5186,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-070.png": {
+      "frame": {
+        "x": 2961,
+        "y": 5186,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-071.png": {
+      "frame": {
+        "x": 3299,
+        "y": 5186,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-072.png": {
+      "frame": {
+        "x": 3637,
+        "y": 5186,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-073.png": {
+      "frame": {
+        "x": 2,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-074.png": {
+      "frame": {
+        "x": 340,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-075.png": {
+      "frame": {
+        "x": 678,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-076.png": {
+      "frame": {
+        "x": 1016,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-077.png": {
+      "frame": {
+        "x": 1354,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-078.png": {
+      "frame": {
+        "x": 1692,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_scrap_pistol-079.png": {
+      "frame": {
+        "x": 2030,
+        "y": 5924,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_scrap_pistol": [
+      "player1_scrap_pistol-000.png",
+      "player1_scrap_pistol-001.png",
+      "player1_scrap_pistol-002.png",
+      "player1_scrap_pistol-003.png",
+      "player1_scrap_pistol-004.png",
+      "player1_scrap_pistol-005.png",
+      "player1_scrap_pistol-006.png",
+      "player1_scrap_pistol-007.png",
+      "player1_scrap_pistol-008.png",
+      "player1_scrap_pistol-009.png",
+      "player1_scrap_pistol-010.png",
+      "player1_scrap_pistol-011.png",
+      "player1_scrap_pistol-012.png",
+      "player1_scrap_pistol-013.png",
+      "player1_scrap_pistol-014.png",
+      "player1_scrap_pistol-015.png",
+      "player1_scrap_pistol-016.png",
+      "player1_scrap_pistol-017.png",
+      "player1_scrap_pistol-018.png",
+      "player1_scrap_pistol-019.png",
+      "player1_scrap_pistol-020.png",
+      "player1_scrap_pistol-021.png",
+      "player1_scrap_pistol-022.png",
+      "player1_scrap_pistol-023.png",
+      "player1_scrap_pistol-024.png",
+      "player1_scrap_pistol-025.png",
+      "player1_scrap_pistol-026.png",
+      "player1_scrap_pistol-027.png",
+      "player1_scrap_pistol-028.png",
+      "player1_scrap_pistol-029.png",
+      "player1_scrap_pistol-030.png",
+      "player1_scrap_pistol-031.png",
+      "player1_scrap_pistol-032.png",
+      "player1_scrap_pistol-033.png",
+      "player1_scrap_pistol-034.png",
+      "player1_scrap_pistol-035.png",
+      "player1_scrap_pistol-036.png",
+      "player1_scrap_pistol-037.png",
+      "player1_scrap_pistol-038.png",
+      "player1_scrap_pistol-039.png",
+      "player1_scrap_pistol-040.png",
+      "player1_scrap_pistol-041.png",
+      "player1_scrap_pistol-042.png",
+      "player1_scrap_pistol-043.png",
+      "player1_scrap_pistol-044.png",
+      "player1_scrap_pistol-045.png",
+      "player1_scrap_pistol-046.png",
+      "player1_scrap_pistol-047.png",
+      "player1_scrap_pistol-048.png",
+      "player1_scrap_pistol-049.png",
+      "player1_scrap_pistol-050.png",
+      "player1_scrap_pistol-051.png",
+      "player1_scrap_pistol-052.png",
+      "player1_scrap_pistol-053.png",
+      "player1_scrap_pistol-054.png",
+      "player1_scrap_pistol-055.png",
+      "player1_scrap_pistol-056.png",
+      "player1_scrap_pistol-057.png",
+      "player1_scrap_pistol-058.png",
+      "player1_scrap_pistol-059.png",
+      "player1_scrap_pistol-060.png",
+      "player1_scrap_pistol-061.png",
+      "player1_scrap_pistol-062.png",
+      "player1_scrap_pistol-063.png",
+      "player1_scrap_pistol-064.png",
+      "player1_scrap_pistol-065.png",
+      "player1_scrap_pistol-066.png",
+      "player1_scrap_pistol-067.png",
+      "player1_scrap_pistol-068.png",
+      "player1_scrap_pistol-069.png",
+      "player1_scrap_pistol-070.png",
+      "player1_scrap_pistol-071.png",
+      "player1_scrap_pistol-072.png",
+      "player1_scrap_pistol-073.png",
+      "player1_scrap_pistol-074.png",
+      "player1_scrap_pistol-075.png",
+      "player1_scrap_pistol-076.png",
+      "player1_scrap_pistol-077.png",
+      "player1_scrap_pistol-078.png",
+      "player1_scrap_pistol-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_scrap_pistol.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3998,
+      "h": 6662
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

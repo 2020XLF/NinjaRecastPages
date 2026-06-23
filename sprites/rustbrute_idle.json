@@ -1,0 +1,1348 @@
+{
+  "frames": {
+    "rustbrute_idle-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 872,
+        "h": 1804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1804
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-001.png": {
+      "frame": {
+        "x": 876,
+        "y": 2,
+        "w": 872,
+        "h": 1827
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 76,
+        "w": 872,
+        "h": 1827
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-002.png": {
+      "frame": {
+        "x": 1750,
+        "y": 2,
+        "w": 874,
+        "h": 1828
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 75,
+        "w": 874,
+        "h": 1828
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-003.png": {
+      "frame": {
+        "x": 2626,
+        "y": 2,
+        "w": 875,
+        "h": 1828
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 75,
+        "w": 875,
+        "h": 1828
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-004.png": {
+      "frame": {
+        "x": 3503,
+        "y": 2,
+        "w": 878,
+        "h": 1829
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 74,
+        "w": 878,
+        "h": 1829
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-005.png": {
+      "frame": {
+        "x": 4383,
+        "y": 2,
+        "w": 877,
+        "h": 1830
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 73,
+        "w": 877,
+        "h": 1830
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-006.png": {
+      "frame": {
+        "x": 5262,
+        "y": 2,
+        "w": 879,
+        "h": 1831
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 72,
+        "w": 879,
+        "h": 1831
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-007.png": {
+      "frame": {
+        "x": 6143,
+        "y": 2,
+        "w": 880,
+        "h": 1832
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 71,
+        "w": 880,
+        "h": 1832
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-008.png": {
+      "frame": {
+        "x": 7025,
+        "y": 2,
+        "w": 882,
+        "h": 1833
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 70,
+        "w": 882,
+        "h": 1833
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-009.png": {
+      "frame": {
+        "x": 2,
+        "y": 1837,
+        "w": 882,
+        "h": 1833
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 70,
+        "w": 882,
+        "h": 1833
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-010.png": {
+      "frame": {
+        "x": 886,
+        "y": 1837,
+        "w": 882,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 69,
+        "w": 882,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-011.png": {
+      "frame": {
+        "x": 1770,
+        "y": 1837,
+        "w": 883,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 69,
+        "w": 883,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-012.png": {
+      "frame": {
+        "x": 2655,
+        "y": 1837,
+        "w": 884,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 69,
+        "w": 884,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-013.png": {
+      "frame": {
+        "x": 3541,
+        "y": 1837,
+        "w": 883,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 69,
+        "w": 883,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-014.png": {
+      "frame": {
+        "x": 4426,
+        "y": 1837,
+        "w": 883,
+        "h": 1833
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 70,
+        "w": 883,
+        "h": 1833
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-015.png": {
+      "frame": {
+        "x": 5311,
+        "y": 1837,
+        "w": 882,
+        "h": 1832
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 71,
+        "w": 882,
+        "h": 1832
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-016.png": {
+      "frame": {
+        "x": 6195,
+        "y": 1837,
+        "w": 880,
+        "h": 1830
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 73,
+        "w": 880,
+        "h": 1830
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-017.png": {
+      "frame": {
+        "x": 7077,
+        "y": 1837,
+        "w": 879,
+        "h": 1829
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 74,
+        "w": 879,
+        "h": 1829
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-018.png": {
+      "frame": {
+        "x": 2,
+        "y": 3673,
+        "w": 875,
+        "h": 1827
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 76,
+        "w": 875,
+        "h": 1827
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-019.png": {
+      "frame": {
+        "x": 879,
+        "y": 3673,
+        "w": 873,
+        "h": 1826
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 77,
+        "w": 873,
+        "h": 1826
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-020.png": {
+      "frame": {
+        "x": 1754,
+        "y": 3673,
+        "w": 870,
+        "h": 1824
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 79,
+        "w": 870,
+        "h": 1824
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-021.png": {
+      "frame": {
+        "x": 2626,
+        "y": 3673,
+        "w": 868,
+        "h": 1823
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 80,
+        "w": 868,
+        "h": 1823
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-022.png": {
+      "frame": {
+        "x": 3496,
+        "y": 3673,
+        "w": 865,
+        "h": 1823
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 80,
+        "w": 865,
+        "h": 1823
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-023.png": {
+      "frame": {
+        "x": 4363,
+        "y": 3673,
+        "w": 863,
+        "h": 1822
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 81,
+        "w": 863,
+        "h": 1822
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-024.png": {
+      "frame": {
+        "x": 5228,
+        "y": 3673,
+        "w": 860,
+        "h": 1822
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 81,
+        "w": 860,
+        "h": 1822
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-025.png": {
+      "frame": {
+        "x": 6090,
+        "y": 3673,
+        "w": 859,
+        "h": 1821
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 82,
+        "w": 859,
+        "h": 1821
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-026.png": {
+      "frame": {
+        "x": 6951,
+        "y": 3673,
+        "w": 859,
+        "h": 1821
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 82,
+        "w": 859,
+        "h": 1821
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-027.png": {
+      "frame": {
+        "x": 2,
+        "y": 5502,
+        "w": 858,
+        "h": 1821
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 82,
+        "w": 858,
+        "h": 1821
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-028.png": {
+      "frame": {
+        "x": 862,
+        "y": 5502,
+        "w": 857,
+        "h": 1820
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 83,
+        "w": 857,
+        "h": 1820
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-029.png": {
+      "frame": {
+        "x": 1721,
+        "y": 5502,
+        "w": 857,
+        "h": 1820
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 83,
+        "w": 857,
+        "h": 1820
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-030.png": {
+      "frame": {
+        "x": 2580,
+        "y": 5502,
+        "w": 857,
+        "h": 1820
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 83,
+        "w": 857,
+        "h": 1820
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-031.png": {
+      "frame": {
+        "x": 3439,
+        "y": 5502,
+        "w": 857,
+        "h": 1821
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 82,
+        "w": 857,
+        "h": 1821
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-032.png": {
+      "frame": {
+        "x": 4298,
+        "y": 5502,
+        "w": 858,
+        "h": 1822
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 81,
+        "w": 858,
+        "h": 1822
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-033.png": {
+      "frame": {
+        "x": 5158,
+        "y": 5502,
+        "w": 859,
+        "h": 1822
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 81,
+        "w": 859,
+        "h": 1822
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-034.png": {
+      "frame": {
+        "x": 6019,
+        "y": 5502,
+        "w": 860,
+        "h": 1823
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 80,
+        "w": 860,
+        "h": 1823
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-035.png": {
+      "frame": {
+        "x": 6881,
+        "y": 5502,
+        "w": 861,
+        "h": 1823
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 80,
+        "w": 861,
+        "h": 1823
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-036.png": {
+      "frame": {
+        "x": 2,
+        "y": 7327,
+        "w": 863,
+        "h": 1824
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 79,
+        "w": 863,
+        "h": 1824
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-037.png": {
+      "frame": {
+        "x": 867,
+        "y": 7327,
+        "w": 864,
+        "h": 1825
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 78,
+        "w": 864,
+        "h": 1825
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-038.png": {
+      "frame": {
+        "x": 1733,
+        "y": 7327,
+        "w": 866,
+        "h": 1826
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 77,
+        "w": 866,
+        "h": 1826
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-039.png": {
+      "frame": {
+        "x": 2601,
+        "y": 7327,
+        "w": 867,
+        "h": 1827
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 76,
+        "w": 867,
+        "h": 1827
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-040.png": {
+      "frame": {
+        "x": 3470,
+        "y": 7327,
+        "w": 870,
+        "h": 1829
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 74,
+        "w": 870,
+        "h": 1829
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-041.png": {
+      "frame": {
+        "x": 4342,
+        "y": 7327,
+        "w": 871,
+        "h": 1829
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 74,
+        "w": 871,
+        "h": 1829
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-042.png": {
+      "frame": {
+        "x": 5215,
+        "y": 7327,
+        "w": 874,
+        "h": 1831
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 72,
+        "w": 874,
+        "h": 1831
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-043.png": {
+      "frame": {
+        "x": 6091,
+        "y": 7327,
+        "w": 874,
+        "h": 1831
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 72,
+        "w": 874,
+        "h": 1831
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-044.png": {
+      "frame": {
+        "x": 6967,
+        "y": 7327,
+        "w": 876,
+        "h": 1832
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 71,
+        "w": 876,
+        "h": 1832
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-045.png": {
+      "frame": {
+        "x": 2,
+        "y": 9161,
+        "w": 877,
+        "h": 1833
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 70,
+        "w": 877,
+        "h": 1833
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-046.png": {
+      "frame": {
+        "x": 881,
+        "y": 9161,
+        "w": 878,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 69,
+        "w": 878,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-047.png": {
+      "frame": {
+        "x": 1761,
+        "y": 9161,
+        "w": 879,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 69,
+        "w": 879,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-048.png": {
+      "frame": {
+        "x": 2642,
+        "y": 9161,
+        "w": 880,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 69,
+        "w": 880,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-049.png": {
+      "frame": {
+        "x": 3524,
+        "y": 9161,
+        "w": 880,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 69,
+        "w": 880,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-050.png": {
+      "frame": {
+        "x": 4406,
+        "y": 9161,
+        "w": 881,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 69,
+        "w": 881,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-051.png": {
+      "frame": {
+        "x": 5289,
+        "y": 9161,
+        "w": 881,
+        "h": 1834
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 69,
+        "w": 881,
+        "h": 1834
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_idle-052.png": {
+      "frame": {
+        "x": 6172,
+        "y": 9161,
+        "w": 880,
+        "h": 1832
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 71,
+        "w": 880,
+        "h": 1832
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustbrute_idle": [
+      "rustbrute_idle-000.png",
+      "rustbrute_idle-001.png",
+      "rustbrute_idle-002.png",
+      "rustbrute_idle-003.png",
+      "rustbrute_idle-004.png",
+      "rustbrute_idle-005.png",
+      "rustbrute_idle-006.png",
+      "rustbrute_idle-007.png",
+      "rustbrute_idle-008.png",
+      "rustbrute_idle-009.png",
+      "rustbrute_idle-010.png",
+      "rustbrute_idle-011.png",
+      "rustbrute_idle-012.png",
+      "rustbrute_idle-013.png",
+      "rustbrute_idle-014.png",
+      "rustbrute_idle-015.png",
+      "rustbrute_idle-016.png",
+      "rustbrute_idle-017.png",
+      "rustbrute_idle-018.png",
+      "rustbrute_idle-019.png",
+      "rustbrute_idle-020.png",
+      "rustbrute_idle-021.png",
+      "rustbrute_idle-022.png",
+      "rustbrute_idle-023.png",
+      "rustbrute_idle-024.png",
+      "rustbrute_idle-025.png",
+      "rustbrute_idle-026.png",
+      "rustbrute_idle-027.png",
+      "rustbrute_idle-028.png",
+      "rustbrute_idle-029.png",
+      "rustbrute_idle-030.png",
+      "rustbrute_idle-031.png",
+      "rustbrute_idle-032.png",
+      "rustbrute_idle-033.png",
+      "rustbrute_idle-034.png",
+      "rustbrute_idle-035.png",
+      "rustbrute_idle-036.png",
+      "rustbrute_idle-037.png",
+      "rustbrute_idle-038.png",
+      "rustbrute_idle-039.png",
+      "rustbrute_idle-040.png",
+      "rustbrute_idle-041.png",
+      "rustbrute_idle-042.png",
+      "rustbrute_idle-043.png",
+      "rustbrute_idle-044.png",
+      "rustbrute_idle-045.png",
+      "rustbrute_idle-046.png",
+      "rustbrute_idle-047.png",
+      "rustbrute_idle-048.png",
+      "rustbrute_idle-049.png",
+      "rustbrute_idle-050.png",
+      "rustbrute_idle-051.png",
+      "rustbrute_idle-052.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "rustbrute_idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 7958,
+      "h": 10997
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

@@ -1,0 +1,1223 @@
+{
+  "frames": {
+    "rustbrute_elbow_strike-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 872,
+        "h": 1804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1804
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-001.png": {
+      "frame": {
+        "x": 876,
+        "y": 2,
+        "w": 872,
+        "h": 1804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1804
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-002.png": {
+      "frame": {
+        "x": 1750,
+        "y": 2,
+        "w": 872,
+        "h": 1810
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 86,
+        "w": 872,
+        "h": 1810
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-003.png": {
+      "frame": {
+        "x": 2624,
+        "y": 2,
+        "w": 873,
+        "h": 1815
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 85,
+        "w": 873,
+        "h": 1815
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-004.png": {
+      "frame": {
+        "x": 3499,
+        "y": 2,
+        "w": 873,
+        "h": 1815
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 85,
+        "w": 873,
+        "h": 1815
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-005.png": {
+      "frame": {
+        "x": 4374,
+        "y": 2,
+        "w": 877,
+        "h": 1817
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 84,
+        "w": 877,
+        "h": 1817
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-006.png": {
+      "frame": {
+        "x": 5253,
+        "y": 2,
+        "w": 889,
+        "h": 1819
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 82,
+        "w": 889,
+        "h": 1819
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-007.png": {
+      "frame": {
+        "x": 6144,
+        "y": 2,
+        "w": 889,
+        "h": 1819
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 82,
+        "w": 889,
+        "h": 1819
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-008.png": {
+      "frame": {
+        "x": 7035,
+        "y": 2,
+        "w": 897,
+        "h": 1817
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 82,
+        "w": 897,
+        "h": 1817
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-009.png": {
+      "frame": {
+        "x": 2,
+        "y": 1823,
+        "w": 916,
+        "h": 1811
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 84,
+        "w": 916,
+        "h": 1811
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-010.png": {
+      "frame": {
+        "x": 920,
+        "y": 1823,
+        "w": 916,
+        "h": 1811
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 84,
+        "w": 916,
+        "h": 1811
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-011.png": {
+      "frame": {
+        "x": 1838,
+        "y": 1823,
+        "w": 924,
+        "h": 1806
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 86,
+        "w": 924,
+        "h": 1806
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-012.png": {
+      "frame": {
+        "x": 2764,
+        "y": 1823,
+        "w": 940,
+        "h": 1795
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 91,
+        "w": 940,
+        "h": 1795
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-013.png": {
+      "frame": {
+        "x": 3706,
+        "y": 1823,
+        "w": 940,
+        "h": 1795
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 91,
+        "w": 940,
+        "h": 1795
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-014.png": {
+      "frame": {
+        "x": 4648,
+        "y": 1823,
+        "w": 937,
+        "h": 1789
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 94,
+        "w": 937,
+        "h": 1789
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-015.png": {
+      "frame": {
+        "x": 5587,
+        "y": 1823,
+        "w": 911,
+        "h": 1774
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 103,
+        "w": 911,
+        "h": 1774
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-016.png": {
+      "frame": {
+        "x": 6500,
+        "y": 1823,
+        "w": 911,
+        "h": 1774
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 103,
+        "w": 911,
+        "h": 1774
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-017.png": {
+      "frame": {
+        "x": 2,
+        "y": 3636,
+        "w": 918,
+        "h": 1769
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 106,
+        "w": 918,
+        "h": 1769
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-018.png": {
+      "frame": {
+        "x": 922,
+        "y": 3636,
+        "w": 960,
+        "h": 1756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 114,
+        "w": 960,
+        "h": 1756
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-019.png": {
+      "frame": {
+        "x": 1884,
+        "y": 3636,
+        "w": 960,
+        "h": 1756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 114,
+        "w": 960,
+        "h": 1756
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-020.png": {
+      "frame": {
+        "x": 2846,
+        "y": 3636,
+        "w": 978,
+        "h": 1750
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 118,
+        "w": 978,
+        "h": 1750
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-021.png": {
+      "frame": {
+        "x": 3826,
+        "y": 3636,
+        "w": 1007,
+        "h": 1741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 125,
+        "w": 1007,
+        "h": 1741
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-022.png": {
+      "frame": {
+        "x": 4835,
+        "y": 3636,
+        "w": 1007,
+        "h": 1741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 125,
+        "w": 1007,
+        "h": 1741
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-023.png": {
+      "frame": {
+        "x": 5844,
+        "y": 3636,
+        "w": 1018,
+        "h": 1738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 128,
+        "w": 1018,
+        "h": 1738
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-024.png": {
+      "frame": {
+        "x": 6864,
+        "y": 3636,
+        "w": 1024,
+        "h": 1735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 132,
+        "w": 1024,
+        "h": 1735
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-025.png": {
+      "frame": {
+        "x": 2,
+        "y": 5407,
+        "w": 1024,
+        "h": 1735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 132,
+        "w": 1024,
+        "h": 1735
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-026.png": {
+      "frame": {
+        "x": 1028,
+        "y": 5407,
+        "w": 1024,
+        "h": 1733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 134,
+        "w": 1024,
+        "h": 1733
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-027.png": {
+      "frame": {
+        "x": 2054,
+        "y": 5407,
+        "w": 1024,
+        "h": 1731
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 136,
+        "w": 1024,
+        "h": 1731
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-028.png": {
+      "frame": {
+        "x": 3080,
+        "y": 5407,
+        "w": 1024,
+        "h": 1731
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 136,
+        "w": 1024,
+        "h": 1731
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-029.png": {
+      "frame": {
+        "x": 4106,
+        "y": 5407,
+        "w": 1024,
+        "h": 1731
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 136,
+        "w": 1024,
+        "h": 1731
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-030.png": {
+      "frame": {
+        "x": 5132,
+        "y": 5407,
+        "w": 1023,
+        "h": 1732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 134,
+        "w": 1023,
+        "h": 1732
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-031.png": {
+      "frame": {
+        "x": 6157,
+        "y": 5407,
+        "w": 1023,
+        "h": 1732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 134,
+        "w": 1023,
+        "h": 1732
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 7144,
+        "w": 1023,
+        "h": 1734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 133,
+        "w": 1023,
+        "h": 1734
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-033.png": {
+      "frame": {
+        "x": 1027,
+        "y": 7144,
+        "w": 1020,
+        "h": 1736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 130,
+        "w": 1020,
+        "h": 1736
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-034.png": {
+      "frame": {
+        "x": 2049,
+        "y": 7144,
+        "w": 1020,
+        "h": 1736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 130,
+        "w": 1020,
+        "h": 1736
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-035.png": {
+      "frame": {
+        "x": 3071,
+        "y": 7144,
+        "w": 1009,
+        "h": 1738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 128,
+        "w": 1009,
+        "h": 1738
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-036.png": {
+      "frame": {
+        "x": 4082,
+        "y": 7144,
+        "w": 996,
+        "h": 1744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 122,
+        "w": 996,
+        "h": 1744
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-037.png": {
+      "frame": {
+        "x": 5080,
+        "y": 7144,
+        "w": 996,
+        "h": 1744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 122,
+        "w": 996,
+        "h": 1744
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-038.png": {
+      "frame": {
+        "x": 6078,
+        "y": 7144,
+        "w": 995,
+        "h": 1747
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 119,
+        "w": 995,
+        "h": 1747
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-039.png": {
+      "frame": {
+        "x": 7075,
+        "y": 7144,
+        "w": 992,
+        "h": 1751
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 115,
+        "w": 992,
+        "h": 1751
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 8897,
+        "w": 992,
+        "h": 1751
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 115,
+        "w": 992,
+        "h": 1751
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-041.png": {
+      "frame": {
+        "x": 996,
+        "y": 8897,
+        "w": 990,
+        "h": 1753
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 113,
+        "w": 990,
+        "h": 1753
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-042.png": {
+      "frame": {
+        "x": 1988,
+        "y": 8897,
+        "w": 989,
+        "h": 1756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 110,
+        "w": 989,
+        "h": 1756
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-043.png": {
+      "frame": {
+        "x": 2979,
+        "y": 8897,
+        "w": 989,
+        "h": 1756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 110,
+        "w": 989,
+        "h": 1756
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-044.png": {
+      "frame": {
+        "x": 3970,
+        "y": 8897,
+        "w": 988,
+        "h": 1757
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 109,
+        "w": 988,
+        "h": 1757
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-045.png": {
+      "frame": {
+        "x": 4960,
+        "y": 8897,
+        "w": 988,
+        "h": 1759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 107,
+        "w": 988,
+        "h": 1759
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-046.png": {
+      "frame": {
+        "x": 5950,
+        "y": 8897,
+        "w": 988,
+        "h": 1759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 107,
+        "w": 988,
+        "h": 1759
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_elbow_strike-047.png": {
+      "frame": {
+        "x": 6940,
+        "y": 8897,
+        "w": 987,
+        "h": 1759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 107,
+        "w": 987,
+        "h": 1759
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustbrute_elbow_strike": [
+      "rustbrute_elbow_strike-000.png",
+      "rustbrute_elbow_strike-001.png",
+      "rustbrute_elbow_strike-002.png",
+      "rustbrute_elbow_strike-003.png",
+      "rustbrute_elbow_strike-004.png",
+      "rustbrute_elbow_strike-005.png",
+      "rustbrute_elbow_strike-006.png",
+      "rustbrute_elbow_strike-007.png",
+      "rustbrute_elbow_strike-008.png",
+      "rustbrute_elbow_strike-009.png",
+      "rustbrute_elbow_strike-010.png",
+      "rustbrute_elbow_strike-011.png",
+      "rustbrute_elbow_strike-012.png",
+      "rustbrute_elbow_strike-013.png",
+      "rustbrute_elbow_strike-014.png",
+      "rustbrute_elbow_strike-015.png",
+      "rustbrute_elbow_strike-016.png",
+      "rustbrute_elbow_strike-017.png",
+      "rustbrute_elbow_strike-018.png",
+      "rustbrute_elbow_strike-019.png",
+      "rustbrute_elbow_strike-020.png",
+      "rustbrute_elbow_strike-021.png",
+      "rustbrute_elbow_strike-022.png",
+      "rustbrute_elbow_strike-023.png",
+      "rustbrute_elbow_strike-024.png",
+      "rustbrute_elbow_strike-025.png",
+      "rustbrute_elbow_strike-026.png",
+      "rustbrute_elbow_strike-027.png",
+      "rustbrute_elbow_strike-028.png",
+      "rustbrute_elbow_strike-029.png",
+      "rustbrute_elbow_strike-030.png",
+      "rustbrute_elbow_strike-031.png",
+      "rustbrute_elbow_strike-032.png",
+      "rustbrute_elbow_strike-033.png",
+      "rustbrute_elbow_strike-034.png",
+      "rustbrute_elbow_strike-035.png",
+      "rustbrute_elbow_strike-036.png",
+      "rustbrute_elbow_strike-037.png",
+      "rustbrute_elbow_strike-038.png",
+      "rustbrute_elbow_strike-039.png",
+      "rustbrute_elbow_strike-040.png",
+      "rustbrute_elbow_strike-041.png",
+      "rustbrute_elbow_strike-042.png",
+      "rustbrute_elbow_strike-043.png",
+      "rustbrute_elbow_strike-044.png",
+      "rustbrute_elbow_strike-045.png",
+      "rustbrute_elbow_strike-046.png",
+      "rustbrute_elbow_strike-047.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "rustbrute_elbow_strike.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8069,
+      "h": 10658
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_venom_shuriken-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 335,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 27,
+        "w": 335,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-003.png": {
+      "frame": {
+        "x": 1015,
+        "y": 2,
+        "w": 335,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 27,
+        "w": 335,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-004.png": {
+      "frame": {
+        "x": 1352,
+        "y": 2,
+        "w": 333,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 27,
+        "w": 333,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-005.png": {
+      "frame": {
+        "x": 1687,
+        "y": 2,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-006.png": {
+      "frame": {
+        "x": 2024,
+        "y": 2,
+        "w": 347,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 331,
+        "y": 30,
+        "w": 347,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-007.png": {
+      "frame": {
+        "x": 2373,
+        "y": 2,
+        "w": 403,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 47,
+        "w": 403,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-008.png": {
+      "frame": {
+        "x": 2778,
+        "y": 2,
+        "w": 424,
+        "h": 701
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 63,
+        "w": 424,
+        "h": 701
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-009.png": {
+      "frame": {
+        "x": 3204,
+        "y": 2,
+        "w": 437,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 76,
+        "w": 437,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-010.png": {
+      "frame": {
+        "x": 3643,
+        "y": 2,
+        "w": 442,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 83,
+        "w": 442,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 397,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 83,
+        "w": 397,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-012.png": {
+      "frame": {
+        "x": 401,
+        "y": 741,
+        "w": 470,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 81,
+        "w": 470,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-013.png": {
+      "frame": {
+        "x": 873,
+        "y": 741,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-014.png": {
+      "frame": {
+        "x": 1523,
+        "y": 741,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-015.png": {
+      "frame": {
+        "x": 2173,
+        "y": 741,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-016.png": {
+      "frame": {
+        "x": 2823,
+        "y": 741,
+        "w": 646,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 81,
+        "w": 646,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-017.png": {
+      "frame": {
+        "x": 2,
+        "y": 1427,
+        "w": 639,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 82,
+        "w": 639,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-018.png": {
+      "frame": {
+        "x": 643,
+        "y": 1427,
+        "w": 356,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 84,
+        "w": 356,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-019.png": {
+      "frame": {
+        "x": 1001,
+        "y": 1427,
+        "w": 403,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 85,
+        "w": 403,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-020.png": {
+      "frame": {
+        "x": 1406,
+        "y": 1427,
+        "w": 439,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 86,
+        "w": 439,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-021.png": {
+      "frame": {
+        "x": 1847,
+        "y": 1427,
+        "w": 483,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 85,
+        "w": 483,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-022.png": {
+      "frame": {
+        "x": 2332,
+        "y": 1427,
+        "w": 483,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 84,
+        "w": 483,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-023.png": {
+      "frame": {
+        "x": 2817,
+        "y": 1427,
+        "w": 508,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 248,
+        "y": 82,
+        "w": 508,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-024.png": {
+      "frame": {
+        "x": 3327,
+        "y": 1427,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-025.png": {
+      "frame": {
+        "x": 2,
+        "y": 2113,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-026.png": {
+      "frame": {
+        "x": 652,
+        "y": 2113,
+        "w": 648,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 82,
+        "w": 648,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-027.png": {
+      "frame": {
+        "x": 1302,
+        "y": 2113,
+        "w": 644,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 26,
+        "w": 644,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-028.png": {
+      "frame": {
+        "x": 1948,
+        "y": 2113,
+        "w": 677,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 41,
+        "w": 677,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-029.png": {
+      "frame": {
+        "x": 2627,
+        "y": 2113,
+        "w": 620,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 85,
+        "w": 620,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-030.png": {
+      "frame": {
+        "x": 3249,
+        "y": 2113,
+        "w": 593,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 593,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-031.png": {
+      "frame": {
+        "x": 2,
+        "y": 2853,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-032.png": {
+      "frame": {
+        "x": 652,
+        "y": 2853,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-033.png": {
+      "frame": {
+        "x": 1302,
+        "y": 2853,
+        "w": 834,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 82,
+        "w": 834,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-034.png": {
+      "frame": {
+        "x": 2138,
+        "y": 2853,
+        "w": 659,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 85,
+        "w": 659,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-035.png": {
+      "frame": {
+        "x": 2799,
+        "y": 2853,
+        "w": 476,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 85,
+        "w": 476,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-036.png": {
+      "frame": {
+        "x": 3277,
+        "y": 2853,
+        "w": 490,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 83,
+        "w": 490,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-037.png": {
+      "frame": {
+        "x": 2,
+        "y": 3539,
+        "w": 440,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 81,
+        "w": 440,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-038.png": {
+      "frame": {
+        "x": 444,
+        "y": 3539,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-039.png": {
+      "frame": {
+        "x": 1094,
+        "y": 3539,
+        "w": 648,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 34,
+        "w": 648,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-040.png": {
+      "frame": {
+        "x": 1744,
+        "y": 3539,
+        "w": 648,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 83,
+        "w": 648,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-041.png": {
+      "frame": {
+        "x": 2394,
+        "y": 3539,
+        "w": 679,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 85,
+        "w": 679,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-042.png": {
+      "frame": {
+        "x": 3075,
+        "y": 3539,
+        "w": 675,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 34,
+        "w": 675,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-043.png": {
+      "frame": {
+        "x": 2,
+        "y": 4271,
+        "w": 380,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 82,
+        "w": 380,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-044.png": {
+      "frame": {
+        "x": 384,
+        "y": 4271,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-045.png": {
+      "frame": {
+        "x": 1034,
+        "y": 4271,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-046.png": {
+      "frame": {
+        "x": 1684,
+        "y": 4271,
+        "w": 648,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 83,
+        "w": 648,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-047.png": {
+      "frame": {
+        "x": 2334,
+        "y": 4271,
+        "w": 658,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 85,
+        "w": 658,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-048.png": {
+      "frame": {
+        "x": 2994,
+        "y": 4271,
+        "w": 450,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 84,
+        "w": 450,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-049.png": {
+      "frame": {
+        "x": 3446,
+        "y": 4271,
+        "w": 388,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 82,
+        "w": 388,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-050.png": {
+      "frame": {
+        "x": 2,
+        "y": 4957,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-051.png": {
+      "frame": {
+        "x": 652,
+        "y": 4957,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-052.png": {
+      "frame": {
+        "x": 1302,
+        "y": 4957,
+        "w": 648,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 648,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-053.png": {
+      "frame": {
+        "x": 1952,
+        "y": 4957,
+        "w": 646,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 646,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-054.png": {
+      "frame": {
+        "x": 2600,
+        "y": 4957,
+        "w": 472,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 472,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-055.png": {
+      "frame": {
+        "x": 3074,
+        "y": 4957,
+        "w": 463,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 79,
+        "w": 463,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-056.png": {
+      "frame": {
+        "x": 3539,
+        "y": 4957,
+        "w": 445,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 77,
+        "w": 445,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 5646,
+        "w": 354,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 64,
+        "w": 354,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-058.png": {
+      "frame": {
+        "x": 358,
+        "y": 5646,
+        "w": 311,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 55,
+        "w": 311,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-059.png": {
+      "frame": {
+        "x": 671,
+        "y": 5646,
+        "w": 305,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 46,
+        "w": 305,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-060.png": {
+      "frame": {
+        "x": 978,
+        "y": 5646,
+        "w": 308,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 36,
+        "w": 308,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-061.png": {
+      "frame": {
+        "x": 1288,
+        "y": 5646,
+        "w": 320,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 30,
+        "w": 320,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-062.png": {
+      "frame": {
+        "x": 1610,
+        "y": 5646,
+        "w": 332,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 27,
+        "w": 332,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-063.png": {
+      "frame": {
+        "x": 1944,
+        "y": 5646,
+        "w": 333,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 27,
+        "w": 333,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-064.png": {
+      "frame": {
+        "x": 2279,
+        "y": 5646,
+        "w": 334,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 334,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-065.png": {
+      "frame": {
+        "x": 2615,
+        "y": 5646,
+        "w": 335,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 27,
+        "w": 335,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-066.png": {
+      "frame": {
+        "x": 2952,
+        "y": 5646,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-067.png": {
+      "frame": {
+        "x": 3289,
+        "y": 5646,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-068.png": {
+      "frame": {
+        "x": 3627,
+        "y": 5646,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-069.png": {
+      "frame": {
+        "x": 2,
+        "y": 6385,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-070.png": {
+      "frame": {
+        "x": 340,
+        "y": 6385,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-071.png": {
+      "frame": {
+        "x": 678,
+        "y": 6385,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-072.png": {
+      "frame": {
+        "x": 1017,
+        "y": 6385,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-073.png": {
+      "frame": {
+        "x": 1356,
+        "y": 6385,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-074.png": {
+      "frame": {
+        "x": 1695,
+        "y": 6385,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-075.png": {
+      "frame": {
+        "x": 2034,
+        "y": 6385,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-076.png": {
+      "frame": {
+        "x": 2373,
+        "y": 6385,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-077.png": {
+      "frame": {
+        "x": 2711,
+        "y": 6385,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-078.png": {
+      "frame": {
+        "x": 3049,
+        "y": 6385,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_venom_shuriken-079.png": {
+      "frame": {
+        "x": 3387,
+        "y": 6385,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_venom_shuriken": [
+      "player1_venom_shuriken-000.png",
+      "player1_venom_shuriken-001.png",
+      "player1_venom_shuriken-002.png",
+      "player1_venom_shuriken-003.png",
+      "player1_venom_shuriken-004.png",
+      "player1_venom_shuriken-005.png",
+      "player1_venom_shuriken-006.png",
+      "player1_venom_shuriken-007.png",
+      "player1_venom_shuriken-008.png",
+      "player1_venom_shuriken-009.png",
+      "player1_venom_shuriken-010.png",
+      "player1_venom_shuriken-011.png",
+      "player1_venom_shuriken-012.png",
+      "player1_venom_shuriken-013.png",
+      "player1_venom_shuriken-014.png",
+      "player1_venom_shuriken-015.png",
+      "player1_venom_shuriken-016.png",
+      "player1_venom_shuriken-017.png",
+      "player1_venom_shuriken-018.png",
+      "player1_venom_shuriken-019.png",
+      "player1_venom_shuriken-020.png",
+      "player1_venom_shuriken-021.png",
+      "player1_venom_shuriken-022.png",
+      "player1_venom_shuriken-023.png",
+      "player1_venom_shuriken-024.png",
+      "player1_venom_shuriken-025.png",
+      "player1_venom_shuriken-026.png",
+      "player1_venom_shuriken-027.png",
+      "player1_venom_shuriken-028.png",
+      "player1_venom_shuriken-029.png",
+      "player1_venom_shuriken-030.png",
+      "player1_venom_shuriken-031.png",
+      "player1_venom_shuriken-032.png",
+      "player1_venom_shuriken-033.png",
+      "player1_venom_shuriken-034.png",
+      "player1_venom_shuriken-035.png",
+      "player1_venom_shuriken-036.png",
+      "player1_venom_shuriken-037.png",
+      "player1_venom_shuriken-038.png",
+      "player1_venom_shuriken-039.png",
+      "player1_venom_shuriken-040.png",
+      "player1_venom_shuriken-041.png",
+      "player1_venom_shuriken-042.png",
+      "player1_venom_shuriken-043.png",
+      "player1_venom_shuriken-044.png",
+      "player1_venom_shuriken-045.png",
+      "player1_venom_shuriken-046.png",
+      "player1_venom_shuriken-047.png",
+      "player1_venom_shuriken-048.png",
+      "player1_venom_shuriken-049.png",
+      "player1_venom_shuriken-050.png",
+      "player1_venom_shuriken-051.png",
+      "player1_venom_shuriken-052.png",
+      "player1_venom_shuriken-053.png",
+      "player1_venom_shuriken-054.png",
+      "player1_venom_shuriken-055.png",
+      "player1_venom_shuriken-056.png",
+      "player1_venom_shuriken-057.png",
+      "player1_venom_shuriken-058.png",
+      "player1_venom_shuriken-059.png",
+      "player1_venom_shuriken-060.png",
+      "player1_venom_shuriken-061.png",
+      "player1_venom_shuriken-062.png",
+      "player1_venom_shuriken-063.png",
+      "player1_venom_shuriken-064.png",
+      "player1_venom_shuriken-065.png",
+      "player1_venom_shuriken-066.png",
+      "player1_venom_shuriken-067.png",
+      "player1_venom_shuriken-068.png",
+      "player1_venom_shuriken-069.png",
+      "player1_venom_shuriken-070.png",
+      "player1_venom_shuriken-071.png",
+      "player1_venom_shuriken-072.png",
+      "player1_venom_shuriken-073.png",
+      "player1_venom_shuriken-074.png",
+      "player1_venom_shuriken-075.png",
+      "player1_venom_shuriken-076.png",
+      "player1_venom_shuriken-077.png",
+      "player1_venom_shuriken-078.png",
+      "player1_venom_shuriken-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_venom_shuriken.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4087,
+      "h": 7124
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

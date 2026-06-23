@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_electric_punch-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-006.png": {
+      "frame": {
+        "x": 2030,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-007.png": {
+      "frame": {
+        "x": 2369,
+        "y": 2,
+        "w": 338,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 28,
+        "w": 338,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-008.png": {
+      "frame": {
+        "x": 2709,
+        "y": 2,
+        "w": 341,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 29,
+        "w": 341,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-009.png": {
+      "frame": {
+        "x": 3052,
+        "y": 2,
+        "w": 342,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 30,
+        "w": 342,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-010.png": {
+      "frame": {
+        "x": 3396,
+        "y": 2,
+        "w": 343,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 32,
+        "w": 343,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-011.png": {
+      "frame": {
+        "x": 3741,
+        "y": 2,
+        "w": 347,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 37,
+        "w": 347,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 355,
+        "h": 722
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 42,
+        "w": 355,
+        "h": 722
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-013.png": {
+      "frame": {
+        "x": 359,
+        "y": 741,
+        "w": 365,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 47,
+        "w": 365,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-014.png": {
+      "frame": {
+        "x": 726,
+        "y": 741,
+        "w": 376,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 52,
+        "w": 376,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-015.png": {
+      "frame": {
+        "x": 1104,
+        "y": 741,
+        "w": 387,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 57,
+        "w": 387,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-016.png": {
+      "frame": {
+        "x": 1493,
+        "y": 741,
+        "w": 417,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 67,
+        "w": 417,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-017.png": {
+      "frame": {
+        "x": 1912,
+        "y": 741,
+        "w": 439,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 298,
+        "y": 70,
+        "w": 439,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-018.png": {
+      "frame": {
+        "x": 2353,
+        "y": 741,
+        "w": 464,
+        "h": 691
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 73,
+        "w": 464,
+        "h": 691
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-019.png": {
+      "frame": {
+        "x": 2819,
+        "y": 741,
+        "w": 484,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 74,
+        "w": 484,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-020.png": {
+      "frame": {
+        "x": 3305,
+        "y": 741,
+        "w": 509,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 244,
+        "y": 75,
+        "w": 509,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-021.png": {
+      "frame": {
+        "x": 2,
+        "y": 1465,
+        "w": 515,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 243,
+        "y": 77,
+        "w": 515,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-022.png": {
+      "frame": {
+        "x": 519,
+        "y": 1465,
+        "w": 512,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 248,
+        "y": 78,
+        "w": 512,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-023.png": {
+      "frame": {
+        "x": 1033,
+        "y": 1465,
+        "w": 523,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 239,
+        "y": 78,
+        "w": 523,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-024.png": {
+      "frame": {
+        "x": 1558,
+        "y": 1465,
+        "w": 526,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 78,
+        "w": 526,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-025.png": {
+      "frame": {
+        "x": 2086,
+        "y": 1465,
+        "w": 534,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 230,
+        "y": 79,
+        "w": 534,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-026.png": {
+      "frame": {
+        "x": 2622,
+        "y": 1465,
+        "w": 533,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 79,
+        "w": 533,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-027.png": {
+      "frame": {
+        "x": 3157,
+        "y": 1465,
+        "w": 527,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 238,
+        "y": 79,
+        "w": 527,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-028.png": {
+      "frame": {
+        "x": 2,
+        "y": 2154,
+        "w": 541,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 79,
+        "w": 541,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-029.png": {
+      "frame": {
+        "x": 545,
+        "y": 2154,
+        "w": 533,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 79,
+        "w": 533,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-030.png": {
+      "frame": {
+        "x": 1080,
+        "y": 2154,
+        "w": 533,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 80,
+        "w": 533,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-031.png": {
+      "frame": {
+        "x": 1615,
+        "y": 2154,
+        "w": 542,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 226,
+        "y": 80,
+        "w": 542,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-032.png": {
+      "frame": {
+        "x": 2159,
+        "y": 2154,
+        "w": 526,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 81,
+        "w": 526,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-033.png": {
+      "frame": {
+        "x": 2687,
+        "y": 2154,
+        "w": 536,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 82,
+        "w": 536,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-034.png": {
+      "frame": {
+        "x": 3225,
+        "y": 2154,
+        "w": 544,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 84,
+        "w": 544,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 2841,
+        "w": 529,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 230,
+        "y": 86,
+        "w": 529,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-036.png": {
+      "frame": {
+        "x": 533,
+        "y": 2841,
+        "w": 534,
+        "h": 676
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 218,
+        "y": 88,
+        "w": 534,
+        "h": 676
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-037.png": {
+      "frame": {
+        "x": 1069,
+        "y": 2841,
+        "w": 524,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 86,
+        "w": 524,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-038.png": {
+      "frame": {
+        "x": 1595,
+        "y": 2841,
+        "w": 528,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 220,
+        "y": 82,
+        "w": 528,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-039.png": {
+      "frame": {
+        "x": 2125,
+        "y": 2841,
+        "w": 439,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 68,
+        "w": 439,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-040.png": {
+      "frame": {
+        "x": 2566,
+        "y": 2841,
+        "w": 439,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 66,
+        "w": 439,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-041.png": {
+      "frame": {
+        "x": 3007,
+        "y": 2841,
+        "w": 651,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 68,
+        "w": 651,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 3541,
+        "w": 656,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 47,
+        "w": 656,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-043.png": {
+      "frame": {
+        "x": 660,
+        "y": 3541,
+        "w": 656,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 26,
+        "w": 656,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-044.png": {
+      "frame": {
+        "x": 1318,
+        "y": 3541,
+        "w": 655,
+        "h": 750
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 14,
+        "w": 655,
+        "h": 750
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-045.png": {
+      "frame": {
+        "x": 1975,
+        "y": 3541,
+        "w": 655,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 5,
+        "w": 655,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-046.png": {
+      "frame": {
+        "x": 2632,
+        "y": 3541,
+        "w": 656,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 0,
+        "w": 656,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-047.png": {
+      "frame": {
+        "x": 3290,
+        "y": 3541,
+        "w": 656,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 0,
+        "w": 656,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-048.png": {
+      "frame": {
+        "x": 2,
+        "y": 4307,
+        "w": 656,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 0,
+        "w": 656,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-049.png": {
+      "frame": {
+        "x": 660,
+        "y": 4307,
+        "w": 656,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 0,
+        "w": 656,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-050.png": {
+      "frame": {
+        "x": 1318,
+        "y": 4307,
+        "w": 656,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 0,
+        "w": 656,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-051.png": {
+      "frame": {
+        "x": 1976,
+        "y": 4307,
+        "w": 656,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 0,
+        "w": 656,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-052.png": {
+      "frame": {
+        "x": 2634,
+        "y": 4307,
+        "w": 656,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 28,
+        "w": 656,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-053.png": {
+      "frame": {
+        "x": 3292,
+        "y": 4307,
+        "w": 655,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 8,
+        "w": 655,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-054.png": {
+      "frame": {
+        "x": 2,
+        "y": 5073,
+        "w": 655,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 0,
+        "w": 655,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-055.png": {
+      "frame": {
+        "x": 659,
+        "y": 5073,
+        "w": 654,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 370,
+        "y": 0,
+        "w": 654,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-056.png": {
+      "frame": {
+        "x": 1315,
+        "y": 5073,
+        "w": 653,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 0,
+        "w": 653,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-057.png": {
+      "frame": {
+        "x": 1970,
+        "y": 5073,
+        "w": 650,
+        "h": 755
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 374,
+        "y": 9,
+        "w": 650,
+        "h": 755
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-058.png": {
+      "frame": {
+        "x": 2622,
+        "y": 5073,
+        "w": 650,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 374,
+        "y": 23,
+        "w": 650,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-059.png": {
+      "frame": {
+        "x": 3274,
+        "y": 5073,
+        "w": 649,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 64,
+        "w": 649,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-060.png": {
+      "frame": {
+        "x": 2,
+        "y": 5839,
+        "w": 669,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 62,
+        "w": 669,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-061.png": {
+      "frame": {
+        "x": 673,
+        "y": 5839,
+        "w": 659,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 57,
+        "w": 659,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-062.png": {
+      "frame": {
+        "x": 1334,
+        "y": 5839,
+        "w": 467,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 246,
+        "y": 48,
+        "w": 467,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-063.png": {
+      "frame": {
+        "x": 1803,
+        "y": 5839,
+        "w": 451,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 243,
+        "y": 45,
+        "w": 451,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-064.png": {
+      "frame": {
+        "x": 2256,
+        "y": 5839,
+        "w": 439,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 243,
+        "y": 41,
+        "w": 439,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-065.png": {
+      "frame": {
+        "x": 2697,
+        "y": 5839,
+        "w": 419,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 259,
+        "y": 37,
+        "w": 419,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-066.png": {
+      "frame": {
+        "x": 3118,
+        "y": 5839,
+        "w": 385,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 292,
+        "y": 32,
+        "w": 385,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-067.png": {
+      "frame": {
+        "x": 3505,
+        "y": 5839,
+        "w": 368,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 30,
+        "w": 368,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-068.png": {
+      "frame": {
+        "x": 2,
+        "y": 6575,
+        "w": 344,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 29,
+        "w": 344,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-069.png": {
+      "frame": {
+        "x": 348,
+        "y": 6575,
+        "w": 341,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 28,
+        "w": 341,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-070.png": {
+      "frame": {
+        "x": 691,
+        "y": 6575,
+        "w": 339,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 28,
+        "w": 339,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-071.png": {
+      "frame": {
+        "x": 1032,
+        "y": 6575,
+        "w": 338,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 27,
+        "w": 338,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-072.png": {
+      "frame": {
+        "x": 1372,
+        "y": 6575,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-073.png": {
+      "frame": {
+        "x": 1711,
+        "y": 6575,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-074.png": {
+      "frame": {
+        "x": 2050,
+        "y": 6575,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-075.png": {
+      "frame": {
+        "x": 2389,
+        "y": 6575,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-076.png": {
+      "frame": {
+        "x": 2727,
+        "y": 6575,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-077.png": {
+      "frame": {
+        "x": 3065,
+        "y": 6575,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-078.png": {
+      "frame": {
+        "x": 3403,
+        "y": 6575,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_electric_punch-079.png": {
+      "frame": {
+        "x": 3741,
+        "y": 6575,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_electric_punch": [
+      "player1_electric_punch-000.png",
+      "player1_electric_punch-001.png",
+      "player1_electric_punch-002.png",
+      "player1_electric_punch-003.png",
+      "player1_electric_punch-004.png",
+      "player1_electric_punch-005.png",
+      "player1_electric_punch-006.png",
+      "player1_electric_punch-007.png",
+      "player1_electric_punch-008.png",
+      "player1_electric_punch-009.png",
+      "player1_electric_punch-010.png",
+      "player1_electric_punch-011.png",
+      "player1_electric_punch-012.png",
+      "player1_electric_punch-013.png",
+      "player1_electric_punch-014.png",
+      "player1_electric_punch-015.png",
+      "player1_electric_punch-016.png",
+      "player1_electric_punch-017.png",
+      "player1_electric_punch-018.png",
+      "player1_electric_punch-019.png",
+      "player1_electric_punch-020.png",
+      "player1_electric_punch-021.png",
+      "player1_electric_punch-022.png",
+      "player1_electric_punch-023.png",
+      "player1_electric_punch-024.png",
+      "player1_electric_punch-025.png",
+      "player1_electric_punch-026.png",
+      "player1_electric_punch-027.png",
+      "player1_electric_punch-028.png",
+      "player1_electric_punch-029.png",
+      "player1_electric_punch-030.png",
+      "player1_electric_punch-031.png",
+      "player1_electric_punch-032.png",
+      "player1_electric_punch-033.png",
+      "player1_electric_punch-034.png",
+      "player1_electric_punch-035.png",
+      "player1_electric_punch-036.png",
+      "player1_electric_punch-037.png",
+      "player1_electric_punch-038.png",
+      "player1_electric_punch-039.png",
+      "player1_electric_punch-040.png",
+      "player1_electric_punch-041.png",
+      "player1_electric_punch-042.png",
+      "player1_electric_punch-043.png",
+      "player1_electric_punch-044.png",
+      "player1_electric_punch-045.png",
+      "player1_electric_punch-046.png",
+      "player1_electric_punch-047.png",
+      "player1_electric_punch-048.png",
+      "player1_electric_punch-049.png",
+      "player1_electric_punch-050.png",
+      "player1_electric_punch-051.png",
+      "player1_electric_punch-052.png",
+      "player1_electric_punch-053.png",
+      "player1_electric_punch-054.png",
+      "player1_electric_punch-055.png",
+      "player1_electric_punch-056.png",
+      "player1_electric_punch-057.png",
+      "player1_electric_punch-058.png",
+      "player1_electric_punch-059.png",
+      "player1_electric_punch-060.png",
+      "player1_electric_punch-061.png",
+      "player1_electric_punch-062.png",
+      "player1_electric_punch-063.png",
+      "player1_electric_punch-064.png",
+      "player1_electric_punch-065.png",
+      "player1_electric_punch-066.png",
+      "player1_electric_punch-067.png",
+      "player1_electric_punch-068.png",
+      "player1_electric_punch-069.png",
+      "player1_electric_punch-070.png",
+      "player1_electric_punch-071.png",
+      "player1_electric_punch-072.png",
+      "player1_electric_punch-073.png",
+      "player1_electric_punch-074.png",
+      "player1_electric_punch-075.png",
+      "player1_electric_punch-076.png",
+      "player1_electric_punch-077.png",
+      "player1_electric_punch-078.png",
+      "player1_electric_punch-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_electric_punch.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4090,
+      "h": 7314
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

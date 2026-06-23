@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_predator_beast_fist-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-002.png": {
+      "frame": {
+        "x": 679,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-003.png": {
+      "frame": {
+        "x": 1018,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-004.png": {
+      "frame": {
+        "x": 1357,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-005.png": {
+      "frame": {
+        "x": 1696,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-006.png": {
+      "frame": {
+        "x": 2035,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-007.png": {
+      "frame": {
+        "x": 2374,
+        "y": 2,
+        "w": 334,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 28,
+        "w": 334,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-008.png": {
+      "frame": {
+        "x": 2710,
+        "y": 2,
+        "w": 334,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 30,
+        "w": 334,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-009.png": {
+      "frame": {
+        "x": 3046,
+        "y": 2,
+        "w": 333,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 30,
+        "w": 333,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-010.png": {
+      "frame": {
+        "x": 3381,
+        "y": 2,
+        "w": 337,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 32,
+        "w": 337,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-011.png": {
+      "frame": {
+        "x": 3720,
+        "y": 2,
+        "w": 351,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 36,
+        "w": 351,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 359,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 37,
+        "w": 359,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-013.png": {
+      "frame": {
+        "x": 363,
+        "y": 741,
+        "w": 375,
+        "h": 722
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 42,
+        "w": 375,
+        "h": 722
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-014.png": {
+      "frame": {
+        "x": 740,
+        "y": 741,
+        "w": 382,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 45,
+        "w": 382,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-015.png": {
+      "frame": {
+        "x": 1124,
+        "y": 741,
+        "w": 389,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 47,
+        "w": 389,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-016.png": {
+      "frame": {
+        "x": 1515,
+        "y": 741,
+        "w": 405,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 57,
+        "w": 405,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-017.png": {
+      "frame": {
+        "x": 1922,
+        "y": 741,
+        "w": 409,
+        "h": 704
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 60,
+        "w": 409,
+        "h": 704
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-018.png": {
+      "frame": {
+        "x": 2333,
+        "y": 741,
+        "w": 411,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 64,
+        "w": 411,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-019.png": {
+      "frame": {
+        "x": 2746,
+        "y": 741,
+        "w": 414,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 68,
+        "w": 414,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-020.png": {
+      "frame": {
+        "x": 3162,
+        "y": 741,
+        "w": 416,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 78,
+        "w": 416,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-021.png": {
+      "frame": {
+        "x": 3580,
+        "y": 741,
+        "w": 418,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 82,
+        "w": 418,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-022.png": {
+      "frame": {
+        "x": 2,
+        "y": 1470,
+        "w": 415,
+        "h": 675
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 89,
+        "w": 415,
+        "h": 675
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-023.png": {
+      "frame": {
+        "x": 419,
+        "y": 1470,
+        "w": 414,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 92,
+        "w": 414,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-024.png": {
+      "frame": {
+        "x": 835,
+        "y": 1470,
+        "w": 409,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 98,
+        "w": 409,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-025.png": {
+      "frame": {
+        "x": 1246,
+        "y": 1470,
+        "w": 410,
+        "h": 661
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 103,
+        "w": 410,
+        "h": 661
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-026.png": {
+      "frame": {
+        "x": 1658,
+        "y": 1470,
+        "w": 418,
+        "h": 659
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 105,
+        "w": 418,
+        "h": 659
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-027.png": {
+      "frame": {
+        "x": 2078,
+        "y": 1470,
+        "w": 426,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 107,
+        "w": 426,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-028.png": {
+      "frame": {
+        "x": 2506,
+        "y": 1470,
+        "w": 437,
+        "h": 654
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 110,
+        "w": 437,
+        "h": 654
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-029.png": {
+      "frame": {
+        "x": 2945,
+        "y": 1470,
+        "w": 479,
+        "h": 650
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 114,
+        "w": 479,
+        "h": 650
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-030.png": {
+      "frame": {
+        "x": 3426,
+        "y": 1470,
+        "w": 494,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 116,
+        "w": 494,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-031.png": {
+      "frame": {
+        "x": 2,
+        "y": 2147,
+        "w": 506,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 117,
+        "w": 506,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-032.png": {
+      "frame": {
+        "x": 510,
+        "y": 2147,
+        "w": 522,
+        "h": 645
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 119,
+        "w": 522,
+        "h": 645
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-033.png": {
+      "frame": {
+        "x": 1034,
+        "y": 2147,
+        "w": 804,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 120,
+        "w": 804,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-034.png": {
+      "frame": {
+        "x": 1840,
+        "y": 2147,
+        "w": 904,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 120,
+        "w": 904,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-035.png": {
+      "frame": {
+        "x": 2746,
+        "y": 2147,
+        "w": 920,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 120,
+        "w": 920,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-036.png": {
+      "frame": {
+        "x": 2,
+        "y": 2796,
+        "w": 971,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 120,
+        "w": 971,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-037.png": {
+      "frame": {
+        "x": 975,
+        "y": 2796,
+        "w": 980,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 121,
+        "w": 980,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-038.png": {
+      "frame": {
+        "x": 1957,
+        "y": 2796,
+        "w": 1014,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 121,
+        "w": 1014,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-039.png": {
+      "frame": {
+        "x": 2973,
+        "y": 2796,
+        "w": 1009,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 121,
+        "w": 1009,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 3442,
+        "w": 992,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 121,
+        "w": 992,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-041.png": {
+      "frame": {
+        "x": 996,
+        "y": 3442,
+        "w": 978,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 121,
+        "w": 978,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-042.png": {
+      "frame": {
+        "x": 1976,
+        "y": 3442,
+        "w": 978,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 121,
+        "w": 978,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-043.png": {
+      "frame": {
+        "x": 2956,
+        "y": 3442,
+        "w": 977,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 120,
+        "w": 977,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-044.png": {
+      "frame": {
+        "x": 2,
+        "y": 4088,
+        "w": 598,
+        "h": 645
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 119,
+        "w": 598,
+        "h": 645
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-045.png": {
+      "frame": {
+        "x": 602,
+        "y": 4088,
+        "w": 588,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 117,
+        "w": 588,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-046.png": {
+      "frame": {
+        "x": 1192,
+        "y": 4088,
+        "w": 569,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 115,
+        "w": 569,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-047.png": {
+      "frame": {
+        "x": 1763,
+        "y": 4088,
+        "w": 462,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 101,
+        "w": 462,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-048.png": {
+      "frame": {
+        "x": 2227,
+        "y": 4088,
+        "w": 437,
+        "h": 669
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 95,
+        "w": 437,
+        "h": 669
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-049.png": {
+      "frame": {
+        "x": 2666,
+        "y": 4088,
+        "w": 416,
+        "h": 675
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 89,
+        "w": 416,
+        "h": 675
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-050.png": {
+      "frame": {
+        "x": 3084,
+        "y": 4088,
+        "w": 409,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 367,
+        "y": 83,
+        "w": 409,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-051.png": {
+      "frame": {
+        "x": 3495,
+        "y": 4088,
+        "w": 414,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 334,
+        "y": 66,
+        "w": 414,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 4788,
+        "w": 411,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 61,
+        "w": 411,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-053.png": {
+      "frame": {
+        "x": 415,
+        "y": 4788,
+        "w": 403,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 55,
+        "w": 403,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-054.png": {
+      "frame": {
+        "x": 820,
+        "y": 4788,
+        "w": 382,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 44,
+        "w": 382,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-055.png": {
+      "frame": {
+        "x": 1204,
+        "y": 4788,
+        "w": 353,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 37,
+        "w": 353,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-056.png": {
+      "frame": {
+        "x": 1559,
+        "y": 4788,
+        "w": 339,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 34,
+        "w": 339,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-057.png": {
+      "frame": {
+        "x": 1900,
+        "y": 4788,
+        "w": 334,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 30,
+        "w": 334,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-058.png": {
+      "frame": {
+        "x": 2236,
+        "y": 4788,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-059.png": {
+      "frame": {
+        "x": 2574,
+        "y": 4788,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-060.png": {
+      "frame": {
+        "x": 2913,
+        "y": 4788,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-061.png": {
+      "frame": {
+        "x": 3252,
+        "y": 4788,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-062.png": {
+      "frame": {
+        "x": 3591,
+        "y": 4788,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-063.png": {
+      "frame": {
+        "x": 2,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-064.png": {
+      "frame": {
+        "x": 341,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-065.png": {
+      "frame": {
+        "x": 680,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-066.png": {
+      "frame": {
+        "x": 1019,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-067.png": {
+      "frame": {
+        "x": 1358,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-068.png": {
+      "frame": {
+        "x": 1697,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-069.png": {
+      "frame": {
+        "x": 2036,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-070.png": {
+      "frame": {
+        "x": 2375,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-071.png": {
+      "frame": {
+        "x": 2714,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-072.png": {
+      "frame": {
+        "x": 3053,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-073.png": {
+      "frame": {
+        "x": 3392,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-074.png": {
+      "frame": {
+        "x": 3731,
+        "y": 5526,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-075.png": {
+      "frame": {
+        "x": 2,
+        "y": 6264,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-076.png": {
+      "frame": {
+        "x": 341,
+        "y": 6264,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-077.png": {
+      "frame": {
+        "x": 680,
+        "y": 6264,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-078.png": {
+      "frame": {
+        "x": 1019,
+        "y": 6264,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_predator_beast_fist-079.png": {
+      "frame": {
+        "x": 1358,
+        "y": 6264,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_predator_beast_fist": [
+      "player1_predator_beast_fist-000.png",
+      "player1_predator_beast_fist-001.png",
+      "player1_predator_beast_fist-002.png",
+      "player1_predator_beast_fist-003.png",
+      "player1_predator_beast_fist-004.png",
+      "player1_predator_beast_fist-005.png",
+      "player1_predator_beast_fist-006.png",
+      "player1_predator_beast_fist-007.png",
+      "player1_predator_beast_fist-008.png",
+      "player1_predator_beast_fist-009.png",
+      "player1_predator_beast_fist-010.png",
+      "player1_predator_beast_fist-011.png",
+      "player1_predator_beast_fist-012.png",
+      "player1_predator_beast_fist-013.png",
+      "player1_predator_beast_fist-014.png",
+      "player1_predator_beast_fist-015.png",
+      "player1_predator_beast_fist-016.png",
+      "player1_predator_beast_fist-017.png",
+      "player1_predator_beast_fist-018.png",
+      "player1_predator_beast_fist-019.png",
+      "player1_predator_beast_fist-020.png",
+      "player1_predator_beast_fist-021.png",
+      "player1_predator_beast_fist-022.png",
+      "player1_predator_beast_fist-023.png",
+      "player1_predator_beast_fist-024.png",
+      "player1_predator_beast_fist-025.png",
+      "player1_predator_beast_fist-026.png",
+      "player1_predator_beast_fist-027.png",
+      "player1_predator_beast_fist-028.png",
+      "player1_predator_beast_fist-029.png",
+      "player1_predator_beast_fist-030.png",
+      "player1_predator_beast_fist-031.png",
+      "player1_predator_beast_fist-032.png",
+      "player1_predator_beast_fist-033.png",
+      "player1_predator_beast_fist-034.png",
+      "player1_predator_beast_fist-035.png",
+      "player1_predator_beast_fist-036.png",
+      "player1_predator_beast_fist-037.png",
+      "player1_predator_beast_fist-038.png",
+      "player1_predator_beast_fist-039.png",
+      "player1_predator_beast_fist-040.png",
+      "player1_predator_beast_fist-041.png",
+      "player1_predator_beast_fist-042.png",
+      "player1_predator_beast_fist-043.png",
+      "player1_predator_beast_fist-044.png",
+      "player1_predator_beast_fist-045.png",
+      "player1_predator_beast_fist-046.png",
+      "player1_predator_beast_fist-047.png",
+      "player1_predator_beast_fist-048.png",
+      "player1_predator_beast_fist-049.png",
+      "player1_predator_beast_fist-050.png",
+      "player1_predator_beast_fist-051.png",
+      "player1_predator_beast_fist-052.png",
+      "player1_predator_beast_fist-053.png",
+      "player1_predator_beast_fist-054.png",
+      "player1_predator_beast_fist-055.png",
+      "player1_predator_beast_fist-056.png",
+      "player1_predator_beast_fist-057.png",
+      "player1_predator_beast_fist-058.png",
+      "player1_predator_beast_fist-059.png",
+      "player1_predator_beast_fist-060.png",
+      "player1_predator_beast_fist-061.png",
+      "player1_predator_beast_fist-062.png",
+      "player1_predator_beast_fist-063.png",
+      "player1_predator_beast_fist-064.png",
+      "player1_predator_beast_fist-065.png",
+      "player1_predator_beast_fist-066.png",
+      "player1_predator_beast_fist-067.png",
+      "player1_predator_beast_fist-068.png",
+      "player1_predator_beast_fist-069.png",
+      "player1_predator_beast_fist-070.png",
+      "player1_predator_beast_fist-071.png",
+      "player1_predator_beast_fist-072.png",
+      "player1_predator_beast_fist-073.png",
+      "player1_predator_beast_fist-074.png",
+      "player1_predator_beast_fist-075.png",
+      "player1_predator_beast_fist-076.png",
+      "player1_predator_beast_fist-077.png",
+      "player1_predator_beast_fist-078.png",
+      "player1_predator_beast_fist-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_predator_beast_fist.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4073,
+      "h": 7002
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "cardId": "1001",
+    "cardName": "直拳",
+    "semantic": "punch",
+    "fileName": "card-1001.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: forward punch fist strike. Card keyword: 直拳. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1002",
+    "cardName": "液压重拳",
+    "semantic": "heavyPunch",
+    "fileName": "card-1002.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy armored fist punch. Card keyword: 液压重拳. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1003",
+    "cardName": "连打",
+    "semantic": "comboPunch",
+    "fileName": "card-1003.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: rapid multiple punches. Card keyword: 连打. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1004",
+    "cardName": "刺拳",
+    "semantic": "jab",
+    "fileName": "card-1004.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: straight jab punch. Card keyword: 刺拳. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1005",
+    "cardName": "大猩猩手臂",
+    "semantic": "heavyPunch",
+    "fileName": "card-1005.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy armored fist punch. Card keyword: 大猩猩手臂. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1006",
+    "cardName": "单分子线",
+    "semantic": "wire",
+    "fileName": "card-1006.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: monowire cutting arc. Card keyword: 单分子线. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1007",
+    "cardName": "肘击",
+    "semantic": "elbow",
+    "fileName": "card-1007.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: elbow strike. Card keyword: 肘击. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1008",
+    "cardName": "啃噬",
+    "semantic": "claw",
+    "fileName": "card-1008.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: predatory claw slash. Card keyword: 啃噬. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1009",
+    "cardName": "掠夺重击",
+    "semantic": "heavyPunch",
+    "fileName": "card-1009.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy armored fist punch. Card keyword: 掠夺重击. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1010",
+    "cardName": "起手式",
+    "semantic": "punch",
+    "fileName": "card-1010.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #d58cff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: forward punch fist strike. Card keyword: 起手式. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1011",
+    "cardName": "防爆盾击",
+    "semantic": "shieldBash",
+    "fileName": "card-1011.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ffcf5a accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: shield bash impact. Card keyword: 防爆盾击. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1012",
+    "cardName": "转管机枪",
+    "semantic": "machineGun",
+    "fileName": "card-1012.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ffcf5a accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: automatic gun burst. Card keyword: 转管机枪. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1013",
+    "cardName": "重炮轰击",
+    "semantic": "cannon",
+    "fileName": "card-1013.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ffcf5a accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy cannon blast. Card keyword: 重炮轰击. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1014",
+    "cardName": "战术格挡",
+    "semantic": "shield",
+    "fileName": "card-1014.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ffcf5a accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: defensive shield guard. Card keyword: 战术格挡. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1015",
+    "cardName": "防御架势",
+    "semantic": "shield",
+    "fileName": "card-1015.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ffcf5a accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: defensive shield guard. Card keyword: 防御架势. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1016",
+    "cardName": "重压",
+    "semantic": "heavyPunch",
+    "fileName": "card-1016.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ffcf5a accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy armored fist punch. Card keyword: 重压. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1017",
+    "cardName": "思考",
+    "semantic": "scan",
+    "fileName": "card-1017.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: eye scan insight. Card keyword: 思考. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1018",
+    "cardName": "烟雾弹",
+    "semantic": "smoke",
+    "fileName": "card-1018.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: smoke bomb cloud. Card keyword: 烟雾弹. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1019",
+    "cardName": "动能连射",
+    "semantic": "machineGun",
+    "fileName": "card-1019.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: automatic gun burst. Card keyword: 动能连射. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1020",
+    "cardName": "智能手枪",
+    "semantic": "pistol",
+    "fileName": "card-1020.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: sidearm pistol shot. Card keyword: 智能手枪. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1021",
+    "cardName": "戳刺",
+    "semantic": "jab",
+    "fileName": "card-1021.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: straight jab punch. Card keyword: 戳刺. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1022",
+    "cardName": "冲锋枪扫射",
+    "semantic": "machineGun",
+    "fileName": "card-1022.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: automatic gun burst. Card keyword: 冲锋枪扫射. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1023",
+    "cardName": "狙击步枪",
+    "semantic": "rifle",
+    "fileName": "card-1023.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: long rifle precision shot. Card keyword: 狙击步枪. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1024",
+    "cardName": "长枪",
+    "semantic": "spear",
+    "fileName": "card-1024.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: spear thrust. Card keyword: 长枪. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1025",
+    "cardName": "电击拳",
+    "semantic": "electricPunch",
+    "fileName": "card-1025.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: electric punch. Card keyword: 电击拳. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1026",
+    "cardName": "酸液喷射",
+    "semantic": "acid",
+    "fileName": "card-1026.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: acid splash. Card keyword: 酸液喷射. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1027",
+    "cardName": "数据刺",
+    "semantic": "dataStab",
+    "fileName": "card-1027.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: data spike stab. Card keyword: 数据刺. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1028",
+    "cardName": "毒刺手里剑",
+    "semantic": "shuriken",
+    "fileName": "card-1028.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: poison shuriken throw. Card keyword: 毒刺手里剑. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1029",
+    "cardName": "弱电触手",
+    "semantic": "electricTentacle",
+    "fileName": "card-1029.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: electric tentacle whip. Card keyword: 弱电触手. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1030",
+    "cardName": "废料手枪",
+    "semantic": "pistol",
+    "fileName": "card-1030.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: sidearm pistol shot. Card keyword: 废料手枪. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1031",
+    "cardName": "斩击",
+    "semantic": "slash",
+    "fileName": "card-1031.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: single blade slash. Card keyword: 斩击. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1032",
+    "cardName": "热能斧劈",
+    "semantic": "axe",
+    "fileName": "card-1032.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: axe chop. Card keyword: 热能斧劈. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1033",
+    "cardName": "双刀斩",
+    "semantic": "dualSlash",
+    "fileName": "card-1033.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: dual blade combo slash. Card keyword: 双刀斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1034",
+    "cardName": "居合斩",
+    "semantic": "slash",
+    "fileName": "card-1034.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: single blade slash. Card keyword: 居合斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1035",
+    "cardName": "螳螂刀",
+    "semantic": "dualSlash",
+    "fileName": "card-1035.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: dual blade combo slash. Card keyword: 螳螂刀. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1036",
+    "cardName": "纳米线切割",
+    "semantic": "wire",
+    "fileName": "card-1036.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: monowire cutting arc. Card keyword: 纳米线切割. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1037",
+    "cardName": "撕咬",
+    "semantic": "claw",
+    "fileName": "card-1037.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: predatory claw slash. Card keyword: 撕咬. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1038",
+    "cardName": "酸液触须",
+    "semantic": "acidTentacle",
+    "fileName": "card-1038.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: acid tentacle lash. Card keyword: 酸液触须. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1039",
+    "cardName": "腿刃连斩",
+    "semantic": "dualSlash",
+    "fileName": "card-1039.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: dual blade combo slash. Card keyword: 腿刃连斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1040",
+    "cardName": "酸液利爪",
+    "semantic": "acidClaw",
+    "fileName": "card-1040.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: acid claw strike. Card keyword: 酸液利爪. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1041",
+    "cardName": "灵魂撕裂",
+    "semantic": "soulTear",
+    "fileName": "card-1041.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: soul tearing slash. Card keyword: 灵魂撕裂. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1042",
+    "cardName": "声波尖叫",
+    "semantic": "sonic",
+    "fileName": "card-1042.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #d58cff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: sonic scream wave. Card keyword: 声波尖叫. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1043",
+    "cardName": "袈裟斩",
+    "semantic": "slash",
+    "fileName": "card-1043.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: single blade slash. Card keyword: 袈裟斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1044",
+    "cardName": "剑光",
+    "semantic": "dualSlash",
+    "fileName": "card-1044.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: dual blade combo slash. Card keyword: 剑光. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1045",
+    "cardName": "剑气",
+    "semantic": "energySlash",
+    "fileName": "card-1045.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: ranged energy sword wave. Card keyword: 剑气. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1046",
+    "cardName": "重剑蓄力斩",
+    "semantic": "heavySword",
+    "fileName": "card-1046.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy sword cleave. Card keyword: 重剑蓄力斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1047",
+    "cardName": "重剑蓄力",
+    "semantic": "chargeBlade",
+    "fileName": "card-1047.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: charged blade ready. Card keyword: 重剑蓄力. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1048",
+    "cardName": "重剑横扫",
+    "semantic": "heavySword",
+    "fileName": "card-1048.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy sword cleave. Card keyword: 重剑横扫. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1049",
+    "cardName": "重剑斩",
+    "semantic": "heavySword",
+    "fileName": "card-1049.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: heavy sword cleave. Card keyword: 重剑斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1050",
+    "cardName": "指虎连打",
+    "semantic": "comboPunch",
+    "fileName": "card-1050.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #d58cff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: rapid multiple punches. Card keyword: 指虎连打. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1051",
+    "cardName": "居合斩",
+    "semantic": "energySlash",
+    "fileName": "card-1051.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: ranged energy sword wave. Card keyword: 居合斩. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1052",
+    "cardName": "见切",
+    "semantic": "scan",
+    "fileName": "card-1052.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: eye scan insight. Card keyword: 见切. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "1053",
+    "cardName": "识破",
+    "semantic": "scan",
+    "fileName": "card-1053.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: eye scan insight. Card keyword: 识破. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2001",
+    "cardName": "前进",
+    "semantic": "runForward",
+    "fileName": "card-2001.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: running person moving forward. Card keyword: 前进. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2002",
+    "cardName": "后退",
+    "semantic": "runBack",
+    "fileName": "card-2002.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: backstep retreat. Card keyword: 后退. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2003",
+    "cardName": "跳跃",
+    "semantic": "jump",
+    "fileName": "card-2003.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: jumping person. Card keyword: 跳跃. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2004",
+    "cardName": "折跃跳",
+    "semantic": "phaseJump",
+    "fileName": "card-2004.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: teleport jump. Card keyword: 折跃跳. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2005",
+    "cardName": "后撤步",
+    "semantic": "runBack",
+    "fileName": "card-2005.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: backstep retreat. Card keyword: 后撤步. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2006",
+    "cardName": "影杀",
+    "semantic": "dashKill",
+    "fileName": "card-2006.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: shadow dash attack. Card keyword: 影杀. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2007",
+    "cardName": "影子移动",
+    "semantic": "dash",
+    "fileName": "card-2007.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: fast dodge dash. Card keyword: 影子移动. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2008",
+    "cardName": "冲撞",
+    "semantic": "chargeForward",
+    "fileName": "card-2008.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #ff5f96 accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: charging body rush. Card keyword: 冲撞. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2009",
+    "cardName": "垫步",
+    "semantic": "runForward",
+    "fileName": "card-2009.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #75ff9f accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: running person moving forward. Card keyword: 垫步. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2010",
+    "cardName": "匍匐前进",
+    "semantic": "crawlForward",
+    "fileName": "card-2010.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: low crawl forward. Card keyword: 匍匐前进. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2011",
+    "cardName": "闪避",
+    "semantic": "dash",
+    "fileName": "card-2011.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #b9c3ce accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: fast dodge dash. Card keyword: 闪避. Keep all icons in one unified style."
+  },
+  {
+    "cardId": "2012",
+    "cardName": "换弹",
+    "semantic": "reload",
+    "fileName": "card-2012.png",
+    "prompt": "Create a clear mechanical functional game card icon for card undefined. Style: solid white silhouette on black square, thick readable shapes, hard sci-fi equipment UI, strong black drop shadow, compact hexagonal tech frame, like weapon mod icons and tactical RPG trait icons. The symbol must communicate the card action clearly. No thin decorative line art, no complex illustration, no text, no watermark. Keep it readable at 48px. Original semantic request: Minimal futuristic card skill icon, black square background, crisp white geometric line art with subtle #00f5ff accent, cyberpunk tactical UI, Arknights operator branch icon style, no text, no character portrait, centered symbol. The icon must clearly communicate: reload magazine. Card keyword: 换弹. Keep all icons in one unified style."
+  }
+]

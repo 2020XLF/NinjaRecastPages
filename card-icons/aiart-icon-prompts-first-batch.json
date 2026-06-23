@@ -1,0 +1,74 @@
+[
+  {
+    "cardId": "1001",
+    "cardName": "直拳",
+    "fileName": "card-1001.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 直拳 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1002",
+    "cardName": "液压重拳",
+    "fileName": "card-1002.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 液压重拳 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1003",
+    "cardName": "连打",
+    "fileName": "card-1003.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 连打 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1004",
+    "cardName": "刺拳",
+    "fileName": "card-1004.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 刺拳 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1005",
+    "cardName": "大猩猩手臂",
+    "fileName": "card-1005.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 大猩猩手臂 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1006",
+    "cardName": "单分子线",
+    "fileName": "card-1006.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 单分子线 / attack, range 2, movement none."
+  },
+  {
+    "cardId": "1007",
+    "cardName": "肘击",
+    "fileName": "card-1007.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 肘击 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1008",
+    "cardName": "啃噬",
+    "fileName": "card-1008.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 啃噬 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1009",
+    "cardName": "掠夺重击",
+    "fileName": "card-1009.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 掠夺重击 / attack, range 3, movement none."
+  },
+  {
+    "cardId": "1010",
+    "cardName": "起手式",
+    "fileName": "card-1010.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 起手式 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1011",
+    "cardName": "防爆盾击",
+    "fileName": "card-1011.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 防爆盾击 / attack, range 1, movement none."
+  },
+  {
+    "cardId": "1012",
+    "cardName": "转管机枪",
+    "fileName": "card-1012.png",
+    "prompt": "Minimal futuristic card skill icon, black square background, crisp white geometric line symbol, subtle cyan accent glow, cyberpunk tactical UI, Arknights operator branch icon style, high contrast, centered, no text, no character, no realistic object, clean vector-like design. Skill meaning: 转管机枪 / attack, range 1, movement none."
+  }
+]

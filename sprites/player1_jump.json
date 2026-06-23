@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_jump-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-006.png": {
+      "frame": {
+        "x": 2030,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-007.png": {
+      "frame": {
+        "x": 2368,
+        "y": 2,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-008.png": {
+      "frame": {
+        "x": 2706,
+        "y": 2,
+        "w": 329,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 32,
+        "w": 329,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-009.png": {
+      "frame": {
+        "x": 3037,
+        "y": 2,
+        "w": 333,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 50,
+        "w": 333,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-010.png": {
+      "frame": {
+        "x": 3372,
+        "y": 2,
+        "w": 355,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 84,
+        "w": 355,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 384,
+        "h": 596
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 168,
+        "w": 384,
+        "h": 596
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-012.png": {
+      "frame": {
+        "x": 388,
+        "y": 741,
+        "w": 383,
+        "h": 579
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 185,
+        "w": 383,
+        "h": 579
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-013.png": {
+      "frame": {
+        "x": 773,
+        "y": 741,
+        "w": 383,
+        "h": 570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 194,
+        "w": 383,
+        "h": 570
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-014.png": {
+      "frame": {
+        "x": 1158,
+        "y": 741,
+        "w": 379,
+        "h": 566
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 198,
+        "w": 379,
+        "h": 566
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-015.png": {
+      "frame": {
+        "x": 1539,
+        "y": 741,
+        "w": 376,
+        "h": 565
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 199,
+        "w": 376,
+        "h": 565
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-016.png": {
+      "frame": {
+        "x": 1917,
+        "y": 741,
+        "w": 376,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 125,
+        "w": 376,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-017.png": {
+      "frame": {
+        "x": 2295,
+        "y": 741,
+        "w": 381,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 19,
+        "w": 381,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-018.png": {
+      "frame": {
+        "x": 2678,
+        "y": 741,
+        "w": 396,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 0,
+        "w": 396,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-019.png": {
+      "frame": {
+        "x": 3076,
+        "y": 741,
+        "w": 412,
+        "h": 625
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 296,
+        "y": 0,
+        "w": 412,
+        "h": 625
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-020.png": {
+      "frame": {
+        "x": 3490,
+        "y": 741,
+        "w": 426,
+        "h": 578
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 288,
+        "y": 0,
+        "w": 426,
+        "h": 578
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-021.png": {
+      "frame": {
+        "x": 2,
+        "y": 1482,
+        "w": 443,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 0,
+        "w": 443,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-022.png": {
+      "frame": {
+        "x": 447,
+        "y": 1482,
+        "w": 448,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 292,
+        "y": 0,
+        "w": 448,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-023.png": {
+      "frame": {
+        "x": 897,
+        "y": 1482,
+        "w": 453,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 300,
+        "y": 69,
+        "w": 453,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-024.png": {
+      "frame": {
+        "x": 1352,
+        "y": 1482,
+        "w": 443,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 151,
+        "w": 443,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-025.png": {
+      "frame": {
+        "x": 1797,
+        "y": 1482,
+        "w": 381,
+        "h": 556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 208,
+        "w": 381,
+        "h": 556
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-026.png": {
+      "frame": {
+        "x": 2180,
+        "y": 1482,
+        "w": 357,
+        "h": 551
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 213,
+        "w": 357,
+        "h": 551
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-027.png": {
+      "frame": {
+        "x": 2539,
+        "y": 1482,
+        "w": 342,
+        "h": 554
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 210,
+        "w": 342,
+        "h": 554
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-028.png": {
+      "frame": {
+        "x": 2883,
+        "y": 1482,
+        "w": 343,
+        "h": 565
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 199,
+        "w": 343,
+        "h": 565
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-029.png": {
+      "frame": {
+        "x": 3228,
+        "y": 1482,
+        "w": 350,
+        "h": 606
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 158,
+        "w": 350,
+        "h": 606
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-030.png": {
+      "frame": {
+        "x": 3580,
+        "y": 1482,
+        "w": 392,
+        "h": 748
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 0,
+        "w": 392,
+        "h": 748
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-031.png": {
+      "frame": {
+        "x": 2,
+        "y": 2232,
+        "w": 412,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 298,
+        "y": 0,
+        "w": 412,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-032.png": {
+      "frame": {
+        "x": 416,
+        "y": 2232,
+        "w": 428,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 289,
+        "y": 0,
+        "w": 428,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-033.png": {
+      "frame": {
+        "x": 846,
+        "y": 2232,
+        "w": 438,
+        "h": 589
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 284,
+        "y": 0,
+        "w": 438,
+        "h": 589
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-034.png": {
+      "frame": {
+        "x": 1286,
+        "y": 2232,
+        "w": 453,
+        "h": 555
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 279,
+        "y": 0,
+        "w": 453,
+        "h": 555
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-035.png": {
+      "frame": {
+        "x": 1741,
+        "y": 2232,
+        "w": 457,
+        "h": 572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 0,
+        "w": 457,
+        "h": 572
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-036.png": {
+      "frame": {
+        "x": 2200,
+        "y": 2232,
+        "w": 459,
+        "h": 612
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 283,
+        "y": 0,
+        "w": 459,
+        "h": 612
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-037.png": {
+      "frame": {
+        "x": 2661,
+        "y": 2232,
+        "w": 461,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 289,
+        "y": 0,
+        "w": 461,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-038.png": {
+      "frame": {
+        "x": 3124,
+        "y": 2232,
+        "w": 465,
+        "h": 757
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 297,
+        "y": 0,
+        "w": 465,
+        "h": 757
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-039.png": {
+      "frame": {
+        "x": 3591,
+        "y": 2232,
+        "w": 465,
+        "h": 656
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 112,
+        "w": 465,
+        "h": 656
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 2991,
+        "w": 446,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 141,
+        "w": 446,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-041.png": {
+      "frame": {
+        "x": 450,
+        "y": 2991,
+        "w": 418,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 154,
+        "w": 418,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-042.png": {
+      "frame": {
+        "x": 870,
+        "y": 2991,
+        "w": 395,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 150,
+        "w": 395,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-043.png": {
+      "frame": {
+        "x": 1267,
+        "y": 2991,
+        "w": 377,
+        "h": 691
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 77,
+        "w": 377,
+        "h": 691
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-044.png": {
+      "frame": {
+        "x": 1646,
+        "y": 2991,
+        "w": 383,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 0,
+        "w": 383,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-045.png": {
+      "frame": {
+        "x": 2031,
+        "y": 2991,
+        "w": 397,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 0,
+        "w": 397,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-046.png": {
+      "frame": {
+        "x": 2430,
+        "y": 2991,
+        "w": 414,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 0,
+        "w": 414,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-047.png": {
+      "frame": {
+        "x": 2846,
+        "y": 2991,
+        "w": 428,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 0,
+        "w": 428,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-048.png": {
+      "frame": {
+        "x": 3276,
+        "y": 2991,
+        "w": 447,
+        "h": 610
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 303,
+        "y": 0,
+        "w": 447,
+        "h": 610
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 3753,
+        "w": 453,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 302,
+        "y": 0,
+        "w": 453,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-050.png": {
+      "frame": {
+        "x": 457,
+        "y": 3753,
+        "w": 463,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 0,
+        "w": 463,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-051.png": {
+      "frame": {
+        "x": 922,
+        "y": 3753,
+        "w": 466,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 80,
+        "w": 466,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-052.png": {
+      "frame": {
+        "x": 1390,
+        "y": 3753,
+        "w": 459,
+        "h": 637
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 131,
+        "w": 459,
+        "h": 637
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-053.png": {
+      "frame": {
+        "x": 1851,
+        "y": 3753,
+        "w": 397,
+        "h": 597
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 171,
+        "w": 397,
+        "h": 597
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-054.png": {
+      "frame": {
+        "x": 2250,
+        "y": 3753,
+        "w": 373,
+        "h": 594
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 174,
+        "w": 373,
+        "h": 594
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-055.png": {
+      "frame": {
+        "x": 2625,
+        "y": 3753,
+        "w": 364,
+        "h": 598
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 170,
+        "w": 364,
+        "h": 598
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-056.png": {
+      "frame": {
+        "x": 2991,
+        "y": 3753,
+        "w": 361,
+        "h": 603
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 165,
+        "w": 361,
+        "h": 603
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-057.png": {
+      "frame": {
+        "x": 3354,
+        "y": 3753,
+        "w": 363,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 155,
+        "w": 363,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-058.png": {
+      "frame": {
+        "x": 3719,
+        "y": 3753,
+        "w": 365,
+        "h": 617
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 151,
+        "w": 365,
+        "h": 617
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-059.png": {
+      "frame": {
+        "x": 2,
+        "y": 4493,
+        "w": 367,
+        "h": 620
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 148,
+        "w": 367,
+        "h": 620
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-060.png": {
+      "frame": {
+        "x": 371,
+        "y": 4493,
+        "w": 369,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 144,
+        "w": 369,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-061.png": {
+      "frame": {
+        "x": 742,
+        "y": 4493,
+        "w": 370,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 139,
+        "w": 370,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-062.png": {
+      "frame": {
+        "x": 1114,
+        "y": 4493,
+        "w": 371,
+        "h": 645
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 123,
+        "w": 371,
+        "h": 645
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-063.png": {
+      "frame": {
+        "x": 1487,
+        "y": 4493,
+        "w": 371,
+        "h": 658
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 110,
+        "w": 371,
+        "h": 658
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-064.png": {
+      "frame": {
+        "x": 1860,
+        "y": 4493,
+        "w": 369,
+        "h": 676
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 92,
+        "w": 369,
+        "h": 676
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-065.png": {
+      "frame": {
+        "x": 2231,
+        "y": 4493,
+        "w": 366,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 73,
+        "w": 366,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-066.png": {
+      "frame": {
+        "x": 2599,
+        "y": 4493,
+        "w": 352,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 47,
+        "w": 352,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-067.png": {
+      "frame": {
+        "x": 2953,
+        "y": 4493,
+        "w": 342,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 37,
+        "w": 342,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-068.png": {
+      "frame": {
+        "x": 3297,
+        "y": 4493,
+        "w": 331,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 31,
+        "w": 331,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-069.png": {
+      "frame": {
+        "x": 3630,
+        "y": 4493,
+        "w": 328,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 29,
+        "w": 328,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-070.png": {
+      "frame": {
+        "x": 2,
+        "y": 5230,
+        "w": 333,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 27,
+        "w": 333,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-071.png": {
+      "frame": {
+        "x": 337,
+        "y": 5230,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-072.png": {
+      "frame": {
+        "x": 675,
+        "y": 5230,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-073.png": {
+      "frame": {
+        "x": 1013,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-074.png": {
+      "frame": {
+        "x": 1351,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-075.png": {
+      "frame": {
+        "x": 1689,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-076.png": {
+      "frame": {
+        "x": 2027,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-077.png": {
+      "frame": {
+        "x": 2365,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-078.png": {
+      "frame": {
+        "x": 2703,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_jump-079.png": {
+      "frame": {
+        "x": 3041,
+        "y": 5230,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_jump": [
+      "player1_jump-000.png",
+      "player1_jump-001.png",
+      "player1_jump-002.png",
+      "player1_jump-003.png",
+      "player1_jump-004.png",
+      "player1_jump-005.png",
+      "player1_jump-006.png",
+      "player1_jump-007.png",
+      "player1_jump-008.png",
+      "player1_jump-009.png",
+      "player1_jump-010.png",
+      "player1_jump-011.png",
+      "player1_jump-012.png",
+      "player1_jump-013.png",
+      "player1_jump-014.png",
+      "player1_jump-015.png",
+      "player1_jump-016.png",
+      "player1_jump-017.png",
+      "player1_jump-018.png",
+      "player1_jump-019.png",
+      "player1_jump-020.png",
+      "player1_jump-021.png",
+      "player1_jump-022.png",
+      "player1_jump-023.png",
+      "player1_jump-024.png",
+      "player1_jump-025.png",
+      "player1_jump-026.png",
+      "player1_jump-027.png",
+      "player1_jump-028.png",
+      "player1_jump-029.png",
+      "player1_jump-030.png",
+      "player1_jump-031.png",
+      "player1_jump-032.png",
+      "player1_jump-033.png",
+      "player1_jump-034.png",
+      "player1_jump-035.png",
+      "player1_jump-036.png",
+      "player1_jump-037.png",
+      "player1_jump-038.png",
+      "player1_jump-039.png",
+      "player1_jump-040.png",
+      "player1_jump-041.png",
+      "player1_jump-042.png",
+      "player1_jump-043.png",
+      "player1_jump-044.png",
+      "player1_jump-045.png",
+      "player1_jump-046.png",
+      "player1_jump-047.png",
+      "player1_jump-048.png",
+      "player1_jump-049.png",
+      "player1_jump-050.png",
+      "player1_jump-051.png",
+      "player1_jump-052.png",
+      "player1_jump-053.png",
+      "player1_jump-054.png",
+      "player1_jump-055.png",
+      "player1_jump-056.png",
+      "player1_jump-057.png",
+      "player1_jump-058.png",
+      "player1_jump-059.png",
+      "player1_jump-060.png",
+      "player1_jump-061.png",
+      "player1_jump-062.png",
+      "player1_jump-063.png",
+      "player1_jump-064.png",
+      "player1_jump-065.png",
+      "player1_jump-066.png",
+      "player1_jump-067.png",
+      "player1_jump-068.png",
+      "player1_jump-069.png",
+      "player1_jump-070.png",
+      "player1_jump-071.png",
+      "player1_jump-072.png",
+      "player1_jump-073.png",
+      "player1_jump-074.png",
+      "player1_jump-075.png",
+      "player1_jump-076.png",
+      "player1_jump-077.png",
+      "player1_jump-078.png",
+      "player1_jump-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_jump.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4086,
+      "h": 5969
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

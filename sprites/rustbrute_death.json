@@ -1,0 +1,1348 @@
+{
+  "frames": {
+    "rustbrute_death-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 819,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 261,
+        "y": 104,
+        "w": 819,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-001.png": {
+      "frame": {
+        "x": 823,
+        "y": 2,
+        "w": 872,
+        "h": 1804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1804
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-002.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 872,
+        "h": 1816
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1816
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-003.png": {
+      "frame": {
+        "x": 2571,
+        "y": 2,
+        "w": 872,
+        "h": 1816
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1816
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-004.png": {
+      "frame": {
+        "x": 3445,
+        "y": 2,
+        "w": 872,
+        "h": 1816
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1816
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-005.png": {
+      "frame": {
+        "x": 4319,
+        "y": 2,
+        "w": 872,
+        "h": 1816
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1816
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-006.png": {
+      "frame": {
+        "x": 5193,
+        "y": 2,
+        "w": 896,
+        "h": 1808
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 106,
+        "w": 896,
+        "h": 1808
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-007.png": {
+      "frame": {
+        "x": 6091,
+        "y": 2,
+        "w": 1054,
+        "h": 1763
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 138,
+        "w": 1054,
+        "h": 1763
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-008.png": {
+      "frame": {
+        "x": 2,
+        "y": 1820,
+        "w": 1080,
+        "h": 1773
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 139,
+        "w": 1080,
+        "h": 1773
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-009.png": {
+      "frame": {
+        "x": 1084,
+        "y": 1820,
+        "w": 1080,
+        "h": 1797
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 102,
+        "w": 1080,
+        "h": 1797
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-010.png": {
+      "frame": {
+        "x": 2166,
+        "y": 1820,
+        "w": 1074,
+        "h": 1796
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 99,
+        "w": 1074,
+        "h": 1796
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-011.png": {
+      "frame": {
+        "x": 3242,
+        "y": 1820,
+        "w": 911,
+        "h": 1790
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 169,
+        "y": 112,
+        "w": 911,
+        "h": 1790
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-012.png": {
+      "frame": {
+        "x": 4155,
+        "y": 1820,
+        "w": 863,
+        "h": 1793
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 217,
+        "y": 108,
+        "w": 863,
+        "h": 1793
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-013.png": {
+      "frame": {
+        "x": 5020,
+        "y": 1820,
+        "w": 770,
+        "h": 1796
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 103,
+        "w": 770,
+        "h": 1796
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-014.png": {
+      "frame": {
+        "x": 5792,
+        "y": 1820,
+        "w": 776,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 104,
+        "w": 776,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-015.png": {
+      "frame": {
+        "x": 6570,
+        "y": 1820,
+        "w": 776,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 105,
+        "w": 776,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-016.png": {
+      "frame": {
+        "x": 7348,
+        "y": 1820,
+        "w": 813,
+        "h": 1796
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 106,
+        "w": 813,
+        "h": 1796
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-017.png": {
+      "frame": {
+        "x": 2,
+        "y": 3620,
+        "w": 849,
+        "h": 1796
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 231,
+        "y": 106,
+        "w": 849,
+        "h": 1796
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-018.png": {
+      "frame": {
+        "x": 853,
+        "y": 3620,
+        "w": 879,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 201,
+        "y": 104,
+        "w": 879,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-019.png": {
+      "frame": {
+        "x": 1734,
+        "y": 3620,
+        "w": 899,
+        "h": 1799
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 103,
+        "w": 899,
+        "h": 1799
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-020.png": {
+      "frame": {
+        "x": 2635,
+        "y": 3620,
+        "w": 906,
+        "h": 1799
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 174,
+        "y": 103,
+        "w": 906,
+        "h": 1799
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-021.png": {
+      "frame": {
+        "x": 3543,
+        "y": 3620,
+        "w": 910,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 104,
+        "w": 910,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-022.png": {
+      "frame": {
+        "x": 4455,
+        "y": 3620,
+        "w": 906,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 174,
+        "y": 104,
+        "w": 906,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-023.png": {
+      "frame": {
+        "x": 5363,
+        "y": 3620,
+        "w": 884,
+        "h": 1796
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 106,
+        "w": 884,
+        "h": 1796
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-024.png": {
+      "frame": {
+        "x": 6249,
+        "y": 3620,
+        "w": 874,
+        "h": 1797
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 206,
+        "y": 106,
+        "w": 874,
+        "h": 1797
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-025.png": {
+      "frame": {
+        "x": 7125,
+        "y": 3620,
+        "w": 847,
+        "h": 1796
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 106,
+        "w": 847,
+        "h": 1796
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-026.png": {
+      "frame": {
+        "x": 2,
+        "y": 5421,
+        "w": 838,
+        "h": 1797
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 106,
+        "w": 838,
+        "h": 1797
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-027.png": {
+      "frame": {
+        "x": 842,
+        "y": 5421,
+        "w": 822,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 258,
+        "y": 104,
+        "w": 822,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-028.png": {
+      "frame": {
+        "x": 1666,
+        "y": 5421,
+        "w": 815,
+        "h": 1798
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 265,
+        "y": 104,
+        "w": 815,
+        "h": 1798
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-029.png": {
+      "frame": {
+        "x": 2483,
+        "y": 5421,
+        "w": 814,
+        "h": 1799
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 266,
+        "y": 103,
+        "w": 814,
+        "h": 1799
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-030.png": {
+      "frame": {
+        "x": 3299,
+        "y": 5421,
+        "w": 813,
+        "h": 1800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 103,
+        "w": 813,
+        "h": 1800
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-031.png": {
+      "frame": {
+        "x": 4114,
+        "y": 5421,
+        "w": 813,
+        "h": 1799
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 103,
+        "w": 813,
+        "h": 1799
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-032.png": {
+      "frame": {
+        "x": 4929,
+        "y": 5421,
+        "w": 812,
+        "h": 1800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 268,
+        "y": 103,
+        "w": 812,
+        "h": 1800
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-033.png": {
+      "frame": {
+        "x": 5743,
+        "y": 5421,
+        "w": 811,
+        "h": 1800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 269,
+        "y": 103,
+        "w": 811,
+        "h": 1800
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-034.png": {
+      "frame": {
+        "x": 6556,
+        "y": 5421,
+        "w": 808,
+        "h": 1795
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 105,
+        "w": 808,
+        "h": 1795
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-035.png": {
+      "frame": {
+        "x": 7366,
+        "y": 5421,
+        "w": 807,
+        "h": 1792
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 273,
+        "y": 106,
+        "w": 807,
+        "h": 1792
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-036.png": {
+      "frame": {
+        "x": 2,
+        "y": 7223,
+        "w": 806,
+        "h": 1771
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 274,
+        "y": 114,
+        "w": 806,
+        "h": 1771
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-037.png": {
+      "frame": {
+        "x": 810,
+        "y": 7223,
+        "w": 808,
+        "h": 1761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 119,
+        "w": 808,
+        "h": 1761
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-038.png": {
+      "frame": {
+        "x": 1620,
+        "y": 7223,
+        "w": 855,
+        "h": 1690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 225,
+        "y": 178,
+        "w": 855,
+        "h": 1690
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-039.png": {
+      "frame": {
+        "x": 2477,
+        "y": 7223,
+        "w": 886,
+        "h": 1631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 237,
+        "w": 886,
+        "h": 1631
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-040.png": {
+      "frame": {
+        "x": 3365,
+        "y": 7223,
+        "w": 898,
+        "h": 1455
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 427,
+        "w": 898,
+        "h": 1455
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-041.png": {
+      "frame": {
+        "x": 4265,
+        "y": 7223,
+        "w": 877,
+        "h": 1338
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 171,
+        "y": 572,
+        "w": 877,
+        "h": 1338
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-042.png": {
+      "frame": {
+        "x": 5144,
+        "y": 7223,
+        "w": 941,
+        "h": 1281
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 629,
+        "w": 941,
+        "h": 1281
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-043.png": {
+      "frame": {
+        "x": 6087,
+        "y": 7223,
+        "w": 967,
+        "h": 1265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 639,
+        "w": 967,
+        "h": 1265
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-044.png": {
+      "frame": {
+        "x": 7056,
+        "y": 7223,
+        "w": 997,
+        "h": 1232
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 677,
+        "w": 997,
+        "h": 1232
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-045.png": {
+      "frame": {
+        "x": 2,
+        "y": 8996,
+        "w": 1010,
+        "h": 1225
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 686,
+        "w": 1010,
+        "h": 1225
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-046.png": {
+      "frame": {
+        "x": 1014,
+        "y": 8996,
+        "w": 1013,
+        "h": 1227
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 683,
+        "w": 1013,
+        "h": 1227
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-047.png": {
+      "frame": {
+        "x": 2029,
+        "y": 8996,
+        "w": 1009,
+        "h": 1231
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 679,
+        "w": 1009,
+        "h": 1231
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-048.png": {
+      "frame": {
+        "x": 3040,
+        "y": 8996,
+        "w": 995,
+        "h": 1236
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 674,
+        "w": 995,
+        "h": 1236
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-049.png": {
+      "frame": {
+        "x": 4037,
+        "y": 8996,
+        "w": 990,
+        "h": 1238
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 673,
+        "w": 990,
+        "h": 1238
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-050.png": {
+      "frame": {
+        "x": 5029,
+        "y": 8996,
+        "w": 983,
+        "h": 1240
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 672,
+        "w": 983,
+        "h": 1240
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-051.png": {
+      "frame": {
+        "x": 6014,
+        "y": 8996,
+        "w": 981,
+        "h": 1241
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 671,
+        "w": 981,
+        "h": 1241
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_death-052.png": {
+      "frame": {
+        "x": 6997,
+        "y": 8996,
+        "w": 981,
+        "h": 1241
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 671,
+        "w": 981,
+        "h": 1241
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustbrute_death": [
+      "rustbrute_death-000.png",
+      "rustbrute_death-001.png",
+      "rustbrute_death-002.png",
+      "rustbrute_death-003.png",
+      "rustbrute_death-004.png",
+      "rustbrute_death-005.png",
+      "rustbrute_death-006.png",
+      "rustbrute_death-007.png",
+      "rustbrute_death-008.png",
+      "rustbrute_death-009.png",
+      "rustbrute_death-010.png",
+      "rustbrute_death-011.png",
+      "rustbrute_death-012.png",
+      "rustbrute_death-013.png",
+      "rustbrute_death-014.png",
+      "rustbrute_death-015.png",
+      "rustbrute_death-016.png",
+      "rustbrute_death-017.png",
+      "rustbrute_death-018.png",
+      "rustbrute_death-019.png",
+      "rustbrute_death-020.png",
+      "rustbrute_death-021.png",
+      "rustbrute_death-022.png",
+      "rustbrute_death-023.png",
+      "rustbrute_death-024.png",
+      "rustbrute_death-025.png",
+      "rustbrute_death-026.png",
+      "rustbrute_death-027.png",
+      "rustbrute_death-028.png",
+      "rustbrute_death-029.png",
+      "rustbrute_death-030.png",
+      "rustbrute_death-031.png",
+      "rustbrute_death-032.png",
+      "rustbrute_death-033.png",
+      "rustbrute_death-034.png",
+      "rustbrute_death-035.png",
+      "rustbrute_death-036.png",
+      "rustbrute_death-037.png",
+      "rustbrute_death-038.png",
+      "rustbrute_death-039.png",
+      "rustbrute_death-040.png",
+      "rustbrute_death-041.png",
+      "rustbrute_death-042.png",
+      "rustbrute_death-043.png",
+      "rustbrute_death-044.png",
+      "rustbrute_death-045.png",
+      "rustbrute_death-046.png",
+      "rustbrute_death-047.png",
+      "rustbrute_death-048.png",
+      "rustbrute_death-049.png",
+      "rustbrute_death-050.png",
+      "rustbrute_death-051.png",
+      "rustbrute_death-052.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "rustbrute_death.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8175,
+      "h": 10239
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

@@ -1,0 +1,1223 @@
+{
+  "frames": {
+    "rustengineer_run-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 452,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 452,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-001.png": {
+      "frame": {
+        "x": 456,
+        "y": 2,
+        "w": 452,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 452,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-002.png": {
+      "frame": {
+        "x": 910,
+        "y": 2,
+        "w": 452,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 452,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-003.png": {
+      "frame": {
+        "x": 1364,
+        "y": 2,
+        "w": 452,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 452,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-004.png": {
+      "frame": {
+        "x": 1818,
+        "y": 2,
+        "w": 452,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 452,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-005.png": {
+      "frame": {
+        "x": 2272,
+        "y": 2,
+        "w": 452,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 452,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-006.png": {
+      "frame": {
+        "x": 2726,
+        "y": 2,
+        "w": 453,
+        "h": 1557
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 206,
+        "w": 453,
+        "h": 1557
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-007.png": {
+      "frame": {
+        "x": 3181,
+        "y": 2,
+        "w": 453,
+        "h": 1557
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 206,
+        "w": 453,
+        "h": 1557
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-008.png": {
+      "frame": {
+        "x": 3636,
+        "y": 2,
+        "w": 453,
+        "h": 1557
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 206,
+        "w": 453,
+        "h": 1557
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-009.png": {
+      "frame": {
+        "x": 4091,
+        "y": 2,
+        "w": 453,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 453,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-010.png": {
+      "frame": {
+        "x": 4546,
+        "y": 2,
+        "w": 453,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 453,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-011.png": {
+      "frame": {
+        "x": 5001,
+        "y": 2,
+        "w": 453,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 453,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-012.png": {
+      "frame": {
+        "x": 5456,
+        "y": 2,
+        "w": 453,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 453,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-013.png": {
+      "frame": {
+        "x": 5911,
+        "y": 2,
+        "w": 453,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 453,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-014.png": {
+      "frame": {
+        "x": 6366,
+        "y": 2,
+        "w": 453,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 453,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-015.png": {
+      "frame": {
+        "x": 6821,
+        "y": 2,
+        "w": 455,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 455,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-016.png": {
+      "frame": {
+        "x": 7278,
+        "y": 2,
+        "w": 455,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 207,
+        "w": 455,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-017.png": {
+      "frame": {
+        "x": 2,
+        "y": 1562,
+        "w": 456,
+        "h": 1556
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 207,
+        "w": 456,
+        "h": 1556
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-018.png": {
+      "frame": {
+        "x": 460,
+        "y": 1562,
+        "w": 476,
+        "h": 1557
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 206,
+        "w": 476,
+        "h": 1557
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-019.png": {
+      "frame": {
+        "x": 938,
+        "y": 1562,
+        "w": 476,
+        "h": 1557
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 206,
+        "w": 476,
+        "h": 1557
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-020.png": {
+      "frame": {
+        "x": 1416,
+        "y": 1562,
+        "w": 494,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 205,
+        "w": 494,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-021.png": {
+      "frame": {
+        "x": 1912,
+        "y": 1562,
+        "w": 501,
+        "h": 1553
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 210,
+        "w": 501,
+        "h": 1553
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-022.png": {
+      "frame": {
+        "x": 2415,
+        "y": 1562,
+        "w": 501,
+        "h": 1553
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 210,
+        "w": 501,
+        "h": 1553
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-023.png": {
+      "frame": {
+        "x": 2918,
+        "y": 1562,
+        "w": 500,
+        "h": 1551
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 212,
+        "w": 500,
+        "h": 1551
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-024.png": {
+      "frame": {
+        "x": 3420,
+        "y": 1562,
+        "w": 559,
+        "h": 1549
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 269,
+        "y": 213,
+        "w": 559,
+        "h": 1549
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-025.png": {
+      "frame": {
+        "x": 3981,
+        "y": 1562,
+        "w": 559,
+        "h": 1549
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 269,
+        "y": 213,
+        "w": 559,
+        "h": 1549
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-026.png": {
+      "frame": {
+        "x": 4542,
+        "y": 1562,
+        "w": 630,
+        "h": 1549
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 213,
+        "w": 630,
+        "h": 1549
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-027.png": {
+      "frame": {
+        "x": 5174,
+        "y": 1562,
+        "w": 769,
+        "h": 1538
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 225,
+        "w": 769,
+        "h": 1538
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-028.png": {
+      "frame": {
+        "x": 5945,
+        "y": 1562,
+        "w": 769,
+        "h": 1538
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 225,
+        "w": 769,
+        "h": 1538
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-029.png": {
+      "frame": {
+        "x": 6716,
+        "y": 1562,
+        "w": 835,
+        "h": 1525
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 238,
+        "w": 835,
+        "h": 1525
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-030.png": {
+      "frame": {
+        "x": 2,
+        "y": 3122,
+        "w": 950,
+        "h": 1489
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 273,
+        "w": 950,
+        "h": 1489
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-031.png": {
+      "frame": {
+        "x": 954,
+        "y": 3122,
+        "w": 950,
+        "h": 1489
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 273,
+        "w": 950,
+        "h": 1489
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-032.png": {
+      "frame": {
+        "x": 1906,
+        "y": 3122,
+        "w": 994,
+        "h": 1473
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 288,
+        "w": 994,
+        "h": 1473
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-033.png": {
+      "frame": {
+        "x": 2902,
+        "y": 3122,
+        "w": 979,
+        "h": 1458
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 294,
+        "w": 979,
+        "h": 1458
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-034.png": {
+      "frame": {
+        "x": 3883,
+        "y": 3122,
+        "w": 979,
+        "h": 1458
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 294,
+        "w": 979,
+        "h": 1458
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-035.png": {
+      "frame": {
+        "x": 4864,
+        "y": 3122,
+        "w": 893,
+        "h": 1436
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 129,
+        "y": 294,
+        "w": 893,
+        "h": 1436
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-036.png": {
+      "frame": {
+        "x": 5759,
+        "y": 3122,
+        "w": 634,
+        "h": 1431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 219,
+        "y": 294,
+        "w": 634,
+        "h": 1431
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-037.png": {
+      "frame": {
+        "x": 6395,
+        "y": 3122,
+        "w": 634,
+        "h": 1431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 219,
+        "y": 294,
+        "w": 634,
+        "h": 1431
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-038.png": {
+      "frame": {
+        "x": 7031,
+        "y": 3122,
+        "w": 638,
+        "h": 1443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 281,
+        "w": 638,
+        "h": 1443
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-039.png": {
+      "frame": {
+        "x": 2,
+        "y": 4613,
+        "w": 813,
+        "h": 1482
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 155,
+        "y": 239,
+        "w": 813,
+        "h": 1482
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-040.png": {
+      "frame": {
+        "x": 817,
+        "y": 4613,
+        "w": 813,
+        "h": 1482
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 155,
+        "y": 239,
+        "w": 813,
+        "h": 1482
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-041.png": {
+      "frame": {
+        "x": 1632,
+        "y": 4613,
+        "w": 894,
+        "h": 1501
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 147,
+        "y": 226,
+        "w": 894,
+        "h": 1501
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-042.png": {
+      "frame": {
+        "x": 2528,
+        "y": 4613,
+        "w": 775,
+        "h": 1506
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 255,
+        "w": 775,
+        "h": 1506
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-043.png": {
+      "frame": {
+        "x": 3305,
+        "y": 4613,
+        "w": 775,
+        "h": 1506
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 255,
+        "w": 775,
+        "h": 1506
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-044.png": {
+      "frame": {
+        "x": 4082,
+        "y": 4613,
+        "w": 675,
+        "h": 1486
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 276,
+        "w": 675,
+        "h": 1486
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-045.png": {
+      "frame": {
+        "x": 4759,
+        "y": 4613,
+        "w": 797,
+        "h": 1495
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 263,
+        "w": 797,
+        "h": 1495
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-046.png": {
+      "frame": {
+        "x": 5558,
+        "y": 4613,
+        "w": 797,
+        "h": 1495
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 263,
+        "w": 797,
+        "h": 1495
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_run-047.png": {
+      "frame": {
+        "x": 6357,
+        "y": 4613,
+        "w": 916,
+        "h": 1513
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 243,
+        "w": 916,
+        "h": 1513
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustengineer_run": [
+      "rustengineer_run-000.png",
+      "rustengineer_run-001.png",
+      "rustengineer_run-002.png",
+      "rustengineer_run-003.png",
+      "rustengineer_run-004.png",
+      "rustengineer_run-005.png",
+      "rustengineer_run-006.png",
+      "rustengineer_run-007.png",
+      "rustengineer_run-008.png",
+      "rustengineer_run-009.png",
+      "rustengineer_run-010.png",
+      "rustengineer_run-011.png",
+      "rustengineer_run-012.png",
+      "rustengineer_run-013.png",
+      "rustengineer_run-014.png",
+      "rustengineer_run-015.png",
+      "rustengineer_run-016.png",
+      "rustengineer_run-017.png",
+      "rustengineer_run-018.png",
+      "rustengineer_run-019.png",
+      "rustengineer_run-020.png",
+      "rustengineer_run-021.png",
+      "rustengineer_run-022.png",
+      "rustengineer_run-023.png",
+      "rustengineer_run-024.png",
+      "rustengineer_run-025.png",
+      "rustengineer_run-026.png",
+      "rustengineer_run-027.png",
+      "rustengineer_run-028.png",
+      "rustengineer_run-029.png",
+      "rustengineer_run-030.png",
+      "rustengineer_run-031.png",
+      "rustengineer_run-032.png",
+      "rustengineer_run-033.png",
+      "rustengineer_run-034.png",
+      "rustengineer_run-035.png",
+      "rustengineer_run-036.png",
+      "rustengineer_run-037.png",
+      "rustengineer_run-038.png",
+      "rustengineer_run-039.png",
+      "rustengineer_run-040.png",
+      "rustengineer_run-041.png",
+      "rustengineer_run-042.png",
+      "rustengineer_run-043.png",
+      "rustengineer_run-044.png",
+      "rustengineer_run-045.png",
+      "rustengineer_run-046.png",
+      "rustengineer_run-047.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "rustengineer_run.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 7735,
+      "h": 6128
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

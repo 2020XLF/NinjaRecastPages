@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_backstep-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-001.png": {
+      "frame": {
+        "x": 551,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-002.png": {
+      "frame": {
+        "x": 1100,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-003.png": {
+      "frame": {
+        "x": 1649,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-004.png": {
+      "frame": {
+        "x": 2198,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-005.png": {
+      "frame": {
+        "x": 2747,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-006.png": {
+      "frame": {
+        "x": 3296,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-007.png": {
+      "frame": {
+        "x": 3845,
+        "y": 2,
+        "w": 547,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 554,
+        "y": 43,
+        "w": 547,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-008.png": {
+      "frame": {
+        "x": 4394,
+        "y": 2,
+        "w": 544,
+        "h": 1199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 557,
+        "y": 43,
+        "w": 544,
+        "h": 1199
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-009.png": {
+      "frame": {
+        "x": 4940,
+        "y": 2,
+        "w": 503,
+        "h": 1193
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 609,
+        "y": 45,
+        "w": 503,
+        "h": 1193
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-010.png": {
+      "frame": {
+        "x": 5445,
+        "y": 2,
+        "w": 503,
+        "h": 1193
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 609,
+        "y": 45,
+        "w": 503,
+        "h": 1193
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-011.png": {
+      "frame": {
+        "x": 5950,
+        "y": 2,
+        "w": 523,
+        "h": 1182
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 639,
+        "y": 49,
+        "w": 523,
+        "h": 1182
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-012.png": {
+      "frame": {
+        "x": 6475,
+        "y": 2,
+        "w": 571,
+        "h": 1133
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 631,
+        "y": 75,
+        "w": 571,
+        "h": 1133
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-013.png": {
+      "frame": {
+        "x": 7048,
+        "y": 2,
+        "w": 571,
+        "h": 1133
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 631,
+        "y": 75,
+        "w": 571,
+        "h": 1133
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-014.png": {
+      "frame": {
+        "x": 2,
+        "y": 1203,
+        "w": 639,
+        "h": 1099
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 533,
+        "y": 96,
+        "w": 639,
+        "h": 1099
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-015.png": {
+      "frame": {
+        "x": 643,
+        "y": 1203,
+        "w": 711,
+        "h": 1092
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 391,
+        "y": 127,
+        "w": 711,
+        "h": 1092
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-016.png": {
+      "frame": {
+        "x": 1356,
+        "y": 1203,
+        "w": 711,
+        "h": 1092
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 391,
+        "y": 127,
+        "w": 711,
+        "h": 1092
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-017.png": {
+      "frame": {
+        "x": 2069,
+        "y": 1203,
+        "w": 732,
+        "h": 1106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 370,
+        "y": 131,
+        "w": 732,
+        "h": 1106
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-018.png": {
+      "frame": {
+        "x": 2803,
+        "y": 1203,
+        "w": 747,
+        "h": 1122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 126,
+        "w": 747,
+        "h": 1122
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-019.png": {
+      "frame": {
+        "x": 3552,
+        "y": 1203,
+        "w": 747,
+        "h": 1122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 126,
+        "w": 747,
+        "h": 1122
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-020.png": {
+      "frame": {
+        "x": 4301,
+        "y": 1203,
+        "w": 753,
+        "h": 1125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 123,
+        "w": 753,
+        "h": 1125
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-021.png": {
+      "frame": {
+        "x": 5056,
+        "y": 1203,
+        "w": 761,
+        "h": 1128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 118,
+        "w": 761,
+        "h": 1128
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-022.png": {
+      "frame": {
+        "x": 5819,
+        "y": 1203,
+        "w": 761,
+        "h": 1128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 118,
+        "w": 761,
+        "h": 1128
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-023.png": {
+      "frame": {
+        "x": 6582,
+        "y": 1203,
+        "w": 763,
+        "h": 1131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 117,
+        "w": 763,
+        "h": 1131
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-024.png": {
+      "frame": {
+        "x": 7347,
+        "y": 1203,
+        "w": 823,
+        "h": 1132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 116,
+        "w": 823,
+        "h": 1132
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-025.png": {
+      "frame": {
+        "x": 2,
+        "y": 2337,
+        "w": 823,
+        "h": 1132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 116,
+        "w": 823,
+        "h": 1132
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-026.png": {
+      "frame": {
+        "x": 827,
+        "y": 2337,
+        "w": 770,
+        "h": 1130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 332,
+        "y": 116,
+        "w": 770,
+        "h": 1130
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-027.png": {
+      "frame": {
+        "x": 1599,
+        "y": 2337,
+        "w": 771,
+        "h": 1130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 331,
+        "y": 116,
+        "w": 771,
+        "h": 1130
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-028.png": {
+      "frame": {
+        "x": 2372,
+        "y": 2337,
+        "w": 771,
+        "h": 1130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 331,
+        "y": 116,
+        "w": 771,
+        "h": 1130
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-029.png": {
+      "frame": {
+        "x": 3145,
+        "y": 2337,
+        "w": 731,
+        "h": 1075
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 116,
+        "w": 731,
+        "h": 1075
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-030.png": {
+      "frame": {
+        "x": 3878,
+        "y": 2337,
+        "w": 729,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 116,
+        "w": 729,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-031.png": {
+      "frame": {
+        "x": 4609,
+        "y": 2337,
+        "w": 729,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 116,
+        "w": 729,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-032.png": {
+      "frame": {
+        "x": 5340,
+        "y": 2337,
+        "w": 729,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 116,
+        "w": 729,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-033.png": {
+      "frame": {
+        "x": 6071,
+        "y": 2337,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-034.png": {
+      "frame": {
+        "x": 6800,
+        "y": 2337,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 3471,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-036.png": {
+      "frame": {
+        "x": 731,
+        "y": 3471,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-037.png": {
+      "frame": {
+        "x": 1460,
+        "y": 3471,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-038.png": {
+      "frame": {
+        "x": 2189,
+        "y": 3471,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-039.png": {
+      "frame": {
+        "x": 2918,
+        "y": 3471,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-040.png": {
+      "frame": {
+        "x": 3647,
+        "y": 3471,
+        "w": 727,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 727,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-041.png": {
+      "frame": {
+        "x": 4376,
+        "y": 3471,
+        "w": 728,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 728,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-042.png": {
+      "frame": {
+        "x": 5106,
+        "y": 3471,
+        "w": 727,
+        "h": 1073
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 117,
+        "w": 727,
+        "h": 1073
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-043.png": {
+      "frame": {
+        "x": 5835,
+        "y": 3471,
+        "w": 727,
+        "h": 1073
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 117,
+        "w": 727,
+        "h": 1073
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-044.png": {
+      "frame": {
+        "x": 6564,
+        "y": 3471,
+        "w": 727,
+        "h": 1073
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 117,
+        "w": 727,
+        "h": 1073
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-045.png": {
+      "frame": {
+        "x": 7293,
+        "y": 3471,
+        "w": 727,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 118,
+        "w": 727,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 4547,
+        "w": 727,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 118,
+        "w": 727,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-047.png": {
+      "frame": {
+        "x": 731,
+        "y": 4547,
+        "w": 728,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 118,
+        "w": 728,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-048.png": {
+      "frame": {
+        "x": 1461,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-049.png": {
+      "frame": {
+        "x": 2191,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-050.png": {
+      "frame": {
+        "x": 2921,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-051.png": {
+      "frame": {
+        "x": 3651,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-052.png": {
+      "frame": {
+        "x": 4381,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-053.png": {
+      "frame": {
+        "x": 5111,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-054.png": {
+      "frame": {
+        "x": 5841,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-055.png": {
+      "frame": {
+        "x": 6571,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-056.png": {
+      "frame": {
+        "x": 7301,
+        "y": 4547,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 5621,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-058.png": {
+      "frame": {
+        "x": 732,
+        "y": 5621,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-059.png": {
+      "frame": {
+        "x": 1462,
+        "y": 5621,
+        "w": 728,
+        "h": 1071
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 119,
+        "w": 728,
+        "h": 1071
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-060.png": {
+      "frame": {
+        "x": 2192,
+        "y": 5621,
+        "w": 728,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 118,
+        "w": 728,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-061.png": {
+      "frame": {
+        "x": 2922,
+        "y": 5621,
+        "w": 728,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 118,
+        "w": 728,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-062.png": {
+      "frame": {
+        "x": 3652,
+        "y": 5621,
+        "w": 728,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 118,
+        "w": 728,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-063.png": {
+      "frame": {
+        "x": 4382,
+        "y": 5621,
+        "w": 728,
+        "h": 1073
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 117,
+        "w": 728,
+        "h": 1073
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-064.png": {
+      "frame": {
+        "x": 5112,
+        "y": 5621,
+        "w": 728,
+        "h": 1073
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 117,
+        "w": 728,
+        "h": 1073
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-065.png": {
+      "frame": {
+        "x": 5842,
+        "y": 5621,
+        "w": 728,
+        "h": 1073
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 117,
+        "w": 728,
+        "h": 1073
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-066.png": {
+      "frame": {
+        "x": 6572,
+        "y": 5621,
+        "w": 728,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 728,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-067.png": {
+      "frame": {
+        "x": 7302,
+        "y": 5621,
+        "w": 728,
+        "h": 1074
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 116,
+        "w": 728,
+        "h": 1074
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-068.png": {
+      "frame": {
+        "x": 2,
+        "y": 6697,
+        "w": 727,
+        "h": 1072
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 374,
+        "y": 118,
+        "w": 727,
+        "h": 1072
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-069.png": {
+      "frame": {
+        "x": 731,
+        "y": 6697,
+        "w": 717,
+        "h": 1062
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 384,
+        "y": 128,
+        "w": 717,
+        "h": 1062
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-070.png": {
+      "frame": {
+        "x": 1450,
+        "y": 6697,
+        "w": 717,
+        "h": 1062
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 384,
+        "y": 128,
+        "w": 717,
+        "h": 1062
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-071.png": {
+      "frame": {
+        "x": 2169,
+        "y": 6697,
+        "w": 706,
+        "h": 1054
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 395,
+        "y": 136,
+        "w": 706,
+        "h": 1054
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-072.png": {
+      "frame": {
+        "x": 2877,
+        "y": 6697,
+        "w": 679,
+        "h": 1057
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 422,
+        "y": 134,
+        "w": 679,
+        "h": 1057
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-073.png": {
+      "frame": {
+        "x": 3558,
+        "y": 6697,
+        "w": 679,
+        "h": 1057
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 422,
+        "y": 134,
+        "w": 679,
+        "h": 1057
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-074.png": {
+      "frame": {
+        "x": 4239,
+        "y": 6697,
+        "w": 672,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 429,
+        "y": 113,
+        "w": 672,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-075.png": {
+      "frame": {
+        "x": 4913,
+        "y": 6697,
+        "w": 590,
+        "h": 1143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 512,
+        "y": 64,
+        "w": 590,
+        "h": 1143
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-076.png": {
+      "frame": {
+        "x": 5505,
+        "y": 6697,
+        "w": 590,
+        "h": 1143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 512,
+        "y": 64,
+        "w": 590,
+        "h": 1143
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-077.png": {
+      "frame": {
+        "x": 6097,
+        "y": 6697,
+        "w": 552,
+        "h": 1164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 553,
+        "y": 55,
+        "w": 552,
+        "h": 1164
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-078.png": {
+      "frame": {
+        "x": 6651,
+        "y": 6697,
+        "w": 541,
+        "h": 1198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 560,
+        "y": 45,
+        "w": 541,
+        "h": 1198
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_backstep-079.png": {
+      "frame": {
+        "x": 7194,
+        "y": 6697,
+        "w": 541,
+        "h": 1198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 560,
+        "y": 45,
+        "w": 541,
+        "h": 1198
+      },
+      "sourceSize": {
+        "w": 1664,
+        "h": 1248
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_backstep": [
+      "player1_backstep-000.png",
+      "player1_backstep-001.png",
+      "player1_backstep-002.png",
+      "player1_backstep-003.png",
+      "player1_backstep-004.png",
+      "player1_backstep-005.png",
+      "player1_backstep-006.png",
+      "player1_backstep-007.png",
+      "player1_backstep-008.png",
+      "player1_backstep-009.png",
+      "player1_backstep-010.png",
+      "player1_backstep-011.png",
+      "player1_backstep-012.png",
+      "player1_backstep-013.png",
+      "player1_backstep-014.png",
+      "player1_backstep-015.png",
+      "player1_backstep-016.png",
+      "player1_backstep-017.png",
+      "player1_backstep-018.png",
+      "player1_backstep-019.png",
+      "player1_backstep-020.png",
+      "player1_backstep-021.png",
+      "player1_backstep-022.png",
+      "player1_backstep-023.png",
+      "player1_backstep-024.png",
+      "player1_backstep-025.png",
+      "player1_backstep-026.png",
+      "player1_backstep-027.png",
+      "player1_backstep-028.png",
+      "player1_backstep-029.png",
+      "player1_backstep-030.png",
+      "player1_backstep-031.png",
+      "player1_backstep-032.png",
+      "player1_backstep-033.png",
+      "player1_backstep-034.png",
+      "player1_backstep-035.png",
+      "player1_backstep-036.png",
+      "player1_backstep-037.png",
+      "player1_backstep-038.png",
+      "player1_backstep-039.png",
+      "player1_backstep-040.png",
+      "player1_backstep-041.png",
+      "player1_backstep-042.png",
+      "player1_backstep-043.png",
+      "player1_backstep-044.png",
+      "player1_backstep-045.png",
+      "player1_backstep-046.png",
+      "player1_backstep-047.png",
+      "player1_backstep-048.png",
+      "player1_backstep-049.png",
+      "player1_backstep-050.png",
+      "player1_backstep-051.png",
+      "player1_backstep-052.png",
+      "player1_backstep-053.png",
+      "player1_backstep-054.png",
+      "player1_backstep-055.png",
+      "player1_backstep-056.png",
+      "player1_backstep-057.png",
+      "player1_backstep-058.png",
+      "player1_backstep-059.png",
+      "player1_backstep-060.png",
+      "player1_backstep-061.png",
+      "player1_backstep-062.png",
+      "player1_backstep-063.png",
+      "player1_backstep-064.png",
+      "player1_backstep-065.png",
+      "player1_backstep-066.png",
+      "player1_backstep-067.png",
+      "player1_backstep-068.png",
+      "player1_backstep-069.png",
+      "player1_backstep-070.png",
+      "player1_backstep-071.png",
+      "player1_backstep-072.png",
+      "player1_backstep-073.png",
+      "player1_backstep-074.png",
+      "player1_backstep-075.png",
+      "player1_backstep-076.png",
+      "player1_backstep-077.png",
+      "player1_backstep-078.png",
+      "player1_backstep-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "player1_backstep.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8172,
+      "h": 7897
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1664,
+      "h": 1248
+    }
+  }
+}

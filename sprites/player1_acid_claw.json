@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_acid_claw-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-002.png": {
+      "frame": {
+        "x": 679,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-003.png": {
+      "frame": {
+        "x": 1018,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-004.png": {
+      "frame": {
+        "x": 1357,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-005.png": {
+      "frame": {
+        "x": 1696,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-006.png": {
+      "frame": {
+        "x": 2034,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-007.png": {
+      "frame": {
+        "x": 2372,
+        "y": 2,
+        "w": 334,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 28,
+        "w": 334,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-008.png": {
+      "frame": {
+        "x": 2708,
+        "y": 2,
+        "w": 330,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 28,
+        "w": 330,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-009.png": {
+      "frame": {
+        "x": 3040,
+        "y": 2,
+        "w": 325,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 29,
+        "w": 325,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-010.png": {
+      "frame": {
+        "x": 3367,
+        "y": 2,
+        "w": 325,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 29,
+        "w": 325,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-011.png": {
+      "frame": {
+        "x": 3694,
+        "y": 2,
+        "w": 332,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 31,
+        "w": 332,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 339,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 32,
+        "w": 339,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-013.png": {
+      "frame": {
+        "x": 343,
+        "y": 740,
+        "w": 345,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 34,
+        "w": 345,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-014.png": {
+      "frame": {
+        "x": 690,
+        "y": 740,
+        "w": 352,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 36,
+        "w": 352,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-015.png": {
+      "frame": {
+        "x": 1044,
+        "y": 740,
+        "w": 359,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 336,
+        "y": 40,
+        "w": 359,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-016.png": {
+      "frame": {
+        "x": 1405,
+        "y": 740,
+        "w": 375,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 49,
+        "w": 375,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-017.png": {
+      "frame": {
+        "x": 1782,
+        "y": 740,
+        "w": 377,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 54,
+        "w": 377,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-018.png": {
+      "frame": {
+        "x": 2161,
+        "y": 740,
+        "w": 380,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 327,
+        "y": 57,
+        "w": 380,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-019.png": {
+      "frame": {
+        "x": 2543,
+        "y": 740,
+        "w": 387,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 58,
+        "w": 387,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-020.png": {
+      "frame": {
+        "x": 2932,
+        "y": 740,
+        "w": 394,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 57,
+        "w": 394,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-021.png": {
+      "frame": {
+        "x": 3328,
+        "y": 740,
+        "w": 394,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 311,
+        "y": 56,
+        "w": 394,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-022.png": {
+      "frame": {
+        "x": 2,
+        "y": 1474,
+        "w": 392,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 55,
+        "w": 392,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-023.png": {
+      "frame": {
+        "x": 396,
+        "y": 1474,
+        "w": 389,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 53,
+        "w": 389,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-024.png": {
+      "frame": {
+        "x": 787,
+        "y": 1474,
+        "w": 408,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 53,
+        "w": 408,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-025.png": {
+      "frame": {
+        "x": 1197,
+        "y": 1474,
+        "w": 482,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 281,
+        "y": 51,
+        "w": 482,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-026.png": {
+      "frame": {
+        "x": 1681,
+        "y": 1474,
+        "w": 484,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 51,
+        "w": 484,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-027.png": {
+      "frame": {
+        "x": 2167,
+        "y": 1474,
+        "w": 483,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 281,
+        "y": 51,
+        "w": 483,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-028.png": {
+      "frame": {
+        "x": 2652,
+        "y": 1474,
+        "w": 483,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 282,
+        "y": 51,
+        "w": 483,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-029.png": {
+      "frame": {
+        "x": 3137,
+        "y": 1474,
+        "w": 481,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 285,
+        "y": 51,
+        "w": 481,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-030.png": {
+      "frame": {
+        "x": 2,
+        "y": 2189,
+        "w": 477,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 51,
+        "w": 477,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-031.png": {
+      "frame": {
+        "x": 481,
+        "y": 2189,
+        "w": 478,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 51,
+        "w": 478,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-032.png": {
+      "frame": {
+        "x": 961,
+        "y": 2189,
+        "w": 478,
+        "h": 713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 51,
+        "w": 478,
+        "h": 713
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-033.png": {
+      "frame": {
+        "x": 1441,
+        "y": 2189,
+        "w": 479,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 52,
+        "w": 479,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-034.png": {
+      "frame": {
+        "x": 1922,
+        "y": 2189,
+        "w": 499,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 297,
+        "y": 55,
+        "w": 499,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-035.png": {
+      "frame": {
+        "x": 2423,
+        "y": 2189,
+        "w": 523,
+        "h": 705
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 59,
+        "w": 523,
+        "h": 705
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-036.png": {
+      "frame": {
+        "x": 2948,
+        "y": 2189,
+        "w": 539,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 288,
+        "y": 62,
+        "w": 539,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-037.png": {
+      "frame": {
+        "x": 3489,
+        "y": 2189,
+        "w": 546,
+        "h": 699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 286,
+        "y": 65,
+        "w": 546,
+        "h": 699
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-038.png": {
+      "frame": {
+        "x": 2,
+        "y": 2904,
+        "w": 546,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 67,
+        "w": 546,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-039.png": {
+      "frame": {
+        "x": 550,
+        "y": 2904,
+        "w": 546,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 69,
+        "w": 546,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-040.png": {
+      "frame": {
+        "x": 1098,
+        "y": 2904,
+        "w": 550,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 294,
+        "y": 67,
+        "w": 550,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-041.png": {
+      "frame": {
+        "x": 1650,
+        "y": 2904,
+        "w": 580,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 290,
+        "y": 62,
+        "w": 580,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-042.png": {
+      "frame": {
+        "x": 2232,
+        "y": 2904,
+        "w": 549,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 57,
+        "w": 549,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-043.png": {
+      "frame": {
+        "x": 2783,
+        "y": 2904,
+        "w": 683,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 683,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-044.png": {
+      "frame": {
+        "x": 2,
+        "y": 3612,
+        "w": 683,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 63,
+        "w": 683,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-045.png": {
+      "frame": {
+        "x": 687,
+        "y": 3612,
+        "w": 683,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 63,
+        "w": 683,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-046.png": {
+      "frame": {
+        "x": 1372,
+        "y": 3612,
+        "w": 683,
+        "h": 701
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 62,
+        "w": 683,
+        "h": 701
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-047.png": {
+      "frame": {
+        "x": 2057,
+        "y": 3612,
+        "w": 683,
+        "h": 701
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 62,
+        "w": 683,
+        "h": 701
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-048.png": {
+      "frame": {
+        "x": 2742,
+        "y": 3612,
+        "w": 683,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 60,
+        "w": 683,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 4317,
+        "w": 683,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 683,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-050.png": {
+      "frame": {
+        "x": 687,
+        "y": 4317,
+        "w": 683,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 683,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-051.png": {
+      "frame": {
+        "x": 1372,
+        "y": 4317,
+        "w": 683,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 683,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-052.png": {
+      "frame": {
+        "x": 2057,
+        "y": 4317,
+        "w": 674,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 674,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-053.png": {
+      "frame": {
+        "x": 2733,
+        "y": 4317,
+        "w": 558,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 558,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-054.png": {
+      "frame": {
+        "x": 3293,
+        "y": 4317,
+        "w": 448,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 448,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-055.png": {
+      "frame": {
+        "x": 2,
+        "y": 5021,
+        "w": 433,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 61,
+        "w": 433,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-056.png": {
+      "frame": {
+        "x": 437,
+        "y": 5021,
+        "w": 428,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 61,
+        "w": 428,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-057.png": {
+      "frame": {
+        "x": 867,
+        "y": 5021,
+        "w": 410,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 61,
+        "w": 410,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-058.png": {
+      "frame": {
+        "x": 1279,
+        "y": 5021,
+        "w": 394,
+        "h": 703
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 60,
+        "w": 394,
+        "h": 703
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-059.png": {
+      "frame": {
+        "x": 1675,
+        "y": 5021,
+        "w": 374,
+        "h": 705
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 58,
+        "w": 374,
+        "h": 705
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-060.png": {
+      "frame": {
+        "x": 2051,
+        "y": 5021,
+        "w": 350,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 57,
+        "w": 350,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-061.png": {
+      "frame": {
+        "x": 2403,
+        "y": 5021,
+        "w": 338,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 56,
+        "w": 338,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-062.png": {
+      "frame": {
+        "x": 2743,
+        "y": 5021,
+        "w": 346,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 49,
+        "w": 346,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-063.png": {
+      "frame": {
+        "x": 3091,
+        "y": 5021,
+        "w": 347,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 45,
+        "w": 347,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-064.png": {
+      "frame": {
+        "x": 3440,
+        "y": 5021,
+        "w": 344,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 40,
+        "w": 344,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-065.png": {
+      "frame": {
+        "x": 2,
+        "y": 5747,
+        "w": 340,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 37,
+        "w": 340,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-066.png": {
+      "frame": {
+        "x": 344,
+        "y": 5747,
+        "w": 354,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 31,
+        "w": 354,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-067.png": {
+      "frame": {
+        "x": 700,
+        "y": 5747,
+        "w": 353,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 29,
+        "w": 353,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-068.png": {
+      "frame": {
+        "x": 1055,
+        "y": 5747,
+        "w": 347,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 27,
+        "w": 347,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-069.png": {
+      "frame": {
+        "x": 1404,
+        "y": 5747,
+        "w": 339,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 27,
+        "w": 339,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-070.png": {
+      "frame": {
+        "x": 1745,
+        "y": 5747,
+        "w": 334,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 26,
+        "w": 334,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-071.png": {
+      "frame": {
+        "x": 2081,
+        "y": 5747,
+        "w": 338,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 27,
+        "w": 338,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-072.png": {
+      "frame": {
+        "x": 2421,
+        "y": 5747,
+        "w": 340,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 26,
+        "w": 340,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-073.png": {
+      "frame": {
+        "x": 2763,
+        "y": 5747,
+        "w": 340,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 27,
+        "w": 340,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-074.png": {
+      "frame": {
+        "x": 3105,
+        "y": 5747,
+        "w": 339,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 27,
+        "w": 339,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-075.png": {
+      "frame": {
+        "x": 3446,
+        "y": 5747,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-076.png": {
+      "frame": {
+        "x": 2,
+        "y": 6487,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-077.png": {
+      "frame": {
+        "x": 340,
+        "y": 6487,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-078.png": {
+      "frame": {
+        "x": 678,
+        "y": 6487,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_claw-079.png": {
+      "frame": {
+        "x": 1016,
+        "y": 6487,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_acid_claw": [
+      "player1_acid_claw-000.png",
+      "player1_acid_claw-001.png",
+      "player1_acid_claw-002.png",
+      "player1_acid_claw-003.png",
+      "player1_acid_claw-004.png",
+      "player1_acid_claw-005.png",
+      "player1_acid_claw-006.png",
+      "player1_acid_claw-007.png",
+      "player1_acid_claw-008.png",
+      "player1_acid_claw-009.png",
+      "player1_acid_claw-010.png",
+      "player1_acid_claw-011.png",
+      "player1_acid_claw-012.png",
+      "player1_acid_claw-013.png",
+      "player1_acid_claw-014.png",
+      "player1_acid_claw-015.png",
+      "player1_acid_claw-016.png",
+      "player1_acid_claw-017.png",
+      "player1_acid_claw-018.png",
+      "player1_acid_claw-019.png",
+      "player1_acid_claw-020.png",
+      "player1_acid_claw-021.png",
+      "player1_acid_claw-022.png",
+      "player1_acid_claw-023.png",
+      "player1_acid_claw-024.png",
+      "player1_acid_claw-025.png",
+      "player1_acid_claw-026.png",
+      "player1_acid_claw-027.png",
+      "player1_acid_claw-028.png",
+      "player1_acid_claw-029.png",
+      "player1_acid_claw-030.png",
+      "player1_acid_claw-031.png",
+      "player1_acid_claw-032.png",
+      "player1_acid_claw-033.png",
+      "player1_acid_claw-034.png",
+      "player1_acid_claw-035.png",
+      "player1_acid_claw-036.png",
+      "player1_acid_claw-037.png",
+      "player1_acid_claw-038.png",
+      "player1_acid_claw-039.png",
+      "player1_acid_claw-040.png",
+      "player1_acid_claw-041.png",
+      "player1_acid_claw-042.png",
+      "player1_acid_claw-043.png",
+      "player1_acid_claw-044.png",
+      "player1_acid_claw-045.png",
+      "player1_acid_claw-046.png",
+      "player1_acid_claw-047.png",
+      "player1_acid_claw-048.png",
+      "player1_acid_claw-049.png",
+      "player1_acid_claw-050.png",
+      "player1_acid_claw-051.png",
+      "player1_acid_claw-052.png",
+      "player1_acid_claw-053.png",
+      "player1_acid_claw-054.png",
+      "player1_acid_claw-055.png",
+      "player1_acid_claw-056.png",
+      "player1_acid_claw-057.png",
+      "player1_acid_claw-058.png",
+      "player1_acid_claw-059.png",
+      "player1_acid_claw-060.png",
+      "player1_acid_claw-061.png",
+      "player1_acid_claw-062.png",
+      "player1_acid_claw-063.png",
+      "player1_acid_claw-064.png",
+      "player1_acid_claw-065.png",
+      "player1_acid_claw-066.png",
+      "player1_acid_claw-067.png",
+      "player1_acid_claw-068.png",
+      "player1_acid_claw-069.png",
+      "player1_acid_claw-070.png",
+      "player1_acid_claw-071.png",
+      "player1_acid_claw-072.png",
+      "player1_acid_claw-073.png",
+      "player1_acid_claw-074.png",
+      "player1_acid_claw-075.png",
+      "player1_acid_claw-076.png",
+      "player1_acid_claw-077.png",
+      "player1_acid_claw-078.png",
+      "player1_acid_claw-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_acid_claw.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4037,
+      "h": 7225
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

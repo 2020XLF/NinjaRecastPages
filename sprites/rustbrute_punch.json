@@ -1,0 +1,1348 @@
+{
+  "frames": {
+    "rustbrute_punch-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 872,
+        "h": 1804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 87,
+        "w": 872,
+        "h": 1804
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-001.png": {
+      "frame": {
+        "x": 876,
+        "y": 2,
+        "w": 872,
+        "h": 1815
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 86,
+        "w": 872,
+        "h": 1815
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-002.png": {
+      "frame": {
+        "x": 1750,
+        "y": 2,
+        "w": 872,
+        "h": 1817
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 85,
+        "w": 872,
+        "h": 1817
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-003.png": {
+      "frame": {
+        "x": 2624,
+        "y": 2,
+        "w": 872,
+        "h": 1818
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 84,
+        "w": 872,
+        "h": 1818
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-004.png": {
+      "frame": {
+        "x": 3498,
+        "y": 2,
+        "w": 871,
+        "h": 1819
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 83,
+        "w": 871,
+        "h": 1819
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-005.png": {
+      "frame": {
+        "x": 4371,
+        "y": 2,
+        "w": 869,
+        "h": 1819
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 83,
+        "w": 869,
+        "h": 1819
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-006.png": {
+      "frame": {
+        "x": 5242,
+        "y": 2,
+        "w": 866,
+        "h": 1820
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 82,
+        "w": 866,
+        "h": 1820
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-007.png": {
+      "frame": {
+        "x": 6110,
+        "y": 2,
+        "w": 863,
+        "h": 1819
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 83,
+        "w": 863,
+        "h": 1819
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-008.png": {
+      "frame": {
+        "x": 6975,
+        "y": 2,
+        "w": 853,
+        "h": 1820
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 82,
+        "w": 853,
+        "h": 1820
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-009.png": {
+      "frame": {
+        "x": 2,
+        "y": 1824,
+        "w": 847,
+        "h": 1820
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 82,
+        "w": 847,
+        "h": 1820
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-010.png": {
+      "frame": {
+        "x": 851,
+        "y": 1824,
+        "w": 834,
+        "h": 1819
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 83,
+        "w": 834,
+        "h": 1819
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-011.png": {
+      "frame": {
+        "x": 1687,
+        "y": 1824,
+        "w": 828,
+        "h": 1818
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 84,
+        "w": 828,
+        "h": 1818
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-012.png": {
+      "frame": {
+        "x": 2517,
+        "y": 1824,
+        "w": 815,
+        "h": 1816
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 86,
+        "w": 815,
+        "h": 1816
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-013.png": {
+      "frame": {
+        "x": 3334,
+        "y": 1824,
+        "w": 811,
+        "h": 1815
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 145,
+        "y": 87,
+        "w": 811,
+        "h": 1815
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-014.png": {
+      "frame": {
+        "x": 4147,
+        "y": 1824,
+        "w": 817,
+        "h": 1812
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 90,
+        "w": 817,
+        "h": 1812
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-015.png": {
+      "frame": {
+        "x": 4966,
+        "y": 1824,
+        "w": 833,
+        "h": 1810
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 124,
+        "y": 92,
+        "w": 833,
+        "h": 1810
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-016.png": {
+      "frame": {
+        "x": 5801,
+        "y": 1824,
+        "w": 902,
+        "h": 1807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 95,
+        "w": 902,
+        "h": 1807
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-017.png": {
+      "frame": {
+        "x": 6705,
+        "y": 1824,
+        "w": 959,
+        "h": 1804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 98,
+        "w": 959,
+        "h": 1804
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-018.png": {
+      "frame": {
+        "x": 2,
+        "y": 3646,
+        "w": 1009,
+        "h": 1794
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 108,
+        "w": 1009,
+        "h": 1794
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-019.png": {
+      "frame": {
+        "x": 1013,
+        "y": 3646,
+        "w": 1025,
+        "h": 1787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 115,
+        "w": 1025,
+        "h": 1787
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-020.png": {
+      "frame": {
+        "x": 2040,
+        "y": 3646,
+        "w": 1068,
+        "h": 1764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 133,
+        "w": 1068,
+        "h": 1764
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-021.png": {
+      "frame": {
+        "x": 3110,
+        "y": 3646,
+        "w": 1080,
+        "h": 1751
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 144,
+        "w": 1080,
+        "h": 1751
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-022.png": {
+      "frame": {
+        "x": 4192,
+        "y": 3646,
+        "w": 1080,
+        "h": 1726
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 167,
+        "w": 1080,
+        "h": 1726
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-023.png": {
+      "frame": {
+        "x": 5274,
+        "y": 3646,
+        "w": 1080,
+        "h": 1717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 178,
+        "w": 1080,
+        "h": 1717
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-024.png": {
+      "frame": {
+        "x": 6356,
+        "y": 3646,
+        "w": 1080,
+        "h": 1699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 197,
+        "w": 1080,
+        "h": 1699
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-025.png": {
+      "frame": {
+        "x": 2,
+        "y": 5442,
+        "w": 1080,
+        "h": 1698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 198,
+        "w": 1080,
+        "h": 1698
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-026.png": {
+      "frame": {
+        "x": 1084,
+        "y": 5442,
+        "w": 1080,
+        "h": 1699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 197,
+        "w": 1080,
+        "h": 1699
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-027.png": {
+      "frame": {
+        "x": 2166,
+        "y": 5442,
+        "w": 1080,
+        "h": 1717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 179,
+        "w": 1080,
+        "h": 1717
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-028.png": {
+      "frame": {
+        "x": 3248,
+        "y": 5442,
+        "w": 1080,
+        "h": 1756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 139,
+        "w": 1080,
+        "h": 1756
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-029.png": {
+      "frame": {
+        "x": 4330,
+        "y": 5442,
+        "w": 1080,
+        "h": 1700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 195,
+        "w": 1080,
+        "h": 1700
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-030.png": {
+      "frame": {
+        "x": 5412,
+        "y": 5442,
+        "w": 1080,
+        "h": 1700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 195,
+        "w": 1080,
+        "h": 1700
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-031.png": {
+      "frame": {
+        "x": 6494,
+        "y": 5442,
+        "w": 1080,
+        "h": 1700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 195,
+        "w": 1080,
+        "h": 1700
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 7200,
+        "w": 1080,
+        "h": 1700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 195,
+        "w": 1080,
+        "h": 1700
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-033.png": {
+      "frame": {
+        "x": 1084,
+        "y": 7200,
+        "w": 1080,
+        "h": 1700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 195,
+        "w": 1080,
+        "h": 1700
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-034.png": {
+      "frame": {
+        "x": 2166,
+        "y": 7200,
+        "w": 1080,
+        "h": 1699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 196,
+        "w": 1080,
+        "h": 1699
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-035.png": {
+      "frame": {
+        "x": 3248,
+        "y": 7200,
+        "w": 1080,
+        "h": 1699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 196,
+        "w": 1080,
+        "h": 1699
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-036.png": {
+      "frame": {
+        "x": 4330,
+        "y": 7200,
+        "w": 1080,
+        "h": 1699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 196,
+        "w": 1080,
+        "h": 1699
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-037.png": {
+      "frame": {
+        "x": 5412,
+        "y": 7200,
+        "w": 1080,
+        "h": 1699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 196,
+        "w": 1080,
+        "h": 1699
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-038.png": {
+      "frame": {
+        "x": 6494,
+        "y": 7200,
+        "w": 1080,
+        "h": 1698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 197,
+        "w": 1080,
+        "h": 1698
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-039.png": {
+      "frame": {
+        "x": 2,
+        "y": 8902,
+        "w": 1080,
+        "h": 1696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 199,
+        "w": 1080,
+        "h": 1696
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-040.png": {
+      "frame": {
+        "x": 1084,
+        "y": 8902,
+        "w": 1080,
+        "h": 1688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 207,
+        "w": 1080,
+        "h": 1688
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-041.png": {
+      "frame": {
+        "x": 2166,
+        "y": 8902,
+        "w": 1080,
+        "h": 1686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 209,
+        "w": 1080,
+        "h": 1686
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-042.png": {
+      "frame": {
+        "x": 3248,
+        "y": 8902,
+        "w": 1080,
+        "h": 1688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 207,
+        "w": 1080,
+        "h": 1688
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-043.png": {
+      "frame": {
+        "x": 4330,
+        "y": 8902,
+        "w": 1080,
+        "h": 1693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 202,
+        "w": 1080,
+        "h": 1693
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-044.png": {
+      "frame": {
+        "x": 5412,
+        "y": 8902,
+        "w": 1075,
+        "h": 1713
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 183,
+        "w": 1075,
+        "h": 1713
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-045.png": {
+      "frame": {
+        "x": 6489,
+        "y": 8902,
+        "w": 1057,
+        "h": 1723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 172,
+        "w": 1057,
+        "h": 1723
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 10627,
+        "w": 1029,
+        "h": 1742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 148,
+        "w": 1029,
+        "h": 1742
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-047.png": {
+      "frame": {
+        "x": 1033,
+        "y": 10627,
+        "w": 1019,
+        "h": 1750
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 136,
+        "w": 1019,
+        "h": 1750
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-048.png": {
+      "frame": {
+        "x": 2054,
+        "y": 10627,
+        "w": 981,
+        "h": 1772
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 117,
+        "w": 981,
+        "h": 1772
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-049.png": {
+      "frame": {
+        "x": 3037,
+        "y": 10627,
+        "w": 953,
+        "h": 1786
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 109,
+        "w": 953,
+        "h": 1786
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-050.png": {
+      "frame": {
+        "x": 3992,
+        "y": 10627,
+        "w": 907,
+        "h": 1803
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 99,
+        "w": 907,
+        "h": 1803
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-051.png": {
+      "frame": {
+        "x": 4901,
+        "y": 10627,
+        "w": 890,
+        "h": 1806
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 96,
+        "w": 890,
+        "h": 1806
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustbrute_punch-052.png": {
+      "frame": {
+        "x": 5793,
+        "y": 10627,
+        "w": 867,
+        "h": 1810
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 92,
+        "w": 867,
+        "h": 1810
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustbrute_punch": [
+      "rustbrute_punch-000.png",
+      "rustbrute_punch-001.png",
+      "rustbrute_punch-002.png",
+      "rustbrute_punch-003.png",
+      "rustbrute_punch-004.png",
+      "rustbrute_punch-005.png",
+      "rustbrute_punch-006.png",
+      "rustbrute_punch-007.png",
+      "rustbrute_punch-008.png",
+      "rustbrute_punch-009.png",
+      "rustbrute_punch-010.png",
+      "rustbrute_punch-011.png",
+      "rustbrute_punch-012.png",
+      "rustbrute_punch-013.png",
+      "rustbrute_punch-014.png",
+      "rustbrute_punch-015.png",
+      "rustbrute_punch-016.png",
+      "rustbrute_punch-017.png",
+      "rustbrute_punch-018.png",
+      "rustbrute_punch-019.png",
+      "rustbrute_punch-020.png",
+      "rustbrute_punch-021.png",
+      "rustbrute_punch-022.png",
+      "rustbrute_punch-023.png",
+      "rustbrute_punch-024.png",
+      "rustbrute_punch-025.png",
+      "rustbrute_punch-026.png",
+      "rustbrute_punch-027.png",
+      "rustbrute_punch-028.png",
+      "rustbrute_punch-029.png",
+      "rustbrute_punch-030.png",
+      "rustbrute_punch-031.png",
+      "rustbrute_punch-032.png",
+      "rustbrute_punch-033.png",
+      "rustbrute_punch-034.png",
+      "rustbrute_punch-035.png",
+      "rustbrute_punch-036.png",
+      "rustbrute_punch-037.png",
+      "rustbrute_punch-038.png",
+      "rustbrute_punch-039.png",
+      "rustbrute_punch-040.png",
+      "rustbrute_punch-041.png",
+      "rustbrute_punch-042.png",
+      "rustbrute_punch-043.png",
+      "rustbrute_punch-044.png",
+      "rustbrute_punch-045.png",
+      "rustbrute_punch-046.png",
+      "rustbrute_punch-047.png",
+      "rustbrute_punch-048.png",
+      "rustbrute_punch-049.png",
+      "rustbrute_punch-050.png",
+      "rustbrute_punch-051.png",
+      "rustbrute_punch-052.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "rustbrute_punch.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 7830,
+      "h": 12439
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_sonic_scream-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-002.png": {
+      "frame": {
+        "x": 679,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-003.png": {
+      "frame": {
+        "x": 1017,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-004.png": {
+      "frame": {
+        "x": 1355,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-005.png": {
+      "frame": {
+        "x": 1694,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-006.png": {
+      "frame": {
+        "x": 2033,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-007.png": {
+      "frame": {
+        "x": 2372,
+        "y": 2,
+        "w": 332,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 26,
+        "w": 332,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-008.png": {
+      "frame": {
+        "x": 2706,
+        "y": 2,
+        "w": 331,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 26,
+        "w": 331,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-009.png": {
+      "frame": {
+        "x": 3039,
+        "y": 2,
+        "w": 337,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 24,
+        "w": 337,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-010.png": {
+      "frame": {
+        "x": 3378,
+        "y": 2,
+        "w": 350,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 24,
+        "w": 350,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 744,
+        "w": 375,
+        "h": 742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 22,
+        "w": 375,
+        "h": 742
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-012.png": {
+      "frame": {
+        "x": 379,
+        "y": 744,
+        "w": 382,
+        "h": 743
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 21,
+        "w": 382,
+        "h": 743
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-013.png": {
+      "frame": {
+        "x": 763,
+        "y": 744,
+        "w": 385,
+        "h": 743
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 21,
+        "w": 385,
+        "h": 743
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-014.png": {
+      "frame": {
+        "x": 1150,
+        "y": 744,
+        "w": 382,
+        "h": 743
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 21,
+        "w": 382,
+        "h": 743
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-015.png": {
+      "frame": {
+        "x": 1534,
+        "y": 744,
+        "w": 379,
+        "h": 744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 20,
+        "w": 379,
+        "h": 744
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-016.png": {
+      "frame": {
+        "x": 1915,
+        "y": 744,
+        "w": 368,
+        "h": 744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 20,
+        "w": 368,
+        "h": 744
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-017.png": {
+      "frame": {
+        "x": 2285,
+        "y": 744,
+        "w": 359,
+        "h": 744
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 20,
+        "w": 359,
+        "h": 744
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-018.png": {
+      "frame": {
+        "x": 2646,
+        "y": 744,
+        "w": 338,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 29,
+        "w": 338,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-019.png": {
+      "frame": {
+        "x": 2986,
+        "y": 744,
+        "w": 330,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 44,
+        "w": 330,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-020.png": {
+      "frame": {
+        "x": 3318,
+        "y": 744,
+        "w": 340,
+        "h": 704
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 60,
+        "w": 340,
+        "h": 704
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-021.png": {
+      "frame": {
+        "x": 3660,
+        "y": 744,
+        "w": 378,
+        "h": 664
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 100,
+        "w": 378,
+        "h": 664
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-022.png": {
+      "frame": {
+        "x": 2,
+        "y": 1490,
+        "w": 371,
+        "h": 652
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 112,
+        "w": 371,
+        "h": 652
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-023.png": {
+      "frame": {
+        "x": 375,
+        "y": 1490,
+        "w": 385,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 118,
+        "w": 385,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-024.png": {
+      "frame": {
+        "x": 762,
+        "y": 1490,
+        "w": 471,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 319,
+        "y": 101,
+        "w": 471,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-025.png": {
+      "frame": {
+        "x": 1235,
+        "y": 1490,
+        "w": 517,
+        "h": 676
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 88,
+        "w": 517,
+        "h": 676
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-026.png": {
+      "frame": {
+        "x": 1754,
+        "y": 1490,
+        "w": 557,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 74,
+        "w": 557,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-027.png": {
+      "frame": {
+        "x": 2313,
+        "y": 1490,
+        "w": 595,
+        "h": 699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 65,
+        "w": 595,
+        "h": 699
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-028.png": {
+      "frame": {
+        "x": 2910,
+        "y": 1490,
+        "w": 630,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 57,
+        "w": 630,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-029.png": {
+      "frame": {
+        "x": 2,
+        "y": 2199,
+        "w": 695,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 45,
+        "w": 695,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-030.png": {
+      "frame": {
+        "x": 699,
+        "y": 2199,
+        "w": 715,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 36,
+        "w": 715,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-031.png": {
+      "frame": {
+        "x": 1416,
+        "y": 2199,
+        "w": 715,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 32,
+        "w": 715,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-032.png": {
+      "frame": {
+        "x": 2133,
+        "y": 2199,
+        "w": 715,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 30,
+        "w": 715,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-033.png": {
+      "frame": {
+        "x": 2850,
+        "y": 2199,
+        "w": 715,
+        "h": 721
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 43,
+        "w": 715,
+        "h": 721
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-034.png": {
+      "frame": {
+        "x": 2,
+        "y": 2935,
+        "w": 715,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 40,
+        "w": 715,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-035.png": {
+      "frame": {
+        "x": 719,
+        "y": 2935,
+        "w": 715,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 40,
+        "w": 715,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-036.png": {
+      "frame": {
+        "x": 1436,
+        "y": 2935,
+        "w": 715,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 36,
+        "w": 715,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-037.png": {
+      "frame": {
+        "x": 2153,
+        "y": 2935,
+        "w": 715,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 309,
+        "y": 32,
+        "w": 715,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-038.png": {
+      "frame": {
+        "x": 2870,
+        "y": 2935,
+        "w": 714,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 41,
+        "w": 714,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-039.png": {
+      "frame": {
+        "x": 2,
+        "y": 3669,
+        "w": 714,
+        "h": 725
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 39,
+        "w": 714,
+        "h": 725
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-040.png": {
+      "frame": {
+        "x": 718,
+        "y": 3669,
+        "w": 714,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 37,
+        "w": 714,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-041.png": {
+      "frame": {
+        "x": 1434,
+        "y": 3669,
+        "w": 713,
+        "h": 731
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 311,
+        "y": 33,
+        "w": 713,
+        "h": 731
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-042.png": {
+      "frame": {
+        "x": 2149,
+        "y": 3669,
+        "w": 713,
+        "h": 721
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 311,
+        "y": 43,
+        "w": 713,
+        "h": 721
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-043.png": {
+      "frame": {
+        "x": 2864,
+        "y": 3669,
+        "w": 713,
+        "h": 722
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 311,
+        "y": 42,
+        "w": 713,
+        "h": 722
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-044.png": {
+      "frame": {
+        "x": 2,
+        "y": 4402,
+        "w": 712,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 40,
+        "w": 712,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-045.png": {
+      "frame": {
+        "x": 716,
+        "y": 4402,
+        "w": 712,
+        "h": 726
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 38,
+        "w": 712,
+        "h": 726
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-046.png": {
+      "frame": {
+        "x": 1430,
+        "y": 4402,
+        "w": 712,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 48,
+        "w": 712,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-047.png": {
+      "frame": {
+        "x": 2144,
+        "y": 4402,
+        "w": 712,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 46,
+        "w": 712,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-048.png": {
+      "frame": {
+        "x": 2858,
+        "y": 4402,
+        "w": 712,
+        "h": 721
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 43,
+        "w": 712,
+        "h": 721
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 5130,
+        "w": 711,
+        "h": 725
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 39,
+        "w": 711,
+        "h": 725
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-050.png": {
+      "frame": {
+        "x": 715,
+        "y": 5130,
+        "w": 711,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 41,
+        "w": 711,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-051.png": {
+      "frame": {
+        "x": 1428,
+        "y": 5130,
+        "w": 711,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 50,
+        "w": 711,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-052.png": {
+      "frame": {
+        "x": 2141,
+        "y": 5130,
+        "w": 711,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 48,
+        "w": 711,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-053.png": {
+      "frame": {
+        "x": 2854,
+        "y": 5130,
+        "w": 711,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 48,
+        "w": 711,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-054.png": {
+      "frame": {
+        "x": 2,
+        "y": 5857,
+        "w": 711,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 47,
+        "w": 711,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-055.png": {
+      "frame": {
+        "x": 715,
+        "y": 5857,
+        "w": 403,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 146,
+        "w": 403,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-056.png": {
+      "frame": {
+        "x": 1120,
+        "y": 5857,
+        "w": 403,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 146,
+        "w": 403,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-057.png": {
+      "frame": {
+        "x": 1525,
+        "y": 5857,
+        "w": 403,
+        "h": 618
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 314,
+        "y": 146,
+        "w": 403,
+        "h": 618
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-058.png": {
+      "frame": {
+        "x": 1930,
+        "y": 5857,
+        "w": 405,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 143,
+        "w": 405,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-059.png": {
+      "frame": {
+        "x": 2337,
+        "y": 5857,
+        "w": 405,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 143,
+        "w": 405,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-060.png": {
+      "frame": {
+        "x": 2744,
+        "y": 5857,
+        "w": 405,
+        "h": 643
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 331,
+        "y": 121,
+        "w": 405,
+        "h": 643
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-061.png": {
+      "frame": {
+        "x": 3151,
+        "y": 5857,
+        "w": 400,
+        "h": 654
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 110,
+        "w": 400,
+        "h": 654
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-062.png": {
+      "frame": {
+        "x": 3553,
+        "y": 5857,
+        "w": 395,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 98,
+        "w": 395,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-063.png": {
+      "frame": {
+        "x": 2,
+        "y": 6576,
+        "w": 394,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 98,
+        "w": 394,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-064.png": {
+      "frame": {
+        "x": 398,
+        "y": 6576,
+        "w": 366,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 56,
+        "w": 366,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-065.png": {
+      "frame": {
+        "x": 766,
+        "y": 6576,
+        "w": 353,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 46,
+        "w": 353,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-066.png": {
+      "frame": {
+        "x": 1121,
+        "y": 6576,
+        "w": 341,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 37,
+        "w": 341,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-067.png": {
+      "frame": {
+        "x": 1464,
+        "y": 6576,
+        "w": 332,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 32,
+        "w": 332,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-068.png": {
+      "frame": {
+        "x": 1798,
+        "y": 6576,
+        "w": 334,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 30,
+        "w": 334,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-069.png": {
+      "frame": {
+        "x": 2134,
+        "y": 6576,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-070.png": {
+      "frame": {
+        "x": 2472,
+        "y": 6576,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-071.png": {
+      "frame": {
+        "x": 2810,
+        "y": 6576,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-072.png": {
+      "frame": {
+        "x": 3149,
+        "y": 6576,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-073.png": {
+      "frame": {
+        "x": 3488,
+        "y": 6576,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-074.png": {
+      "frame": {
+        "x": 2,
+        "y": 7315,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-075.png": {
+      "frame": {
+        "x": 341,
+        "y": 7315,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-076.png": {
+      "frame": {
+        "x": 680,
+        "y": 7315,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-077.png": {
+      "frame": {
+        "x": 1019,
+        "y": 7315,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-078.png": {
+      "frame": {
+        "x": 1358,
+        "y": 7315,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_sonic_scream-079.png": {
+      "frame": {
+        "x": 1696,
+        "y": 7315,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_sonic_scream": [
+      "player1_sonic_scream-000.png",
+      "player1_sonic_scream-001.png",
+      "player1_sonic_scream-002.png",
+      "player1_sonic_scream-003.png",
+      "player1_sonic_scream-004.png",
+      "player1_sonic_scream-005.png",
+      "player1_sonic_scream-006.png",
+      "player1_sonic_scream-007.png",
+      "player1_sonic_scream-008.png",
+      "player1_sonic_scream-009.png",
+      "player1_sonic_scream-010.png",
+      "player1_sonic_scream-011.png",
+      "player1_sonic_scream-012.png",
+      "player1_sonic_scream-013.png",
+      "player1_sonic_scream-014.png",
+      "player1_sonic_scream-015.png",
+      "player1_sonic_scream-016.png",
+      "player1_sonic_scream-017.png",
+      "player1_sonic_scream-018.png",
+      "player1_sonic_scream-019.png",
+      "player1_sonic_scream-020.png",
+      "player1_sonic_scream-021.png",
+      "player1_sonic_scream-022.png",
+      "player1_sonic_scream-023.png",
+      "player1_sonic_scream-024.png",
+      "player1_sonic_scream-025.png",
+      "player1_sonic_scream-026.png",
+      "player1_sonic_scream-027.png",
+      "player1_sonic_scream-028.png",
+      "player1_sonic_scream-029.png",
+      "player1_sonic_scream-030.png",
+      "player1_sonic_scream-031.png",
+      "player1_sonic_scream-032.png",
+      "player1_sonic_scream-033.png",
+      "player1_sonic_scream-034.png",
+      "player1_sonic_scream-035.png",
+      "player1_sonic_scream-036.png",
+      "player1_sonic_scream-037.png",
+      "player1_sonic_scream-038.png",
+      "player1_sonic_scream-039.png",
+      "player1_sonic_scream-040.png",
+      "player1_sonic_scream-041.png",
+      "player1_sonic_scream-042.png",
+      "player1_sonic_scream-043.png",
+      "player1_sonic_scream-044.png",
+      "player1_sonic_scream-045.png",
+      "player1_sonic_scream-046.png",
+      "player1_sonic_scream-047.png",
+      "player1_sonic_scream-048.png",
+      "player1_sonic_scream-049.png",
+      "player1_sonic_scream-050.png",
+      "player1_sonic_scream-051.png",
+      "player1_sonic_scream-052.png",
+      "player1_sonic_scream-053.png",
+      "player1_sonic_scream-054.png",
+      "player1_sonic_scream-055.png",
+      "player1_sonic_scream-056.png",
+      "player1_sonic_scream-057.png",
+      "player1_sonic_scream-058.png",
+      "player1_sonic_scream-059.png",
+      "player1_sonic_scream-060.png",
+      "player1_sonic_scream-061.png",
+      "player1_sonic_scream-062.png",
+      "player1_sonic_scream-063.png",
+      "player1_sonic_scream-064.png",
+      "player1_sonic_scream-065.png",
+      "player1_sonic_scream-066.png",
+      "player1_sonic_scream-067.png",
+      "player1_sonic_scream-068.png",
+      "player1_sonic_scream-069.png",
+      "player1_sonic_scream-070.png",
+      "player1_sonic_scream-071.png",
+      "player1_sonic_scream-072.png",
+      "player1_sonic_scream-073.png",
+      "player1_sonic_scream-074.png",
+      "player1_sonic_scream-075.png",
+      "player1_sonic_scream-076.png",
+      "player1_sonic_scream-077.png",
+      "player1_sonic_scream-078.png",
+      "player1_sonic_scream-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_sonic_scream.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4040,
+      "h": 8054
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

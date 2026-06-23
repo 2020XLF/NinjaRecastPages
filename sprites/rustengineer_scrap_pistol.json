@@ -1,0 +1,1223 @@
+{
+  "frames": {
+    "rustengineer_scrap_pistol-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 451,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 205,
+        "w": 451,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-001.png": {
+      "frame": {
+        "x": 455,
+        "y": 2,
+        "w": 451,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 205,
+        "w": 451,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-002.png": {
+      "frame": {
+        "x": 908,
+        "y": 2,
+        "w": 450,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 204,
+        "w": 450,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-003.png": {
+      "frame": {
+        "x": 1360,
+        "y": 2,
+        "w": 450,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 202,
+        "w": 450,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-004.png": {
+      "frame": {
+        "x": 1812,
+        "y": 2,
+        "w": 450,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 202,
+        "w": 450,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-005.png": {
+      "frame": {
+        "x": 2264,
+        "y": 2,
+        "w": 450,
+        "h": 1571
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 201,
+        "w": 450,
+        "h": 1571
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-006.png": {
+      "frame": {
+        "x": 2716,
+        "y": 2,
+        "w": 451,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 199,
+        "w": 451,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-007.png": {
+      "frame": {
+        "x": 3169,
+        "y": 2,
+        "w": 451,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 199,
+        "w": 451,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-008.png": {
+      "frame": {
+        "x": 3622,
+        "y": 2,
+        "w": 451,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 198,
+        "w": 451,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-009.png": {
+      "frame": {
+        "x": 4075,
+        "y": 2,
+        "w": 450,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 197,
+        "w": 450,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-010.png": {
+      "frame": {
+        "x": 4527,
+        "y": 2,
+        "w": 450,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 197,
+        "w": 450,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-011.png": {
+      "frame": {
+        "x": 4979,
+        "y": 2,
+        "w": 450,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 196,
+        "w": 450,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-012.png": {
+      "frame": {
+        "x": 5431,
+        "y": 2,
+        "w": 450,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 196,
+        "w": 450,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-013.png": {
+      "frame": {
+        "x": 5883,
+        "y": 2,
+        "w": 450,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 196,
+        "w": 450,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-014.png": {
+      "frame": {
+        "x": 6335,
+        "y": 2,
+        "w": 450,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 196,
+        "w": 450,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-015.png": {
+      "frame": {
+        "x": 6787,
+        "y": 2,
+        "w": 451,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 196,
+        "w": 451,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-016.png": {
+      "frame": {
+        "x": 7240,
+        "y": 2,
+        "w": 451,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 196,
+        "w": 451,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-017.png": {
+      "frame": {
+        "x": 7693,
+        "y": 2,
+        "w": 451,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 196,
+        "w": 451,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-018.png": {
+      "frame": {
+        "x": 2,
+        "y": 1581,
+        "w": 452,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 196,
+        "w": 452,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-019.png": {
+      "frame": {
+        "x": 456,
+        "y": 1581,
+        "w": 452,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 196,
+        "w": 452,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-020.png": {
+      "frame": {
+        "x": 910,
+        "y": 1581,
+        "w": 452,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 196,
+        "w": 452,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-021.png": {
+      "frame": {
+        "x": 1364,
+        "y": 1581,
+        "w": 452,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 196,
+        "w": 452,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-022.png": {
+      "frame": {
+        "x": 1818,
+        "y": 1581,
+        "w": 452,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 196,
+        "w": 452,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-023.png": {
+      "frame": {
+        "x": 2272,
+        "y": 1581,
+        "w": 452,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 196,
+        "w": 452,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-024.png": {
+      "frame": {
+        "x": 2726,
+        "y": 1581,
+        "w": 453,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 196,
+        "w": 453,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-025.png": {
+      "frame": {
+        "x": 3181,
+        "y": 1581,
+        "w": 453,
+        "h": 1577
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 196,
+        "w": 453,
+        "h": 1577
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-026.png": {
+      "frame": {
+        "x": 3636,
+        "y": 1581,
+        "w": 453,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 197,
+        "w": 453,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-027.png": {
+      "frame": {
+        "x": 4091,
+        "y": 1581,
+        "w": 454,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 197,
+        "w": 454,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-028.png": {
+      "frame": {
+        "x": 4547,
+        "y": 1581,
+        "w": 454,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 197,
+        "w": 454,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-029.png": {
+      "frame": {
+        "x": 5003,
+        "y": 1581,
+        "w": 454,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 197,
+        "w": 454,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-030.png": {
+      "frame": {
+        "x": 5459,
+        "y": 1581,
+        "w": 454,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 197,
+        "w": 454,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-031.png": {
+      "frame": {
+        "x": 5915,
+        "y": 1581,
+        "w": 454,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 197,
+        "w": 454,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-032.png": {
+      "frame": {
+        "x": 6371,
+        "y": 1581,
+        "w": 454,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 198,
+        "w": 454,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-033.png": {
+      "frame": {
+        "x": 6827,
+        "y": 1581,
+        "w": 454,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 198,
+        "w": 454,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-034.png": {
+      "frame": {
+        "x": 7283,
+        "y": 1581,
+        "w": 454,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 198,
+        "w": 454,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 3160,
+        "w": 455,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 198,
+        "w": 455,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-036.png": {
+      "frame": {
+        "x": 459,
+        "y": 3160,
+        "w": 455,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 199,
+        "w": 455,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-037.png": {
+      "frame": {
+        "x": 916,
+        "y": 3160,
+        "w": 455,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 199,
+        "w": 455,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-038.png": {
+      "frame": {
+        "x": 1373,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-039.png": {
+      "frame": {
+        "x": 1831,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-040.png": {
+      "frame": {
+        "x": 2289,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-041.png": {
+      "frame": {
+        "x": 2747,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-042.png": {
+      "frame": {
+        "x": 3205,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-043.png": {
+      "frame": {
+        "x": 3663,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-044.png": {
+      "frame": {
+        "x": 4121,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-045.png": {
+      "frame": {
+        "x": 4579,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-046.png": {
+      "frame": {
+        "x": 5037,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_scrap_pistol-047.png": {
+      "frame": {
+        "x": 5495,
+        "y": 3160,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustengineer_scrap_pistol": [
+      "rustengineer_scrap_pistol-000.png",
+      "rustengineer_scrap_pistol-001.png",
+      "rustengineer_scrap_pistol-002.png",
+      "rustengineer_scrap_pistol-003.png",
+      "rustengineer_scrap_pistol-004.png",
+      "rustengineer_scrap_pistol-005.png",
+      "rustengineer_scrap_pistol-006.png",
+      "rustengineer_scrap_pistol-007.png",
+      "rustengineer_scrap_pistol-008.png",
+      "rustengineer_scrap_pistol-009.png",
+      "rustengineer_scrap_pistol-010.png",
+      "rustengineer_scrap_pistol-011.png",
+      "rustengineer_scrap_pistol-012.png",
+      "rustengineer_scrap_pistol-013.png",
+      "rustengineer_scrap_pistol-014.png",
+      "rustengineer_scrap_pistol-015.png",
+      "rustengineer_scrap_pistol-016.png",
+      "rustengineer_scrap_pistol-017.png",
+      "rustengineer_scrap_pistol-018.png",
+      "rustengineer_scrap_pistol-019.png",
+      "rustengineer_scrap_pistol-020.png",
+      "rustengineer_scrap_pistol-021.png",
+      "rustengineer_scrap_pistol-022.png",
+      "rustengineer_scrap_pistol-023.png",
+      "rustengineer_scrap_pistol-024.png",
+      "rustengineer_scrap_pistol-025.png",
+      "rustengineer_scrap_pistol-026.png",
+      "rustengineer_scrap_pistol-027.png",
+      "rustengineer_scrap_pistol-028.png",
+      "rustengineer_scrap_pistol-029.png",
+      "rustengineer_scrap_pistol-030.png",
+      "rustengineer_scrap_pistol-031.png",
+      "rustengineer_scrap_pistol-032.png",
+      "rustengineer_scrap_pistol-033.png",
+      "rustengineer_scrap_pistol-034.png",
+      "rustengineer_scrap_pistol-035.png",
+      "rustengineer_scrap_pistol-036.png",
+      "rustengineer_scrap_pistol-037.png",
+      "rustengineer_scrap_pistol-038.png",
+      "rustengineer_scrap_pistol-039.png",
+      "rustengineer_scrap_pistol-040.png",
+      "rustengineer_scrap_pistol-041.png",
+      "rustengineer_scrap_pistol-042.png",
+      "rustengineer_scrap_pistol-043.png",
+      "rustengineer_scrap_pistol-044.png",
+      "rustengineer_scrap_pistol-045.png",
+      "rustengineer_scrap_pistol-046.png",
+      "rustengineer_scrap_pistol-047.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 + ninja-recast converter",
+    "image": "rustengineer_scrap_pistol.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8146,
+      "h": 4737
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_leg_blade_combo-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-002.png": {
+      "frame": {
+        "x": 679,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-003.png": {
+      "frame": {
+        "x": 1018,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-004.png": {
+      "frame": {
+        "x": 1357,
+        "y": 2,
+        "w": 335,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 335,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-005.png": {
+      "frame": {
+        "x": 1694,
+        "y": 2,
+        "w": 333,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 27,
+        "w": 333,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-006.png": {
+      "frame": {
+        "x": 2029,
+        "y": 2,
+        "w": 329,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 27,
+        "w": 329,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-007.png": {
+      "frame": {
+        "x": 2360,
+        "y": 2,
+        "w": 327,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 27,
+        "w": 327,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-008.png": {
+      "frame": {
+        "x": 2689,
+        "y": 2,
+        "w": 339,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 29,
+        "w": 339,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-009.png": {
+      "frame": {
+        "x": 3030,
+        "y": 2,
+        "w": 350,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 31,
+        "w": 350,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-010.png": {
+      "frame": {
+        "x": 3382,
+        "y": 2,
+        "w": 358,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 36,
+        "w": 358,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-011.png": {
+      "frame": {
+        "x": 3742,
+        "y": 2,
+        "w": 352,
+        "h": 715
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 49,
+        "w": 352,
+        "h": 715
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 340,
+        "h": 705
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 59,
+        "w": 340,
+        "h": 705
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-013.png": {
+      "frame": {
+        "x": 344,
+        "y": 741,
+        "w": 334,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 366,
+        "y": 71,
+        "w": 334,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-014.png": {
+      "frame": {
+        "x": 680,
+        "y": 741,
+        "w": 323,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 80,
+        "w": 323,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-015.png": {
+      "frame": {
+        "x": 1005,
+        "y": 741,
+        "w": 323,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 91,
+        "w": 323,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-016.png": {
+      "frame": {
+        "x": 1330,
+        "y": 741,
+        "w": 324,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 107,
+        "w": 324,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-017.png": {
+      "frame": {
+        "x": 1656,
+        "y": 741,
+        "w": 324,
+        "h": 652
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 112,
+        "w": 324,
+        "h": 652
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-018.png": {
+      "frame": {
+        "x": 1982,
+        "y": 741,
+        "w": 324,
+        "h": 648
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 116,
+        "w": 324,
+        "h": 648
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-019.png": {
+      "frame": {
+        "x": 2308,
+        "y": 741,
+        "w": 324,
+        "h": 646
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 118,
+        "w": 324,
+        "h": 646
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-020.png": {
+      "frame": {
+        "x": 2634,
+        "y": 741,
+        "w": 324,
+        "h": 644
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 120,
+        "w": 324,
+        "h": 644
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-021.png": {
+      "frame": {
+        "x": 2960,
+        "y": 741,
+        "w": 324,
+        "h": 642
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 122,
+        "w": 324,
+        "h": 642
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-022.png": {
+      "frame": {
+        "x": 3286,
+        "y": 741,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 123,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-023.png": {
+      "frame": {
+        "x": 3612,
+        "y": 741,
+        "w": 324,
+        "h": 641
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 123,
+        "w": 324,
+        "h": 641
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-024.png": {
+      "frame": {
+        "x": 2,
+        "y": 1448,
+        "w": 324,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 124,
+        "w": 324,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-025.png": {
+      "frame": {
+        "x": 328,
+        "y": 1448,
+        "w": 324,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 125,
+        "w": 324,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-026.png": {
+      "frame": {
+        "x": 654,
+        "y": 1448,
+        "w": 325,
+        "h": 637
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 126,
+        "w": 325,
+        "h": 637
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-027.png": {
+      "frame": {
+        "x": 981,
+        "y": 1448,
+        "w": 341,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 127,
+        "w": 341,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-028.png": {
+      "frame": {
+        "x": 1324,
+        "y": 1448,
+        "w": 377,
+        "h": 633
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 124,
+        "w": 377,
+        "h": 633
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-029.png": {
+      "frame": {
+        "x": 1703,
+        "y": 1448,
+        "w": 478,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 302,
+        "y": 116,
+        "w": 478,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-030.png": {
+      "frame": {
+        "x": 2183,
+        "y": 1448,
+        "w": 750,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 274,
+        "y": 62,
+        "w": 750,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-031.png": {
+      "frame": {
+        "x": 2935,
+        "y": 1448,
+        "w": 760,
+        "h": 742
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 14,
+        "w": 760,
+        "h": 742
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 2192,
+        "w": 763,
+        "h": 721
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 261,
+        "y": 35,
+        "w": 763,
+        "h": 721
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-033.png": {
+      "frame": {
+        "x": 767,
+        "y": 2192,
+        "w": 764,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 260,
+        "y": 0,
+        "w": 764,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-034.png": {
+      "frame": {
+        "x": 1533,
+        "y": 2192,
+        "w": 766,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 258,
+        "y": 0,
+        "w": 766,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-035.png": {
+      "frame": {
+        "x": 2301,
+        "y": 2192,
+        "w": 767,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 257,
+        "y": 0,
+        "w": 767,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-036.png": {
+      "frame": {
+        "x": 3070,
+        "y": 2192,
+        "w": 768,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 256,
+        "y": 0,
+        "w": 768,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-037.png": {
+      "frame": {
+        "x": 2,
+        "y": 2950,
+        "w": 768,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 256,
+        "y": 0,
+        "w": 768,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-038.png": {
+      "frame": {
+        "x": 772,
+        "y": 2950,
+        "w": 768,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 256,
+        "y": 0,
+        "w": 768,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-039.png": {
+      "frame": {
+        "x": 1542,
+        "y": 2950,
+        "w": 769,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 255,
+        "y": 45,
+        "w": 769,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-040.png": {
+      "frame": {
+        "x": 2313,
+        "y": 2950,
+        "w": 769,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 255,
+        "y": 20,
+        "w": 769,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-041.png": {
+      "frame": {
+        "x": 3084,
+        "y": 2950,
+        "w": 770,
+        "h": 752
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 254,
+        "y": 4,
+        "w": 770,
+        "h": 752
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 3708,
+        "w": 770,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 254,
+        "y": 29,
+        "w": 770,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-043.png": {
+      "frame": {
+        "x": 774,
+        "y": 3708,
+        "w": 770,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 254,
+        "y": 0,
+        "w": 770,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-044.png": {
+      "frame": {
+        "x": 1546,
+        "y": 3708,
+        "w": 770,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 254,
+        "y": 0,
+        "w": 770,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-045.png": {
+      "frame": {
+        "x": 2318,
+        "y": 3708,
+        "w": 771,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 253,
+        "y": 0,
+        "w": 771,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-046.png": {
+      "frame": {
+        "x": 3091,
+        "y": 3708,
+        "w": 771,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 253,
+        "y": 0,
+        "w": 771,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 4466,
+        "w": 771,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 253,
+        "y": 0,
+        "w": 771,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-048.png": {
+      "frame": {
+        "x": 775,
+        "y": 4466,
+        "w": 772,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 0,
+        "w": 772,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-049.png": {
+      "frame": {
+        "x": 1549,
+        "y": 4466,
+        "w": 772,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 48,
+        "w": 772,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-050.png": {
+      "frame": {
+        "x": 2323,
+        "y": 4466,
+        "w": 772,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 58,
+        "w": 772,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-051.png": {
+      "frame": {
+        "x": 3097,
+        "y": 4466,
+        "w": 772,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 252,
+        "y": 36,
+        "w": 772,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 5224,
+        "w": 773,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 0,
+        "w": 773,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-053.png": {
+      "frame": {
+        "x": 777,
+        "y": 5224,
+        "w": 773,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 0,
+        "w": 773,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-054.png": {
+      "frame": {
+        "x": 1552,
+        "y": 5224,
+        "w": 773,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 0,
+        "w": 773,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-055.png": {
+      "frame": {
+        "x": 2327,
+        "y": 5224,
+        "w": 773,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 0,
+        "w": 773,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-056.png": {
+      "frame": {
+        "x": 3102,
+        "y": 5224,
+        "w": 771,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 253,
+        "y": 0,
+        "w": 771,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 5982,
+        "w": 763,
+        "h": 659
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 261,
+        "y": 97,
+        "w": 763,
+        "h": 659
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-058.png": {
+      "frame": {
+        "x": 767,
+        "y": 5982,
+        "w": 757,
+        "h": 658
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 267,
+        "y": 98,
+        "w": 757,
+        "h": 658
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-059.png": {
+      "frame": {
+        "x": 1526,
+        "y": 5982,
+        "w": 748,
+        "h": 658
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 276,
+        "y": 98,
+        "w": 748,
+        "h": 658
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-060.png": {
+      "frame": {
+        "x": 2276,
+        "y": 5982,
+        "w": 737,
+        "h": 658
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 98,
+        "w": 737,
+        "h": 658
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-061.png": {
+      "frame": {
+        "x": 3015,
+        "y": 5982,
+        "w": 724,
+        "h": 660
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 300,
+        "y": 96,
+        "w": 724,
+        "h": 660
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-062.png": {
+      "frame": {
+        "x": 2,
+        "y": 6644,
+        "w": 496,
+        "h": 668
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 303,
+        "y": 89,
+        "w": 496,
+        "h": 668
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-063.png": {
+      "frame": {
+        "x": 500,
+        "y": 6644,
+        "w": 488,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 84,
+        "w": 488,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-064.png": {
+      "frame": {
+        "x": 990,
+        "y": 6644,
+        "w": 474,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 78,
+        "w": 474,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-065.png": {
+      "frame": {
+        "x": 1466,
+        "y": 6644,
+        "w": 452,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 72,
+        "w": 452,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-066.png": {
+      "frame": {
+        "x": 1920,
+        "y": 6644,
+        "w": 420,
+        "h": 702
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 61,
+        "w": 420,
+        "h": 702
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-067.png": {
+      "frame": {
+        "x": 2342,
+        "y": 6644,
+        "w": 407,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 374,
+        "y": 57,
+        "w": 407,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-068.png": {
+      "frame": {
+        "x": 2751,
+        "y": 6644,
+        "w": 397,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 52,
+        "w": 397,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-069.png": {
+      "frame": {
+        "x": 3150,
+        "y": 6644,
+        "w": 386,
+        "h": 716
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 48,
+        "w": 386,
+        "h": 716
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-070.png": {
+      "frame": {
+        "x": 3538,
+        "y": 6644,
+        "w": 376,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 367,
+        "y": 44,
+        "w": 376,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-071.png": {
+      "frame": {
+        "x": 2,
+        "y": 7366,
+        "w": 355,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 37,
+        "w": 355,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-072.png": {
+      "frame": {
+        "x": 359,
+        "y": 7366,
+        "w": 345,
+        "h": 731
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 33,
+        "w": 345,
+        "h": 731
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-073.png": {
+      "frame": {
+        "x": 706,
+        "y": 7366,
+        "w": 336,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 31,
+        "w": 336,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-074.png": {
+      "frame": {
+        "x": 1044,
+        "y": 7366,
+        "w": 329,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 30,
+        "w": 329,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-075.png": {
+      "frame": {
+        "x": 1375,
+        "y": 7366,
+        "w": 329,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 28,
+        "w": 329,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-076.png": {
+      "frame": {
+        "x": 1706,
+        "y": 7366,
+        "w": 332,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 28,
+        "w": 332,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-077.png": {
+      "frame": {
+        "x": 2040,
+        "y": 7366,
+        "w": 334,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 28,
+        "w": 334,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-078.png": {
+      "frame": {
+        "x": 2376,
+        "y": 7366,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_leg_blade_combo-079.png": {
+      "frame": {
+        "x": 2713,
+        "y": 7366,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_leg_blade_combo": [
+      "player1_leg_blade_combo-000.png",
+      "player1_leg_blade_combo-001.png",
+      "player1_leg_blade_combo-002.png",
+      "player1_leg_blade_combo-003.png",
+      "player1_leg_blade_combo-004.png",
+      "player1_leg_blade_combo-005.png",
+      "player1_leg_blade_combo-006.png",
+      "player1_leg_blade_combo-007.png",
+      "player1_leg_blade_combo-008.png",
+      "player1_leg_blade_combo-009.png",
+      "player1_leg_blade_combo-010.png",
+      "player1_leg_blade_combo-011.png",
+      "player1_leg_blade_combo-012.png",
+      "player1_leg_blade_combo-013.png",
+      "player1_leg_blade_combo-014.png",
+      "player1_leg_blade_combo-015.png",
+      "player1_leg_blade_combo-016.png",
+      "player1_leg_blade_combo-017.png",
+      "player1_leg_blade_combo-018.png",
+      "player1_leg_blade_combo-019.png",
+      "player1_leg_blade_combo-020.png",
+      "player1_leg_blade_combo-021.png",
+      "player1_leg_blade_combo-022.png",
+      "player1_leg_blade_combo-023.png",
+      "player1_leg_blade_combo-024.png",
+      "player1_leg_blade_combo-025.png",
+      "player1_leg_blade_combo-026.png",
+      "player1_leg_blade_combo-027.png",
+      "player1_leg_blade_combo-028.png",
+      "player1_leg_blade_combo-029.png",
+      "player1_leg_blade_combo-030.png",
+      "player1_leg_blade_combo-031.png",
+      "player1_leg_blade_combo-032.png",
+      "player1_leg_blade_combo-033.png",
+      "player1_leg_blade_combo-034.png",
+      "player1_leg_blade_combo-035.png",
+      "player1_leg_blade_combo-036.png",
+      "player1_leg_blade_combo-037.png",
+      "player1_leg_blade_combo-038.png",
+      "player1_leg_blade_combo-039.png",
+      "player1_leg_blade_combo-040.png",
+      "player1_leg_blade_combo-041.png",
+      "player1_leg_blade_combo-042.png",
+      "player1_leg_blade_combo-043.png",
+      "player1_leg_blade_combo-044.png",
+      "player1_leg_blade_combo-045.png",
+      "player1_leg_blade_combo-046.png",
+      "player1_leg_blade_combo-047.png",
+      "player1_leg_blade_combo-048.png",
+      "player1_leg_blade_combo-049.png",
+      "player1_leg_blade_combo-050.png",
+      "player1_leg_blade_combo-051.png",
+      "player1_leg_blade_combo-052.png",
+      "player1_leg_blade_combo-053.png",
+      "player1_leg_blade_combo-054.png",
+      "player1_leg_blade_combo-055.png",
+      "player1_leg_blade_combo-056.png",
+      "player1_leg_blade_combo-057.png",
+      "player1_leg_blade_combo-058.png",
+      "player1_leg_blade_combo-059.png",
+      "player1_leg_blade_combo-060.png",
+      "player1_leg_blade_combo-061.png",
+      "player1_leg_blade_combo-062.png",
+      "player1_leg_blade_combo-063.png",
+      "player1_leg_blade_combo-064.png",
+      "player1_leg_blade_combo-065.png",
+      "player1_leg_blade_combo-066.png",
+      "player1_leg_blade_combo-067.png",
+      "player1_leg_blade_combo-068.png",
+      "player1_leg_blade_combo-069.png",
+      "player1_leg_blade_combo-070.png",
+      "player1_leg_blade_combo-071.png",
+      "player1_leg_blade_combo-072.png",
+      "player1_leg_blade_combo-073.png",
+      "player1_leg_blade_combo-074.png",
+      "player1_leg_blade_combo-075.png",
+      "player1_leg_blade_combo-076.png",
+      "player1_leg_blade_combo-077.png",
+      "player1_leg_blade_combo-078.png",
+      "player1_leg_blade_combo-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_leg_blade_combo.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 8104
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

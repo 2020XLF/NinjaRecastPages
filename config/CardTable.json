@@ -984,8 +984,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "朝敌人前进一格",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "forward",
+    "moveDist": 1,
     "cost": 50
   },
   {
@@ -997,8 +997,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "朝敌人后退一格",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "backward",
+    "moveDist": 1,
     "cost": 50
   },
   {
@@ -1023,8 +1023,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "先先上跳，之后向前砸下",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "forward",
+    "moveDist": 1,
     "cost": 50
   },
   {
@@ -1036,8 +1036,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "后退两格",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "backward",
+    "moveDist": 2,
     "cost": 50
   },
   {
@@ -1075,8 +1075,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "前进一格，将敌人向对应方向推动",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "forward",
+    "moveDist": 1,
     "cost": 50
   },
   {
@@ -1088,8 +1088,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "前进一格，下张牌斩击卡的数字+1",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "forward",
+    "moveDist": 1,
     "cost": 50
   },
   {
@@ -1101,8 +1101,8 @@
     "damages": [],
     "attackRange": 0,
     "description": "朝敌人前进1格，免疫本回合远程攻击",
-    "moveType": "none",
-    "moveDist": 0,
+    "moveType": "forward",
+    "moveDist": 1,
     "cost": 50
   },
   {

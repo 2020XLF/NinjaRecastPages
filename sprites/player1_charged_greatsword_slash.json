@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_charged_greatsword_slash-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-004.png": {
+      "frame": {
+        "x": 1358,
+        "y": 2,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-005.png": {
+      "frame": {
+        "x": 1697,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-006.png": {
+      "frame": {
+        "x": 2036,
+        "y": 2,
+        "w": 337,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 337,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-007.png": {
+      "frame": {
+        "x": 2375,
+        "y": 2,
+        "w": 344,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 35,
+        "w": 344,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-008.png": {
+      "frame": {
+        "x": 2721,
+        "y": 2,
+        "w": 344,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 35,
+        "w": 344,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-009.png": {
+      "frame": {
+        "x": 3067,
+        "y": 2,
+        "w": 353,
+        "h": 722
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 42,
+        "w": 353,
+        "h": 722
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-010.png": {
+      "frame": {
+        "x": 3422,
+        "y": 2,
+        "w": 350,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 47,
+        "w": 350,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 377,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 66,
+        "w": 377,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-012.png": {
+      "frame": {
+        "x": 381,
+        "y": 741,
+        "w": 377,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 66,
+        "w": 377,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-013.png": {
+      "frame": {
+        "x": 760,
+        "y": 741,
+        "w": 403,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 0,
+        "w": 403,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-014.png": {
+      "frame": {
+        "x": 1165,
+        "y": 741,
+        "w": 403,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 329,
+        "y": 0,
+        "w": 403,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-015.png": {
+      "frame": {
+        "x": 1570,
+        "y": 741,
+        "w": 410,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 326,
+        "y": 0,
+        "w": 410,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-016.png": {
+      "frame": {
+        "x": 1982,
+        "y": 741,
+        "w": 412,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 0,
+        "w": 412,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-017.png": {
+      "frame": {
+        "x": 2396,
+        "y": 741,
+        "w": 418,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 0,
+        "w": 418,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-018.png": {
+      "frame": {
+        "x": 2816,
+        "y": 741,
+        "w": 418,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 0,
+        "w": 418,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-019.png": {
+      "frame": {
+        "x": 3236,
+        "y": 741,
+        "w": 423,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 0,
+        "w": 423,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-020.png": {
+      "frame": {
+        "x": 3661,
+        "y": 741,
+        "w": 424,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 0,
+        "w": 424,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-021.png": {
+      "frame": {
+        "x": 2,
+        "y": 1507,
+        "w": 426,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 0,
+        "w": 426,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-022.png": {
+      "frame": {
+        "x": 430,
+        "y": 1507,
+        "w": 428,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 0,
+        "w": 428,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-023.png": {
+      "frame": {
+        "x": 860,
+        "y": 1507,
+        "w": 428,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 308,
+        "y": 0,
+        "w": 428,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-024.png": {
+      "frame": {
+        "x": 1290,
+        "y": 1507,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-025.png": {
+      "frame": {
+        "x": 1722,
+        "y": 1507,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-026.png": {
+      "frame": {
+        "x": 2154,
+        "y": 1507,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-027.png": {
+      "frame": {
+        "x": 2586,
+        "y": 1507,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-028.png": {
+      "frame": {
+        "x": 3018,
+        "y": 1507,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-029.png": {
+      "frame": {
+        "x": 3450,
+        "y": 1507,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-030.png": {
+      "frame": {
+        "x": 2,
+        "y": 2273,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-031.png": {
+      "frame": {
+        "x": 434,
+        "y": 2273,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-032.png": {
+      "frame": {
+        "x": 866,
+        "y": 2273,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-033.png": {
+      "frame": {
+        "x": 1298,
+        "y": 2273,
+        "w": 431,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 305,
+        "y": 0,
+        "w": 431,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-034.png": {
+      "frame": {
+        "x": 1731,
+        "y": 2273,
+        "w": 431,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 305,
+        "y": 0,
+        "w": 431,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-035.png": {
+      "frame": {
+        "x": 2164,
+        "y": 2273,
+        "w": 430,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 0,
+        "w": 430,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-036.png": {
+      "frame": {
+        "x": 2596,
+        "y": 2273,
+        "w": 433,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 303,
+        "y": 0,
+        "w": 433,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-037.png": {
+      "frame": {
+        "x": 3031,
+        "y": 2273,
+        "w": 435,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 0,
+        "w": 435,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-038.png": {
+      "frame": {
+        "x": 3468,
+        "y": 2273,
+        "w": 455,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 288,
+        "y": 0,
+        "w": 455,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-039.png": {
+      "frame": {
+        "x": 2,
+        "y": 3039,
+        "w": 457,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 0,
+        "w": 457,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-040.png": {
+      "frame": {
+        "x": 461,
+        "y": 3039,
+        "w": 482,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 277,
+        "y": 0,
+        "w": 482,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-041.png": {
+      "frame": {
+        "x": 945,
+        "y": 3039,
+        "w": 494,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 277,
+        "y": 0,
+        "w": 494,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-042.png": {
+      "frame": {
+        "x": 1441,
+        "y": 3039,
+        "w": 498,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 296,
+        "y": 40,
+        "w": 498,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-043.png": {
+      "frame": {
+        "x": 1941,
+        "y": 3039,
+        "w": 497,
+        "h": 725
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 296,
+        "y": 39,
+        "w": 497,
+        "h": 725
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-044.png": {
+      "frame": {
+        "x": 2440,
+        "y": 3039,
+        "w": 754,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 82,
+        "w": 754,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-045.png": {
+      "frame": {
+        "x": 3196,
+        "y": 3039,
+        "w": 754,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 82,
+        "w": 754,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 3805,
+        "w": 782,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 115,
+        "w": 782,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-047.png": {
+      "frame": {
+        "x": 786,
+        "y": 3805,
+        "w": 1024,
+        "h": 751
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 1024,
+        "h": 751
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-048.png": {
+      "frame": {
+        "x": 1812,
+        "y": 3805,
+        "w": 1024,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 1024,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-049.png": {
+      "frame": {
+        "x": 2838,
+        "y": 3805,
+        "w": 1024,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 1024,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-050.png": {
+      "frame": {
+        "x": 2,
+        "y": 4566,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-051.png": {
+      "frame": {
+        "x": 1028,
+        "y": 4566,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-052.png": {
+      "frame": {
+        "x": 2054,
+        "y": 4566,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-053.png": {
+      "frame": {
+        "x": 2,
+        "y": 5336,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-054.png": {
+      "frame": {
+        "x": 1028,
+        "y": 5336,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-055.png": {
+      "frame": {
+        "x": 2054,
+        "y": 5336,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-056.png": {
+      "frame": {
+        "x": 2,
+        "y": 6106,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-057.png": {
+      "frame": {
+        "x": 1028,
+        "y": 6106,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-058.png": {
+      "frame": {
+        "x": 2054,
+        "y": 6106,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-059.png": {
+      "frame": {
+        "x": 2,
+        "y": 6876,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-060.png": {
+      "frame": {
+        "x": 1028,
+        "y": 6876,
+        "w": 1024,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-061.png": {
+      "frame": {
+        "x": 2054,
+        "y": 6876,
+        "w": 1024,
+        "h": 765
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 765
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-062.png": {
+      "frame": {
+        "x": 2,
+        "y": 7646,
+        "w": 1024,
+        "h": 758
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 758
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-063.png": {
+      "frame": {
+        "x": 1028,
+        "y": 7646,
+        "w": 1024,
+        "h": 763
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 763
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-064.png": {
+      "frame": {
+        "x": 2054,
+        "y": 7646,
+        "w": 1024,
+        "h": 763
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 763
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-065.png": {
+      "frame": {
+        "x": 3080,
+        "y": 7646,
+        "w": 1008,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1008,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-066.png": {
+      "frame": {
+        "x": 2,
+        "y": 8412,
+        "w": 1008,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1008,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-067.png": {
+      "frame": {
+        "x": 1012,
+        "y": 8412,
+        "w": 995,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 995,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-068.png": {
+      "frame": {
+        "x": 2009,
+        "y": 8412,
+        "w": 1007,
+        "h": 757
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 1007,
+        "h": 757
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-069.png": {
+      "frame": {
+        "x": 3018,
+        "y": 8412,
+        "w": 890,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 24,
+        "w": 890,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-070.png": {
+      "frame": {
+        "x": 2,
+        "y": 9178,
+        "w": 845,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 24,
+        "w": 845,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-071.png": {
+      "frame": {
+        "x": 849,
+        "y": 9178,
+        "w": 647,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 36,
+        "w": 647,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-072.png": {
+      "frame": {
+        "x": 1498,
+        "y": 9178,
+        "w": 339,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 35,
+        "w": 339,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-073.png": {
+      "frame": {
+        "x": 1839,
+        "y": 9178,
+        "w": 328,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 30,
+        "w": 328,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-074.png": {
+      "frame": {
+        "x": 2169,
+        "y": 9178,
+        "w": 328,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 30,
+        "w": 328,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-075.png": {
+      "frame": {
+        "x": 2499,
+        "y": 9178,
+        "w": 333,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 29,
+        "w": 333,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-076.png": {
+      "frame": {
+        "x": 2834,
+        "y": 9178,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-077.png": {
+      "frame": {
+        "x": 3171,
+        "y": 9178,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-078.png": {
+      "frame": {
+        "x": 3509,
+        "y": 9178,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_charged_greatsword_slash-079.png": {
+      "frame": {
+        "x": 2,
+        "y": 9920,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_charged_greatsword_slash": [
+      "player1_charged_greatsword_slash-000.png",
+      "player1_charged_greatsword_slash-001.png",
+      "player1_charged_greatsword_slash-002.png",
+      "player1_charged_greatsword_slash-003.png",
+      "player1_charged_greatsword_slash-004.png",
+      "player1_charged_greatsword_slash-005.png",
+      "player1_charged_greatsword_slash-006.png",
+      "player1_charged_greatsword_slash-007.png",
+      "player1_charged_greatsword_slash-008.png",
+      "player1_charged_greatsword_slash-009.png",
+      "player1_charged_greatsword_slash-010.png",
+      "player1_charged_greatsword_slash-011.png",
+      "player1_charged_greatsword_slash-012.png",
+      "player1_charged_greatsword_slash-013.png",
+      "player1_charged_greatsword_slash-014.png",
+      "player1_charged_greatsword_slash-015.png",
+      "player1_charged_greatsword_slash-016.png",
+      "player1_charged_greatsword_slash-017.png",
+      "player1_charged_greatsword_slash-018.png",
+      "player1_charged_greatsword_slash-019.png",
+      "player1_charged_greatsword_slash-020.png",
+      "player1_charged_greatsword_slash-021.png",
+      "player1_charged_greatsword_slash-022.png",
+      "player1_charged_greatsword_slash-023.png",
+      "player1_charged_greatsword_slash-024.png",
+      "player1_charged_greatsword_slash-025.png",
+      "player1_charged_greatsword_slash-026.png",
+      "player1_charged_greatsword_slash-027.png",
+      "player1_charged_greatsword_slash-028.png",
+      "player1_charged_greatsword_slash-029.png",
+      "player1_charged_greatsword_slash-030.png",
+      "player1_charged_greatsword_slash-031.png",
+      "player1_charged_greatsword_slash-032.png",
+      "player1_charged_greatsword_slash-033.png",
+      "player1_charged_greatsword_slash-034.png",
+      "player1_charged_greatsword_slash-035.png",
+      "player1_charged_greatsword_slash-036.png",
+      "player1_charged_greatsword_slash-037.png",
+      "player1_charged_greatsword_slash-038.png",
+      "player1_charged_greatsword_slash-039.png",
+      "player1_charged_greatsword_slash-040.png",
+      "player1_charged_greatsword_slash-041.png",
+      "player1_charged_greatsword_slash-042.png",
+      "player1_charged_greatsword_slash-043.png",
+      "player1_charged_greatsword_slash-044.png",
+      "player1_charged_greatsword_slash-045.png",
+      "player1_charged_greatsword_slash-046.png",
+      "player1_charged_greatsword_slash-047.png",
+      "player1_charged_greatsword_slash-048.png",
+      "player1_charged_greatsword_slash-049.png",
+      "player1_charged_greatsword_slash-050.png",
+      "player1_charged_greatsword_slash-051.png",
+      "player1_charged_greatsword_slash-052.png",
+      "player1_charged_greatsword_slash-053.png",
+      "player1_charged_greatsword_slash-054.png",
+      "player1_charged_greatsword_slash-055.png",
+      "player1_charged_greatsword_slash-056.png",
+      "player1_charged_greatsword_slash-057.png",
+      "player1_charged_greatsword_slash-058.png",
+      "player1_charged_greatsword_slash-059.png",
+      "player1_charged_greatsword_slash-060.png",
+      "player1_charged_greatsword_slash-061.png",
+      "player1_charged_greatsword_slash-062.png",
+      "player1_charged_greatsword_slash-063.png",
+      "player1_charged_greatsword_slash-064.png",
+      "player1_charged_greatsword_slash-065.png",
+      "player1_charged_greatsword_slash-066.png",
+      "player1_charged_greatsword_slash-067.png",
+      "player1_charged_greatsword_slash-068.png",
+      "player1_charged_greatsword_slash-069.png",
+      "player1_charged_greatsword_slash-070.png",
+      "player1_charged_greatsword_slash-071.png",
+      "player1_charged_greatsword_slash-072.png",
+      "player1_charged_greatsword_slash-073.png",
+      "player1_charged_greatsword_slash-074.png",
+      "player1_charged_greatsword_slash-075.png",
+      "player1_charged_greatsword_slash-076.png",
+      "player1_charged_greatsword_slash-077.png",
+      "player1_charged_greatsword_slash-078.png",
+      "player1_charged_greatsword_slash-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_charged_greatsword_slash.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4090,
+      "h": 10658
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

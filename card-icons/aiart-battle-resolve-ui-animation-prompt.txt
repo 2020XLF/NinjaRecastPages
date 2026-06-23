@@ -1,0 +1,9 @@
+Use case: game UI animation direction
+Asset type: cyberpunk battle card resolve UI animation reference
+Primary request: Design a cool appear animation and idle animation for a 2D card-battle resolve UI panel.
+Subject: a compact hexagon-based combat card UI floating above a character, showing the current card icon, card name, and attack point number.
+Style/medium: premium cyberpunk game UI, black base, white hard-surface frame, cyan/magenta/orange accent glow depending on card color, clean readable silhouette, Arknights/Limbus Company inspired but original.
+Appear animation: fast lateral hologram materialization, slight overshoot scale, one bright diagonal scan sweep, brief glitch displacement, quick blur-to-sharp focus, total duration about 0.45 seconds.
+Idle animation: subtle breathing glow, tiny energy scan line every few seconds, almost imperceptible horizontal drift, no large shaking, no distracting movement.
+Constraints: keep the UI readable at small size, do not cover the character face, no large particle spam, no text changes, no mascot, no generic fantasy style.
+Avoid: colorful clutter, soft rounded mobile UI, low-contrast text, noisy background, animation that feels slow or floaty.

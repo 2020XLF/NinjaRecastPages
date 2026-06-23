@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_iaijutsu_slash-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 336,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 30,
+        "w": 336,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-006.png": {
+      "frame": {
+        "x": 2030,
+        "y": 2,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-007.png": {
+      "frame": {
+        "x": 2368,
+        "y": 2,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-008.png": {
+      "frame": {
+        "x": 2706,
+        "y": 2,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-009.png": {
+      "frame": {
+        "x": 3044,
+        "y": 2,
+        "w": 336,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 30,
+        "w": 336,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-010.png": {
+      "frame": {
+        "x": 3382,
+        "y": 2,
+        "w": 336,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 30,
+        "w": 336,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-011.png": {
+      "frame": {
+        "x": 3720,
+        "y": 2,
+        "w": 336,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 30,
+        "w": 336,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 336,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 30,
+        "w": 336,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-013.png": {
+      "frame": {
+        "x": 340,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-014.png": {
+      "frame": {
+        "x": 678,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-015.png": {
+      "frame": {
+        "x": 1016,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-016.png": {
+      "frame": {
+        "x": 1354,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-017.png": {
+      "frame": {
+        "x": 1692,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-018.png": {
+      "frame": {
+        "x": 2030,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-019.png": {
+      "frame": {
+        "x": 2368,
+        "y": 740,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-020.png": {
+      "frame": {
+        "x": 2706,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-021.png": {
+      "frame": {
+        "x": 3044,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-022.png": {
+      "frame": {
+        "x": 3382,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-023.png": {
+      "frame": {
+        "x": 3720,
+        "y": 740,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-024.png": {
+      "frame": {
+        "x": 2,
+        "y": 1478,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-025.png": {
+      "frame": {
+        "x": 340,
+        "y": 1478,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-026.png": {
+      "frame": {
+        "x": 678,
+        "y": 1478,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-027.png": {
+      "frame": {
+        "x": 1016,
+        "y": 1478,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-028.png": {
+      "frame": {
+        "x": 1354,
+        "y": 1478,
+        "w": 336,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 30,
+        "w": 336,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-029.png": {
+      "frame": {
+        "x": 1692,
+        "y": 1478,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-030.png": {
+      "frame": {
+        "x": 2030,
+        "y": 1478,
+        "w": 337,
+        "h": 733
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 31,
+        "w": 337,
+        "h": 733
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-031.png": {
+      "frame": {
+        "x": 2369,
+        "y": 1478,
+        "w": 331,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 35,
+        "w": 331,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-032.png": {
+      "frame": {
+        "x": 2702,
+        "y": 1478,
+        "w": 336,
+        "h": 722
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 42,
+        "w": 336,
+        "h": 722
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-033.png": {
+      "frame": {
+        "x": 3040,
+        "y": 1478,
+        "w": 341,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 338,
+        "y": 46,
+        "w": 341,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-034.png": {
+      "frame": {
+        "x": 3383,
+        "y": 1478,
+        "w": 404,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 58,
+        "w": 404,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 2216,
+        "w": 397,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 68,
+        "w": 397,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-036.png": {
+      "frame": {
+        "x": 401,
+        "y": 2216,
+        "w": 435,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 274,
+        "y": 80,
+        "w": 435,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-037.png": {
+      "frame": {
+        "x": 838,
+        "y": 2216,
+        "w": 488,
+        "h": 659
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 95,
+        "w": 488,
+        "h": 659
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-038.png": {
+      "frame": {
+        "x": 1328,
+        "y": 2216,
+        "w": 483,
+        "h": 614
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 294,
+        "y": 141,
+        "w": 483,
+        "h": 614
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-039.png": {
+      "frame": {
+        "x": 1813,
+        "y": 2216,
+        "w": 737,
+        "h": 666
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 90,
+        "w": 737,
+        "h": 666
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-040.png": {
+      "frame": {
+        "x": 2552,
+        "y": 2216,
+        "w": 737,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 73,
+        "w": 737,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-041.png": {
+      "frame": {
+        "x": 3291,
+        "y": 2216,
+        "w": 737,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 85,
+        "w": 737,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 2904,
+        "w": 737,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 68,
+        "w": 737,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-043.png": {
+      "frame": {
+        "x": 741,
+        "y": 2904,
+        "w": 737,
+        "h": 664
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 92,
+        "w": 737,
+        "h": 664
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-044.png": {
+      "frame": {
+        "x": 1480,
+        "y": 2904,
+        "w": 737,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 83,
+        "w": 737,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-045.png": {
+      "frame": {
+        "x": 2219,
+        "y": 2904,
+        "w": 737,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 82,
+        "w": 737,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-046.png": {
+      "frame": {
+        "x": 2958,
+        "y": 2904,
+        "w": 737,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 78,
+        "w": 737,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 3594,
+        "w": 737,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 62,
+        "w": 737,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-048.png": {
+      "frame": {
+        "x": 741,
+        "y": 3594,
+        "w": 737,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 737,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-049.png": {
+      "frame": {
+        "x": 1480,
+        "y": 3594,
+        "w": 588,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 588,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-050.png": {
+      "frame": {
+        "x": 2070,
+        "y": 3594,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-051.png": {
+      "frame": {
+        "x": 2659,
+        "y": 3594,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-052.png": {
+      "frame": {
+        "x": 3248,
+        "y": 3594,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-053.png": {
+      "frame": {
+        "x": 2,
+        "y": 4290,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-054.png": {
+      "frame": {
+        "x": 591,
+        "y": 4290,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-055.png": {
+      "frame": {
+        "x": 1180,
+        "y": 4290,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-056.png": {
+      "frame": {
+        "x": 1769,
+        "y": 4290,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-057.png": {
+      "frame": {
+        "x": 2358,
+        "y": 4290,
+        "w": 587,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 143,
+        "w": 587,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-058.png": {
+      "frame": {
+        "x": 2947,
+        "y": 4290,
+        "w": 586,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 145,
+        "w": 586,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-059.png": {
+      "frame": {
+        "x": 2,
+        "y": 4905,
+        "w": 585,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 147,
+        "w": 585,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-060.png": {
+      "frame": {
+        "x": 589,
+        "y": 4905,
+        "w": 587,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 149,
+        "w": 587,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-061.png": {
+      "frame": {
+        "x": 1178,
+        "y": 4905,
+        "w": 592,
+        "h": 608
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 148,
+        "w": 592,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-062.png": {
+      "frame": {
+        "x": 1772,
+        "y": 4905,
+        "w": 571,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 133,
+        "w": 571,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-063.png": {
+      "frame": {
+        "x": 2345,
+        "y": 4905,
+        "w": 525,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 318,
+        "y": 123,
+        "w": 525,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-064.png": {
+      "frame": {
+        "x": 2872,
+        "y": 4905,
+        "w": 472,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 113,
+        "w": 472,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-065.png": {
+      "frame": {
+        "x": 3346,
+        "y": 4905,
+        "w": 418,
+        "h": 662
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 102,
+        "w": 418,
+        "h": 662
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-066.png": {
+      "frame": {
+        "x": 2,
+        "y": 5569,
+        "w": 402,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 84,
+        "w": 402,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-067.png": {
+      "frame": {
+        "x": 406,
+        "y": 5569,
+        "w": 402,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 70,
+        "w": 402,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-068.png": {
+      "frame": {
+        "x": 810,
+        "y": 5569,
+        "w": 391,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 56,
+        "w": 391,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-069.png": {
+      "frame": {
+        "x": 1203,
+        "y": 5569,
+        "w": 362,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 44,
+        "w": 362,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-070.png": {
+      "frame": {
+        "x": 1567,
+        "y": 5569,
+        "w": 345,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 35,
+        "w": 345,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-071.png": {
+      "frame": {
+        "x": 1914,
+        "y": 5569,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-072.png": {
+      "frame": {
+        "x": 2253,
+        "y": 5569,
+        "w": 338,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 29,
+        "w": 338,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-073.png": {
+      "frame": {
+        "x": 2593,
+        "y": 5569,
+        "w": 337,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 29,
+        "w": 337,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-074.png": {
+      "frame": {
+        "x": 2932,
+        "y": 5569,
+        "w": 336,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 29,
+        "w": 336,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-075.png": {
+      "frame": {
+        "x": 3270,
+        "y": 5569,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-076.png": {
+      "frame": {
+        "x": 3608,
+        "y": 5569,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-077.png": {
+      "frame": {
+        "x": 2,
+        "y": 6307,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-078.png": {
+      "frame": {
+        "x": 340,
+        "y": 6307,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_iaijutsu_slash-079.png": {
+      "frame": {
+        "x": 678,
+        "y": 6307,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_iaijutsu_slash": [
+      "player1_iaijutsu_slash-000.png",
+      "player1_iaijutsu_slash-001.png",
+      "player1_iaijutsu_slash-002.png",
+      "player1_iaijutsu_slash-003.png",
+      "player1_iaijutsu_slash-004.png",
+      "player1_iaijutsu_slash-005.png",
+      "player1_iaijutsu_slash-006.png",
+      "player1_iaijutsu_slash-007.png",
+      "player1_iaijutsu_slash-008.png",
+      "player1_iaijutsu_slash-009.png",
+      "player1_iaijutsu_slash-010.png",
+      "player1_iaijutsu_slash-011.png",
+      "player1_iaijutsu_slash-012.png",
+      "player1_iaijutsu_slash-013.png",
+      "player1_iaijutsu_slash-014.png",
+      "player1_iaijutsu_slash-015.png",
+      "player1_iaijutsu_slash-016.png",
+      "player1_iaijutsu_slash-017.png",
+      "player1_iaijutsu_slash-018.png",
+      "player1_iaijutsu_slash-019.png",
+      "player1_iaijutsu_slash-020.png",
+      "player1_iaijutsu_slash-021.png",
+      "player1_iaijutsu_slash-022.png",
+      "player1_iaijutsu_slash-023.png",
+      "player1_iaijutsu_slash-024.png",
+      "player1_iaijutsu_slash-025.png",
+      "player1_iaijutsu_slash-026.png",
+      "player1_iaijutsu_slash-027.png",
+      "player1_iaijutsu_slash-028.png",
+      "player1_iaijutsu_slash-029.png",
+      "player1_iaijutsu_slash-030.png",
+      "player1_iaijutsu_slash-031.png",
+      "player1_iaijutsu_slash-032.png",
+      "player1_iaijutsu_slash-033.png",
+      "player1_iaijutsu_slash-034.png",
+      "player1_iaijutsu_slash-035.png",
+      "player1_iaijutsu_slash-036.png",
+      "player1_iaijutsu_slash-037.png",
+      "player1_iaijutsu_slash-038.png",
+      "player1_iaijutsu_slash-039.png",
+      "player1_iaijutsu_slash-040.png",
+      "player1_iaijutsu_slash-041.png",
+      "player1_iaijutsu_slash-042.png",
+      "player1_iaijutsu_slash-043.png",
+      "player1_iaijutsu_slash-044.png",
+      "player1_iaijutsu_slash-045.png",
+      "player1_iaijutsu_slash-046.png",
+      "player1_iaijutsu_slash-047.png",
+      "player1_iaijutsu_slash-048.png",
+      "player1_iaijutsu_slash-049.png",
+      "player1_iaijutsu_slash-050.png",
+      "player1_iaijutsu_slash-051.png",
+      "player1_iaijutsu_slash-052.png",
+      "player1_iaijutsu_slash-053.png",
+      "player1_iaijutsu_slash-054.png",
+      "player1_iaijutsu_slash-055.png",
+      "player1_iaijutsu_slash-056.png",
+      "player1_iaijutsu_slash-057.png",
+      "player1_iaijutsu_slash-058.png",
+      "player1_iaijutsu_slash-059.png",
+      "player1_iaijutsu_slash-060.png",
+      "player1_iaijutsu_slash-061.png",
+      "player1_iaijutsu_slash-062.png",
+      "player1_iaijutsu_slash-063.png",
+      "player1_iaijutsu_slash-064.png",
+      "player1_iaijutsu_slash-065.png",
+      "player1_iaijutsu_slash-066.png",
+      "player1_iaijutsu_slash-067.png",
+      "player1_iaijutsu_slash-068.png",
+      "player1_iaijutsu_slash-069.png",
+      "player1_iaijutsu_slash-070.png",
+      "player1_iaijutsu_slash-071.png",
+      "player1_iaijutsu_slash-072.png",
+      "player1_iaijutsu_slash-073.png",
+      "player1_iaijutsu_slash-074.png",
+      "player1_iaijutsu_slash-075.png",
+      "player1_iaijutsu_slash-076.png",
+      "player1_iaijutsu_slash-077.png",
+      "player1_iaijutsu_slash-078.png",
+      "player1_iaijutsu_slash-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_iaijutsu_slash.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4058,
+      "h": 7045
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

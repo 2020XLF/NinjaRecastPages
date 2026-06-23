@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_acid_spray-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 340,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-005.png": {
+      "frame": {
+        "x": 1693,
+        "y": 2,
+        "w": 338,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 29,
+        "w": 338,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-006.png": {
+      "frame": {
+        "x": 2033,
+        "y": 2,
+        "w": 338,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 30,
+        "w": 338,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-007.png": {
+      "frame": {
+        "x": 2373,
+        "y": 2,
+        "w": 318,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 35,
+        "w": 318,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-008.png": {
+      "frame": {
+        "x": 2693,
+        "y": 2,
+        "w": 303,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 36,
+        "w": 303,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-009.png": {
+      "frame": {
+        "x": 2998,
+        "y": 2,
+        "w": 310,
+        "h": 726
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 35,
+        "w": 310,
+        "h": 726
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-010.png": {
+      "frame": {
+        "x": 3310,
+        "y": 2,
+        "w": 316,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 34,
+        "w": 316,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-011.png": {
+      "frame": {
+        "x": 3628,
+        "y": 2,
+        "w": 331,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 33,
+        "w": 331,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 335,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 32,
+        "w": 335,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-013.png": {
+      "frame": {
+        "x": 339,
+        "y": 740,
+        "w": 339,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 33,
+        "w": 339,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-014.png": {
+      "frame": {
+        "x": 680,
+        "y": 740,
+        "w": 342,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 34,
+        "w": 342,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-015.png": {
+      "frame": {
+        "x": 1024,
+        "y": 740,
+        "w": 347,
+        "h": 705
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 330,
+        "y": 36,
+        "w": 347,
+        "h": 705
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-016.png": {
+      "frame": {
+        "x": 1373,
+        "y": 740,
+        "w": 353,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 46,
+        "w": 353,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-017.png": {
+      "frame": {
+        "x": 1728,
+        "y": 740,
+        "w": 354,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 51,
+        "w": 354,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-018.png": {
+      "frame": {
+        "x": 2084,
+        "y": 740,
+        "w": 354,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 58,
+        "w": 354,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-019.png": {
+      "frame": {
+        "x": 2440,
+        "y": 740,
+        "w": 355,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 64,
+        "w": 355,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-020.png": {
+      "frame": {
+        "x": 2797,
+        "y": 740,
+        "w": 355,
+        "h": 669
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 72,
+        "w": 355,
+        "h": 669
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-021.png": {
+      "frame": {
+        "x": 3154,
+        "y": 740,
+        "w": 496,
+        "h": 668
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 73,
+        "w": 496,
+        "h": 668
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-022.png": {
+      "frame": {
+        "x": 2,
+        "y": 1456,
+        "w": 694,
+        "h": 668
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 73,
+        "w": 694,
+        "h": 668
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-023.png": {
+      "frame": {
+        "x": 698,
+        "y": 1456,
+        "w": 702,
+        "h": 669
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 72,
+        "w": 702,
+        "h": 669
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-024.png": {
+      "frame": {
+        "x": 1402,
+        "y": 1456,
+        "w": 702,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 69,
+        "w": 702,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-025.png": {
+      "frame": {
+        "x": 2106,
+        "y": 1456,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-026.png": {
+      "frame": {
+        "x": 2810,
+        "y": 1456,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-027.png": {
+      "frame": {
+        "x": 2,
+        "y": 2131,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-028.png": {
+      "frame": {
+        "x": 706,
+        "y": 2131,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-029.png": {
+      "frame": {
+        "x": 1410,
+        "y": 2131,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-030.png": {
+      "frame": {
+        "x": 2114,
+        "y": 2131,
+        "w": 702,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 62,
+        "w": 702,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-031.png": {
+      "frame": {
+        "x": 2818,
+        "y": 2131,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 2812,
+        "w": 702,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 62,
+        "w": 702,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-033.png": {
+      "frame": {
+        "x": 706,
+        "y": 2812,
+        "w": 702,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 63,
+        "w": 702,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-034.png": {
+      "frame": {
+        "x": 1410,
+        "y": 2812,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-035.png": {
+      "frame": {
+        "x": 2114,
+        "y": 2812,
+        "w": 702,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 67,
+        "w": 702,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-036.png": {
+      "frame": {
+        "x": 2818,
+        "y": 2812,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-037.png": {
+      "frame": {
+        "x": 2,
+        "y": 3493,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-038.png": {
+      "frame": {
+        "x": 706,
+        "y": 3493,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-039.png": {
+      "frame": {
+        "x": 1410,
+        "y": 3493,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-040.png": {
+      "frame": {
+        "x": 2114,
+        "y": 3493,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-041.png": {
+      "frame": {
+        "x": 2818,
+        "y": 3493,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 4168,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-043.png": {
+      "frame": {
+        "x": 706,
+        "y": 4168,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-044.png": {
+      "frame": {
+        "x": 1410,
+        "y": 4168,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-045.png": {
+      "frame": {
+        "x": 2114,
+        "y": 4168,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-046.png": {
+      "frame": {
+        "x": 2818,
+        "y": 4168,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 4843,
+        "w": 702,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 68,
+        "w": 702,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-048.png": {
+      "frame": {
+        "x": 706,
+        "y": 4843,
+        "w": 702,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 69,
+        "w": 702,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-049.png": {
+      "frame": {
+        "x": 1410,
+        "y": 4843,
+        "w": 702,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 69,
+        "w": 702,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-050.png": {
+      "frame": {
+        "x": 2114,
+        "y": 4843,
+        "w": 648,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 322,
+        "y": 69,
+        "w": 648,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-051.png": {
+      "frame": {
+        "x": 2764,
+        "y": 4843,
+        "w": 576,
+        "h": 675
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 66,
+        "w": 576,
+        "h": 675
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-052.png": {
+      "frame": {
+        "x": 3342,
+        "y": 4843,
+        "w": 354,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 323,
+        "y": 62,
+        "w": 354,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-053.png": {
+      "frame": {
+        "x": 3698,
+        "y": 4843,
+        "w": 353,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 57,
+        "w": 353,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-054.png": {
+      "frame": {
+        "x": 2,
+        "y": 5530,
+        "w": 352,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 52,
+        "w": 352,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-055.png": {
+      "frame": {
+        "x": 356,
+        "y": 5530,
+        "w": 340,
+        "h": 701
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 337,
+        "y": 42,
+        "w": 340,
+        "h": 701
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-056.png": {
+      "frame": {
+        "x": 698,
+        "y": 5530,
+        "w": 332,
+        "h": 709
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 37,
+        "w": 332,
+        "h": 709
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-057.png": {
+      "frame": {
+        "x": 1032,
+        "y": 5530,
+        "w": 324,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 32,
+        "w": 324,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-058.png": {
+      "frame": {
+        "x": 1358,
+        "y": 5530,
+        "w": 317,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 30,
+        "w": 317,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-059.png": {
+      "frame": {
+        "x": 1677,
+        "y": 5530,
+        "w": 312,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 365,
+        "y": 27,
+        "w": 312,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-060.png": {
+      "frame": {
+        "x": 1991,
+        "y": 5530,
+        "w": 303,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 374,
+        "y": 25,
+        "w": 303,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-061.png": {
+      "frame": {
+        "x": 2296,
+        "y": 5530,
+        "w": 301,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 25,
+        "w": 301,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-062.png": {
+      "frame": {
+        "x": 2599,
+        "y": 5530,
+        "w": 302,
+        "h": 739
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 25,
+        "w": 302,
+        "h": 739
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-063.png": {
+      "frame": {
+        "x": 2903,
+        "y": 5530,
+        "w": 308,
+        "h": 738
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 369,
+        "y": 26,
+        "w": 308,
+        "h": 738
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-064.png": {
+      "frame": {
+        "x": 3213,
+        "y": 5530,
+        "w": 321,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 27,
+        "w": 321,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-065.png": {
+      "frame": {
+        "x": 3536,
+        "y": 5530,
+        "w": 325,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 27,
+        "w": 325,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-066.png": {
+      "frame": {
+        "x": 2,
+        "y": 6271,
+        "w": 328,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 27,
+        "w": 328,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-067.png": {
+      "frame": {
+        "x": 332,
+        "y": 6271,
+        "w": 331,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 27,
+        "w": 331,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-068.png": {
+      "frame": {
+        "x": 665,
+        "y": 6271,
+        "w": 333,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 27,
+        "w": 333,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-069.png": {
+      "frame": {
+        "x": 1000,
+        "y": 6271,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-070.png": {
+      "frame": {
+        "x": 1338,
+        "y": 6271,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-071.png": {
+      "frame": {
+        "x": 1677,
+        "y": 6271,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-072.png": {
+      "frame": {
+        "x": 2016,
+        "y": 6271,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-073.png": {
+      "frame": {
+        "x": 2355,
+        "y": 6271,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-074.png": {
+      "frame": {
+        "x": 2694,
+        "y": 6271,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-075.png": {
+      "frame": {
+        "x": 3033,
+        "y": 6271,
+        "w": 337,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 337,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-076.png": {
+      "frame": {
+        "x": 3372,
+        "y": 6271,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-077.png": {
+      "frame": {
+        "x": 3710,
+        "y": 6271,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-078.png": {
+      "frame": {
+        "x": 2,
+        "y": 7010,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_acid_spray-079.png": {
+      "frame": {
+        "x": 340,
+        "y": 7010,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_acid_spray": [
+      "player1_acid_spray-000.png",
+      "player1_acid_spray-001.png",
+      "player1_acid_spray-002.png",
+      "player1_acid_spray-003.png",
+      "player1_acid_spray-004.png",
+      "player1_acid_spray-005.png",
+      "player1_acid_spray-006.png",
+      "player1_acid_spray-007.png",
+      "player1_acid_spray-008.png",
+      "player1_acid_spray-009.png",
+      "player1_acid_spray-010.png",
+      "player1_acid_spray-011.png",
+      "player1_acid_spray-012.png",
+      "player1_acid_spray-013.png",
+      "player1_acid_spray-014.png",
+      "player1_acid_spray-015.png",
+      "player1_acid_spray-016.png",
+      "player1_acid_spray-017.png",
+      "player1_acid_spray-018.png",
+      "player1_acid_spray-019.png",
+      "player1_acid_spray-020.png",
+      "player1_acid_spray-021.png",
+      "player1_acid_spray-022.png",
+      "player1_acid_spray-023.png",
+      "player1_acid_spray-024.png",
+      "player1_acid_spray-025.png",
+      "player1_acid_spray-026.png",
+      "player1_acid_spray-027.png",
+      "player1_acid_spray-028.png",
+      "player1_acid_spray-029.png",
+      "player1_acid_spray-030.png",
+      "player1_acid_spray-031.png",
+      "player1_acid_spray-032.png",
+      "player1_acid_spray-033.png",
+      "player1_acid_spray-034.png",
+      "player1_acid_spray-035.png",
+      "player1_acid_spray-036.png",
+      "player1_acid_spray-037.png",
+      "player1_acid_spray-038.png",
+      "player1_acid_spray-039.png",
+      "player1_acid_spray-040.png",
+      "player1_acid_spray-041.png",
+      "player1_acid_spray-042.png",
+      "player1_acid_spray-043.png",
+      "player1_acid_spray-044.png",
+      "player1_acid_spray-045.png",
+      "player1_acid_spray-046.png",
+      "player1_acid_spray-047.png",
+      "player1_acid_spray-048.png",
+      "player1_acid_spray-049.png",
+      "player1_acid_spray-050.png",
+      "player1_acid_spray-051.png",
+      "player1_acid_spray-052.png",
+      "player1_acid_spray-053.png",
+      "player1_acid_spray-054.png",
+      "player1_acid_spray-055.png",
+      "player1_acid_spray-056.png",
+      "player1_acid_spray-057.png",
+      "player1_acid_spray-058.png",
+      "player1_acid_spray-059.png",
+      "player1_acid_spray-060.png",
+      "player1_acid_spray-061.png",
+      "player1_acid_spray-062.png",
+      "player1_acid_spray-063.png",
+      "player1_acid_spray-064.png",
+      "player1_acid_spray-065.png",
+      "player1_acid_spray-066.png",
+      "player1_acid_spray-067.png",
+      "player1_acid_spray-068.png",
+      "player1_acid_spray-069.png",
+      "player1_acid_spray-070.png",
+      "player1_acid_spray-071.png",
+      "player1_acid_spray-072.png",
+      "player1_acid_spray-073.png",
+      "player1_acid_spray-074.png",
+      "player1_acid_spray-075.png",
+      "player1_acid_spray-076.png",
+      "player1_acid_spray-077.png",
+      "player1_acid_spray-078.png",
+      "player1_acid_spray-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_acid_spray.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4053,
+      "h": 7748
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_knuckle_combo-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-003.png": {
+      "frame": {
+        "x": 1019,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-004.png": {
+      "frame": {
+        "x": 1357,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-005.png": {
+      "frame": {
+        "x": 1695,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-006.png": {
+      "frame": {
+        "x": 2033,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-007.png": {
+      "frame": {
+        "x": 2371,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-008.png": {
+      "frame": {
+        "x": 2709,
+        "y": 2,
+        "w": 369,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 36,
+        "w": 369,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-009.png": {
+      "frame": {
+        "x": 3080,
+        "y": 2,
+        "w": 436,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 53,
+        "w": 436,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-010.png": {
+      "frame": {
+        "x": 3518,
+        "y": 2,
+        "w": 492,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 83,
+        "w": 492,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 440,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 73,
+        "w": 440,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-012.png": {
+      "frame": {
+        "x": 444,
+        "y": 740,
+        "w": 392,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 68,
+        "w": 392,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-013.png": {
+      "frame": {
+        "x": 838,
+        "y": 740,
+        "w": 722,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 67,
+        "w": 722,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-014.png": {
+      "frame": {
+        "x": 1562,
+        "y": 740,
+        "w": 790,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 208,
+        "y": 66,
+        "w": 790,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-015.png": {
+      "frame": {
+        "x": 2354,
+        "y": 740,
+        "w": 791,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 67,
+        "w": 791,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-016.png": {
+      "frame": {
+        "x": 3147,
+        "y": 740,
+        "w": 656,
+        "h": 691
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 71,
+        "w": 656,
+        "h": 691
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-017.png": {
+      "frame": {
+        "x": 2,
+        "y": 1438,
+        "w": 520,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 78,
+        "w": 520,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-018.png": {
+      "frame": {
+        "x": 524,
+        "y": 1438,
+        "w": 565,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 81,
+        "w": 565,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-019.png": {
+      "frame": {
+        "x": 1091,
+        "y": 1438,
+        "w": 592,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 83,
+        "w": 592,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-020.png": {
+      "frame": {
+        "x": 1685,
+        "y": 1438,
+        "w": 616,
+        "h": 687
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 75,
+        "w": 616,
+        "h": 687
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-021.png": {
+      "frame": {
+        "x": 2303,
+        "y": 1438,
+        "w": 617,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 69,
+        "w": 617,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-022.png": {
+      "frame": {
+        "x": 2922,
+        "y": 1438,
+        "w": 688,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 66,
+        "w": 688,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-023.png": {
+      "frame": {
+        "x": 2,
+        "y": 2136,
+        "w": 752,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 202,
+        "y": 67,
+        "w": 752,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-024.png": {
+      "frame": {
+        "x": 756,
+        "y": 2136,
+        "w": 756,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 268,
+        "y": 67,
+        "w": 756,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-025.png": {
+      "frame": {
+        "x": 1514,
+        "y": 2136,
+        "w": 656,
+        "h": 691
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 71,
+        "w": 656,
+        "h": 691
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-026.png": {
+      "frame": {
+        "x": 2172,
+        "y": 2136,
+        "w": 517,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 76,
+        "w": 517,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-027.png": {
+      "frame": {
+        "x": 2691,
+        "y": 2136,
+        "w": 567,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 80,
+        "w": 567,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-028.png": {
+      "frame": {
+        "x": 3260,
+        "y": 2136,
+        "w": 595,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 83,
+        "w": 595,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-029.png": {
+      "frame": {
+        "x": 2,
+        "y": 2833,
+        "w": 621,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 74,
+        "w": 621,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-030.png": {
+      "frame": {
+        "x": 625,
+        "y": 2833,
+        "w": 647,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 68,
+        "w": 647,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-031.png": {
+      "frame": {
+        "x": 1274,
+        "y": 2833,
+        "w": 744,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 196,
+        "y": 66,
+        "w": 744,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-032.png": {
+      "frame": {
+        "x": 2020,
+        "y": 2833,
+        "w": 784,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 209,
+        "y": 66,
+        "w": 784,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-033.png": {
+      "frame": {
+        "x": 2806,
+        "y": 2833,
+        "w": 736,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 288,
+        "y": 67,
+        "w": 736,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-034.png": {
+      "frame": {
+        "x": 2,
+        "y": 3531,
+        "w": 656,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 68,
+        "w": 656,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-035.png": {
+      "frame": {
+        "x": 660,
+        "y": 3531,
+        "w": 521,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 78,
+        "w": 521,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-036.png": {
+      "frame": {
+        "x": 1183,
+        "y": 3531,
+        "w": 566,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 81,
+        "w": 566,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-037.png": {
+      "frame": {
+        "x": 1751,
+        "y": 3531,
+        "w": 595,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 82,
+        "w": 595,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-038.png": {
+      "frame": {
+        "x": 2348,
+        "y": 3531,
+        "w": 622,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 74,
+        "w": 622,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-039.png": {
+      "frame": {
+        "x": 2972,
+        "y": 3531,
+        "w": 610,
+        "h": 693
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 69,
+        "w": 610,
+        "h": 693
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-040.png": {
+      "frame": {
+        "x": 3584,
+        "y": 3531,
+        "w": 447,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 269,
+        "y": 67,
+        "w": 447,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-041.png": {
+      "frame": {
+        "x": 2,
+        "y": 4228,
+        "w": 724,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 200,
+        "y": 67,
+        "w": 724,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-042.png": {
+      "frame": {
+        "x": 728,
+        "y": 4228,
+        "w": 785,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 239,
+        "y": 67,
+        "w": 785,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-043.png": {
+      "frame": {
+        "x": 1515,
+        "y": 4228,
+        "w": 736,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 288,
+        "y": 67,
+        "w": 736,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-044.png": {
+      "frame": {
+        "x": 2253,
+        "y": 4228,
+        "w": 656,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 72,
+        "w": 656,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-045.png": {
+      "frame": {
+        "x": 2911,
+        "y": 4228,
+        "w": 600,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 77,
+        "w": 600,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-046.png": {
+      "frame": {
+        "x": 3513,
+        "y": 4228,
+        "w": 576,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 81,
+        "w": 576,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-047.png": {
+      "frame": {
+        "x": 2,
+        "y": 4925,
+        "w": 617,
+        "h": 683
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 79,
+        "w": 617,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-048.png": {
+      "frame": {
+        "x": 621,
+        "y": 4925,
+        "w": 634,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 73,
+        "w": 634,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-049.png": {
+      "frame": {
+        "x": 1257,
+        "y": 4925,
+        "w": 689,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 283,
+        "y": 68,
+        "w": 689,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-050.png": {
+      "frame": {
+        "x": 1948,
+        "y": 4925,
+        "w": 745,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 195,
+        "y": 66,
+        "w": 745,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-051.png": {
+      "frame": {
+        "x": 2695,
+        "y": 4925,
+        "w": 776,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 248,
+        "y": 67,
+        "w": 776,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-052.png": {
+      "frame": {
+        "x": 2,
+        "y": 5623,
+        "w": 711,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 67,
+        "w": 711,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-053.png": {
+      "frame": {
+        "x": 715,
+        "y": 5623,
+        "w": 656,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 68,
+        "w": 656,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-054.png": {
+      "frame": {
+        "x": 1373,
+        "y": 5623,
+        "w": 522,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 77,
+        "w": 522,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-055.png": {
+      "frame": {
+        "x": 1897,
+        "y": 5623,
+        "w": 595,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 83,
+        "w": 595,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-056.png": {
+      "frame": {
+        "x": 2494,
+        "y": 5623,
+        "w": 613,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 83,
+        "w": 613,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-057.png": {
+      "frame": {
+        "x": 3109,
+        "y": 5623,
+        "w": 619,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 78,
+        "w": 619,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-058.png": {
+      "frame": {
+        "x": 2,
+        "y": 6320,
+        "w": 619,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 72,
+        "w": 619,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-059.png": {
+      "frame": {
+        "x": 623,
+        "y": 6320,
+        "w": 676,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 295,
+        "y": 67,
+        "w": 676,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-060.png": {
+      "frame": {
+        "x": 1301,
+        "y": 6320,
+        "w": 783,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 208,
+        "y": 66,
+        "w": 783,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-061.png": {
+      "frame": {
+        "x": 2086,
+        "y": 6320,
+        "w": 789,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 235,
+        "y": 66,
+        "w": 789,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-062.png": {
+      "frame": {
+        "x": 2877,
+        "y": 6320,
+        "w": 720,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 304,
+        "y": 68,
+        "w": 720,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-063.png": {
+      "frame": {
+        "x": 2,
+        "y": 7018,
+        "w": 656,
+        "h": 692
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 70,
+        "w": 656,
+        "h": 692
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-064.png": {
+      "frame": {
+        "x": 660,
+        "y": 7018,
+        "w": 567,
+        "h": 681
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 81,
+        "w": 567,
+        "h": 681
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-065.png": {
+      "frame": {
+        "x": 1229,
+        "y": 7018,
+        "w": 595,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 83,
+        "w": 595,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-066.png": {
+      "frame": {
+        "x": 1826,
+        "y": 7018,
+        "w": 634,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 77,
+        "w": 634,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-067.png": {
+      "frame": {
+        "x": 2462,
+        "y": 7018,
+        "w": 640,
+        "h": 691
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 339,
+        "y": 71,
+        "w": 640,
+        "h": 691
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-068.png": {
+      "frame": {
+        "x": 3104,
+        "y": 7018,
+        "w": 637,
+        "h": 698
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 64,
+        "w": 637,
+        "h": 698
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-069.png": {
+      "frame": {
+        "x": 3743,
+        "y": 7018,
+        "w": 341,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 36,
+        "w": 341,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-070.png": {
+      "frame": {
+        "x": 2,
+        "y": 7747,
+        "w": 330,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 31,
+        "w": 330,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-071.png": {
+      "frame": {
+        "x": 334,
+        "y": 7747,
+        "w": 324,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 28,
+        "w": 324,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-072.png": {
+      "frame": {
+        "x": 660,
+        "y": 7747,
+        "w": 326,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 27,
+        "w": 326,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-073.png": {
+      "frame": {
+        "x": 988,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-074.png": {
+      "frame": {
+        "x": 1326,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-075.png": {
+      "frame": {
+        "x": 1664,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-076.png": {
+      "frame": {
+        "x": 2002,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-077.png": {
+      "frame": {
+        "x": 2340,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-078.png": {
+      "frame": {
+        "x": 2678,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_knuckle_combo-079.png": {
+      "frame": {
+        "x": 3016,
+        "y": 7747,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_knuckle_combo": [
+      "player1_knuckle_combo-000.png",
+      "player1_knuckle_combo-001.png",
+      "player1_knuckle_combo-002.png",
+      "player1_knuckle_combo-003.png",
+      "player1_knuckle_combo-004.png",
+      "player1_knuckle_combo-005.png",
+      "player1_knuckle_combo-006.png",
+      "player1_knuckle_combo-007.png",
+      "player1_knuckle_combo-008.png",
+      "player1_knuckle_combo-009.png",
+      "player1_knuckle_combo-010.png",
+      "player1_knuckle_combo-011.png",
+      "player1_knuckle_combo-012.png",
+      "player1_knuckle_combo-013.png",
+      "player1_knuckle_combo-014.png",
+      "player1_knuckle_combo-015.png",
+      "player1_knuckle_combo-016.png",
+      "player1_knuckle_combo-017.png",
+      "player1_knuckle_combo-018.png",
+      "player1_knuckle_combo-019.png",
+      "player1_knuckle_combo-020.png",
+      "player1_knuckle_combo-021.png",
+      "player1_knuckle_combo-022.png",
+      "player1_knuckle_combo-023.png",
+      "player1_knuckle_combo-024.png",
+      "player1_knuckle_combo-025.png",
+      "player1_knuckle_combo-026.png",
+      "player1_knuckle_combo-027.png",
+      "player1_knuckle_combo-028.png",
+      "player1_knuckle_combo-029.png",
+      "player1_knuckle_combo-030.png",
+      "player1_knuckle_combo-031.png",
+      "player1_knuckle_combo-032.png",
+      "player1_knuckle_combo-033.png",
+      "player1_knuckle_combo-034.png",
+      "player1_knuckle_combo-035.png",
+      "player1_knuckle_combo-036.png",
+      "player1_knuckle_combo-037.png",
+      "player1_knuckle_combo-038.png",
+      "player1_knuckle_combo-039.png",
+      "player1_knuckle_combo-040.png",
+      "player1_knuckle_combo-041.png",
+      "player1_knuckle_combo-042.png",
+      "player1_knuckle_combo-043.png",
+      "player1_knuckle_combo-044.png",
+      "player1_knuckle_combo-045.png",
+      "player1_knuckle_combo-046.png",
+      "player1_knuckle_combo-047.png",
+      "player1_knuckle_combo-048.png",
+      "player1_knuckle_combo-049.png",
+      "player1_knuckle_combo-050.png",
+      "player1_knuckle_combo-051.png",
+      "player1_knuckle_combo-052.png",
+      "player1_knuckle_combo-053.png",
+      "player1_knuckle_combo-054.png",
+      "player1_knuckle_combo-055.png",
+      "player1_knuckle_combo-056.png",
+      "player1_knuckle_combo-057.png",
+      "player1_knuckle_combo-058.png",
+      "player1_knuckle_combo-059.png",
+      "player1_knuckle_combo-060.png",
+      "player1_knuckle_combo-061.png",
+      "player1_knuckle_combo-062.png",
+      "player1_knuckle_combo-063.png",
+      "player1_knuckle_combo-064.png",
+      "player1_knuckle_combo-065.png",
+      "player1_knuckle_combo-066.png",
+      "player1_knuckle_combo-067.png",
+      "player1_knuckle_combo-068.png",
+      "player1_knuckle_combo-069.png",
+      "player1_knuckle_combo-070.png",
+      "player1_knuckle_combo-071.png",
+      "player1_knuckle_combo-072.png",
+      "player1_knuckle_combo-073.png",
+      "player1_knuckle_combo-074.png",
+      "player1_knuckle_combo-075.png",
+      "player1_knuckle_combo-076.png",
+      "player1_knuckle_combo-077.png",
+      "player1_knuckle_combo-078.png",
+      "player1_knuckle_combo-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_knuckle_combo.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4091,
+      "h": 8486
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

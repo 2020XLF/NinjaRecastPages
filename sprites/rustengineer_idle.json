@@ -1,0 +1,1223 @@
+{
+  "frames": {
+    "rustengineer_idle-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 451,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 451,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-001.png": {
+      "frame": {
+        "x": 455,
+        "y": 2,
+        "w": 451,
+        "h": 1558
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 451,
+        "h": 1558
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-002.png": {
+      "frame": {
+        "x": 908,
+        "y": 2,
+        "w": 451,
+        "h": 1559
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 205,
+        "w": 451,
+        "h": 1559
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-003.png": {
+      "frame": {
+        "x": 1361,
+        "y": 2,
+        "w": 450,
+        "h": 1561
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 204,
+        "w": 450,
+        "h": 1561
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-004.png": {
+      "frame": {
+        "x": 1813,
+        "y": 2,
+        "w": 450,
+        "h": 1561
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 204,
+        "w": 450,
+        "h": 1561
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-005.png": {
+      "frame": {
+        "x": 2265,
+        "y": 2,
+        "w": 450,
+        "h": 1562
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 204,
+        "w": 450,
+        "h": 1562
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-006.png": {
+      "frame": {
+        "x": 2717,
+        "y": 2,
+        "w": 451,
+        "h": 1569
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 201,
+        "w": 451,
+        "h": 1569
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-007.png": {
+      "frame": {
+        "x": 3170,
+        "y": 2,
+        "w": 451,
+        "h": 1569
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 201,
+        "w": 451,
+        "h": 1569
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-008.png": {
+      "frame": {
+        "x": 3623,
+        "y": 2,
+        "w": 451,
+        "h": 1571
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 200,
+        "w": 451,
+        "h": 1571
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-009.png": {
+      "frame": {
+        "x": 4076,
+        "y": 2,
+        "w": 453,
+        "h": 1573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 199,
+        "w": 453,
+        "h": 1573
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-010.png": {
+      "frame": {
+        "x": 4531,
+        "y": 2,
+        "w": 453,
+        "h": 1573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 199,
+        "w": 453,
+        "h": 1573
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-011.png": {
+      "frame": {
+        "x": 4986,
+        "y": 2,
+        "w": 456,
+        "h": 1573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 358,
+        "y": 199,
+        "w": 456,
+        "h": 1573
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-012.png": {
+      "frame": {
+        "x": 5444,
+        "y": 2,
+        "w": 462,
+        "h": 1573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 199,
+        "w": 462,
+        "h": 1573
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-013.png": {
+      "frame": {
+        "x": 5908,
+        "y": 2,
+        "w": 462,
+        "h": 1573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 199,
+        "w": 462,
+        "h": 1573
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-014.png": {
+      "frame": {
+        "x": 6372,
+        "y": 2,
+        "w": 465,
+        "h": 1573
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 199,
+        "w": 465,
+        "h": 1573
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-015.png": {
+      "frame": {
+        "x": 6839,
+        "y": 2,
+        "w": 468,
+        "h": 1572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 200,
+        "w": 468,
+        "h": 1572
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-016.png": {
+      "frame": {
+        "x": 7309,
+        "y": 2,
+        "w": 468,
+        "h": 1572
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 200,
+        "w": 468,
+        "h": 1572
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-017.png": {
+      "frame": {
+        "x": 2,
+        "y": 1577,
+        "w": 472,
+        "h": 1571
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 201,
+        "w": 472,
+        "h": 1571
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-018.png": {
+      "frame": {
+        "x": 476,
+        "y": 1577,
+        "w": 474,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 202,
+        "w": 474,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-019.png": {
+      "frame": {
+        "x": 952,
+        "y": 1577,
+        "w": 474,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 202,
+        "w": 474,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-020.png": {
+      "frame": {
+        "x": 1428,
+        "y": 1577,
+        "w": 475,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 202,
+        "w": 475,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-021.png": {
+      "frame": {
+        "x": 1905,
+        "y": 1577,
+        "w": 473,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 203,
+        "w": 473,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-022.png": {
+      "frame": {
+        "x": 2380,
+        "y": 1577,
+        "w": 473,
+        "h": 1570
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 203,
+        "w": 473,
+        "h": 1570
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-023.png": {
+      "frame": {
+        "x": 2855,
+        "y": 1577,
+        "w": 471,
+        "h": 1571
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 202,
+        "w": 471,
+        "h": 1571
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-024.png": {
+      "frame": {
+        "x": 3328,
+        "y": 1577,
+        "w": 467,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 200,
+        "w": 467,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-025.png": {
+      "frame": {
+        "x": 3797,
+        "y": 1577,
+        "w": 467,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 200,
+        "w": 467,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-026.png": {
+      "frame": {
+        "x": 4266,
+        "y": 1577,
+        "w": 466,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 199,
+        "w": 466,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-027.png": {
+      "frame": {
+        "x": 4734,
+        "y": 1577,
+        "w": 463,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 199,
+        "w": 463,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-028.png": {
+      "frame": {
+        "x": 5199,
+        "y": 1577,
+        "w": 463,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 199,
+        "w": 463,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-029.png": {
+      "frame": {
+        "x": 5664,
+        "y": 1577,
+        "w": 462,
+        "h": 1576
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 198,
+        "w": 462,
+        "h": 1576
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-030.png": {
+      "frame": {
+        "x": 6128,
+        "y": 1577,
+        "w": 461,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 199,
+        "w": 461,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-031.png": {
+      "frame": {
+        "x": 6591,
+        "y": 1577,
+        "w": 461,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 199,
+        "w": 461,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-032.png": {
+      "frame": {
+        "x": 7054,
+        "y": 1577,
+        "w": 460,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 199,
+        "w": 460,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-033.png": {
+      "frame": {
+        "x": 7516,
+        "y": 1577,
+        "w": 458,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 199,
+        "w": 458,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-034.png": {
+      "frame": {
+        "x": 2,
+        "y": 3155,
+        "w": 458,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 199,
+        "w": 458,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-035.png": {
+      "frame": {
+        "x": 462,
+        "y": 3155,
+        "w": 457,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 199,
+        "w": 457,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-036.png": {
+      "frame": {
+        "x": 921,
+        "y": 3155,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-037.png": {
+      "frame": {
+        "x": 1379,
+        "y": 3155,
+        "w": 456,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 199,
+        "w": 456,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-038.png": {
+      "frame": {
+        "x": 1837,
+        "y": 3155,
+        "w": 455,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 199,
+        "w": 455,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-039.png": {
+      "frame": {
+        "x": 2294,
+        "y": 3155,
+        "w": 453,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 199,
+        "w": 453,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-040.png": {
+      "frame": {
+        "x": 2749,
+        "y": 3155,
+        "w": 453,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 199,
+        "w": 453,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-041.png": {
+      "frame": {
+        "x": 3204,
+        "y": 3155,
+        "w": 453,
+        "h": 1574
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 199,
+        "w": 453,
+        "h": 1574
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-042.png": {
+      "frame": {
+        "x": 3659,
+        "y": 3155,
+        "w": 452,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 198,
+        "w": 452,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-043.png": {
+      "frame": {
+        "x": 4113,
+        "y": 3155,
+        "w": 452,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 198,
+        "w": 452,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-044.png": {
+      "frame": {
+        "x": 4567,
+        "y": 3155,
+        "w": 450,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 198,
+        "w": 450,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-045.png": {
+      "frame": {
+        "x": 5019,
+        "y": 3155,
+        "w": 450,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 198,
+        "w": 450,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-046.png": {
+      "frame": {
+        "x": 5471,
+        "y": 3155,
+        "w": 450,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 198,
+        "w": 450,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "rustengineer_idle-047.png": {
+      "frame": {
+        "x": 5923,
+        "y": 3155,
+        "w": 450,
+        "h": 1575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 198,
+        "w": 450,
+        "h": 1575
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1920
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "rustengineer_idle": [
+      "rustengineer_idle-000.png",
+      "rustengineer_idle-001.png",
+      "rustengineer_idle-002.png",
+      "rustengineer_idle-003.png",
+      "rustengineer_idle-004.png",
+      "rustengineer_idle-005.png",
+      "rustengineer_idle-006.png",
+      "rustengineer_idle-007.png",
+      "rustengineer_idle-008.png",
+      "rustengineer_idle-009.png",
+      "rustengineer_idle-010.png",
+      "rustengineer_idle-011.png",
+      "rustengineer_idle-012.png",
+      "rustengineer_idle-013.png",
+      "rustengineer_idle-014.png",
+      "rustengineer_idle-015.png",
+      "rustengineer_idle-016.png",
+      "rustengineer_idle-017.png",
+      "rustengineer_idle-018.png",
+      "rustengineer_idle-019.png",
+      "rustengineer_idle-020.png",
+      "rustengineer_idle-021.png",
+      "rustengineer_idle-022.png",
+      "rustengineer_idle-023.png",
+      "rustengineer_idle-024.png",
+      "rustengineer_idle-025.png",
+      "rustengineer_idle-026.png",
+      "rustengineer_idle-027.png",
+      "rustengineer_idle-028.png",
+      "rustengineer_idle-029.png",
+      "rustengineer_idle-030.png",
+      "rustengineer_idle-031.png",
+      "rustengineer_idle-032.png",
+      "rustengineer_idle-033.png",
+      "rustengineer_idle-034.png",
+      "rustengineer_idle-035.png",
+      "rustengineer_idle-036.png",
+      "rustengineer_idle-037.png",
+      "rustengineer_idle-038.png",
+      "rustengineer_idle-039.png",
+      "rustengineer_idle-040.png",
+      "rustengineer_idle-041.png",
+      "rustengineer_idle-042.png",
+      "rustengineer_idle-043.png",
+      "rustengineer_idle-044.png",
+      "rustengineer_idle-045.png",
+      "rustengineer_idle-046.png",
+      "rustengineer_idle-047.png"
+    ]
+  },
+  "meta": {
+    "app": "ninja-recast idle remap",
+    "image": "rustengineer_idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 7976,
+      "h": 4732
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1080,
+      "h": 1920
+    }
+  }
+}

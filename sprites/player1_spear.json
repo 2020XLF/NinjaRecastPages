@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_spear-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 334,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 28,
+        "w": 334,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-003.png": {
+      "frame": {
+        "x": 1014,
+        "y": 2,
+        "w": 363,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 29,
+        "w": 363,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-004.png": {
+      "frame": {
+        "x": 1379,
+        "y": 2,
+        "w": 579,
+        "h": 701
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 31,
+        "w": 579,
+        "h": 701
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-005.png": {
+      "frame": {
+        "x": 1960,
+        "y": 2,
+        "w": 603,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 0,
+        "w": 603,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-006.png": {
+      "frame": {
+        "x": 2565,
+        "y": 2,
+        "w": 655,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 0,
+        "w": 655,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-007.png": {
+      "frame": {
+        "x": 3222,
+        "y": 2,
+        "w": 679,
+        "h": 689
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 203,
+        "y": 58,
+        "w": 679,
+        "h": 689
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-008.png": {
+      "frame": {
+        "x": 2,
+        "y": 740,
+        "w": 622,
+        "h": 685
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 222,
+        "y": 76,
+        "w": 622,
+        "h": 685
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-009.png": {
+      "frame": {
+        "x": 626,
+        "y": 740,
+        "w": 592,
+        "h": 676
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 89,
+        "w": 592,
+        "h": 676
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-010.png": {
+      "frame": {
+        "x": 1220,
+        "y": 740,
+        "w": 584,
+        "h": 668
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 238,
+        "y": 97,
+        "w": 584,
+        "h": 668
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-011.png": {
+      "frame": {
+        "x": 1806,
+        "y": 740,
+        "w": 582,
+        "h": 667
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 98,
+        "w": 582,
+        "h": 667
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-012.png": {
+      "frame": {
+        "x": 2390,
+        "y": 740,
+        "w": 583,
+        "h": 667
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 98,
+        "w": 583,
+        "h": 667
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-013.png": {
+      "frame": {
+        "x": 2975,
+        "y": 740,
+        "w": 583,
+        "h": 668
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 97,
+        "w": 583,
+        "h": 668
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-014.png": {
+      "frame": {
+        "x": 2,
+        "y": 1427,
+        "w": 584,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 584,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-015.png": {
+      "frame": {
+        "x": 588,
+        "y": 1427,
+        "w": 585,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 585,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-016.png": {
+      "frame": {
+        "x": 1175,
+        "y": 1427,
+        "w": 585,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 94,
+        "w": 585,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-017.png": {
+      "frame": {
+        "x": 1762,
+        "y": 1427,
+        "w": 586,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 586,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-018.png": {
+      "frame": {
+        "x": 2350,
+        "y": 1427,
+        "w": 586,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 586,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-019.png": {
+      "frame": {
+        "x": 2938,
+        "y": 1427,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-020.png": {
+      "frame": {
+        "x": 2,
+        "y": 2101,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-021.png": {
+      "frame": {
+        "x": 589,
+        "y": 2101,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-022.png": {
+      "frame": {
+        "x": 1176,
+        "y": 2101,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-023.png": {
+      "frame": {
+        "x": 1763,
+        "y": 2101,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-024.png": {
+      "frame": {
+        "x": 2350,
+        "y": 2101,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-025.png": {
+      "frame": {
+        "x": 2937,
+        "y": 2101,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-026.png": {
+      "frame": {
+        "x": 2,
+        "y": 2775,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-027.png": {
+      "frame": {
+        "x": 589,
+        "y": 2775,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-028.png": {
+      "frame": {
+        "x": 1176,
+        "y": 2775,
+        "w": 585,
+        "h": 672
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 93,
+        "w": 585,
+        "h": 672
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-029.png": {
+      "frame": {
+        "x": 1763,
+        "y": 2775,
+        "w": 585,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 94,
+        "w": 585,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-030.png": {
+      "frame": {
+        "x": 2350,
+        "y": 2775,
+        "w": 588,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 94,
+        "w": 588,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-031.png": {
+      "frame": {
+        "x": 2940,
+        "y": 2775,
+        "w": 592,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 94,
+        "w": 592,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-032.png": {
+      "frame": {
+        "x": 2,
+        "y": 3449,
+        "w": 592,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 94,
+        "w": 592,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-033.png": {
+      "frame": {
+        "x": 596,
+        "y": 3449,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-034.png": {
+      "frame": {
+        "x": 1189,
+        "y": 3449,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-035.png": {
+      "frame": {
+        "x": 1782,
+        "y": 3449,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-036.png": {
+      "frame": {
+        "x": 2375,
+        "y": 3449,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-037.png": {
+      "frame": {
+        "x": 2968,
+        "y": 3449,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-038.png": {
+      "frame": {
+        "x": 2,
+        "y": 4122,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-039.png": {
+      "frame": {
+        "x": 595,
+        "y": 4122,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-040.png": {
+      "frame": {
+        "x": 1188,
+        "y": 4122,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-041.png": {
+      "frame": {
+        "x": 1781,
+        "y": 4122,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-042.png": {
+      "frame": {
+        "x": 2374,
+        "y": 4122,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-043.png": {
+      "frame": {
+        "x": 2967,
+        "y": 4122,
+        "w": 591,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 591,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-044.png": {
+      "frame": {
+        "x": 2,
+        "y": 4794,
+        "w": 590,
+        "h": 669
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 242,
+        "y": 95,
+        "w": 590,
+        "h": 669
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-045.png": {
+      "frame": {
+        "x": 594,
+        "y": 4794,
+        "w": 597,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 244,
+        "y": 95,
+        "w": 597,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-046.png": {
+      "frame": {
+        "x": 1193,
+        "y": 4794,
+        "w": 644,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 251,
+        "y": 96,
+        "w": 644,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-047.png": {
+      "frame": {
+        "x": 1839,
+        "y": 4794,
+        "w": 766,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 258,
+        "y": 105,
+        "w": 766,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-048.png": {
+      "frame": {
+        "x": 2607,
+        "y": 4794,
+        "w": 737,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 113,
+        "w": 737,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-049.png": {
+      "frame": {
+        "x": 3346,
+        "y": 4794,
+        "w": 714,
+        "h": 651
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 310,
+        "y": 117,
+        "w": 714,
+        "h": 651
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-050.png": {
+      "frame": {
+        "x": 2,
+        "y": 5465,
+        "w": 699,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 119,
+        "w": 699,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-051.png": {
+      "frame": {
+        "x": 703,
+        "y": 5465,
+        "w": 696,
+        "h": 651
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 117,
+        "w": 696,
+        "h": 651
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-052.png": {
+      "frame": {
+        "x": 1401,
+        "y": 5465,
+        "w": 696,
+        "h": 651
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 117,
+        "w": 696,
+        "h": 651
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-053.png": {
+      "frame": {
+        "x": 2099,
+        "y": 5465,
+        "w": 696,
+        "h": 652
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 116,
+        "w": 696,
+        "h": 652
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-054.png": {
+      "frame": {
+        "x": 2797,
+        "y": 5465,
+        "w": 696,
+        "h": 654
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 114,
+        "w": 696,
+        "h": 654
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-055.png": {
+      "frame": {
+        "x": 2,
+        "y": 6121,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-056.png": {
+      "frame": {
+        "x": 700,
+        "y": 6121,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-057.png": {
+      "frame": {
+        "x": 1398,
+        "y": 6121,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-058.png": {
+      "frame": {
+        "x": 2096,
+        "y": 6121,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-059.png": {
+      "frame": {
+        "x": 2794,
+        "y": 6121,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-060.png": {
+      "frame": {
+        "x": 2,
+        "y": 6778,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-061.png": {
+      "frame": {
+        "x": 700,
+        "y": 6778,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-062.png": {
+      "frame": {
+        "x": 1398,
+        "y": 6778,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-063.png": {
+      "frame": {
+        "x": 2096,
+        "y": 6778,
+        "w": 696,
+        "h": 655
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 113,
+        "w": 696,
+        "h": 655
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-064.png": {
+      "frame": {
+        "x": 2794,
+        "y": 6778,
+        "w": 696,
+        "h": 656
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 112,
+        "w": 696,
+        "h": 656
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-065.png": {
+      "frame": {
+        "x": 2,
+        "y": 7436,
+        "w": 696,
+        "h": 659
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 109,
+        "w": 696,
+        "h": 659
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-066.png": {
+      "frame": {
+        "x": 700,
+        "y": 7436,
+        "w": 696,
+        "h": 747
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 15,
+        "w": 696,
+        "h": 747
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-067.png": {
+      "frame": {
+        "x": 1398,
+        "y": 7436,
+        "w": 696,
+        "h": 758
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 298,
+        "y": 0,
+        "w": 696,
+        "h": 758
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-068.png": {
+      "frame": {
+        "x": 2096,
+        "y": 7436,
+        "w": 698,
+        "h": 758
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 253,
+        "y": 0,
+        "w": 698,
+        "h": 758
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-069.png": {
+      "frame": {
+        "x": 2796,
+        "y": 7436,
+        "w": 822,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 178,
+        "y": 52,
+        "w": 822,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-070.png": {
+      "frame": {
+        "x": 2,
+        "y": 8196,
+        "w": 868,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 156,
+        "y": 40,
+        "w": 868,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-071.png": {
+      "frame": {
+        "x": 872,
+        "y": 8196,
+        "w": 835,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 154,
+        "y": 32,
+        "w": 835,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-072.png": {
+      "frame": {
+        "x": 1709,
+        "y": 8196,
+        "w": 666,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 29,
+        "w": 666,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-073.png": {
+      "frame": {
+        "x": 2377,
+        "y": 8196,
+        "w": 405,
+        "h": 741
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 27,
+        "w": 405,
+        "h": 741
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-074.png": {
+      "frame": {
+        "x": 2784,
+        "y": 8196,
+        "w": 389,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 288,
+        "y": 28,
+        "w": 389,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-075.png": {
+      "frame": {
+        "x": 3175,
+        "y": 8196,
+        "w": 386,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 28,
+        "w": 386,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-076.png": {
+      "frame": {
+        "x": 3563,
+        "y": 8196,
+        "w": 387,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 290,
+        "y": 28,
+        "w": 387,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-077.png": {
+      "frame": {
+        "x": 2,
+        "y": 8939,
+        "w": 388,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 289,
+        "y": 28,
+        "w": 388,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-078.png": {
+      "frame": {
+        "x": 392,
+        "y": 8939,
+        "w": 390,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 28,
+        "w": 390,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_spear-079.png": {
+      "frame": {
+        "x": 784,
+        "y": 8939,
+        "w": 390,
+        "h": 740
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 28,
+        "w": 390,
+        "h": 740
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_spear": [
+      "player1_spear-000.png",
+      "player1_spear-001.png",
+      "player1_spear-002.png",
+      "player1_spear-003.png",
+      "player1_spear-004.png",
+      "player1_spear-005.png",
+      "player1_spear-006.png",
+      "player1_spear-007.png",
+      "player1_spear-008.png",
+      "player1_spear-009.png",
+      "player1_spear-010.png",
+      "player1_spear-011.png",
+      "player1_spear-012.png",
+      "player1_spear-013.png",
+      "player1_spear-014.png",
+      "player1_spear-015.png",
+      "player1_spear-016.png",
+      "player1_spear-017.png",
+      "player1_spear-018.png",
+      "player1_spear-019.png",
+      "player1_spear-020.png",
+      "player1_spear-021.png",
+      "player1_spear-022.png",
+      "player1_spear-023.png",
+      "player1_spear-024.png",
+      "player1_spear-025.png",
+      "player1_spear-026.png",
+      "player1_spear-027.png",
+      "player1_spear-028.png",
+      "player1_spear-029.png",
+      "player1_spear-030.png",
+      "player1_spear-031.png",
+      "player1_spear-032.png",
+      "player1_spear-033.png",
+      "player1_spear-034.png",
+      "player1_spear-035.png",
+      "player1_spear-036.png",
+      "player1_spear-037.png",
+      "player1_spear-038.png",
+      "player1_spear-039.png",
+      "player1_spear-040.png",
+      "player1_spear-041.png",
+      "player1_spear-042.png",
+      "player1_spear-043.png",
+      "player1_spear-044.png",
+      "player1_spear-045.png",
+      "player1_spear-046.png",
+      "player1_spear-047.png",
+      "player1_spear-048.png",
+      "player1_spear-049.png",
+      "player1_spear-050.png",
+      "player1_spear-051.png",
+      "player1_spear-052.png",
+      "player1_spear-053.png",
+      "player1_spear-054.png",
+      "player1_spear-055.png",
+      "player1_spear-056.png",
+      "player1_spear-057.png",
+      "player1_spear-058.png",
+      "player1_spear-059.png",
+      "player1_spear-060.png",
+      "player1_spear-061.png",
+      "player1_spear-062.png",
+      "player1_spear-063.png",
+      "player1_spear-064.png",
+      "player1_spear-065.png",
+      "player1_spear-066.png",
+      "player1_spear-067.png",
+      "player1_spear-068.png",
+      "player1_spear-069.png",
+      "player1_spear-070.png",
+      "player1_spear-071.png",
+      "player1_spear-072.png",
+      "player1_spear-073.png",
+      "player1_spear-074.png",
+      "player1_spear-075.png",
+      "player1_spear-076.png",
+      "player1_spear-077.png",
+      "player1_spear-078.png",
+      "player1_spear-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_spear.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4062,
+      "h": 9681
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_kesa_slash-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-001.png": {
+      "frame": {
+        "x": 340,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-002.png": {
+      "frame": {
+        "x": 678,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-003.png": {
+      "frame": {
+        "x": 1016,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-004.png": {
+      "frame": {
+        "x": 1354,
+        "y": 2,
+        "w": 336,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 27,
+        "w": 336,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-005.png": {
+      "frame": {
+        "x": 1692,
+        "y": 2,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-006.png": {
+      "frame": {
+        "x": 2030,
+        "y": 2,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 342,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-007.png": {
+      "frame": {
+        "x": 2367,
+        "y": 2,
+        "w": 332,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 32,
+        "w": 332,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-008.png": {
+      "frame": {
+        "x": 2701,
+        "y": 2,
+        "w": 329,
+        "h": 728
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 36,
+        "w": 329,
+        "h": 728
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-009.png": {
+      "frame": {
+        "x": 3032,
+        "y": 2,
+        "w": 327,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 40,
+        "w": 327,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-010.png": {
+      "frame": {
+        "x": 3361,
+        "y": 2,
+        "w": 327,
+        "h": 721
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 43,
+        "w": 327,
+        "h": 721
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-011.png": {
+      "frame": {
+        "x": 3690,
+        "y": 2,
+        "w": 326,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 50,
+        "w": 326,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-012.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 326,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 52,
+        "w": 326,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-013.png": {
+      "frame": {
+        "x": 330,
+        "y": 741,
+        "w": 326,
+        "h": 711
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 53,
+        "w": 326,
+        "h": 711
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-014.png": {
+      "frame": {
+        "x": 658,
+        "y": 741,
+        "w": 327,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 56,
+        "w": 327,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-015.png": {
+      "frame": {
+        "x": 987,
+        "y": 741,
+        "w": 328,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 56,
+        "w": 328,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-016.png": {
+      "frame": {
+        "x": 1317,
+        "y": 741,
+        "w": 330,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 57,
+        "w": 330,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-017.png": {
+      "frame": {
+        "x": 1649,
+        "y": 741,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-018.png": {
+      "frame": {
+        "x": 1981,
+        "y": 741,
+        "w": 330,
+        "h": 707
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 57,
+        "w": 330,
+        "h": 707
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-019.png": {
+      "frame": {
+        "x": 2313,
+        "y": 741,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-020.png": {
+      "frame": {
+        "x": 2645,
+        "y": 741,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-021.png": {
+      "frame": {
+        "x": 2977,
+        "y": 741,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-022.png": {
+      "frame": {
+        "x": 3309,
+        "y": 741,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-023.png": {
+      "frame": {
+        "x": 3641,
+        "y": 741,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-024.png": {
+      "frame": {
+        "x": 2,
+        "y": 1455,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-025.png": {
+      "frame": {
+        "x": 334,
+        "y": 1455,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-026.png": {
+      "frame": {
+        "x": 666,
+        "y": 1455,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-027.png": {
+      "frame": {
+        "x": 998,
+        "y": 1455,
+        "w": 330,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 353,
+        "y": 56,
+        "w": 330,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-028.png": {
+      "frame": {
+        "x": 1330,
+        "y": 1455,
+        "w": 332,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 352,
+        "y": 56,
+        "w": 332,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-029.png": {
+      "frame": {
+        "x": 1664,
+        "y": 1455,
+        "w": 334,
+        "h": 708
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 56,
+        "w": 334,
+        "h": 708
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-030.png": {
+      "frame": {
+        "x": 2000,
+        "y": 1455,
+        "w": 344,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 67,
+        "w": 344,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-031.png": {
+      "frame": {
+        "x": 2346,
+        "y": 1455,
+        "w": 334,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 74,
+        "w": 334,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-032.png": {
+      "frame": {
+        "x": 2682,
+        "y": 1455,
+        "w": 323,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 84,
+        "w": 323,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-033.png": {
+      "frame": {
+        "x": 3007,
+        "y": 1455,
+        "w": 316,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 93,
+        "w": 316,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-034.png": {
+      "frame": {
+        "x": 3325,
+        "y": 1455,
+        "w": 415,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 101,
+        "w": 415,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-035.png": {
+      "frame": {
+        "x": 2,
+        "y": 2165,
+        "w": 522,
+        "h": 663
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 283,
+        "y": 101,
+        "w": 522,
+        "h": 663
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-036.png": {
+      "frame": {
+        "x": 526,
+        "y": 2165,
+        "w": 557,
+        "h": 664
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 248,
+        "y": 100,
+        "w": 557,
+        "h": 664
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-037.png": {
+      "frame": {
+        "x": 1085,
+        "y": 2165,
+        "w": 708,
+        "h": 668
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 96,
+        "w": 708,
+        "h": 668
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-038.png": {
+      "frame": {
+        "x": 1795,
+        "y": 2165,
+        "w": 953,
+        "h": 671
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 93,
+        "w": 953,
+        "h": 671
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-039.png": {
+      "frame": {
+        "x": 2750,
+        "y": 2165,
+        "w": 1024,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 91,
+        "w": 1024,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-040.png": {
+      "frame": {
+        "x": 2,
+        "y": 2840,
+        "w": 1024,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 91,
+        "w": 1024,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-041.png": {
+      "frame": {
+        "x": 1028,
+        "y": 2840,
+        "w": 1024,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 91,
+        "w": 1024,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-042.png": {
+      "frame": {
+        "x": 2054,
+        "y": 2840,
+        "w": 1024,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 91,
+        "w": 1024,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-043.png": {
+      "frame": {
+        "x": 2,
+        "y": 3515,
+        "w": 1024,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 91,
+        "w": 1024,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-044.png": {
+      "frame": {
+        "x": 1028,
+        "y": 3515,
+        "w": 777,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 235,
+        "y": 91,
+        "w": 777,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-045.png": {
+      "frame": {
+        "x": 1807,
+        "y": 3515,
+        "w": 475,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 235,
+        "y": 91,
+        "w": 475,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-046.png": {
+      "frame": {
+        "x": 2284,
+        "y": 3515,
+        "w": 474,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 474,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-047.png": {
+      "frame": {
+        "x": 2760,
+        "y": 3515,
+        "w": 475,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 475,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-048.png": {
+      "frame": {
+        "x": 3237,
+        "y": 3515,
+        "w": 474,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 474,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-049.png": {
+      "frame": {
+        "x": 2,
+        "y": 4190,
+        "w": 474,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 474,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-050.png": {
+      "frame": {
+        "x": 478,
+        "y": 4190,
+        "w": 475,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 475,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-051.png": {
+      "frame": {
+        "x": 955,
+        "y": 4190,
+        "w": 475,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 475,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-052.png": {
+      "frame": {
+        "x": 1432,
+        "y": 4190,
+        "w": 475,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 91,
+        "w": 475,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-053.png": {
+      "frame": {
+        "x": 1909,
+        "y": 4190,
+        "w": 487,
+        "h": 674
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 90,
+        "w": 487,
+        "h": 674
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-054.png": {
+      "frame": {
+        "x": 2398,
+        "y": 4190,
+        "w": 485,
+        "h": 675
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 89,
+        "w": 485,
+        "h": 675
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-055.png": {
+      "frame": {
+        "x": 2885,
+        "y": 4190,
+        "w": 476,
+        "h": 676
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 245,
+        "y": 88,
+        "w": 476,
+        "h": 676
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-056.png": {
+      "frame": {
+        "x": 3363,
+        "y": 4190,
+        "w": 451,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 263,
+        "y": 85,
+        "w": 451,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 4871,
+        "w": 426,
+        "h": 688
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 321,
+        "y": 76,
+        "w": 426,
+        "h": 688
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-058.png": {
+      "frame": {
+        "x": 430,
+        "y": 4871,
+        "w": 387,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 70,
+        "w": 387,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-059.png": {
+      "frame": {
+        "x": 819,
+        "y": 4871,
+        "w": 349,
+        "h": 700
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 64,
+        "w": 349,
+        "h": 700
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-060.png": {
+      "frame": {
+        "x": 1170,
+        "y": 4871,
+        "w": 309,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 58,
+        "w": 309,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-061.png": {
+      "frame": {
+        "x": 1481,
+        "y": 4871,
+        "w": 308,
+        "h": 712
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 52,
+        "w": 308,
+        "h": 712
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-062.png": {
+      "frame": {
+        "x": 1791,
+        "y": 4871,
+        "w": 309,
+        "h": 723
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 41,
+        "w": 309,
+        "h": 723
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-063.png": {
+      "frame": {
+        "x": 2102,
+        "y": 4871,
+        "w": 318,
+        "h": 727
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 361,
+        "y": 37,
+        "w": 318,
+        "h": 727
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-064.png": {
+      "frame": {
+        "x": 2422,
+        "y": 4871,
+        "w": 323,
+        "h": 729
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 355,
+        "y": 35,
+        "w": 323,
+        "h": 729
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-065.png": {
+      "frame": {
+        "x": 2747,
+        "y": 4871,
+        "w": 327,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 32,
+        "w": 327,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-066.png": {
+      "frame": {
+        "x": 3076,
+        "y": 4871,
+        "w": 330,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 348,
+        "y": 30,
+        "w": 330,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-067.png": {
+      "frame": {
+        "x": 3408,
+        "y": 4871,
+        "w": 332,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 29,
+        "w": 332,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-068.png": {
+      "frame": {
+        "x": 3742,
+        "y": 4871,
+        "w": 333,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 28,
+        "w": 333,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-069.png": {
+      "frame": {
+        "x": 2,
+        "y": 5609,
+        "w": 334,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 28,
+        "w": 334,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-070.png": {
+      "frame": {
+        "x": 338,
+        "y": 5609,
+        "w": 335,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 28,
+        "w": 335,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-071.png": {
+      "frame": {
+        "x": 675,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-072.png": {
+      "frame": {
+        "x": 1013,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-073.png": {
+      "frame": {
+        "x": 1351,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-074.png": {
+      "frame": {
+        "x": 1689,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-075.png": {
+      "frame": {
+        "x": 2027,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-076.png": {
+      "frame": {
+        "x": 2365,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-077.png": {
+      "frame": {
+        "x": 2703,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-078.png": {
+      "frame": {
+        "x": 3041,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_kesa_slash-079.png": {
+      "frame": {
+        "x": 3379,
+        "y": 5609,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_kesa_slash": [
+      "player1_kesa_slash-000.png",
+      "player1_kesa_slash-001.png",
+      "player1_kesa_slash-002.png",
+      "player1_kesa_slash-003.png",
+      "player1_kesa_slash-004.png",
+      "player1_kesa_slash-005.png",
+      "player1_kesa_slash-006.png",
+      "player1_kesa_slash-007.png",
+      "player1_kesa_slash-008.png",
+      "player1_kesa_slash-009.png",
+      "player1_kesa_slash-010.png",
+      "player1_kesa_slash-011.png",
+      "player1_kesa_slash-012.png",
+      "player1_kesa_slash-013.png",
+      "player1_kesa_slash-014.png",
+      "player1_kesa_slash-015.png",
+      "player1_kesa_slash-016.png",
+      "player1_kesa_slash-017.png",
+      "player1_kesa_slash-018.png",
+      "player1_kesa_slash-019.png",
+      "player1_kesa_slash-020.png",
+      "player1_kesa_slash-021.png",
+      "player1_kesa_slash-022.png",
+      "player1_kesa_slash-023.png",
+      "player1_kesa_slash-024.png",
+      "player1_kesa_slash-025.png",
+      "player1_kesa_slash-026.png",
+      "player1_kesa_slash-027.png",
+      "player1_kesa_slash-028.png",
+      "player1_kesa_slash-029.png",
+      "player1_kesa_slash-030.png",
+      "player1_kesa_slash-031.png",
+      "player1_kesa_slash-032.png",
+      "player1_kesa_slash-033.png",
+      "player1_kesa_slash-034.png",
+      "player1_kesa_slash-035.png",
+      "player1_kesa_slash-036.png",
+      "player1_kesa_slash-037.png",
+      "player1_kesa_slash-038.png",
+      "player1_kesa_slash-039.png",
+      "player1_kesa_slash-040.png",
+      "player1_kesa_slash-041.png",
+      "player1_kesa_slash-042.png",
+      "player1_kesa_slash-043.png",
+      "player1_kesa_slash-044.png",
+      "player1_kesa_slash-045.png",
+      "player1_kesa_slash-046.png",
+      "player1_kesa_slash-047.png",
+      "player1_kesa_slash-048.png",
+      "player1_kesa_slash-049.png",
+      "player1_kesa_slash-050.png",
+      "player1_kesa_slash-051.png",
+      "player1_kesa_slash-052.png",
+      "player1_kesa_slash-053.png",
+      "player1_kesa_slash-054.png",
+      "player1_kesa_slash-055.png",
+      "player1_kesa_slash-056.png",
+      "player1_kesa_slash-057.png",
+      "player1_kesa_slash-058.png",
+      "player1_kesa_slash-059.png",
+      "player1_kesa_slash-060.png",
+      "player1_kesa_slash-061.png",
+      "player1_kesa_slash-062.png",
+      "player1_kesa_slash-063.png",
+      "player1_kesa_slash-064.png",
+      "player1_kesa_slash-065.png",
+      "player1_kesa_slash-066.png",
+      "player1_kesa_slash-067.png",
+      "player1_kesa_slash-068.png",
+      "player1_kesa_slash-069.png",
+      "player1_kesa_slash-070.png",
+      "player1_kesa_slash-071.png",
+      "player1_kesa_slash-072.png",
+      "player1_kesa_slash-073.png",
+      "player1_kesa_slash-074.png",
+      "player1_kesa_slash-075.png",
+      "player1_kesa_slash-076.png",
+      "player1_kesa_slash-077.png",
+      "player1_kesa_slash-078.png",
+      "player1_kesa_slash-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_kesa_slash.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4077,
+      "h": 6347
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

@@ -1,0 +1,2023 @@
+{
+  "frames": {
+    "player1_foresight_cut-000.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-001.png": {
+      "frame": {
+        "x": 341,
+        "y": 2,
+        "w": 337,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 337,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-002.png": {
+      "frame": {
+        "x": 680,
+        "y": 2,
+        "w": 335,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 335,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-003.png": {
+      "frame": {
+        "x": 1017,
+        "y": 2,
+        "w": 333,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 344,
+        "y": 27,
+        "w": 333,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-004.png": {
+      "frame": {
+        "x": 1352,
+        "y": 2,
+        "w": 332,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 28,
+        "w": 332,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-005.png": {
+      "frame": {
+        "x": 1686,
+        "y": 2,
+        "w": 331,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 346,
+        "y": 28,
+        "w": 331,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-006.png": {
+      "frame": {
+        "x": 2019,
+        "y": 2,
+        "w": 330,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 28,
+        "w": 330,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-007.png": {
+      "frame": {
+        "x": 2351,
+        "y": 2,
+        "w": 323,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 354,
+        "y": 30,
+        "w": 323,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-008.png": {
+      "frame": {
+        "x": 2676,
+        "y": 2,
+        "w": 318,
+        "h": 721
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 362,
+        "y": 32,
+        "w": 318,
+        "h": 721
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-009.png": {
+      "frame": {
+        "x": 2996,
+        "y": 2,
+        "w": 348,
+        "h": 704
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 357,
+        "y": 40,
+        "w": 348,
+        "h": 704
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-010.png": {
+      "frame": {
+        "x": 3346,
+        "y": 2,
+        "w": 398,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 325,
+        "y": 50,
+        "w": 398,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-011.png": {
+      "frame": {
+        "x": 2,
+        "y": 741,
+        "w": 510,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 223,
+        "y": 96,
+        "w": 510,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-012.png": {
+      "frame": {
+        "x": 514,
+        "y": 741,
+        "w": 537,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 127,
+        "w": 537,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-013.png": {
+      "frame": {
+        "x": 1053,
+        "y": 741,
+        "w": 528,
+        "h": 588
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 154,
+        "w": 528,
+        "h": 588
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-014.png": {
+      "frame": {
+        "x": 1583,
+        "y": 741,
+        "w": 855,
+        "h": 564
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 169,
+        "y": 179,
+        "w": 855,
+        "h": 564
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-015.png": {
+      "frame": {
+        "x": 2440,
+        "y": 741,
+        "w": 856,
+        "h": 544
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 168,
+        "y": 199,
+        "w": 856,
+        "h": 544
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-016.png": {
+      "frame": {
+        "x": 2,
+        "y": 1379,
+        "w": 838,
+        "h": 522
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 221,
+        "w": 838,
+        "h": 522
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-017.png": {
+      "frame": {
+        "x": 842,
+        "y": 1379,
+        "w": 655,
+        "h": 516
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 227,
+        "w": 655,
+        "h": 516
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-018.png": {
+      "frame": {
+        "x": 1499,
+        "y": 1379,
+        "w": 856,
+        "h": 678
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 168,
+        "y": 65,
+        "w": 856,
+        "h": 678
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-019.png": {
+      "frame": {
+        "x": 2357,
+        "y": 1379,
+        "w": 856,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 168,
+        "y": 49,
+        "w": 856,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-020.png": {
+      "frame": {
+        "x": 3215,
+        "y": 1379,
+        "w": 862,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 162,
+        "y": 53,
+        "w": 862,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-021.png": {
+      "frame": {
+        "x": 2,
+        "y": 2075,
+        "w": 749,
+        "h": 649
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 94,
+        "w": 749,
+        "h": 649
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-022.png": {
+      "frame": {
+        "x": 753,
+        "y": 2075,
+        "w": 655,
+        "h": 623
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 120,
+        "w": 655,
+        "h": 623
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-023.png": {
+      "frame": {
+        "x": 1410,
+        "y": 2075,
+        "w": 1024,
+        "h": 589
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 154,
+        "w": 1024,
+        "h": 589
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-024.png": {
+      "frame": {
+        "x": 2436,
+        "y": 2075,
+        "w": 897,
+        "h": 495
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 127,
+        "y": 248,
+        "w": 897,
+        "h": 495
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-025.png": {
+      "frame": {
+        "x": 2,
+        "y": 2726,
+        "w": 1024,
+        "h": 494
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 249,
+        "w": 1024,
+        "h": 494
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-026.png": {
+      "frame": {
+        "x": 1028,
+        "y": 2726,
+        "w": 654,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 247,
+        "w": 654,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-027.png": {
+      "frame": {
+        "x": 1684,
+        "y": 2726,
+        "w": 1024,
+        "h": 626
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 117,
+        "w": 1024,
+        "h": 626
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-028.png": {
+      "frame": {
+        "x": 2710,
+        "y": 2726,
+        "w": 914,
+        "h": 634
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 109,
+        "w": 914,
+        "h": 634
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-029.png": {
+      "frame": {
+        "x": 2,
+        "y": 3362,
+        "w": 921,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 116,
+        "w": 921,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-030.png": {
+      "frame": {
+        "x": 925,
+        "y": 3362,
+        "w": 558,
+        "h": 509
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 234,
+        "w": 558,
+        "h": 509
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-031.png": {
+      "frame": {
+        "x": 1485,
+        "y": 3362,
+        "w": 558,
+        "h": 511
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 232,
+        "w": 558,
+        "h": 511
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-032.png": {
+      "frame": {
+        "x": 2045,
+        "y": 3362,
+        "w": 928,
+        "h": 514
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 229,
+        "w": 928,
+        "h": 514
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-033.png": {
+      "frame": {
+        "x": 2975,
+        "y": 3362,
+        "w": 931,
+        "h": 526
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 218,
+        "w": 931,
+        "h": 526
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-034.png": {
+      "frame": {
+        "x": 2,
+        "y": 3991,
+        "w": 995,
+        "h": 565
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 180,
+        "w": 995,
+        "h": 565
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-035.png": {
+      "frame": {
+        "x": 999,
+        "y": 3991,
+        "w": 755,
+        "h": 583
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 163,
+        "w": 755,
+        "h": 583
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-036.png": {
+      "frame": {
+        "x": 1756,
+        "y": 3991,
+        "w": 771,
+        "h": 588
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 156,
+        "w": 771,
+        "h": 588
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-037.png": {
+      "frame": {
+        "x": 2529,
+        "y": 3991,
+        "w": 867,
+        "h": 591
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 153,
+        "w": 867,
+        "h": 591
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-038.png": {
+      "frame": {
+        "x": 2,
+        "y": 4584,
+        "w": 823,
+        "h": 592
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 152,
+        "w": 823,
+        "h": 592
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-039.png": {
+      "frame": {
+        "x": 827,
+        "y": 4584,
+        "w": 874,
+        "h": 590
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 154,
+        "w": 874,
+        "h": 590
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-040.png": {
+      "frame": {
+        "x": 1703,
+        "y": 4584,
+        "w": 889,
+        "h": 589
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 155,
+        "w": 889,
+        "h": 589
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-041.png": {
+      "frame": {
+        "x": 2594,
+        "y": 4584,
+        "w": 902,
+        "h": 587
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 157,
+        "w": 902,
+        "h": 587
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-042.png": {
+      "frame": {
+        "x": 2,
+        "y": 5178,
+        "w": 909,
+        "h": 587
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 157,
+        "w": 909,
+        "h": 587
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-043.png": {
+      "frame": {
+        "x": 913,
+        "y": 5178,
+        "w": 888,
+        "h": 586
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 158,
+        "w": 888,
+        "h": 586
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-044.png": {
+      "frame": {
+        "x": 1803,
+        "y": 5178,
+        "w": 824,
+        "h": 587
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 157,
+        "w": 824,
+        "h": 587
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-045.png": {
+      "frame": {
+        "x": 2629,
+        "y": 5178,
+        "w": 828,
+        "h": 587
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 157,
+        "w": 828,
+        "h": 587
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-046.png": {
+      "frame": {
+        "x": 2,
+        "y": 5767,
+        "w": 831,
+        "h": 586
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 158,
+        "w": 831,
+        "h": 586
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-047.png": {
+      "frame": {
+        "x": 835,
+        "y": 5767,
+        "w": 832,
+        "h": 586
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 158,
+        "w": 832,
+        "h": 586
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-048.png": {
+      "frame": {
+        "x": 1669,
+        "y": 5767,
+        "w": 835,
+        "h": 585
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 159,
+        "w": 835,
+        "h": 585
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-049.png": {
+      "frame": {
+        "x": 2506,
+        "y": 5767,
+        "w": 835,
+        "h": 584
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 160,
+        "w": 835,
+        "h": 584
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-050.png": {
+      "frame": {
+        "x": 3343,
+        "y": 5767,
+        "w": 732,
+        "h": 583
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 161,
+        "w": 732,
+        "h": 583
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-051.png": {
+      "frame": {
+        "x": 2,
+        "y": 6355,
+        "w": 656,
+        "h": 583
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 161,
+        "w": 656,
+        "h": 583
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-052.png": {
+      "frame": {
+        "x": 660,
+        "y": 6355,
+        "w": 656,
+        "h": 583
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 161,
+        "w": 656,
+        "h": 583
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-053.png": {
+      "frame": {
+        "x": 1318,
+        "y": 6355,
+        "w": 655,
+        "h": 582
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 162,
+        "w": 655,
+        "h": 582
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-054.png": {
+      "frame": {
+        "x": 1975,
+        "y": 6355,
+        "w": 654,
+        "h": 581
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 163,
+        "w": 654,
+        "h": 581
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-055.png": {
+      "frame": {
+        "x": 2631,
+        "y": 6355,
+        "w": 649,
+        "h": 581
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 163,
+        "w": 649,
+        "h": 581
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-056.png": {
+      "frame": {
+        "x": 3282,
+        "y": 6355,
+        "w": 642,
+        "h": 580
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 164,
+        "w": 642,
+        "h": 580
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-057.png": {
+      "frame": {
+        "x": 2,
+        "y": 6940,
+        "w": 617,
+        "h": 582
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 162,
+        "w": 617,
+        "h": 582
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-058.png": {
+      "frame": {
+        "x": 621,
+        "y": 6940,
+        "w": 596,
+        "h": 585
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 159,
+        "w": 596,
+        "h": 585
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-059.png": {
+      "frame": {
+        "x": 1219,
+        "y": 6940,
+        "w": 576,
+        "h": 591
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 194,
+        "y": 154,
+        "w": 576,
+        "h": 591
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-060.png": {
+      "frame": {
+        "x": 1797,
+        "y": 6940,
+        "w": 561,
+        "h": 598
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 200,
+        "y": 147,
+        "w": 561,
+        "h": 598
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-061.png": {
+      "frame": {
+        "x": 2360,
+        "y": 6940,
+        "w": 546,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 207,
+        "y": 138,
+        "w": 546,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-062.png": {
+      "frame": {
+        "x": 2908,
+        "y": 6940,
+        "w": 485,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 249,
+        "y": 114,
+        "w": 485,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-063.png": {
+      "frame": {
+        "x": 3395,
+        "y": 6940,
+        "w": 443,
+        "h": 639
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 102,
+        "w": 443,
+        "h": 639
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-064.png": {
+      "frame": {
+        "x": 2,
+        "y": 7581,
+        "w": 395,
+        "h": 647
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 315,
+        "y": 89,
+        "w": 395,
+        "h": 647
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-065.png": {
+      "frame": {
+        "x": 399,
+        "y": 7581,
+        "w": 367,
+        "h": 657
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 78,
+        "w": 367,
+        "h": 657
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-066.png": {
+      "frame": {
+        "x": 768,
+        "y": 7581,
+        "w": 340,
+        "h": 690
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 368,
+        "y": 60,
+        "w": 340,
+        "h": 690
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-067.png": {
+      "frame": {
+        "x": 1110,
+        "y": 7581,
+        "w": 341,
+        "h": 710
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 53,
+        "w": 341,
+        "h": 710
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-068.png": {
+      "frame": {
+        "x": 1453,
+        "y": 7581,
+        "w": 339,
+        "h": 714
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 375,
+        "y": 49,
+        "w": 339,
+        "h": 714
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-069.png": {
+      "frame": {
+        "x": 1794,
+        "y": 7581,
+        "w": 335,
+        "h": 720
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 44,
+        "w": 335,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-070.png": {
+      "frame": {
+        "x": 2131,
+        "y": 7581,
+        "w": 329,
+        "h": 724
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 376,
+        "y": 40,
+        "w": 329,
+        "h": 724
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-071.png": {
+      "frame": {
+        "x": 2462,
+        "y": 7581,
+        "w": 318,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 372,
+        "y": 34,
+        "w": 318,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-072.png": {
+      "frame": {
+        "x": 2782,
+        "y": 7581,
+        "w": 319,
+        "h": 732
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 364,
+        "y": 32,
+        "w": 319,
+        "h": 732
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-073.png": {
+      "frame": {
+        "x": 3103,
+        "y": 7581,
+        "w": 318,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 359,
+        "y": 30,
+        "w": 318,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-074.png": {
+      "frame": {
+        "x": 3423,
+        "y": 7581,
+        "w": 321,
+        "h": 735
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 29,
+        "w": 321,
+        "h": 735
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-075.png": {
+      "frame": {
+        "x": 3746,
+        "y": 7581,
+        "w": 326,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 351,
+        "y": 27,
+        "w": 326,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-076.png": {
+      "frame": {
+        "x": 2,
+        "y": 8320,
+        "w": 330,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 347,
+        "y": 28,
+        "w": 330,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-077.png": {
+      "frame": {
+        "x": 334,
+        "y": 8320,
+        "w": 332,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 345,
+        "y": 28,
+        "w": 332,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-078.png": {
+      "frame": {
+        "x": 668,
+        "y": 8320,
+        "w": 334,
+        "h": 737
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 27,
+        "w": 334,
+        "h": 737
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "player1_foresight_cut-079.png": {
+      "frame": {
+        "x": 1004,
+        "y": 8320,
+        "w": 336,
+        "h": 736
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 341,
+        "y": 28,
+        "w": 336,
+        "h": 736
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 768
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "animations": {
+    "player1_foresight_cut": [
+      "player1_foresight_cut-000.png",
+      "player1_foresight_cut-001.png",
+      "player1_foresight_cut-002.png",
+      "player1_foresight_cut-003.png",
+      "player1_foresight_cut-004.png",
+      "player1_foresight_cut-005.png",
+      "player1_foresight_cut-006.png",
+      "player1_foresight_cut-007.png",
+      "player1_foresight_cut-008.png",
+      "player1_foresight_cut-009.png",
+      "player1_foresight_cut-010.png",
+      "player1_foresight_cut-011.png",
+      "player1_foresight_cut-012.png",
+      "player1_foresight_cut-013.png",
+      "player1_foresight_cut-014.png",
+      "player1_foresight_cut-015.png",
+      "player1_foresight_cut-016.png",
+      "player1_foresight_cut-017.png",
+      "player1_foresight_cut-018.png",
+      "player1_foresight_cut-019.png",
+      "player1_foresight_cut-020.png",
+      "player1_foresight_cut-021.png",
+      "player1_foresight_cut-022.png",
+      "player1_foresight_cut-023.png",
+      "player1_foresight_cut-024.png",
+      "player1_foresight_cut-025.png",
+      "player1_foresight_cut-026.png",
+      "player1_foresight_cut-027.png",
+      "player1_foresight_cut-028.png",
+      "player1_foresight_cut-029.png",
+      "player1_foresight_cut-030.png",
+      "player1_foresight_cut-031.png",
+      "player1_foresight_cut-032.png",
+      "player1_foresight_cut-033.png",
+      "player1_foresight_cut-034.png",
+      "player1_foresight_cut-035.png",
+      "player1_foresight_cut-036.png",
+      "player1_foresight_cut-037.png",
+      "player1_foresight_cut-038.png",
+      "player1_foresight_cut-039.png",
+      "player1_foresight_cut-040.png",
+      "player1_foresight_cut-041.png",
+      "player1_foresight_cut-042.png",
+      "player1_foresight_cut-043.png",
+      "player1_foresight_cut-044.png",
+      "player1_foresight_cut-045.png",
+      "player1_foresight_cut-046.png",
+      "player1_foresight_cut-047.png",
+      "player1_foresight_cut-048.png",
+      "player1_foresight_cut-049.png",
+      "player1_foresight_cut-050.png",
+      "player1_foresight_cut-051.png",
+      "player1_foresight_cut-052.png",
+      "player1_foresight_cut-053.png",
+      "player1_foresight_cut-054.png",
+      "player1_foresight_cut-055.png",
+      "player1_foresight_cut-056.png",
+      "player1_foresight_cut-057.png",
+      "player1_foresight_cut-058.png",
+      "player1_foresight_cut-059.png",
+      "player1_foresight_cut-060.png",
+      "player1_foresight_cut-061.png",
+      "player1_foresight_cut-062.png",
+      "player1_foresight_cut-063.png",
+      "player1_foresight_cut-064.png",
+      "player1_foresight_cut-065.png",
+      "player1_foresight_cut-066.png",
+      "player1_foresight_cut-067.png",
+      "player1_foresight_cut-068.png",
+      "player1_foresight_cut-069.png",
+      "player1_foresight_cut-070.png",
+      "player1_foresight_cut-071.png",
+      "player1_foresight_cut-072.png",
+      "player1_foresight_cut-073.png",
+      "player1_foresight_cut-074.png",
+      "player1_foresight_cut-075.png",
+      "player1_foresight_cut-076.png",
+      "player1_foresight_cut-077.png",
+      "player1_foresight_cut-078.png",
+      "player1_foresight_cut-079.png"
+    ]
+  },
+  "meta": {
+    "app": "AIJAMATOM2 frame collector + ninja-recast packer",
+    "image": "player1_foresight_cut.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4079,
+      "h": 9059
+    },
+    "scale": "1",
+    "fps": 20,
+    "sourceSize": {
+      "w": 1024,
+      "h": 768
+    }
+  }
+}

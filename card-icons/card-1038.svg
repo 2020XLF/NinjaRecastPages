@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs><filter id="ds" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#000" flood-opacity=".8"/></filter></defs>
+<rect width="128" height="128" fill="#090a0d"/>
+<path d="M20 18h72l18 18v74H36L18 92V20z" fill="#14171c" stroke="#f2f0e8" stroke-width="3" opacity=".92"/>
+<path d="M27 27h35M96 43v34M39 101h43" fill="none" stroke="#72ff9f" stroke-width="3" stroke-linecap="square" opacity=".78"/>
+<g filter="url(#ds)" fill="#f7f4ea" stroke="#050608" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"><path d="M22 85c24-48 57-61 94-46" fill="none" stroke="#f7f4ea" stroke-width="10"/><circle cx="22" cy="85" r="8"/><circle cx="116" cy="39" r="8"/><path d="M52 76l31-53" fill="none" stroke="#f7f4ea" stroke-width="7"/><path d="M65 18c22 30 35 50 35 68 0 19-16 31-35 31S30 105 30 86c0-18 13-38 35-68z"/><circle cx="54" cy="83" r="7" fill="#090a0d" stroke="none"/><circle cx="78" cy="72" r="5" fill="#090a0d" stroke="none"/></g>
+<path d="M90 21h18v5H95v13h-5zM20 107h20v-5H25V88h-5z" fill="#72ff9f" opacity=".8"/>
+</svg>
